@@ -55,7 +55,7 @@
             Модель ({{models.length}}) <br><br>
             <div class="list__item" :class="{active: item === currentModel}" v-for="(item, index) in models"
                  :key="index" @click="getYears(item)">
-                {{ item }}
+                {{ item[0] }}
             </div>
         </div>
         <div class="years" v-if="model[0]">
