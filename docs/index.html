@@ -90,7 +90,7 @@
             }
         },
         async mounted() {
-            const cars3 = await fetch('cars4.json')
+            const cars3 = await fetch('cars3.json')
             const array = await cars3.json()
             this.base = array
             this.makes = Object.keys(array)
