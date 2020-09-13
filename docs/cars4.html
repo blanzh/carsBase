@@ -62,7 +62,7 @@
 </div>
 <script src="https://cdn.jsdelivr.net/npm/vue"></script>
 <script>
-    var app = new Vue({
+    new Vue({
         el: '#app',
         data: {
             base: {},
@@ -70,26 +70,22 @@
             models: [],
             model: [],
             currentMake: "",
-            currentModel: ""
+            currentModel: "",
         },
         methods: {
-            choose: function choose(item) {
-                this.currentMake = item;
-                this.model = [];
-                this.models = this.base[item];
-            },
-            getYears: function getYears(item) {
-                this.currentModel = item;
-                this.model = item;
+            choose(item) {
+                this.currentMake = item
+                this.model = []
+                this.models = this.base[item]
             }
         },
-        mounted: async function mounted() {
-            var cars3 = await fetch('cars3.json');
-            var array = await cars3.json();
-            this.base = array;
-            this.makes = Object.keys(array);
+        async mounted() {
+            const cars4 = await fetch('cars4.json')
+            const array = await cars4.json()
+            this.base = array
+            this.makes = Object.keys(array)
         }
-    });
+    })
 </script>
 </body>
 </html>
