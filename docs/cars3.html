@@ -76,26 +76,26 @@
             models: [],
             model: [],
             currentMake: "",
-            currentModel: "",
+            currentModel: ""
         },
         methods: {
-            choose(item) {
-                this.currentMake = item
-                this.model = []
-                this.models = this.base[item]
+            choose: function choose(item) {
+                this.currentMake = item;
+                this.model = [];
+                this.models = this.base[item];
             },
-            getYears(item) {
-                this.currentModel = item
-                this.model = item
+            getYears: function getYears(item) {
+                this.currentModel = item;
+                this.model = item;
             }
         },
-        async mounted() {
-            const cars3 = await fetch('cars3.json')
-            const array = await cars3.json()
-            this.base = array
-            this.makes = Object.keys(array)
+        mounted: async function mounted() {
+            var cars3 = await fetch('cars3.json');
+            var array = await cars3.json();
+            this.base = array;
+            this.makes = Object.keys(array);
         }
-    })
+    });
 </script>
 </body>
 </html>
