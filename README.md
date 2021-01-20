@@ -10,6 +10,8 @@ _База обновляется_
 Коммерческий и мото транспорт с частым обновлением (1-2 раза в неделю)  
 свяжитесь со мной в телеграме https://t.me/gulpsun
 
+|#|name|id|group|
+|---|---|---|---|
 |1|[Легковой](https://auto.ru/cars/all/) (275+)|`cars`|`cars`|
 |2|[Сельскохозяйственный](https://auto.ru/agricultural/all/) (180+)|`agricultural`|`commercial`|
 |3|[Седельный тягач](https://auto.ru/artic/all/) (58+)|`artic`|`commercial`|
