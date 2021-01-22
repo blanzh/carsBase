@@ -1,6 +1,6 @@
-# carsBase
+# База данных автомобилей JSON
 
-**cars.json** - база данных марок и моделей легковых автомобилей с https://auto.ru/cars/all/  
+**cars.json** - бесплатная база данных марок и моделей легковых автомобилей с https://auto.ru/cars/all/  
 [Демо базы](https://blanzh.github.io/carsBase/)
 
 _База обновляется_
