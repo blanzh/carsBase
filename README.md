@@ -33,4 +33,5 @@ _База обновляется_
 Всего марок: **3073**  
 Всего моделей: **16338**
 
-[Демо полной базы](https://blanzh.github.io/carsBase/demo_private.zip)
+[Демо полной базы](https://blanzh.github.io/carsBase/demo_private.zip)  
+_В этой базе данные представлены для ознакомления со структурой_
