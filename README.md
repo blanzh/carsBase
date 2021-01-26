@@ -8,7 +8,7 @@ _База обновляется_
 Коммерческий и мото транспорт с частым обновлением   
 для получения свяжитесь со мной в телеграме https://t.me/gulpsun или по почте gulpsun@gmail.com
 
-### Обновление от 2021-1-25 12:43:12
+### Обновление от 2021-1-26 18:02:52
 |#|name|id|group|
 |---|---|---|---|
 |1|[Легковой](https://auto.ru/cars/all/) (275)|`cars`|`cars`|
@@ -26,12 +26,12 @@ _База обновляется_
 |13|[Прицеп](https://auto.ru/trailer/all/) (716)|`trailer`|`commercial`|
 |14|[Грузовик](https://auto.ru/truck/all/) (102)|`truck`|`commercial`|
 |15|[Мотовездеход](https://auto.ru/atv/all/) (229)|`atv`|`moto`|
-|16|[Мотоцикл](https://auto.ru/motorcycle/all/) (282)|`motorcycle`|`moto`|
+|16|[Мотоцикл](https://auto.ru/motorcycle/all/) (283)|`motorcycle`|`moto`|
 |17|[Скутер](https://auto.ru/scooters/all/) (129)|`scooters`|`moto`|
 |18|[Снегоход](https://auto.ru/snowmobile/all/) (54)|`snowmobile`|`moto`|
 
-Всего марок: **3073**  
-Всего моделей: **16339**
+Всего марок: **3074**  
+Всего моделей: **16344**
 
 
 [Демо полной базы](https://blanzh.github.io/carsBase/demo_private.zip)  
