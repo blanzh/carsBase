@@ -129,6 +129,7 @@ Audi;A8
 Audi;Cabriolet
 Audi;Coupe
 Audi;e-tron
+Audi;e-tron GT
 Audi;e-tron S
 Audi;e-tron S Sportback
 Audi;e-tron Sportback
@@ -149,6 +150,7 @@ Audi;RS 4
 Audi;RS 5
 Audi;RS 6
 Audi;RS 7
+Audi;RS e-tron GT
 Audi;RS Q3
 Audi;RS Q3 Sportback
 Audi;RS Q8
@@ -1761,6 +1763,7 @@ McLaren;600LT
 McLaren;650S
 McLaren;675LT
 McLaren;720S
+McLaren;Artura
 McLaren;F1
 McLaren;GT
 McLaren;MP4-12C
@@ -1771,6 +1774,7 @@ Mega;Monte Carlo
 Mega;Track
 Mercedes-Benz;190 (W201)
 Mercedes-Benz;190 SL
+Mercedes-Benz;220 (W187)
 Mercedes-Benz;A-Класс
 Mercedes-Benz;A-Класс AMG
 Mercedes-Benz;AMG GT
