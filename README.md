@@ -10,7 +10,7 @@ _База обновляется_
 для получения свяжитесь со мной в телеграме https://t.me/gulpsun или по почте gulpsun@gmail.com  
 с пометкой "Коммерческий и мото транспорт"
 
-### Обновление от 25.02.2021
+### Обновление от 02.03.2021
 |#|name|id|group|
 |---|---|---|---|
 |1|[Легковой](https://auto.ru/cars/all/) (277)|`cars`|`cars`|
@@ -19,11 +19,11 @@ _База обновляется_
 |4|[Автопогрузчик](https://auto.ru/autoloader/all/) (218)|`autoloader`|`commercial`|
 |5|[Бульдозер](https://auto.ru/bulldozers/all/) (43)|`bulldozers`|`commercial`|
 |6|[Автобус](https://auto.ru/bus/all/) (105)|`bus`|`commercial`|
-|7|[Строительная](https://auto.ru/construction/all/) (261)|`construction`|`commercial`|
+|7|[Строительная](https://auto.ru/construction/all/) (262)|`construction`|`commercial`|
 |8|[Автокран](https://auto.ru/crane/all/) (63)|`crane`|`commercial`|
 |9|[Экскаватор](https://auto.ru/dredge/all/) (126)|`dredge`|`commercial`|
 |10|[Легкий коммерческий](https://auto.ru/lcv/all/) (86)|`lcv`|`commercial`|
-|11|[Коммунальная](https://auto.ru/municipal/all/) (133)|`municipal`|`commercial`|
+|11|[Коммунальная](https://auto.ru/municipal/all/) (134)|`municipal`|`commercial`|
 |12|[Съемный кузов](https://auto.ru/swap_body/all/) (15)|`swap_body`|`commercial`|
 |13|[Прицеп](https://auto.ru/trailer/all/) (719)|`trailer`|`commercial`|
 |14|[Грузовик](https://auto.ru/truck/all/) (102)|`truck`|`commercial`|
@@ -32,8 +32,8 @@ _База обновляется_
 |17|[Скутер](https://auto.ru/scooters/all/) (130)|`scooters`|`moto`|
 |18|[Снегоход](https://auto.ru/snowmobile/all/) (54)|`snowmobile`|`moto`|
 
-Всего марок: **3084**  
-Всего моделей: **16437**
+Всего марок: **3086**  
+Всего моделей: **16445**
 
 
 [Демо полной базы](https://blanzh.github.io/carsBase/demo_private.zip)  

@@ -993,6 +993,7 @@ Ford;Torino
 Ford;Tourneo Connect
 Ford;Tourneo Courier
 Ford;Tourneo Custom
+Ford;Transit Connect
 Ford;V8
 Ford;Windstar
 Ford;Zephyr
@@ -1248,6 +1249,7 @@ Hyundai;i30
 Hyundai;i30 N
 Hyundai;i40
 Hyundai;IONIQ
+Hyundai;IONIQ 5
 Hyundai;ix20
 Hyundai;ix35
 Hyundai;ix55
@@ -1292,6 +1294,7 @@ Infiniti;Q70
 Infiniti;QX30
 Infiniti;QX4
 Infiniti;QX50
+Infiniti;QX55
 Infiniti;QX56
 Infiniti;QX60
 Infiniti;QX70
@@ -3135,6 +3138,7 @@ ZX;Landmark
 Гоночный автомобиль;Дрифт-кар
 Гоночный автомобиль;Спортпрототип
 Гоночный автомобиль;Формула
+Гоночный автомобиль;Хот-род и Кастом
 ЗАЗ;1102 «Таврия»
 ЗАЗ;1103 «Славута»
 ЗАЗ;1105 «Дана»
