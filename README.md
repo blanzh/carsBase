@@ -22,18 +22,18 @@ _База обновляется_
 |7|[Строительная](https://auto.ru/construction/all/) (262)|`construction`|`commercial`|
 |8|[Автокран](https://auto.ru/crane/all/) (63)|`crane`|`commercial`|
 |9|[Экскаватор](https://auto.ru/dredge/all/) (126)|`dredge`|`commercial`|
-|10|[Легкий коммерческий](https://auto.ru/lcv/all/) (86)|`lcv`|`commercial`|
+|10|[Легкий коммерческий](https://auto.ru/lcv/all/) (87)|`lcv`|`commercial`|
 |11|[Коммунальная](https://auto.ru/municipal/all/) (134)|`municipal`|`commercial`|
-|12|[Съемный кузов](https://auto.ru/swap_body/all/) (15)|`swap_body`|`commercial`|
-|13|[Прицеп](https://auto.ru/trailer/all/) (719)|`trailer`|`commercial`|
+|12|[Съемный кузов](https://auto.ru/swap_body/all/) (14)|`swap_body`|`commercial`|
+|13|[Прицеп](https://auto.ru/trailer/all/) (718)|`trailer`|`commercial`|
 |14|[Грузовик](https://auto.ru/truck/all/) (102)|`truck`|`commercial`|
 |15|[Мотовездеход](https://auto.ru/atv/all/) (230)|`atv`|`moto`|
 |16|[Мотоцикл](https://auto.ru/motorcycle/all/) (284)|`motorcycle`|`moto`|
 |17|[Скутер](https://auto.ru/scooters/all/) (130)|`scooters`|`moto`|
 |18|[Снегоход](https://auto.ru/snowmobile/all/) (54)|`snowmobile`|`moto`|
 
-Всего марок: **3086**  
-Всего моделей: **16445**
+Всего марок: **3085**  
+Всего моделей: **16452**
 
 
 [Демо полной базы](https://blanzh.github.io/carsBase/demo_private.zip)  
