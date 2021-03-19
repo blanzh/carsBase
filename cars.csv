@@ -593,6 +593,9 @@ Citroen;ZX
 Cizeta;V16t
 Coggiola;T Rex
 Cord;L-29
+Cupra;Ateca
+Cupra;Formentor
+Cupra;Leon
 Dacia;1300
 Dacia;1310
 Dacia;1325
@@ -1482,6 +1485,7 @@ LADA (ВАЗ);Granta
 LADA (ВАЗ);Kalina
 LADA (ВАЗ);Largus
 LADA (ВАЗ);Niva
+LADA (ВАЗ);Niva Legend
 LADA (ВАЗ);Priora
 LADA (ВАЗ);Revolution
 LADA (ВАЗ);Vesta
@@ -3009,6 +3013,7 @@ Volkswagen;Sharan
 Volkswagen;T-Cross
 Volkswagen;T-Roc
 Volkswagen;T-Roc R
+Volkswagen;Taos
 Volkswagen;Taro
 Volkswagen;Teramont
 Volkswagen;Tiguan
@@ -3117,6 +3122,8 @@ ZX;Landmark
 ГАЗ;2330 «Тигр»
 ГАЗ;24 «Волга»
 ГАЗ;3102 «Волга»
+ГАЗ;31022 «Волга»
+ГАЗ;310221 «Волга»
 ГАЗ;31029 «Волга»
 ГАЗ;3103 «Волга»
 ГАЗ;3105 «Волга»
@@ -3137,6 +3144,7 @@ ZX;Landmark
 Гоночный автомобиль;Offroad
 Гоночный автомобиль;Драгстер
 Гоночный автомобиль;Дрифт-кар
+Гоночный автомобиль;Реплики и Самоделки
 Гоночный автомобиль;Спортпрототип
 Гоночный автомобиль;Формула
 Гоночный автомобиль;Хот-род и Кастом
