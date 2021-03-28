@@ -10,7 +10,7 @@ _База обновляется_
 для получения свяжитесь со мной в телеграме https://t.me/gulpsun или по почте gulpsun@gmail.com  
 с пометкой "Коммерческий и мото транспорт"
 
-### Обновление от 28.03.2021
+### Обновление от 29.03.2021
 |#|name|id|group|
 |---|---|---|---|
 |1|[Легковой](https://auto.ru/cars/all/) (278)|`cars`|`cars`|
@@ -25,15 +25,15 @@ _База обновляется_
 |10|[Легкий коммерческий](https://auto.ru/lcv/all/) (87)|`lcv`|`commercial`|
 |11|[Коммунальная](https://auto.ru/municipal/all/) (135)|`municipal`|`commercial`|
 |12|[Съемный кузов](https://auto.ru/swap_body/all/) (14)|`swap_body`|`commercial`|
-|13|[Прицеп](https://auto.ru/trailer/all/) (718)|`trailer`|`commercial`|
+|13|[Прицеп](https://auto.ru/trailer/all/) (720)|`trailer`|`commercial`|
 |14|[Грузовик](https://auto.ru/truck/all/) (102)|`truck`|`commercial`|
 |15|[Мотовездеход](https://auto.ru/atv/all/) (231)|`atv`|`moto`|
 |16|[Мотоцикл](https://auto.ru/motorcycle/all/) (284)|`motorcycle`|`moto`|
 |17|[Скутер](https://auto.ru/scooters/all/) (130)|`scooters`|`moto`|
 |18|[Снегоход](https://auto.ru/snowmobile/all/) (54)|`snowmobile`|`moto`|
 
-Всего марок: **3090**  
-Всего моделей: **16482**
+Всего марок: **3092**  
+Всего моделей: **16498**
 
 
 [Демо полной базы](https://blanzh.github.io/carsBase/demo_private.zip)  
