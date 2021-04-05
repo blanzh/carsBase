@@ -172,7 +172,7 @@ Audi;TT RS
 Audi;TTS
 Audi;Typ R
 Audi;V8
-Aurus;Senat
+AURUS;Senat
 Austin;Allegro
 Austin;Ambassador
 Austin;FL2
@@ -437,6 +437,7 @@ Chevrolet;C/K
 Chevrolet;Camaro
 Chevrolet;Caprice
 Chevrolet;Captiva
+Chevrolet;Captiva Sport
 Chevrolet;Cavalier
 Chevrolet;Celebrity
 Chevrolet;Celta
@@ -608,6 +609,7 @@ Dacia;Nova
 Dacia;Pick-Up
 Dacia;Sandero
 Dacia;Solenza
+Dacia;Spring
 Dacia;SuperNova
 Dadi;City Leading
 Dadi;Shuttle
@@ -1407,6 +1409,7 @@ Kia;Clarus
 Kia;Concord
 Kia;Elan
 Kia;Enterprise
+Kia;EV6
 Kia;Forte
 Kia;Joice
 Kia;K3
@@ -3140,14 +3143,6 @@ ZX;Landmark
 ГАЗ;М-20 «Победа»
 ГАЗ;М-72
 ГАЗ;М1
-Гоночный автомобиль;GT & Touring
-Гоночный автомобиль;Offroad
-Гоночный автомобиль;Драгстер
-Гоночный автомобиль;Дрифт-кар
-Гоночный автомобиль;Реплики и Самоделки
-Гоночный автомобиль;Спортпрототип
-Гоночный автомобиль;Формула
-Гоночный автомобиль;Хот-род и Кастом
 ЗАЗ;1102 «Таврия»
 ЗАЗ;1103 «Славута»
 ЗАЗ;1105 «Дана»
@@ -3203,6 +3198,14 @@ ZX;Landmark
 Москвич;Юрий Долгорукий
 СМЗ;С-3А
 СМЗ;С-3Д
+Спортивные авто и Реплики;GT & Touring
+Спортивные авто и Реплики;Offroad
+Спортивные авто и Реплики;Драгстер
+Спортивные авто и Реплики;Дрифт-кар
+Спортивные авто и Реплики;Реплики и Самоделки
+Спортивные авто и Реплики;Спортпрототип
+Спортивные авто и Реплики;Формула
+Спортивные авто и Реплики;Хот-род и Кастом
 ТагАЗ;Aquila
 ТагАЗ;C-30
 ТагАЗ;C10
