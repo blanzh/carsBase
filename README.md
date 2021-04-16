@@ -12,30 +12,30 @@ _База обновляется_
 для получения свяжитесь со мной в телеграме https://t.me/gulpsun или по почте gulpsun@gmail.com  
 с пометкой "Коммерческий и мото транспорт"
 
-### Обновление от 06.04.2021
+### Обновление от 16.04.2021
 |#|name|id|group|
 |---|---|---|---|
 |1|[Легковой](https://auto.ru/cars/all/) (278)|`cars`|`cars`|
 |2|[Сельскохозяйственный](https://auto.ru/agricultural/all/) (181)|`agricultural`|`commercial`|
-|3|[Седельный тягач](https://auto.ru/artic/all/) (58)|`artic`|`commercial`|
+|3|[Седельный тягач](https://auto.ru/artic/all/) (59)|`artic`|`commercial`|
 |4|[Автопогрузчик](https://auto.ru/autoloader/all/) (220)|`autoloader`|`commercial`|
 |5|[Бульдозер](https://auto.ru/bulldozers/all/) (43)|`bulldozers`|`commercial`|
-|6|[Автобус](https://auto.ru/bus/all/) (105)|`bus`|`commercial`|
-|7|[Строительная](https://auto.ru/construction/all/) (262)|`construction`|`commercial`|
+|6|[Автобус](https://auto.ru/bus/all/) (106)|`bus`|`commercial`|
+|7|[Строительная](https://auto.ru/construction/all/) (263)|`construction`|`commercial`|
 |8|[Автокран](https://auto.ru/crane/all/) (63)|`crane`|`commercial`|
 |9|[Экскаватор](https://auto.ru/dredge/all/) (127)|`dredge`|`commercial`|
-|10|[Легкий коммерческий](https://auto.ru/lcv/all/) (87)|`lcv`|`commercial`|
+|10|[Легкий коммерческий](https://auto.ru/lcv/all/) (88)|`lcv`|`commercial`|
 |11|[Коммунальная](https://auto.ru/municipal/all/) (135)|`municipal`|`commercial`|
 |12|[Съемный кузов](https://auto.ru/swap_body/all/) (14)|`swap_body`|`commercial`|
-|13|[Прицеп](https://auto.ru/trailer/all/) (722)|`trailer`|`commercial`|
+|13|[Прицеп](https://auto.ru/trailer/all/) (725)|`trailer`|`commercial`|
 |14|[Грузовик](https://auto.ru/truck/all/) (102)|`truck`|`commercial`|
-|15|[Мотовездеход](https://auto.ru/atv/all/) (231)|`atv`|`moto`|
+|15|[Мотовездеход](https://auto.ru/atv/all/) (232)|`atv`|`moto`|
 |16|[Мотоцикл](https://auto.ru/motorcycle/all/) (284)|`motorcycle`|`moto`|
 |17|[Скутер](https://auto.ru/scooters/all/) (130)|`scooters`|`moto`|
 |18|[Снегоход](https://auto.ru/snowmobile/all/) (54)|`snowmobile`|`moto`|
 
-Всего марок: **3096**  
-Всего моделей: **16529**
+Всего марок: **3104**  
+Всего моделей: **16553**
 
 
 [Демо полной базы](https://blanzh.github.io/carsBase/demo_private.zip)  
@@ -61,8 +61,8 @@ _В этой базе данные представлены для ознако�
 |BMW|3 серии|VII (G2x)|2018 – н.в.|Седан|2.0 AT|184 л.c. 4x4|бензин|320i xDrive M Sport Pro|343b7122e|
 |BMW|3 серии|VII (G2x)|2018 – н.в.|Седан|2.0 AT|258 л.c.|бензин|330i Dark Shadow SE|343b7122e|
 
-Всего модификаций: **72175**  
-Всего фотографий: **9908**
+Всего модификаций: **72379**  
+Всего фотографий: **9928**
 
 ![Автомобильная база скачать CSV](https://blanzh.github.io/carsBase/cars.jpg)
 
