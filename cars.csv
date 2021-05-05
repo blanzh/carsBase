@@ -137,6 +137,8 @@ Audi;NSU RO 80
 Audi;Q2
 Audi;Q3
 Audi;Q3 Sportback
+Audi;Q4 e-tron
+Audi;Q4 Sportback e-tron
 Audi;Q5
 Audi;Q5 Sportback
 Audi;Q7
@@ -769,6 +771,7 @@ Dodge;Omni
 Dodge;Polara
 Dodge;Raider
 Dodge;RAM
+Dodge;RAM Van
 Dodge;Ramcharger
 Dodge;Shadow
 Dodge;Spirit
@@ -1231,6 +1234,7 @@ Hyundai;Aslan
 Hyundai;Atos
 Hyundai;Avante
 Hyundai;Azera
+Hyundai;Bayon
 Hyundai;Centennial
 Hyundai;Click
 Hyundai;Coupe
