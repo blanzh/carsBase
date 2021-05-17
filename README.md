@@ -12,7 +12,7 @@ _База обновляется_
 для получения свяжитесь со мной в телеграме https://t.me/gulpsun или по почте gulpsun@gmail.com  
 с пометкой "Коммерческий и мото транспорт"
 
-### Обновление от 07.05.2021
+### Обновление от 17.05.2021
 |#|name|id|group|
 |---|---|---|---|
 |1|[Легковой](https://auto.ru/cars/all/) (278)|`cars`|`cars`|
@@ -21,21 +21,21 @@ _База обновляется_
 |4|[Автопогрузчик](https://auto.ru/autoloader/all/) (223)|`autoloader`|`commercial`|
 |5|[Бульдозер](https://auto.ru/bulldozers/all/) (43)|`bulldozers`|`commercial`|
 |6|[Автобус](https://auto.ru/bus/all/) (106)|`bus`|`commercial`|
-|7|[Строительная](https://auto.ru/construction/all/) (263)|`construction`|`commercial`|
+|7|[Строительная](https://auto.ru/construction/all/) (264)|`construction`|`commercial`|
 |8|[Автокран](https://auto.ru/crane/all/) (63)|`crane`|`commercial`|
 |9|[Экскаватор](https://auto.ru/dredge/all/) (128)|`dredge`|`commercial`|
 |10|[Легкий коммерческий](https://auto.ru/lcv/all/) (88)|`lcv`|`commercial`|
 |11|[Коммунальная](https://auto.ru/municipal/all/) (135)|`municipal`|`commercial`|
 |12|[Съемный кузов](https://auto.ru/swap_body/all/) (14)|`swap_body`|`commercial`|
-|13|[Прицеп](https://auto.ru/trailer/all/) (726)|`trailer`|`commercial`|
+|13|[Прицеп](https://auto.ru/trailer/all/) (728)|`trailer`|`commercial`|
 |14|[Грузовик](https://auto.ru/truck/all/) (102)|`truck`|`commercial`|
-|15|[Мотовездеход](https://auto.ru/atv/all/) (233)|`atv`|`moto`|
-|16|[Мотоцикл](https://auto.ru/motorcycle/all/) (284)|`motorcycle`|`moto`|
+|15|[Мотовездеход](https://auto.ru/atv/all/) (234)|`atv`|`moto`|
+|16|[Мотоцикл](https://auto.ru/motorcycle/all/) (285)|`motorcycle`|`moto`|
 |17|[Скутер](https://auto.ru/scooters/all/) (130)|`scooters`|`moto`|
 |18|[Снегоход](https://auto.ru/snowmobile/all/) (54)|`snowmobile`|`moto`|
 
-Всего марок: **3110**  
-Всего моделей: **16646**
+Всего марок: **3115**  
+Всего моделей: **16658**
 
 
 [Демо полной базы](https://blanzh.github.io/carsBase/demo_private.zip)  
@@ -61,8 +61,8 @@ _В этой базе данные представлены для ознако�
 |BMW|3 серии|VII (G2x)|2018 – н.в.|Седан|2.0 AT|184 л.c. 4x4|бензин|320i xDrive M Sport Pro|343b7122e|
 |BMW|3 серии|VII (G2x)|2018 – н.в.|Седан|2.0 AT|258 л.c.|бензин|330i Dark Shadow SE|343b7122e|
 
-Всего модификаций: **72528**  
-Всего фотографий: **9944**
+Всего модификаций: **72684**  
+Всего фотографий: **9957**
 
 ![Автомобильная база скачать CSV](https://blanzh.github.io/carsBase/cars.jpg)
 
