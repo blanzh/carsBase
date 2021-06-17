@@ -251,6 +251,7 @@ BMW;E3
 BMW;E9
 BMW;i3
 BMW;i8
+BMW;iX
 BMW;iX3
 BMW;M2
 BMW;M3
@@ -1153,6 +1154,7 @@ Honda;City
 Honda;Civic
 Honda;Civic Ferio
 Honda;Civic Type R
+Honda;Clarity
 Honda;Concerto
 Honda;CR-V
 Honda;CR-X
@@ -1164,7 +1166,6 @@ Honda;e
 Honda;Edix
 Honda;Element
 Honda;Elysion
-Honda;FCX Clarity
 Honda;Fit
 Honda;Fit Aria
 Honda;Fit Shuttle
@@ -1341,6 +1342,7 @@ Isuzu;Gemini
 Isuzu;Hombre
 Isuzu;Impulse
 Isuzu;KB
+Isuzu;Midi
 Isuzu;MU
 Isuzu;MU-7
 Isuzu;MU-X
@@ -2732,6 +2734,7 @@ Tatra;57
 Tatra;77
 Tatra;80
 Tatra;87
+Tatra;T600
 Tatra;T603
 Tatra;T613
 Tatra;T700
