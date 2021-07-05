@@ -945,6 +945,7 @@ Ford;Expedition
 Ford;Explorer
 Ford;Explorer Sport Trac
 Ford;F-150
+Ford;F-2
 Ford;Fairlane
 Ford;Fairmont
 Ford;Falcon
@@ -1017,6 +1018,7 @@ FSO;126p
 FSO;127p
 FSO;132p
 FSO;Polonez
+FSO;Warszawa
 Fuqi;6500 (Land King)
 GAC;GN8
 GAC;GS5
@@ -1282,6 +1284,7 @@ Hyundai;Scoupe
 Hyundai;Solaris
 Hyundai;Sonata
 Hyundai;Starex
+Hyundai;Staria
 Hyundai;Stellar
 Hyundai;Terracan
 Hyundai;Tiburon
@@ -3062,6 +3065,7 @@ Volvo;850
 Volvo;940
 Volvo;960
 Volvo;C30
+Volvo;C40
 Volvo;C70
 Volvo;Laplander
 Volvo;P1800
@@ -3176,7 +3180,9 @@ ZX;Landmark
 ИЖ;2125 «Комби»
 ИЖ;2126 «Ода»
 ИЖ;21261 «Фабула»
+ИЖ;2715
 ИЖ;2717
+ИЖ;27175
 ИЖ;Москвич-412
 Канонир;2317
 Комбат;Т98

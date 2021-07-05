@@ -1118,6 +1118,7 @@
    "Explorer",
    "Explorer Sport Trac",
    "F-150",
+   "F-2",
    "Fairlane",
    "Fairmont",
    "Falcon",
@@ -1193,7 +1194,8 @@
    "126p",
    "127p",
    "132p",
-   "Polonez"
+   "Polonez",
+   "Warszawa"
   ],
   "Fuqi": [
    "6500 (Land King)"
@@ -1511,6 +1513,7 @@
    "Solaris",
    "Sonata",
    "Starex",
+   "Staria",
    "Stellar",
    "Terracan",
    "Tiburon",
@@ -3557,6 +3560,7 @@
    "940",
    "960",
    "C30",
+   "C40",
    "C70",
    "Laplander",
    "P1800",
@@ -3717,7 +3721,9 @@
    "2125 «Комби»",
    "2126 «Ода»",
    "21261 «Фабула»",
+   "2715",
    "2717",
+   "27175",
    "Москвич-412"
   ],
   "Канонир": [
