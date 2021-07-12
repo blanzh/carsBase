@@ -19,7 +19,7 @@ _База обновляется_
 |1|[Легковой](https://auto.ru/cars/all/) (278)|`cars`|`cars`|
 |2|[Сельскохозяйственный](https://auto.ru/agricultural/all/) (182)|`agricultural`|`commercial`|
 |3|[Седельный тягач](https://auto.ru/artic/all/) (59)|`artic`|`commercial`|
-|4|[Автопогрузчик](https://auto.ru/autoloader/all/) (226)|`autoloader`|`commercial`|
+|4|[Автопогрузчик](https://auto.ru/autoloader/all/) (227)|`autoloader`|`commercial`|
 |5|[Бульдозер](https://auto.ru/bulldozers/all/) (44)|`bulldozers`|`commercial`|
 |6|[Автобус](https://auto.ru/bus/all/) (106)|`bus`|`commercial`|
 |7|[Строительная](https://auto.ru/construction/all/) (269)|`construction`|`commercial`|
@@ -30,13 +30,13 @@ _База обновляется_
 |12|[Съемный кузов](https://auto.ru/swap_body/all/) (14)|`swap_body`|`commercial`|
 |13|[Прицеп](https://auto.ru/trailer/all/) (732)|`trailer`|`commercial`|
 |14|[Грузовик](https://auto.ru/truck/all/) (103)|`truck`|`commercial`|
-|15|[Мотовездеход](https://auto.ru/atv/all/) (235)|`atv`|`moto`|
+|15|[Мотовездеход](https://auto.ru/atv/all/) (236)|`atv`|`moto`|
 |16|[Мотоцикл](https://auto.ru/motorcycle/all/) (286)|`motorcycle`|`moto`|
 |17|[Скутер](https://auto.ru/scooters/all/) (130)|`scooters`|`moto`|
 |18|[Снегоход](https://auto.ru/snowmobile/all/) (54)|`snowmobile`|`moto`|
 
-Всего марок: **3132**  
-Всего моделей: **16768**
+Всего марок: **3134**  
+Всего моделей: **16779**
 
 
 [Демо полной базы](https://blanzh.github.io/carsBase/demo_private.zip)  
