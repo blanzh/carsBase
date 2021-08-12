@@ -116,7 +116,8 @@
   "Asia": [
    "Retona",
    "Rocsta",
-   "Topic"
+   "Topic",
+   "Towner"
   ],
   "Aston Martin": [
    "Bulldog",
@@ -419,7 +420,8 @@
    "L3",
    "M6",
    "S6",
-   "Song EV"
+   "Song EV",
+   "Yuan"
   ],
   "Byvin": [
    "BD132J (CoCo)",
@@ -474,6 +476,7 @@
   "Changan": [
    "Alsvin V7",
    "Benni",
+   "Benni EC/EV",
    "CM-8",
    "CS35",
    "CS35PLUS",
@@ -791,6 +794,7 @@
    "Feroza",
    "Gran Move",
    "Hijet",
+   "Hijet Caddie",
    "Leeza",
    "Materia",
    "MAX",
@@ -994,6 +998,7 @@
   ],
   "Ferrari": [
    "250 GTO",
+   "296 GTB",
    "328",
    "348",
    "360",
@@ -2783,13 +2788,15 @@
    "GTE"
   ],
   "Qoros": [
-   "3"
+   "3",
+   "5"
   ],
   "Qvale": [
    "Mangusta"
   ],
   "RAM": [
-   "1500"
+   "1500",
+   "ProMaster City"
   ],
   "Rambler": [
    "Ambassador"
@@ -3482,6 +3489,7 @@
    "181",
    "Amarok",
    "Arteon",
+   "Arteon R",
    "Atlas",
    "Atlas Cross Sport",
    "Beetle",
@@ -3534,6 +3542,7 @@
    "Taro",
    "Teramont",
    "Tiguan",
+   "Tiguan R",
    "Touareg",
    "Touran",
    "Transporter",
@@ -3771,8 +3780,10 @@
    "Юрий Долгорукий"
   ],
   "СМЗ": [
+   "С-1Л",
    "С-3А",
-   "С-3Д"
+   "С-3Д",
+   "С-3Л"
   ],
   "Спортивные авто и Реплики": [
    "GT & Touring",

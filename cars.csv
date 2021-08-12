@@ -90,6 +90,7 @@ Aro;24
 Asia;Retona
 Asia;Rocsta
 Asia;Topic
+Asia;Towner
 Aston Martin;Bulldog
 Aston Martin;Cygnet
 Aston Martin;DB AR1
@@ -343,6 +344,7 @@ BYD;L3
 BYD;M6
 BYD;S6
 BYD;Song EV
+BYD;Yuan
 Byvin;BD132J (CoCo)
 Byvin;BD326J (Moca)
 Cadillac;Allante
@@ -383,6 +385,7 @@ Caterham;Seven
 Chana;Benni
 Changan;Alsvin V7
 Changan;Benni
+Changan;Benni EC/EV
 Changan;CM-8
 Changan;CS35
 Changan;CS35PLUS
@@ -670,6 +673,7 @@ Daihatsu;Fellow
 Daihatsu;Feroza
 Daihatsu;Gran Move
 Daihatsu;Hijet
+Daihatsu;Hijet Caddie
 Daihatsu;Leeza
 Daihatsu;Materia
 Daihatsu;MAX
@@ -829,6 +833,7 @@ FAW;V2
 FAW;V5
 FAW;Vita
 Ferrari;250 GTO
+Ferrari;296 GTB
 Ferrari;328
 Ferrari;348
 Ferrari;360
@@ -2401,8 +2406,10 @@ PUCH;Pinzgauer
 Puma;GTB
 Puma;GTE
 Qoros;3
+Qoros;5
 Qvale;Mangusta
 RAM;1500
+RAM;ProMaster City
 Rambler;Ambassador
 Ravon;Gentra
 Ravon;Matiz
@@ -2989,6 +2996,7 @@ Venturi;400 GT
 Volkswagen;181
 Volkswagen;Amarok
 Volkswagen;Arteon
+Volkswagen;Arteon R
 Volkswagen;Atlas
 Volkswagen;Atlas Cross Sport
 Volkswagen;Beetle
@@ -3041,6 +3049,7 @@ Volkswagen;Taos
 Volkswagen;Taro
 Volkswagen;Teramont
 Volkswagen;Tiguan
+Volkswagen;Tiguan R
 Volkswagen;Touareg
 Volkswagen;Touran
 Volkswagen;Transporter
@@ -3220,8 +3229,10 @@ ZX;Landmark
 Москвич;Князь Владимир
 Москвич;Святогор
 Москвич;Юрий Долгорукий
+СМЗ;С-1Л
 СМЗ;С-3А
 СМЗ;С-3Д
+СМЗ;С-3Л
 Спортивные авто и Реплики;GT & Touring
 Спортивные авто и Реплики;Offroad
 Спортивные авто и Реплики;Багги Type 1
