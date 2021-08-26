@@ -74,6 +74,7 @@ Alpina;D3
 Alpina;D4
 Alpina;D5
 Alpina;Roadster
+Alpina;XB7
 Alpina;XD3
 Alpina;XD4
 Alpine;A110
@@ -546,6 +547,7 @@ Chrysler;Prowler
 Chrysler;PT Cruiser
 Chrysler;Saratoga
 Chrysler;Sebring
+Chrysler;Six
 Chrysler;Stratus
 Chrysler;TC by Maserati
 Chrysler;Town & Country
@@ -937,6 +939,7 @@ Ford;Consul
 Ford;Contour
 Ford;Cortina
 Ford;Cougar
+Ford;Country Squire
 Ford;Crown Victoria
 Ford;Custom
 Ford;Econoline
@@ -981,6 +984,7 @@ Ford;Ixion
 Ford;KA
 Ford;Kuga
 Ford;Laser
+Ford;LTD Country Squire
 Ford;LTD Crown Victoria
 Ford;M151
 Ford;Mainline
@@ -1023,6 +1027,7 @@ FSO;125p
 FSO;126p
 FSO;127p
 FSO;132p
+FSO;Lanos
 FSO;Polonez
 FSO;Warszawa
 Fuqi;6500 (Land King)
@@ -1370,6 +1375,7 @@ Isuzu;Wizard
 IVECO;Massif
 JAC;iEV7L
 JAC;iEV7S
+JAC;iEVS4
 JAC;J2 (Yueyue)
 JAC;J3 (Tongyue,Tojoy)
 JAC;J4 (Heyue A30)
@@ -1519,6 +1525,7 @@ Lamborghini;350/400 GT
 Lamborghini;Aventador
 Lamborghini;Centenario
 Lamborghini;Countach
+Lamborghini;Countach LPI 800-4
 Lamborghini;Diablo
 Lamborghini;Egoista
 Lamborghini;Espada
@@ -1911,6 +1918,7 @@ Mercury;Sable
 Mercury;Topaz
 Mercury;Tracer
 Mercury;Villager
+Messerschmitt;KR200
 Metrocab;Metrocab I
 Metrocab;Metrocab II (TTT)
 MG;3
@@ -2172,6 +2180,7 @@ Nissan;Versa
 Nissan;Wingroad
 Nissan;X-Trail
 Nissan;Xterra
+Nissan;Z
 Noble;M12 GTO
 Noble;M15
 Noble;M600
@@ -2489,6 +2498,7 @@ Rezvani;Beast
 Rezvani;Tank
 Rimac;C Two
 Rimac;Concept_One
+Rimac;Nevera
 Rinspeed;Chopster
 Roewe;E50
 Roewe;Ei5
@@ -2685,6 +2695,7 @@ Subaru;WRX
 Subaru;WRX STi
 Subaru;XT
 Subaru;XV
+Suzuki;Across
 Suzuki;Aerio
 Suzuki;Alto
 Suzuki;Alto Lapin
@@ -2719,6 +2730,7 @@ Suzuki;Sidekick
 Suzuki;Solio
 Suzuki;Spacia
 Suzuki;Splash
+Suzuki;Swace
 Suzuki;Swift
 Suzuki;SX4
 Suzuki;Twin
@@ -2943,6 +2955,7 @@ Tramontana;Tramontana
 Triumph;Acclaim
 Triumph;Spitfire
 Triumph;Stag
+Triumph;TR3
 Triumph;TR4
 Triumph;TR6
 Triumph;TR7
@@ -3042,6 +3055,7 @@ Volkswagen;Santana
 Volkswagen;Scirocco
 Volkswagen;Scirocco R
 Volkswagen;Sharan
+Volkswagen;SpaceFox
 Volkswagen;T-Cross
 Volkswagen;T-Roc
 Volkswagen;T-Roc R

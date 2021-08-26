@@ -87,6 +87,7 @@
    "D4",
    "D5",
    "Roadster",
+   "XB7",
    "XD3",
    "XD4"
   ],
@@ -649,6 +650,7 @@
    "PT Cruiser",
    "Saratoga",
    "Sebring",
+   "Six",
    "Stratus",
    "TC by Maserati",
    "Town & Country",
@@ -1110,6 +1112,7 @@
    "Contour",
    "Cortina",
    "Cougar",
+   "Country Squire",
    "Crown Victoria",
    "Custom",
    "Econoline",
@@ -1154,6 +1157,7 @@
    "KA",
    "Kuga",
    "Laser",
+   "LTD Country Squire",
    "LTD Crown Victoria",
    "M151",
    "Mainline",
@@ -1200,6 +1204,7 @@
    "126p",
    "127p",
    "132p",
+   "Lanos",
    "Polonez",
    "Warszawa"
   ],
@@ -1617,6 +1622,7 @@
   "JAC": [
    "iEV7L",
    "iEV7S",
+   "iEVS4",
    "J2 (Yueyue)",
    "J3 (Tongyue,Tojoy)",
    "J4 (Heyue A30)",
@@ -1786,6 +1792,7 @@
    "Aventador",
    "Centenario",
    "Countach",
+   "Countach LPI 800-4",
    "Diablo",
    "Egoista",
    "Espada",
@@ -2231,6 +2238,9 @@
    "Tracer",
    "Villager"
   ],
+  "Messerschmitt": [
+   "KR200"
+  ],
   "Metrocab": [
    "Metrocab I",
    "Metrocab II (TTT)"
@@ -2514,7 +2524,8 @@
    "Versa",
    "Wingroad",
    "X-Trail",
-   "Xterra"
+   "Xterra",
+   "Z"
   ],
   "Noble": [
    "M12 GTO",
@@ -2891,7 +2902,8 @@
   ],
   "Rimac": [
    "C Two",
-   "Concept_One"
+   "Concept_One",
+   "Nevera"
   ],
   "Rinspeed": [
    "Chopster"
@@ -3140,6 +3152,7 @@
    "XV"
   ],
   "Suzuki": [
+   "Across",
    "Aerio",
    "Alto",
    "Alto Lapin",
@@ -3174,6 +3187,7 @@
    "Solio",
    "Spacia",
    "Splash",
+   "Swace",
    "Swift",
    "SX4",
    "Twin",
@@ -3424,6 +3438,7 @@
    "Acclaim",
    "Spitfire",
    "Stag",
+   "TR3",
    "TR4",
    "TR6",
    "TR7",
@@ -3535,6 +3550,7 @@
    "Scirocco",
    "Scirocco R",
    "Sharan",
+   "SpaceFox",
    "T-Cross",
    "T-Roc",
    "T-Roc R",
