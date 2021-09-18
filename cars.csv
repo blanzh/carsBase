@@ -346,6 +346,7 @@ BYD;L3
 BYD;M6
 BYD;S6
 BYD;Song EV
+BYD;Tang
 BYD;Yuan
 Byvin;BD132J (CoCo)
 Byvin;BD326J (Moca)
@@ -615,6 +616,7 @@ Dacia;1325
 Dacia;1410
 Dacia;Dokker
 Dacia;Duster
+Dacia;Jogger
 Dacia;Lodgy
 Dacia;Logan
 Dacia;Nova
@@ -684,6 +686,7 @@ Daihatsu;MAX
 Daihatsu;Mebius
 Daihatsu;Midget
 Daihatsu;Mira
+Daihatsu;Mira Cocoa
 Daihatsu;Mira e:S
 Daihatsu;Mira Gino
 Daihatsu;Move
@@ -966,7 +969,6 @@ Ford;Fiesta ST
 Ford;Five Hundred
 Ford;Flex
 Ford;Focus
-Ford;Focus (North America)
 Ford;Focus RS
 Ford;Focus ST
 Ford;Freda
@@ -1839,8 +1841,11 @@ Mercedes-Benz;CLS AMG
 Mercedes-Benz;E-Класс
 Mercedes-Benz;E-Класс AMG
 Mercedes-Benz;EQA
+Mercedes-Benz;EQB
 Mercedes-Benz;EQC
+Mercedes-Benz;EQE
 Mercedes-Benz;EQS
+Mercedes-Benz;EQS AMG
 Mercedes-Benz;EQV
 Mercedes-Benz;G-Класс
 Mercedes-Benz;G-Класс AMG
@@ -3103,6 +3108,8 @@ Volvo;C70
 Volvo;Laplander
 Volvo;P1800
 Volvo;P1900
+Volvo;PV444
+Volvo;PV544
 Volvo;S40
 Volvo;S60
 Volvo;S60 Cross Country
