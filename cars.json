@@ -875,6 +875,7 @@
    "Zephyr"
   ],
   "Delage": [
+   "D12",
    "D6"
   ],
   "DeLorean": [
@@ -1673,10 +1674,10 @@
    "Compass",
    "Gladiator",
    "Grand Cherokee",
-   "Grand Wagoneer",
    "Liberty (North America)",
    "Liberty (Patriot)",
    "Renegade",
+   "Wagoneer",
    "Wrangler"
   ],
   "Jensen": [
@@ -1947,6 +1948,7 @@
    "Elan",
    "Elise",
    "Elite",
+   "Emira",
    "Esprit",
    "Europa",
    "Europa S",
@@ -2031,6 +2033,9 @@
    "Quattroporte",
    "Royale",
    "Shamal"
+  ],
+  "Matra": [
+   "Murena"
   ],
   "Maybach": [
    "57",
@@ -2222,6 +2227,7 @@
    "W124",
    "W128",
    "W136",
+   "W138",
    "W142",
    "W186",
    "W188",
