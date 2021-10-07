@@ -817,6 +817,7 @@ DS;3 Crossback
 DS;4
 DS;5
 DS;7 Crossback
+DS;9
 DW Hower;H3
 DW Hower;H5
 E-Car;GD04B
@@ -3076,6 +3077,7 @@ Volkswagen;T-Roc R
 Volkswagen;Taos
 Volkswagen;Taro
 Volkswagen;Teramont
+Volkswagen;Tharu
 Volkswagen;Tiguan
 Volkswagen;Tiguan R
 Volkswagen;Touareg
