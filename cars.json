@@ -102,7 +102,9 @@
   ],
   "AMC": [
    "Eagle",
-   "Hornet"
+   "Hornet",
+   "Rambler Ambassador",
+   "Rambler Classic"
   ],
   "Apal": [
    "21541 Stalker"
@@ -140,7 +142,8 @@
    "V8 Vantage",
    "V8 Zagato",
    "Vanquish",
-   "Virage"
+   "Virage",
+   "Vulcan"
   ],
   "Auburn": [
    "Speedster"
@@ -411,6 +414,7 @@
    "Wildcat"
   ],
   "BYD": [
+   "e2",
    "E6",
    "F0",
    "F3",
@@ -420,6 +424,7 @@
    "Flyer",
    "G3",
    "G6",
+   "Han",
    "L3",
    "M6",
    "S6",
@@ -530,9 +535,6 @@
    "Tiggo 8 Pro",
    "Very (A13)",
    "Windcloud (A11)"
-  ],
-  "CHERYEXEED": [
-   "TXL"
   ],
   "Chevrolet": [
    "3000-Series",
@@ -729,7 +731,6 @@
   "Dacia": [
    "1300",
    "1310",
-   "1325",
    "1410",
    "Dokker",
    "Duster",
@@ -937,6 +938,7 @@
    "Spirit",
    "Stealth",
    "Stratus",
+   "Super Bee",
    "Viper",
    "WC series"
   ],
@@ -992,6 +994,9 @@
   "Excalibur": [
    "Series IV",
    "Series V"
+  ],
+  "EXEED": [
+   "TXL"
   ],
   "FAW": [
    "Bestune T99",
@@ -2837,9 +2842,6 @@
   "RAM": [
    "1500",
    "ProMaster City"
-  ],
-  "Rambler": [
-   "Ambassador"
   ],
   "Ravon": [
    "Gentra",

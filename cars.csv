@@ -84,6 +84,8 @@ Alpine;GTA
 AM General;HMMWV (Humvee)
 AMC;Eagle
 AMC;Hornet
+AMC;Rambler Ambassador
+AMC;Rambler Classic
 Apal;21541 Stalker
 Ariel;Atom
 Ariel;Nomad
@@ -112,6 +114,7 @@ Aston Martin;V8 Vantage
 Aston Martin;V8 Zagato
 Aston Martin;Vanquish
 Aston Martin;Virage
+Aston Martin;Vulcan
 Auburn;Speedster
 Audi;100
 Audi;200
@@ -334,6 +337,7 @@ Buick;Super
 Buick;Terraza
 Buick;Verano
 Buick;Wildcat
+BYD;e2
 BYD;E6
 BYD;F0
 BYD;F3
@@ -343,6 +347,7 @@ BYD;F8 (S8)
 BYD;Flyer
 BYD;G3
 BYD;G6
+BYD;Han
 BYD;L3
 BYD;M6
 BYD;S6
@@ -433,7 +438,6 @@ Chery;Tiggo 8
 Chery;Tiggo 8 Pro
 Chery;Very (A13)
 Chery;Windcloud (A11)
-CHERYEXEED;TXL
 Chevrolet;3000-Series
 Chevrolet;Alero
 Chevrolet;Apache
@@ -614,7 +618,6 @@ Cupra;Formentor
 Cupra;Leon
 Dacia;1300
 Dacia;1310
-Dacia;1325
 Dacia;1410
 Dacia;Dokker
 Dacia;Duster
@@ -794,6 +797,7 @@ Dodge;Shadow
 Dodge;Spirit
 Dodge;Stealth
 Dodge;Stratus
+Dodge;Super Bee
 Dodge;Viper
 Dodge;WC series
 DongFeng;370
@@ -831,6 +835,7 @@ Eagle;Vista
 Eagle Cars;SS
 Excalibur;Series IV
 Excalibur;Series V
+EXEED;TXL
 FAW;Bestune T99
 FAW;Besturn B30
 FAW;Besturn B50
@@ -2442,7 +2447,6 @@ Qoros;5
 Qvale;Mangusta
 RAM;1500
 RAM;ProMaster City
-Rambler;Ambassador
 Ravon;Gentra
 Ravon;Matiz
 Ravon;Nexia R3
