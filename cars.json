@@ -240,6 +240,7 @@
   "BAIC": [
    "A1",
    "BJ2020",
+   "BJ2021",
    "BJ2026",
    "BJ212",
    "EU260",
@@ -996,7 +997,8 @@
    "Series V"
   ],
   "EXEED": [
-   "TXL"
+   "TXL",
+   "VX"
   ],
   "FAW": [
    "Bestune T99",
@@ -2726,6 +2728,9 @@
   "Piaggio": [
    "Porter"
   ],
+  "Pierce-Arrow": [
+   "Twelve"
+  ],
   "Plymouth": [
    "Acclaim",
    "Barracuda",
@@ -3454,6 +3459,7 @@
    "Windom",
    "Wish",
    "Yaris",
+   "Yaris Cross",
    "Yaris Verso"
   ],
   "Trabant": [
@@ -3845,7 +3851,7 @@
    "Багги Type 1",
    "Драгстер",
    "Дрифт-кар",
-   "Реплики и Самоделки",
+   "Самоделки",
    "Спортпрототип",
    "Формула",
    "Хот-род и Кастом"
