@@ -669,6 +669,9 @@
    "Voyager",
    "Windsor"
   ],
+  "Ciimo": [
+   "M-NV"
+  ],
   "Citroen": [
    "2 CV",
    "AMI",
@@ -1039,6 +1042,7 @@
    "612",
    "812",
    "California",
+   "Daytona SP3",
    "Dino 206 GT",
    "Dino 208/308 GT4",
    "Dino 246 GT",
@@ -2218,6 +2222,7 @@
    "GLS AMG",
    "M-Класс",
    "M-Класс AMG",
+   "Marco Polo",
    "Maybach G 650 Landaulet",
    "Maybach GLS",
    "Maybach S-Класс",
@@ -3570,6 +3575,7 @@
    "Golf Sportsvan",
    "ID.3",
    "ID.4",
+   "ID.5",
    "Iltis",
    "Jetta",
    "K70",
