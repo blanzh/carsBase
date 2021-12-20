@@ -41,16 +41,16 @@ _В этой базе данные представлены для ознако�
 **Для получения полной базы свяжитесь со мной** в телеграме https://t.me/gulpsun или по почте gulpsun@gmail.com  
 с пометкой "**Коммерческий и мото транспорт**"
 
-### Обновление от 12.12.2021
+### Обновление от 20.12.2021
 |#|name|id|group|
 |---|---|---|---|
 |1|[Легковой](https://auto.ru/cars/all/) (285)|`cars`|`cars`|
 |2|[Сельскохозяйственный](https://auto.ru/agricultural/all/) (187)|`agricultural`|`commercial`|
 |3|[Седельный тягач](https://auto.ru/artic/all/) (60)|`artic`|`commercial`|
-|4|[Автопогрузчик](https://auto.ru/autoloader/all/) (238)|`autoloader`|`commercial`|
+|4|[Автопогрузчик](https://auto.ru/autoloader/all/) (239)|`autoloader`|`commercial`|
 |5|[Бульдозер](https://auto.ru/bulldozers/all/) (44)|`bulldozers`|`commercial`|
 |6|[Автобус](https://auto.ru/bus/all/) (106)|`bus`|`commercial`|
-|7|[Строительная](https://auto.ru/construction/all/) (274)|`construction`|`commercial`|
+|7|[Строительная](https://auto.ru/construction/all/) (275)|`construction`|`commercial`|
 |8|[Автокран](https://auto.ru/crane/all/) (62)|`crane`|`commercial`|
 |9|[Экскаватор](https://auto.ru/dredge/all/) (132)|`dredge`|`commercial`|
 |10|[Легкий коммерческий](https://auto.ru/lcv/all/) (90)|`lcv`|`commercial`|
@@ -63,6 +63,6 @@ _В этой базе данные представлены для ознако�
 |17|[Скутер](https://auto.ru/scooters/all/) (132)|`scooters`|`moto`|
 |18|[Снегоход](https://auto.ru/snowmobile/all/) (54)|`snowmobile`|`moto`|
 
-Всего марок: **3208**  
-Всего моделей: **17272**
+Всего марок: **3210**  
+Всего моделей: **17295**
 
