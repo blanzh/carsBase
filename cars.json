@@ -528,6 +528,7 @@
    "Sweet (QQ)",
    "Tiggo (T11)",
    "Tiggo 2",
+   "Tiggo 2 Pro",
    "Tiggo 3",
    "Tiggo 4",
    "Tiggo 5",
@@ -1008,6 +1009,9 @@
    "TXL",
    "VX"
   ],
+  "Facel Vega": [
+   "FV"
+  ],
   "FAW": [
    "Bestune T77",
    "Bestune T99",
@@ -1256,6 +1260,7 @@
    "FC (Vision)",
    "GC6",
    "GC9",
+   "Geometry C",
    "GS",
    "Haoqing",
    "LC (Panda)",
@@ -1494,6 +1499,9 @@
   "Horch": [
    "830",
    "853"
+  ],
+  "Hozon": [
+   "Neta U"
   ],
   "HSV": [
    "Maloo"
@@ -2554,6 +2562,7 @@
    "R'nessa",
    "Rasheen",
    "Rogue",
+   "Rogue Sport",
    "Roox",
    "Safari",
    "Sentra",
