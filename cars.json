@@ -32,6 +32,10 @@
    "Diplomat",
    "Trumpf Junior"
   ],
+  "Aion": [
+   "S",
+   "S Plus"
+  ],
   "Alfa Romeo": [
    "105/115",
    "145",
@@ -290,6 +294,9 @@
    "CD",
    "Type 3"
   ],
+  "Blaval": [
+   "FH-EQ"
+  ],
   "BMW": [
    "02 (E10)",
    "1 серии",
@@ -430,6 +437,7 @@
    "Han",
    "L3",
    "M6",
+   "Qin",
    "S6",
    "Song EV",
    "Song Pro",
@@ -1756,6 +1764,7 @@
    "K3",
    "K5",
    "K7",
+   "K8",
    "K9",
    "K900",
    "Lotze",
@@ -2942,6 +2951,7 @@
    "Lodgy",
    "Logan",
    "Megane",
+   "Megane E-Tech",
    "Megane RS",
    "Modus",
    "Rodeo",
