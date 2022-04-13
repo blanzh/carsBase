@@ -505,6 +505,7 @@
    "CS35PLUS",
    "CS55",
    "CS75",
+   "CS95",
    "CX20",
    "Eado",
    "Raeton",
@@ -521,6 +522,7 @@
   "Chery": [
    "Amulet (A15)",
    "Arrizo 3",
+   "Arrizo 6",
    "Arrizo 7",
    "B13",
    "Bonus (A13)",
@@ -1281,6 +1283,7 @@
    "MK",
    "MK Cross",
    "MR",
+   "Preface",
    "SC7",
    "Tugella",
    "TX4"
@@ -1289,6 +1292,7 @@
    "G70",
    "G80",
    "G90",
+   "GV60",
    "GV70",
    "GV80"
   ],
@@ -1365,6 +1369,7 @@
    "2",
    "3",
    "7",
+   "8S",
    "Family",
    "Family F7",
    "Freema",
@@ -1376,6 +1381,7 @@
    "Typ 13"
   ],
   "Haval": [
+   "Dargo",
    "F7",
    "F7x",
    "H2",
