@@ -969,6 +969,7 @@
    "A30",
    "A9",
    "AX7",
+   "E11K",
    "H30 Cross",
    "MPV",
    "Oting",
@@ -1028,6 +1029,7 @@
    "FV"
   ],
   "FAW": [
+   "Bestune T55",
    "Bestune T77",
    "Bestune T99",
    "Besturn B30",
@@ -1044,7 +1046,7 @@
   ],
   "Ferrari": [
    "250 GTO",
-   "296 GTB",
+   "296",
    "328",
    "348",
    "360",
@@ -2083,6 +2085,7 @@
    "Chubasco",
    "Ghibli",
    "GranTurismo",
+   "Grecale",
    "Indy",
    "Karif",
    "Khamsin",
@@ -3720,6 +3723,9 @@
    "Corda",
    "Estina",
    "Tingo"
+  ],
+  "Voyah": [
+   "Free"
   ],
   "VUHL": [
    "05"
