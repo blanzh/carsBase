@@ -328,6 +328,7 @@
    "E9",
    "i3",
    "i4",
+   "i7",
    "i8",
    "iX",
    "iX3",
@@ -469,6 +470,7 @@
    "Escalade",
    "Fleetwood",
    "LSE",
+   "Lyriq",
    "Series 62",
    "Seville",
    "Sixty Special",
@@ -549,6 +551,7 @@
    "Tiggo 7 Pro",
    "Tiggo 8",
    "Tiggo 8 Pro",
+   "Tiggo 8 Pro Max",
    "Very (A13)",
    "Windcloud (A11)"
   ],
@@ -683,7 +686,7 @@
    "Voyager",
    "Windsor"
   ],
-  "Ciimo": [
+  "Ciimo (DongFeng-Honda)": [
    "M-NV",
    "X-NV"
   ],
@@ -3140,7 +3143,8 @@
    "1200",
    "Citigo",
    "Enyaq",
-   "Enyaq RS",
+   "Enyaq Coupe",
+   "Enyaq Coupe RS",
    "Fabia",
    "Fabia RS",
    "Favorit",
@@ -3340,7 +3344,8 @@
    "City"
   ],
   "Tianma": [
-   "Century"
+   "Century",
+   "Dragon"
   ],
   "Tianye": [
    "Admiral"

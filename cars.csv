@@ -263,6 +263,7 @@ BMW;E3
 BMW;E9
 BMW;i3
 BMW;i4
+BMW;i7
 BMW;i8
 BMW;iX
 BMW;iX3
@@ -384,6 +385,7 @@ Cadillac;ELR
 Cadillac;Escalade
 Cadillac;Fleetwood
 Cadillac;LSE
+Cadillac;Lyriq
 Cadillac;Series 62
 Cadillac;Seville
 Cadillac;Sixty Special
@@ -448,6 +450,7 @@ Chery;Tiggo 7
 Chery;Tiggo 7 Pro
 Chery;Tiggo 8
 Chery;Tiggo 8 Pro
+Chery;Tiggo 8 Pro Max
 Chery;Very (A13)
 Chery;Windcloud (A11)
 Chevrolet;3000-Series
@@ -577,8 +580,8 @@ Chrysler;Viper
 Chrysler;Vision
 Chrysler;Voyager
 Chrysler;Windsor
-Ciimo;M-NV
-Ciimo;X-NV
+Ciimo (DongFeng-Honda);M-NV
+Ciimo (DongFeng-Honda);X-NV
 Citroen;2 CV
 Citroen;AMI
 Citroen;AX
@@ -2681,7 +2684,8 @@ Skoda;105, 120
 Skoda;1200
 Skoda;Citigo
 Skoda;Enyaq
-Skoda;Enyaq RS
+Skoda;Enyaq Coupe
+Skoda;Enyaq Coupe RS
 Skoda;Fabia
 Skoda;Fabia RS
 Skoda;Favorit
@@ -2848,6 +2852,7 @@ Tesla;Model Y
 Tesla;Roadster
 Think;City
 Tianma;Century
+Tianma;Dragon
 Tianye;Admiral
 Tofas;Kartal
 Tofas;Murat 124
