@@ -977,7 +977,8 @@
    "MPV",
    "Oting",
    "Rich",
-   "S30"
+   "S30",
+   "T5L"
   ],
   "Doninvest": [
    "Assol",
@@ -1956,6 +1957,7 @@
    "RC",
    "RC F",
    "RX",
+   "RZ",
    "SC",
    "UX"
   ],
@@ -2241,6 +2243,7 @@
    "EQE AMG",
    "EQS",
    "EQS AMG",
+   "EQS SUV",
    "EQV",
    "G-Класс",
    "G-Класс AMG",
@@ -2983,6 +2986,7 @@
    "ZOE"
   ],
   "Renault Samsung": [
+   "QM3",
    "QM5",
    "QM6",
    "SM3",
@@ -3238,6 +3242,7 @@
    "R2",
    "Rex",
    "Sambar",
+   "Solterra",
    "Stella",
    "SVX",
    "Traviq",
@@ -3379,6 +3384,7 @@
    "Blade",
    "Blizzard",
    "Brevis",
+   "bZ4X",
    "C-HR",
    "Caldina",
    "Cami",
