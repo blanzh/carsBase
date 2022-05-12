@@ -604,6 +604,7 @@ Citroen;C4 Picasso
 Citroen;C4 SpaceTourer
 Citroen;C5
 Citroen;C5 Aircross
+Citroen;C5 X
 Citroen;C6
 Citroen;C8
 Citroen;CX
@@ -984,6 +985,7 @@ Ford;Country Squire
 Ford;Crown Victoria
 Ford;Custom
 Ford;Econoline
+Ford;Econovan
 Ford;EcoSport
 Ford;Edge
 Ford;Escape
@@ -1115,6 +1117,7 @@ GMC;100
 GMC;Acadia
 GMC;Canyon
 GMC;Envoy
+GMC;Hummer EV
 GMC;Jimmy
 GMC;Safari
 GMC;Savana

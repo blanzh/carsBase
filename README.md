@@ -41,7 +41,7 @@ _В этой базе данные представлены для ознако�
 **Для получения полной базы свяжитесь со мной** в телеграме https://t.me/gulpsun или по почте gulpsun@gmail.com  
 с пометкой "**Коммерческий и мото транспорт**"
 
-### Обновление от 03.05.2022
+### Обновление от 12.05.2022
 |#|name|id|group|
 |---|---|---|---|
 |1|[Легковой](https://auto.ru/cars/all/) (292)|`cars`|`cars`|
@@ -52,17 +52,17 @@ _В этой базе данные представлены для ознако�
 |6|[Автобус](https://auto.ru/bus/all/) (108)|`bus`|`commercial`|
 |7|[Строительная](https://auto.ru/construction/all/) (278)|`construction`|`commercial`|
 |8|[Автокран](https://auto.ru/crane/all/) (62)|`crane`|`commercial`|
-|9|[Экскаватор](https://auto.ru/dredge/all/) (137)|`dredge`|`commercial`|
-|10|[Легкий коммерческий](https://auto.ru/lcv/all/) (90)|`lcv`|`commercial`|
+|9|[Экскаватор](https://auto.ru/dredge/all/) (138)|`dredge`|`commercial`|
+|10|[Легкий коммерческий](https://auto.ru/lcv/all/) (92)|`lcv`|`commercial`|
 |11|[Коммунальная](https://auto.ru/municipal/all/) (146)|`municipal`|`commercial`|
 |12|[Съемный кузов](https://auto.ru/swap_body/all/) (14)|`swap_body`|`commercial`|
-|13|[Прицеп](https://auto.ru/trailer/all/) (760)|`trailer`|`commercial`|
-|14|[Грузовик](https://auto.ru/truck/all/) (105)|`truck`|`commercial`|
+|13|[Прицеп](https://auto.ru/trailer/all/) (761)|`trailer`|`commercial`|
+|14|[Грузовик](https://auto.ru/truck/all/) (108)|`truck`|`commercial`|
 |15|[Мотовездеход](https://auto.ru/atv/all/) (248)|`atv`|`moto`|
 |16|[Мотоцикл](https://auto.ru/motorcycle/all/) (296)|`motorcycle`|`moto`|
 |17|[Скутер](https://auto.ru/scooters/all/) (135)|`scooters`|`moto`|
-|18|[Снегоход](https://auto.ru/snowmobile/all/) (56)|`snowmobile`|`moto`|
+|18|[Снегоход](https://auto.ru/snowmobile/all/) (57)|`snowmobile`|`moto`|
 
-Всего марок: **3265**  
-Всего моделей: **17780**
+Всего марок: **3273**  
+Всего моделей: **17805**
 
