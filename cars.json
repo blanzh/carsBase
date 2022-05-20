@@ -1265,6 +1265,7 @@
    "6500 (Land King)"
   ],
   "GAC": [
+   "GE3",
    "GN8",
    "GS5",
    "GS8"
@@ -2204,6 +2205,7 @@
    "650S",
    "675LT",
    "720S",
+   "765LT",
    "Artura",
    "F1",
    "GT",
@@ -2288,6 +2290,7 @@
    "SLK-Класс AMG",
    "SLR McLaren",
    "SLS AMG",
+   "T-Класс",
    "V-Класс",
    "Vaneo",
    "Viano",
@@ -3007,6 +3010,9 @@
   ],
   "Rinspeed": [
    "Chopster"
+  ],
+  "Rivian": [
+   "R1T"
   ],
   "Roewe": [
    "E50",
