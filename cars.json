@@ -34,7 +34,8 @@
   ],
   "Aion": [
    "S",
-   "S Plus"
+   "S Plus",
+   "Y"
   ],
   "Alfa Romeo": [
    "105/115",
@@ -421,10 +422,12 @@
    "Special",
    "Super",
    "Terraza",
+   "Velite 6",
    "Verano",
    "Wildcat"
   ],
   "BYD": [
+   "Dolphin",
    "e2",
    "E6",
    "F0",
@@ -2019,6 +2022,7 @@
    "340R",
    "Eclat",
    "Elan",
+   "Eletre",
    "Elise",
    "Elite",
    "Emira",
@@ -2890,7 +2894,8 @@
    "Savvy",
    "Tiara",
    "Waja",
-   "Wira (400 Series)"
+   "Wira (400 Series)",
+   "X50"
   ],
   "PUCH": [
    "G-modell",
@@ -3435,6 +3440,7 @@
    "Fortuner",
    "FunCargo",
    "Gaia",
+   "GR 86",
    "Grand HiAce",
    "Granvia",
    "GT86",
@@ -3797,6 +3803,9 @@
    "Florida",
    "Skala",
    "Yugo"
+  ],
+  "Zeekr": [
+   "001"
   ],
   "Zenos": [
    "E10"

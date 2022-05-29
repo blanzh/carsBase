@@ -24,6 +24,7 @@ Adler;Diplomat
 Adler;Trumpf Junior
 Aion;S
 Aion;S Plus
+Aion;Y
 Alfa Romeo;105/115
 Alfa Romeo;145
 Alfa Romeo;146
@@ -342,8 +343,10 @@ Buick;Skylark
 Buick;Special
 Buick;Super
 Buick;Terraza
+Buick;Velite 6
 Buick;Verano
 Buick;Wildcat
+BYD;Dolphin
 BYD;e2
 BYD;E6
 BYD;F0
@@ -1712,6 +1715,7 @@ Lotus;3-Eleven
 Lotus;340R
 Lotus;Eclat
 Lotus;Elan
+Lotus;Eletre
 Lotus;Elise
 Lotus;Elite
 Lotus;Emira
@@ -2490,6 +2494,7 @@ Proton;Savvy
 Proton;Tiara
 Proton;Waja
 Proton;Wira (400 Series)
+Proton;X50
 PUCH;G-modell
 PUCH;Pinzgauer
 Puma;GTB
@@ -2934,6 +2939,7 @@ Toyota;FJ Cruiser
 Toyota;Fortuner
 Toyota;FunCargo
 Toyota;Gaia
+Toyota;GR 86
 Toyota;Grand HiAce
 Toyota;Granvia
 Toyota;GT86
@@ -3248,6 +3254,7 @@ Zastava;10
 Zastava;Florida
 Zastava;Skala
 Zastava;Yugo
+Zeekr;001
 Zenos;E10
 Zenvo;ST1
 Zenvo;TSR-S
