@@ -32,11 +32,6 @@
    "Diplomat",
    "Trumpf Junior"
   ],
-  "Aion": [
-   "S",
-   "S Plus",
-   "Y"
-  ],
   "Alfa Romeo": [
    "105/115",
    "145",
@@ -180,6 +175,7 @@
    "e-tron Sportback",
    "NSU RO 80",
    "Q2",
+   "Q2L",
    "Q3",
    "Q3 Sportback",
    "Q4 e-tron",
@@ -428,6 +424,7 @@
   ],
   "BYD": [
    "Dolphin",
+   "E1",
    "e2",
    "E6",
    "F0",
@@ -753,6 +750,7 @@
   ],
   "Cupra": [
    "Ateca",
+   "Born",
    "Formentor",
    "Leon"
   ],
@@ -976,6 +974,7 @@
    "A30",
    "A9",
    "AX7",
+   "DF6",
    "E11K",
    "H30 Cross",
    "MPV",
@@ -1273,6 +1272,11 @@
    "GS5",
    "GS8"
   ],
+  "GAC Aion": [
+   "S",
+   "S Plus",
+   "Y"
+  ],
   "Geely": [
    "Atlas",
    "Atlas Pro",
@@ -1557,6 +1561,7 @@
    "Aslan",
    "Atos",
    "Avante",
+   "Avante N",
    "Azera",
    "Bayon",
    "Centennial",
@@ -2509,7 +2514,10 @@
    "Ambassador"
   ],
   "Nio": [
-   "ES8"
+   "EC6",
+   "ES6",
+   "ES8",
+   "ET7"
   ],
   "Nissan": [
    "100NX",
@@ -2884,6 +2892,7 @@
    "Exora",
    "Gen-2",
    "Inspira",
+   "Iriz",
    "Juara",
    "Perdana",
    "Persona",
@@ -2895,7 +2904,8 @@
    "Tiara",
    "Waja",
    "Wira (400 Series)",
-   "X50"
+   "X50",
+   "X70"
   ],
   "PUCH": [
    "G-modell",

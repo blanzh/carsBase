@@ -22,9 +22,6 @@ Acura;TSX
 Acura;ZDX
 Adler;Diplomat
 Adler;Trumpf Junior
-Aion;S
-Aion;S Plus
-Aion;Y
 Alfa Romeo;105/115
 Alfa Romeo;145
 Alfa Romeo;146
@@ -145,6 +142,7 @@ Audi;e-tron S Sportback
 Audi;e-tron Sportback
 Audi;NSU RO 80
 Audi;Q2
+Audi;Q2L
 Audi;Q3
 Audi;Q3 Sportback
 Audi;Q4 e-tron
@@ -347,6 +345,7 @@ Buick;Velite 6
 Buick;Verano
 Buick;Wildcat
 BYD;Dolphin
+BYD;E1
 BYD;e2
 BYD;E6
 BYD;F0
@@ -636,6 +635,7 @@ Cizeta;V16t
 Coggiola;T Rex
 Cord;L-29
 Cupra;Ateca
+Cupra;Born
 Cupra;Formentor
 Cupra;Leon
 Dacia;1300
@@ -827,6 +827,7 @@ DongFeng;580
 DongFeng;A30
 DongFeng;A9
 DongFeng;AX7
+DongFeng;DF6
 DongFeng;E11K
 DongFeng;H30 Cross
 DongFeng;MPV
@@ -1081,6 +1082,9 @@ GAC;GE3
 GAC;GN8
 GAC;GS5
 GAC;GS8
+GAC Aion;S
+GAC Aion;S Plus
+GAC Aion;Y
 Geely;Atlas
 Geely;Atlas Pro
 Geely;Beauty Leopard
@@ -1310,6 +1314,7 @@ Hyundai;Accent
 Hyundai;Aslan
 Hyundai;Atos
 Hyundai;Avante
+Hyundai;Avante N
 Hyundai;Azera
 Hyundai;Bayon
 Hyundai;Centennial
@@ -2146,7 +2151,10 @@ Morgan;Roadster
 Morris;Eight
 Morris;Marina
 Nash;Ambassador
+Nio;EC6
+Nio;ES6
 Nio;ES8
+Nio;ET7
 Nissan;100NX
 Nissan;180SX
 Nissan;200SX
@@ -2483,6 +2491,7 @@ Proton;Arena
 Proton;Exora
 Proton;Gen-2
 Proton;Inspira
+Proton;Iriz
 Proton;Juara
 Proton;Perdana
 Proton;Persona
@@ -2495,6 +2504,7 @@ Proton;Tiara
 Proton;Waja
 Proton;Wira (400 Series)
 Proton;X50
+Proton;X70
 PUCH;G-modell
 PUCH;Pinzgauer
 Puma;GTB
