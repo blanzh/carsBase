@@ -328,6 +328,7 @@
    "i7",
    "i8",
    "iX",
+   "iX1",
    "iX3",
    "M2",
    "M3",
@@ -590,6 +591,7 @@
    "Cruze",
    "Cruze (HR)",
    "CSV CR8",
+   "Damas",
    "Deluxe",
    "El Camino",
    "Epica",
@@ -2323,6 +2325,7 @@
    "W188",
    "W189",
    "W191",
+   "W21",
    "W29",
    "X-Класс"
   ],
@@ -3012,6 +3015,7 @@
    "QM6",
    "SM3",
    "SM5",
+   "SM6",
    "SM7"
   ],
   "Rezvani": [
@@ -3450,7 +3454,7 @@
    "Fortuner",
    "FunCargo",
    "Gaia",
-   "GR 86",
+   "GR86",
    "Grand HiAce",
    "Granvia",
    "GT86",

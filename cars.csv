@@ -265,6 +265,7 @@ BMW;i4
 BMW;i7
 BMW;i8
 BMW;iX
+BMW;iX1
 BMW;iX3
 BMW;M2
 BMW;M3
@@ -489,6 +490,7 @@ Chevrolet;Corvette
 Chevrolet;Cruze
 Chevrolet;Cruze (HR)
 Chevrolet;CSV CR8
+Chevrolet;Damas
 Chevrolet;Deluxe
 Chevrolet;El Camino
 Chevrolet;Epica
@@ -1986,6 +1988,7 @@ Mercedes-Benz;W186
 Mercedes-Benz;W188
 Mercedes-Benz;W189
 Mercedes-Benz;W191
+Mercedes-Benz;W21
 Mercedes-Benz;W29
 Mercedes-Benz;X-Класс
 Mercury;Capri
@@ -2591,6 +2594,7 @@ Renault Samsung;QM5
 Renault Samsung;QM6
 Renault Samsung;SM3
 Renault Samsung;SM5
+Renault Samsung;SM6
 Renault Samsung;SM7
 Rezvani;Beast
 Rezvani;Tank
@@ -2949,7 +2953,7 @@ Toyota;FJ Cruiser
 Toyota;Fortuner
 Toyota;FunCargo
 Toyota;Gaia
-Toyota;GR 86
+Toyota;GR86
 Toyota;Grand HiAce
 Toyota;Granvia
 Toyota;GT86
