@@ -442,6 +442,7 @@
    "Qin",
    "S6",
    "Song EV",
+   "Song Plus",
    "Song Pro",
    "Tang",
    "Yuan"
@@ -1587,6 +1588,7 @@
    "Grandeur",
    "H-1",
    "H200",
+   "HB20",
    "i10",
    "i20",
    "i20 N",
@@ -1953,6 +1955,9 @@
    "X7",
    "Х9"
   ],
+  "Leapmotor": [
+   "C11"
+  ],
   "Lexus": [
    "CT",
    "ES",
@@ -2161,6 +2166,7 @@
    "Cronos",
    "CX-3",
    "CX-30",
+   "CX-4",
    "CX-5",
    "CX-7",
    "CX-8",
@@ -2638,6 +2644,7 @@
    "Vanette",
    "Versa",
    "Wingroad",
+   "X-Terra",
    "X-Trail",
    "Xterra",
    "Z"
@@ -2815,6 +2822,7 @@
    "Barracuda",
    "Breeze",
    "Caravelle",
+   "Cranbrook",
    "Fury",
    "Horizon",
    "Laser",
@@ -2855,6 +2863,7 @@
    "Solstice",
    "Sunbird",
    "Sunfire",
+   "Sunrunner",
    "Tempest",
    "Torpedo",
    "Torrent",
