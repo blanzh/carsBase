@@ -59,10 +59,10 @@ _В этой базе данные представлены для ознако�
 |13|[Прицеп](https://auto.ru/trailer/all/) (765)|`trailer`|`commercial`|
 |14|[Грузовик](https://auto.ru/truck/all/) (108)|`truck`|`commercial`|
 |15|[Мотовездеход](https://auto.ru/atv/all/) (249)|`atv`|`moto`|
-|16|[Мотоцикл](https://auto.ru/motorcycle/all/) (301)|`motorcycle`|`moto`|
+|16|[Мотоцикл](https://auto.ru/motorcycle/all/) (302)|`motorcycle`|`moto`|
 |17|[Скутер](https://auto.ru/scooters/all/) (136)|`scooters`|`moto`|
 |18|[Снегоход](https://auto.ru/snowmobile/all/) (57)|`snowmobile`|`moto`|
 
-Всего марок: **3293**  
-Всего моделей: **17987**
+Всего марок: **3294**  
+Всего моделей: **17989**
 
