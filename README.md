@@ -41,28 +41,28 @@ _В этой базе данные представлены для ознако�
 **Для получения полной базы свяжитесь со мной** в телеграме https://t.me/gulpsun9 или по почте gulpsun@gmail.com  
 с пометкой "**Коммерческий и мото транспорт**"
 
-### Обновление от 26.07.2022
+### Обновление от 05.08.2022
 |#|name|id|group|
 |---|---|---|---|
 |1|[Легковой](https://auto.ru/cars/all/) (296)|`cars`|`cars`|
 |2|[Сельскохозяйственный](https://auto.ru/agricultural/all/) (192)|`agricultural`|`commercial`|
 |3|[Седельный тягач](https://auto.ru/artic/all/) (61)|`artic`|`commercial`|
-|4|[Автопогрузчик](https://auto.ru/autoloader/all/) (247)|`autoloader`|`commercial`|
+|4|[Автопогрузчик](https://auto.ru/autoloader/all/) (249)|`autoloader`|`commercial`|
 |5|[Бульдозер](https://auto.ru/bulldozers/all/) (46)|`bulldozers`|`commercial`|
 |6|[Автобус](https://auto.ru/bus/all/) (108)|`bus`|`commercial`|
 |7|[Строительная](https://auto.ru/construction/all/) (281)|`construction`|`commercial`|
 |8|[Автокран](https://auto.ru/crane/all/) (62)|`crane`|`commercial`|
-|9|[Экскаватор](https://auto.ru/dredge/all/) (139)|`dredge`|`commercial`|
+|9|[Экскаватор](https://auto.ru/dredge/all/) (140)|`dredge`|`commercial`|
 |10|[Легкий коммерческий](https://auto.ru/lcv/all/) (93)|`lcv`|`commercial`|
 |11|[Коммунальная](https://auto.ru/municipal/all/) (148)|`municipal`|`commercial`|
 |12|[Съемный кузов](https://auto.ru/swap_body/all/) (14)|`swap_body`|`commercial`|
-|13|[Прицеп](https://auto.ru/trailer/all/) (767)|`trailer`|`commercial`|
+|13|[Прицеп](https://auto.ru/trailer/all/) (769)|`trailer`|`commercial`|
 |14|[Грузовик](https://auto.ru/truck/all/) (108)|`truck`|`commercial`|
-|15|[Мотовездеход](https://auto.ru/atv/all/) (250)|`atv`|`moto`|
+|15|[Мотовездеход](https://auto.ru/atv/all/) (251)|`atv`|`moto`|
 |16|[Мотоцикл](https://auto.ru/motorcycle/all/) (303)|`motorcycle`|`moto`|
 |17|[Скутер](https://auto.ru/scooters/all/) (136)|`scooters`|`moto`|
 |18|[Снегоход](https://auto.ru/snowmobile/all/) (57)|`snowmobile`|`moto`|
 
-Всего марок: **3308**  
-Всего моделей: **18059**
+Всего марок: **3314**  
+Всего моделей: **18087**
 

@@ -443,6 +443,7 @@
    "Qin",
    "S6",
    "Song EV",
+   "Song Max",
    "Song Plus",
    "Song Pro",
    "Tang",
@@ -1958,7 +1959,8 @@
    "Х9"
   ],
   "Leapmotor": [
-   "C11"
+   "C11",
+   "T03"
   ],
   "Lexus": [
    "CT",
@@ -2824,6 +2826,7 @@
    "Barracuda",
    "Breeze",
    "Caravelle",
+   "Colt",
    "Cranbrook",
    "Fury",
    "Horizon",
@@ -3027,7 +3030,8 @@
    "SM3",
    "SM5",
    "SM6",
-   "SM7"
+   "SM7",
+   "XM3"
   ],
   "Rezvani": [
    "Beast",
@@ -3305,6 +3309,7 @@
    "Carry",
    "Celerio",
    "Cervo",
+   "Ciaz",
    "Cultus",
    "Equator",
    "Ertiga",
