@@ -203,6 +203,7 @@ BAIC;BJ2020
 BAIC;BJ2021
 BAIC;BJ2026
 BAIC;BJ212
+BAIC;BJ40
 BAIC;EU260
 BAIC;EU5
 BAIC;EX5
@@ -349,6 +350,7 @@ Buick;Wildcat
 BYD;Dolphin
 BYD;E1
 BYD;e2
+BYD;E5
 BYD;E6
 BYD;F0
 BYD;F3
@@ -414,6 +416,7 @@ Changan;Auchan A600 EV
 Changan;Benni
 Changan;Benni EC/EV
 Changan;CM-8
+Changan;CS15
 Changan;CS35
 Changan;CS35PLUS
 Changan;CS55
@@ -1463,6 +1466,7 @@ JAC;S1 (Rein)
 JAC;S3
 JAC;S5 (Eagle)
 JAC;S7
+JAC;Sehol Aipao
 JAC;T6
 Jaguar;E-Pace
 Jaguar;E-type
@@ -2021,6 +2025,7 @@ Metrocab;Metrocab I
 Metrocab;Metrocab II (TTT)
 MG;3
 MG;350
+MG;4 EV
 MG;5
 MG;550
 MG;6
@@ -2618,6 +2623,7 @@ Rinspeed;Chopster
 Rivian;R1T
 Roewe;E50
 Roewe;Ei5
+Roewe;iMAX8
 Rolls-Royce;20/25
 Rolls-Royce;Camargue
 Rolls-Royce;Corniche
@@ -3264,6 +3270,7 @@ Wanderer;W23
 Wanderer;W50
 Wartburg;1.3
 Wartburg;353
+Weltmeister;E5
 Weltmeister;EX5
 Weltmeister;W6
 Westfield;SEi & Sport
