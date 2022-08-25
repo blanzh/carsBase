@@ -89,6 +89,8 @@ AMC;Matador
 AMC;Rambler Ambassador
 AMC;Rambler Classic
 Apal;21541 Stalker
+Arcfox;Alpha S
+Arcfox;Alpha T
 Ariel;Atom
 Ariel;Nomad
 Aro;10
@@ -425,6 +427,7 @@ Changan;CS95
 Changan;CX20
 Changan;Eado
 Changan;Raeton
+Changan;Shenlan SL03
 Changan;UNI-K
 Changan;Z-Shine
 ChangFeng;Flying
@@ -515,6 +518,7 @@ Chevrolet;LUV D-MAX
 Chevrolet;Malibu
 Chevrolet;Master
 Chevrolet;Matiz
+Chevrolet;Menlo
 Chevrolet;Metro
 Chevrolet;Monte Carlo
 Chevrolet;Monza
@@ -780,6 +784,7 @@ Deco Rides;Zephyr
 Delage;D12
 Delage;D6
 DeLorean;DMC-12
+Denza;X
 Derways;Antelope
 Derways;Aurora
 Derways;Cowboy
@@ -809,6 +814,7 @@ Dodge;Daytona
 Dodge;Diplomat
 Dodge;Durango
 Dodge;Dynasty
+Dodge;Hornet
 Dodge;Intrepid
 Dodge;Journey
 Dodge;Lancer
@@ -1092,6 +1098,7 @@ GAC;GS5
 GAC;GS8
 GAC Aion;S
 GAC Aion;S Plus
+GAC Aion;V
 GAC Aion;Y
 Geely;Atlas
 Geely;Atlas Pro
@@ -1466,7 +1473,9 @@ JAC;S1 (Rein)
 JAC;S3
 JAC;S5 (Eagle)
 JAC;S7
+JAC;Sehol A5 Plus
 JAC;Sehol Aipao
+JAC;Sehol E20X
 JAC;T6
 Jaguar;E-Pace
 Jaguar;E-type
@@ -1911,6 +1920,7 @@ Mercedes-Benz;220 (W187)
 Mercedes-Benz;A-Класс
 Mercedes-Benz;A-Класс AMG
 Mercedes-Benz;AMG GT
+Mercedes-Benz;AMG ONE
 Mercedes-Benz;B-Класс
 Mercedes-Benz;C-Класс
 Mercedes-Benz;C-Класс AMG
@@ -2027,6 +2037,7 @@ MG;3
 MG;350
 MG;4 EV
 MG;5
+MG;5 EV
 MG;550
 MG;6
 MG;750
@@ -2115,6 +2126,7 @@ Mitsubishi;Mirage
 Mitsubishi;Montero
 Mitsubishi;Montero Sport
 Mitsubishi;Outlander
+Mitsubishi;Outlander Sport
 Mitsubishi;Pajero
 Mitsubishi;Pajero iO
 Mitsubishi;Pajero Junior

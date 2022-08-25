@@ -111,6 +111,10 @@
   "Apal": [
    "21541 Stalker"
   ],
+  "Arcfox": [
+   "Alpha S",
+   "Alpha T"
+  ],
   "Ariel": [
    "Atom",
    "Nomad"
@@ -518,6 +522,7 @@
    "CX20",
    "Eado",
    "Raeton",
+   "Shenlan SL03",
    "UNI-K",
    "Z-Shine"
   ],
@@ -616,6 +621,7 @@
    "Malibu",
    "Master",
    "Matiz",
+   "Menlo",
    "Metro",
    "Monte Carlo",
    "Monza",
@@ -918,6 +924,9 @@
   "DeLorean": [
    "DMC-12"
   ],
+  "Denza": [
+   "X"
+  ],
   "Derways": [
    "Antelope",
    "Aurora",
@@ -954,6 +963,7 @@
    "Diplomat",
    "Durango",
    "Dynasty",
+   "Hornet",
    "Intrepid",
    "Journey",
    "Lancer",
@@ -1283,6 +1293,7 @@
   "GAC Aion": [
    "S",
    "S Plus",
+   "V",
    "Y"
   ],
   "Geely": [
@@ -1731,7 +1742,9 @@
    "S3",
    "S5 (Eagle)",
    "S7",
+   "Sehol A5 Plus",
    "Sehol Aipao",
+   "Sehol E20X",
    "T6"
   ],
   "Jaguar": [
@@ -2250,6 +2263,7 @@
    "A-Класс",
    "A-Класс AMG",
    "AMG GT",
+   "AMG ONE",
    "B-Класс",
    "C-Класс",
    "C-Класс AMG",
@@ -2374,6 +2388,7 @@
    "350",
    "4 EV",
    "5",
+   "5 EV",
    "550",
    "6",
    "750",
@@ -2470,6 +2485,7 @@
    "Montero",
    "Montero Sport",
    "Outlander",
+   "Outlander Sport",
    "Pajero",
    "Pajero iO",
    "Pajero Junior",
