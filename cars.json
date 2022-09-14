@@ -186,6 +186,7 @@
    "Q4 e-tron",
    "Q4 Sportback e-tron",
    "Q5",
+   "Q5 e-tron",
    "Q5 Sportback",
    "Q7",
    "Q8",
@@ -240,6 +241,9 @@
   "Austin Healey": [
    "100",
    "3000"
+  ],
+  "Auto Union": [
+   "1000 Sp"
   ],
   "Autobianchi": [
    "A 112"
@@ -522,6 +526,7 @@
    "CX20",
    "Eado",
    "Linmax",
+   "Oshan X5",
    "Raeton",
    "Shenlan SL03",
    "UNI-K",
@@ -558,7 +563,9 @@
    "Tiggo 2",
    "Tiggo 2 Pro",
    "Tiggo 3",
+   "Tiggo 3xe",
    "Tiggo 4",
+   "Tiggo 4 Pro",
    "Tiggo 5",
    "Tiggo 7",
    "Tiggo 7 Pro",
@@ -1042,6 +1049,11 @@
   "Everus": [
    "VE-1"
   ],
+  "Evolute": [
+   "i-JOY",
+   "i-PRO",
+   "i-VAN"
+  ],
   "Excalibur": [
    "Series IV",
    "Series V"
@@ -1108,6 +1120,7 @@
    "Mondial",
    "Monza SP",
    "Portofino",
+   "Purosangue",
    "Roma",
    "SF90 Stradale",
    "Testarossa"
@@ -1319,6 +1332,7 @@
    "LC (Panda) Cross",
    "MK",
    "MK Cross",
+   "Monjaro",
    "MR",
    "Preface",
    "SC7",
@@ -1619,6 +1633,7 @@
    "ix35",
    "ix55",
    "Kona",
+   "Kona N",
    "Lantra",
    "Lavita",
    "Marcia",
@@ -1738,6 +1753,7 @@
    "J6 (Heyue RS)",
    "J7",
    "J7 (Binyue)",
+   "JS4",
    "M1 (Refine)",
    "M5",
    "S1 (Rein)",
@@ -2047,6 +2063,7 @@
    "Zephyr"
   ],
   "LiXiang": [
+   "L9",
    "One"
   ],
   "Logem": [
@@ -3335,6 +3352,7 @@
    "Cervo",
    "Ciaz",
    "Cultus",
+   "DZire",
    "Equator",
    "Ertiga",
    "Escudo",
@@ -3353,6 +3371,7 @@
    "MR Wagon",
    "Palette",
    "Reno",
+   "S-Presso",
    "Samurai",
    "Sidekick",
    "Solio",
@@ -3809,6 +3828,7 @@
    "Tingo"
   ],
   "Voyah": [
+   "Dreamer",
    "Free"
   ],
   "VUHL": [

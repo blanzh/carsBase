@@ -151,6 +151,7 @@ Audi;Q3 Sportback
 Audi;Q4 e-tron
 Audi;Q4 Sportback e-tron
 Audi;Q5
+Audi;Q5 e-tron
 Audi;Q5 Sportback
 Audi;Q7
 Audi;Q8
@@ -199,6 +200,7 @@ Austin;Princess
 Austin;Sprite
 Austin Healey;100
 Austin Healey;3000
+Auto Union;1000 Sp
 Autobianchi;A 112
 BAIC;A1
 BAIC;BJ2020
@@ -427,6 +429,7 @@ Changan;CS95
 Changan;CX20
 Changan;Eado
 Changan;Linmax
+Changan;Oshan X5
 Changan;Raeton
 Changan;Shenlan SL03
 Changan;UNI-K
@@ -457,7 +460,9 @@ Chery;Tiggo (T11)
 Chery;Tiggo 2
 Chery;Tiggo 2 Pro
 Chery;Tiggo 3
+Chery;Tiggo 3xe
 Chery;Tiggo 4
+Chery;Tiggo 4 Pro
 Chery;Tiggo 5
 Chery;Tiggo 7
 Chery;Tiggo 7 Pro
@@ -874,6 +879,9 @@ Eagle;Vision
 Eagle;Vista
 Eagle Cars;SS
 Everus;VE-1
+Evolute;i-JOY
+Evolute;i-PRO
+Evolute;i-VAN
 Excalibur;Series IV
 Excalibur;Series V
 EXEED;LX
@@ -931,6 +939,7 @@ Ferrari;LaFerrari
 Ferrari;Mondial
 Ferrari;Monza SP
 Ferrari;Portofino
+Ferrari;Purosangue
 Ferrari;Roma
 Ferrari;SF90 Stradale
 Ferrari;Testarossa
@@ -1122,6 +1131,7 @@ Geely;LC (Panda)
 Geely;LC (Panda) Cross
 Geely;MK
 Geely;MK Cross
+Geely;Monjaro
 Geely;MR
 Geely;Preface
 Geely;SC7
@@ -1368,6 +1378,7 @@ Hyundai;ix20
 Hyundai;ix35
 Hyundai;ix55
 Hyundai;Kona
+Hyundai;Kona N
 Hyundai;Lantra
 Hyundai;Lavita
 Hyundai;Marcia
@@ -1469,6 +1480,7 @@ JAC;J5 (Heyue)
 JAC;J6 (Heyue RS)
 JAC;J7
 JAC;J7 (Binyue)
+JAC;JS4
 JAC;M1 (Refine)
 JAC;M5
 JAC;S1 (Rein)
@@ -1738,6 +1750,7 @@ Lincoln;Premiere
 Lincoln;Town Car
 Lincoln;Versailles
 Lincoln;Zephyr
+LiXiang;L9
 LiXiang;One
 Logem;EC30
 Lotus;3-Eleven
@@ -2848,6 +2861,7 @@ Suzuki;Celerio
 Suzuki;Cervo
 Suzuki;Ciaz
 Suzuki;Cultus
+Suzuki;DZire
 Suzuki;Equator
 Suzuki;Ertiga
 Suzuki;Escudo
@@ -2866,6 +2880,7 @@ Suzuki;Liana
 Suzuki;MR Wagon
 Suzuki;Palette
 Suzuki;Reno
+Suzuki;S-Presso
 Suzuki;Samurai
 Suzuki;Sidekick
 Suzuki;Solio
@@ -3276,6 +3291,7 @@ Volvo;XC90
 Vortex;Corda
 Vortex;Estina
 Vortex;Tingo
+Voyah;Dreamer
 Voyah;Free
 VUHL;05
 W Motors;Fenyr Supersport
