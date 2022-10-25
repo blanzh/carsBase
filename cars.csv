@@ -427,6 +427,7 @@ Changan;CS35
 Changan;CS35PLUS
 Changan;CS55
 Changan;CS75
+Changan;CS85
 Changan;CS95
 Changan;CX20
 Changan;Eado
@@ -517,6 +518,7 @@ Chevrolet;Equinox
 Chevrolet;Evanda
 Chevrolet;Express
 Chevrolet;Fleetmaster
+Chevrolet;Groove
 Chevrolet;HHR
 Chevrolet;Impala
 Chevrolet;Kalos
@@ -854,6 +856,7 @@ DongFeng;AX7
 DongFeng;DF6
 DongFeng;E11K
 DongFeng;H30 Cross
+DongFeng;iX5
 DongFeng;MPV
 DongFeng;Oting
 DongFeng;Rich
@@ -1299,6 +1302,7 @@ Honda;Mobilio Spike
 Honda;N-BOX
 Honda;N-BOX Slash
 Honda;N-One
+Honda;N-VAN
 Honda;N-WGN
 Honda;N360
 Honda;NSX
@@ -1437,6 +1441,7 @@ Innocenti;Mille
 Innocenti;Mini
 International;Travelall
 Invicta;S1
+Iran Khodro;Arisun
 Iran Khodro;Dena
 Iran Khodro;Paykan
 Iran Khodro;Runna
@@ -1532,6 +1537,7 @@ Jensen;Interceptor
 Jensen;S-V8
 Jinbei;Haise
 JMC;Baodian
+Kaiyi;E5
 Kia;Avella
 Kia;Borrego
 Kia;Cadenza
@@ -1964,6 +1970,8 @@ Mercedes-Benz;EQB
 Mercedes-Benz;EQC
 Mercedes-Benz;EQE
 Mercedes-Benz;EQE AMG
+Mercedes-Benz;EQE SUV
+Mercedes-Benz;EQE SUV AMG
 Mercedes-Benz;EQS
 Mercedes-Benz;EQS AMG
 Mercedes-Benz;EQS SUV
@@ -2662,6 +2670,11 @@ Roewe;i5
 Roewe;i6
 Roewe;i6 Max
 Roewe;iMAX8
+Roewe;RX3
+Roewe;RX3 Pro
+Roewe;RX5
+Roewe;RX5 Max
+Roewe;RX8
 Rolls-Royce;20/25
 Rolls-Royce;Camargue
 Rolls-Royce;Corniche

@@ -524,6 +524,7 @@
    "CS35PLUS",
    "CS55",
    "CS75",
+   "CS85",
    "CS95",
    "CX20",
    "Eado",
@@ -622,6 +623,7 @@
    "Evanda",
    "Express",
    "Fleetmaster",
+   "Groove",
    "HHR",
    "Impala",
    "Kalos",
@@ -1007,6 +1009,7 @@
    "DF6",
    "E11K",
    "H30 Cross",
+   "iX5",
    "MPV",
    "Oting",
    "Rich",
@@ -1540,6 +1543,7 @@
    "N-BOX",
    "N-BOX Slash",
    "N-One",
+   "N-VAN",
    "N-WGN",
    "N360",
    "NSX",
@@ -1704,6 +1708,7 @@
    "S1"
   ],
   "Iran Khodro": [
+   "Arisun",
    "Dena",
    "Paykan",
    "Runna",
@@ -1817,6 +1822,9 @@
   ],
   "JMC": [
    "Baodian"
+  ],
+  "Kaiyi": [
+   "E5"
   ],
   "Kia": [
    "Avella",
@@ -2313,6 +2321,8 @@
    "EQC",
    "EQE",
    "EQE AMG",
+   "EQE SUV",
+   "EQE SUV AMG",
    "EQS",
    "EQS AMG",
    "EQS SUV",
@@ -3106,7 +3116,12 @@
    "i5",
    "i6",
    "i6 Max",
-   "iMAX8"
+   "iMAX8",
+   "RX3",
+   "RX3 Pro",
+   "RX5",
+   "RX5 Max",
+   "RX8"
   ],
   "Rolls-Royce": [
    "20/25",

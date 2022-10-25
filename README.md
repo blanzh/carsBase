@@ -1,7 +1,7 @@
 # База данных автомобилей JSON, CSV
 **cars.json** - бесплатная база данных марок и моделей легковых автомобилей с https://auto.ru/cars/all/  
 **cars.csv** - версия в формате таблицы |Марка|Модель|  
-В базе **302 марок**
+В базе **303 марок**
 [Демо базы](https://blanzh.github.io/carsBase/)
 
 _База обновляется_
@@ -41,16 +41,16 @@ _В этой базе данные представлены для ознако�
 **Для получения полной базы свяжитесь со мной** в телеграме https://t.me/gulpsun9 или по почте gulpsun@gmail.com  
 с пометкой "**Коммерческий и мото транспорт**"
 
-### Обновление от 24.10.2022
+### Обновление от 25.10.2022
 |#|name|id|group|
 |---|---|---|---|
-|1|[Легковой](https://auto.ru/cars/all/) (302)|`cars`|`cars`|
+|1|[Легковой](https://auto.ru/cars/all/) (303)|`cars`|`cars`|
 |2|[Сельскохозяйственный](https://auto.ru/agricultural/all/) (195)|`agricultural`|`commercial`|
-|3|[Седельный тягач](https://auto.ru/artic/all/) (61)|`artic`|`commercial`|
-|4|[Автопогрузчик](https://auto.ru/autoloader/all/) (254)|`autoloader`|`commercial`|
+|3|[Седельный тягач](https://auto.ru/artic/all/) (62)|`artic`|`commercial`|
+|4|[Автопогрузчик](https://auto.ru/autoloader/all/) (255)|`autoloader`|`commercial`|
 |5|[Бульдозер](https://auto.ru/bulldozers/all/) (47)|`bulldozers`|`commercial`|
 |6|[Автобус](https://auto.ru/bus/all/) (108)|`bus`|`commercial`|
-|7|[Строительная](https://auto.ru/construction/all/) (284)|`construction`|`commercial`|
+|7|[Строительная](https://auto.ru/construction/all/) (285)|`construction`|`commercial`|
 |8|[Автокран](https://auto.ru/crane/all/) (62)|`crane`|`commercial`|
 |9|[Экскаватор](https://auto.ru/dredge/all/) (144)|`dredge`|`commercial`|
 |10|[Легкий коммерческий](https://auto.ru/lcv/all/) (93)|`lcv`|`commercial`|
@@ -58,11 +58,11 @@ _В этой базе данные представлены для ознако�
 |12|[Съемный кузов](https://auto.ru/swap_body/all/) (14)|`swap_body`|`commercial`|
 |13|[Прицеп](https://auto.ru/trailer/all/) (774)|`trailer`|`commercial`|
 |14|[Грузовик](https://auto.ru/truck/all/) (108)|`truck`|`commercial`|
-|15|[Мотовездеход](https://auto.ru/atv/all/) (255)|`atv`|`moto`|
-|16|[Мотоцикл](https://auto.ru/motorcycle/all/) (304)|`motorcycle`|`moto`|
+|15|[Мотовездеход](https://auto.ru/atv/all/) (256)|`atv`|`moto`|
+|16|[Мотоцикл](https://auto.ru/motorcycle/all/) (305)|`motorcycle`|`moto`|
 |17|[Скутер](https://auto.ru/scooters/all/) (137)|`scooters`|`moto`|
-|18|[Снегоход](https://auto.ru/snowmobile/all/) (59)|`snowmobile`|`moto`|
+|18|[Снегоход](https://auto.ru/snowmobile/all/) (60)|`snowmobile`|`moto`|
 
-Всего марок: **3349**  
-Всего моделей: **18403**
+Всего марок: **3356**  
+Всего моделей: **18453**
 
