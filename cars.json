@@ -3161,6 +3161,14 @@
         "year-to": null
       },
       {
+        "id": "DIVO",
+        "name": "Divo",
+        "cyrillic-name": "Диво",
+        "class": "S",
+        "year-from": 2018,
+        "year-to": 2021
+      },
+      {
         "id": "EB_110",
         "name": "EB 110",
         "cyrillic-name": "еб 110",
@@ -4309,6 +4317,14 @@
         "year-to": 2018
       },
       {
+        "id": "ARRIZO_8",
+        "name": "Arrizo 8",
+        "cyrillic-name": "Арризо 8",
+        "class": "D",
+        "year-from": 2022,
+        "year-to": null
+      },
+      {
         "id": "B13",
         "name": "B13",
         "cyrillic-name": "Б13",
@@ -4465,7 +4481,7 @@
         "name": "Tiggo 3x",
         "cyrillic-name": "Тигго 3Х",
         "class": "B",
-        "year-from": 2020,
+        "year-from": 2016,
         "year-to": null
       },
       {
@@ -4574,14 +4590,6 @@
     "country": "Китай",
     "models": [
       {
-        "id": "ATLANTIX",
-        "name": "AtlantiX",
-        "cyrillic-name": "Атлантикс",
-        "class": "D",
-        "year-from": 2023,
-        "year-to": null
-      },
-      {
         "id": "LX",
         "name": "LX",
         "cyrillic-name": "ЛХ",
@@ -4603,6 +4611,14 @@
         "cyrillic-name": "ВХ",
         "class": "E",
         "year-from": 2021,
+        "year-to": null
+      },
+      {
+        "id": "YAOGUANG",
+        "name": "Yaoguang",
+        "cyrillic-name": "Яогуанг",
+        "class": "D",
+        "year-from": 2023,
         "year-to": null
       }
     ]
@@ -8231,6 +8247,14 @@
         "year-to": null
       },
       {
+        "id": "I_SKY",
+        "name": "i-SKY",
+        "cyrillic-name": "АйСкай",
+        "class": "D",
+        "year-from": 2023,
+        "year-to": null
+      },
+      {
         "id": "I_VAN",
         "name": "i-VAN",
         "cyrillic-name": "ай-ВЭН",
@@ -10052,11 +10076,19 @@
   },
   {
     "id": "FORTHING",
-    "name": "Dongfeng Forthing",
-    "cyrillic-name": "Донгфенг Форфинг",
+    "name": "DongFeng Forthing",
+    "cyrillic-name": "ДонгФенг Форфинг",
     "popular": false,
     "country": "Китай",
     "models": [
+      {
+        "id": "LINGZHI_M5",
+        "name": "Lingzhi M5",
+        "cyrillic-name": "Лингжи М5",
+        "class": "M",
+        "year-from": 2020,
+        "year-to": null
+      },
       {
         "id": "T5_EVO",
         "name": "T5 EVO",
@@ -10613,6 +10645,14 @@
         "cyrillic-name": "Геометрия Ц",
         "class": "C",
         "year-from": 2020,
+        "year-to": null
+      },
+      {
+        "id": "GEOMETRY_E",
+        "name": "Geometry E",
+        "cyrillic-name": "Геометрия Е",
+        "class": "B",
+        "year-from": 2022,
         "year-to": null
       },
       {
@@ -11200,6 +11240,14 @@
         "year-to": null
       },
       {
+        "id": "POER_KING_KONG",
+        "name": "Poer King Kong",
+        "cyrillic-name": "Кинг Конг",
+        "class": "J",
+        "year-from": 2022,
+        "year-to": null
+      },
+      {
         "id": "SAFE",
         "name": "Safe",
         "cyrillic-name": "Сэйф",
@@ -11390,8 +11438,8 @@
         "name": "E3",
         "cyrillic-name": "Е3",
         "class": "C",
-        "year-from": 2018,
-        "year-to": null
+        "year-from": 2016,
+        "year-to": 2019
       },
       {
         "id": "FAMILY",
@@ -11438,7 +11486,7 @@
         "name": "S5 Young",
         "cyrillic-name": "С5 Янг",
         "class": "A",
-        "year-from": 2018,
+        "year-from": 2017,
         "year-to": 2018
       }
     ]
@@ -12624,7 +12672,7 @@
         "id": "E_QM5",
         "name": "E-QM5",
         "cyrillic-name": "Е-КьюМ5",
-        "class": "C",
+        "class": "E",
         "year-from": 2021,
         "year-to": null
       },
@@ -14480,6 +14528,14 @@
     "country": "США",
     "models": [
       {
+        "id": "AVENGER",
+        "name": "Avenger",
+        "cyrillic-name": "Авенджер",
+        "class": "B",
+        "year-from": 2023,
+        "year-to": null
+      },
+      {
         "id": "CHEROKEE",
         "name": "Cherokee",
         "cyrillic-name": "Чероки",
@@ -14610,6 +14666,14 @@
     "country": "Китай",
     "models": [
       {
+        "id": "DASHING",
+        "name": "Dashing",
+        "cyrillic-name": "Дашинг",
+        "class": "C",
+        "year-from": 2022,
+        "year-to": null
+      },
+      {
         "id": "X70_PLUS",
         "name": "X70 PLUS",
         "cyrillic-name": "Х70 Плюс",
@@ -14706,7 +14770,15 @@
         "name": "E5",
         "cyrillic-name": "е5",
         "class": "C",
-        "year-from": 2016,
+        "year-from": 2021,
+        "year-to": null
+      },
+      {
+        "id": "X3",
+        "name": "X3",
+        "cyrillic-name": "Икс3",
+        "class": "B",
+        "year-from": 2020,
         "year-to": null
       },
       {
@@ -14928,6 +15000,14 @@
         "year-to": 2022
       },
       {
+        "id": "KX1",
+        "name": "KX1",
+        "cyrillic-name": "КаИкс1",
+        "class": "B",
+        "year-from": 2018,
+        "year-to": null
+      },
+      {
         "id": "KX3",
         "name": "KX3",
         "cyrillic-name": "КаИкс3",
@@ -14998,6 +15078,14 @@
         "class": "D",
         "year-from": 2000,
         "year-to": 2020
+      },
+      {
+        "id": "PEGAS",
+        "name": "Pegas",
+        "cyrillic-name": "Пегас",
+        "class": "B",
+        "year-from": 2017,
+        "year-to": null
       },
       {
         "id": "PICANTO",
@@ -15474,6 +15562,14 @@
         "class": "S",
         "year-from": 2007,
         "year-to": 2010
+      },
+      {
+        "id": "REVUELTO",
+        "name": "Revuelto",
+        "cyrillic-name": "Ревуэлто",
+        "class": "S",
+        "year-from": 2023,
+        "year-to": null
       },
       {
         "id": "SESTO_ELEMENTO",
@@ -15958,7 +16054,7 @@
         "cyrillic-name": "гс",
         "class": "E",
         "year-from": 1993,
-        "year-to": 2018
+        "year-to": 2020
       },
       {
         "id": "GS_F",
@@ -17286,16 +17382,24 @@
       },
       {
         "id": "D90_PRO",
-        "name": "D90 Pro",
+        "name": "D90",
         "cyrillic-name": "Д90 Про",
         "class": "J",
-        "year-from": 2020,
+        "year-from": 2017,
         "year-to": null
       },
       {
         "id": "G20",
         "name": "G20",
         "cyrillic-name": "Джи20",
+        "class": "M",
+        "year-from": 2019,
+        "year-to": null
+      },
+      {
+        "id": "G50",
+        "name": "G50",
+        "cyrillic-name": "Джи50",
         "class": "M",
         "year-from": 2019,
         "year-to": null
@@ -17644,6 +17748,14 @@
         "cyrillic-name": "цкс-5",
         "class": "C",
         "year-from": 2011,
+        "year-to": null
+      },
+      {
+        "id": "CX_50",
+        "name": "CX-50",
+        "cyrillic-name": "ЦИкс-50",
+        "class": "C",
+        "year-from": 2022,
         "year-to": null
       },
       {
@@ -19276,6 +19388,14 @@
         "class": "C",
         "year-from": 2015,
         "year-to": 2019
+      },
+      {
+        "id": "HS",
+        "name": "HS",
+        "cyrillic-name": "ХС",
+        "class": "C",
+        "year-from": 2018,
+        "year-to": null
       },
       {
         "id": "MAESTRO",
@@ -22348,7 +22468,7 @@
         "cyrillic-name": "Блэк Кэт",
         "class": "A",
         "year-from": 2019,
-        "year-to": null
+        "year-to": 2022
       },
       {
         "id": "GOOD_CAT",
@@ -22372,7 +22492,7 @@
         "cyrillic-name": "Вайт Кэт",
         "class": "A",
         "year-from": 2020,
-        "year-to": null
+        "year-to": 2022
       }
     ]
   },
@@ -23003,6 +23123,14 @@
         "cyrillic-name": "Партнер",
         "class": "M",
         "year-from": 1997,
+        "year-to": null
+      },
+      {
+        "id": "PICK_UP",
+        "name": "Pick Up",
+        "cyrillic-name": "Пик Ап",
+        "class": "J",
+        "year-from": 2017,
         "year-to": null
       },
       {
@@ -25407,7 +25535,7 @@
         "id": "SHAHIN",
         "name": "Shahin",
         "cyrillic-name": "шахин",
-        "class": "B",
+        "class": "C",
         "year-from": 2020,
         "year-to": null
       },
@@ -30284,6 +30412,47 @@
     ]
   },
   {
+    "id": "VINFAST",
+    "name": "VinFast",
+    "cyrillic-name": "Винфаст",
+    "popular": false,
+    "country": "Вьетнам",
+    "models": [
+      {
+        "id": "LUX_A",
+        "name": "LUX A2.0",
+        "cyrillic-name": "Люкс А2.0",
+        "class": "E",
+        "year-from": 2019,
+        "year-to": 2022
+      },
+      {
+        "id": "LUX_SA",
+        "name": "LUX SA2.0",
+        "cyrillic-name": "Люкс СА2.0",
+        "class": "D",
+        "year-from": 2019,
+        "year-to": 2022
+      },
+      {
+        "id": "VF6",
+        "name": "VF6",
+        "cyrillic-name": "ВФ6",
+        "class": "B",
+        "year-from": 2023,
+        "year-to": null
+      },
+      {
+        "id": "VF7",
+        "name": "VF7",
+        "cyrillic-name": "ВФ7",
+        "class": "C",
+        "year-from": 2022,
+        "year-to": null
+      }
+    ]
+  },
+  {
     "id": "VOLKSWAGEN",
     "name": "Volkswagen",
     "cyrillic-name": "Фольксваген",
@@ -30710,9 +30879,9 @@
         "id": "SANTANA",
         "name": "Santana",
         "cyrillic-name": "Сантана",
-        "class": "D",
+        "class": "C",
         "year-from": 1981,
-        "year-to": 1988
+        "year-to": 2022
       },
       {
         "id": "SCIROCCO",
@@ -31358,6 +31527,14 @@
     "country": "Китай",
     "models": [
       {
+        "id": "CHASING_LIGHT",
+        "name": "Chasing Light",
+        "cyrillic-name": "Чесинг Лайт",
+        "class": "E",
+        "year-from": 2022,
+        "year-to": null
+      },
+      {
         "id": "DREAM",
         "name": "Dream",
         "cyrillic-name": "Дрим",
@@ -31529,6 +31706,14 @@
         "cyrillic-name": "Кофе 02",
         "class": "D",
         "year-from": 2021,
+        "year-to": null
+      },
+      {
+        "id": "LANSHAN",
+        "name": "Lanshan",
+        "cyrillic-name": "Ланшан",
+        "class": "C",
+        "year-from": 2023,
         "year-to": null
       }
     ]
