@@ -2024,6 +2024,14 @@
         "year-to": null
       },
       {
+        "id": "BJ40_PLUS",
+        "name": "BJ40 Plus",
+        "cyrillic-name": "БиДжи 40 Плюс",
+        "class": "J",
+        "year-from": 2019,
+        "year-to": null
+      },
+      {
         "id": "BJ60",
         "name": "BJ60",
         "cyrillic-name": "БЖ60",
@@ -2101,6 +2109,14 @@
         "cyrillic-name": "У5",
         "class": "C",
         "year-from": 2014,
+        "year-to": 2022
+      },
+      {
+        "id": "U5_PLUS",
+        "name": "U5 Plus",
+        "cyrillic-name": "У5 Плюс",
+        "class": "C",
+        "year-from": 2021,
         "year-to": null
       },
       {
@@ -2113,7 +2129,7 @@
       },
       {
         "id": "X3",
-        "name": "X3",
+        "name": "X35",
         "cyrillic-name": "Икс3",
         "class": "C",
         "year-from": 2019,
@@ -2125,6 +2141,14 @@
         "cyrillic-name": "Икс5",
         "class": "C",
         "year-from": 2015,
+        "year-to": null
+      },
+      {
+        "id": "X55",
+        "name": "X55",
+        "cyrillic-name": "Икс55",
+        "class": "C",
+        "year-from": 2022,
         "year-to": null
       },
       {
@@ -4175,6 +4199,14 @@
         "cyrillic-name": "Еадо",
         "class": "C",
         "year-from": 2013,
+        "year-to": null
+      },
+      {
+        "id": "EXPLORER",
+        "name": "Explorer",
+        "cyrillic-name": "Эксплорер",
+        "class": "J",
+        "year-from": 2023,
         "year-to": null
       },
       {
@@ -6917,9 +6949,9 @@
         "id": "ROCKY",
         "name": "Rocky",
         "cyrillic-name": "Роки",
-        "class": "J",
+        "class": "C",
         "year-from": 1989,
-        "year-to": 1998
+        "year-to": null
       },
       {
         "id": "RUGGER",
@@ -7871,6 +7903,14 @@
         "year-to": 2019
       },
       {
+        "id": "AEOLUS_E70",
+        "name": "Aeolus E70",
+        "cyrillic-name": "Аеолус Е70",
+        "class": "B",
+        "year-from": 2019,
+        "year-to": null
+      },
+      {
         "id": "YIXUAN_GS",
         "name": "Aeolus Yixuan GS",
         "cyrillic-name": "Исюань ГС",
@@ -8425,7 +8465,7 @@
         "cyrillic-name": "Бестурн Х40",
         "class": "B",
         "year-from": 2016,
-        "year-to": null
+        "year-to": 2023
       },
       {
         "id": "X80",
@@ -9470,7 +9510,7 @@
         "cyrillic-name": "Эскорт",
         "class": "C",
         "year-from": 1968,
-        "year-to": 2000
+        "year-to": 2002
       },
       {
         "id": "ESCORT_NA",
@@ -10076,8 +10116,8 @@
   },
   {
     "id": "FORTHING",
-    "name": "DongFeng Forthing",
-    "cyrillic-name": "ДонгФенг Форфинг",
+    "name": "Forthing",
+    "cyrillic-name": "Форфинг",
     "popular": false,
     "country": "Китай",
     "models": [
@@ -10548,7 +10588,7 @@
         "name": "Boyue",
         "cyrillic-name": "Боую",
         "class": "C",
-        "year-from": 2022,
+        "year-from": 2016,
         "year-to": null
       },
       {
@@ -10672,6 +10712,14 @@
         "year-to": 2006
       },
       {
+        "id": "ICON",
+        "name": "Icon",
+        "cyrillic-name": "Айкон",
+        "class": "B",
+        "year-from": 2020,
+        "year-to": null
+      },
+      {
         "id": "JIAJI",
         "name": "Jiaji",
         "cyrillic-name": "Джиаджи",
@@ -10781,7 +10829,7 @@
         "cyrillic-name": "Вижн Икс 6",
         "class": "C",
         "year-from": 2016,
-        "year-to": null
+        "year-to": 2021
       },
       {
         "id": "VISION_X6_PRO",
@@ -11309,7 +11357,7 @@
         "cyrillic-name": "Вингл 7",
         "class": "F",
         "year-from": 2018,
-        "year-to": null
+        "year-to": 2023
       }
     ]
   },
@@ -11535,7 +11583,7 @@
         "id": "DAGOU",
         "name": "DaGou (Big Dog)",
         "cyrillic-name": "Дагоу (Биг Дог)",
-        "class": "C",
+        "class": "D",
         "year-from": 2020,
         "year-to": null
       },
@@ -13547,6 +13595,23 @@
         "class": "C",
         "year-from": 1967,
         "year-to": 1998
+      }
+    ]
+  },
+  {
+    "id": "IM_MOTORS",
+    "name": "IM Motors (Zhiji)",
+    "cyrillic-name": "ИмМоторс",
+    "popular": false,
+    "country": "Китай",
+    "models": [
+      {
+        "id": "L7",
+        "name": "L7",
+        "cyrillic-name": "Л7",
+        "class": "F",
+        "year-from": 2022,
+        "year-to": null
       }
     ]
   },
@@ -20014,7 +20079,7 @@
         "name": "Lancer Cargo",
         "cyrillic-name": "Лансер Карго",
         "class": "C",
-        "year-from": 2003,
+        "year-from": 2002,
         "year-to": 2019
       },
       {
@@ -20749,6 +20814,14 @@
         "class": "J",
         "year-from": 1968,
         "year-to": 1973
+      },
+      {
+        "id": "6",
+        "name": "6",
+        "cyrillic-name": "6",
+        "class": "C",
+        "year-from": 2023,
+        "year-to": null
       },
       {
         "id": "DUET",
@@ -23271,7 +23344,7 @@
         "cyrillic-name": "Кольт Виста",
         "class": "M",
         "year-from": 1983,
-        "year-to": 1991
+        "year-to": 1995
       },
       {
         "id": "CRANBROOK",
@@ -27126,9 +27199,9 @@
         "id": "CARRY",
         "name": "Carry",
         "cyrillic-name": "карри",
-        "class": "M",
+        "class": "",
         "year-from": 1979,
-        "year-to": 1998
+        "year-to": 2005
       },
       {
         "id": "CELERIO",
@@ -27230,9 +27303,9 @@
         "id": "GRAND_VITARA",
         "name": "Grand Vitara",
         "cyrillic-name": "Гранд Витара",
-        "class": "J",
+        "class": "C",
         "year-from": 1997,
-        "year-to": 2015
+        "year-to": null
       },
       {
         "id": "HUSTLER",
@@ -27449,6 +27522,55 @@
         "class": "E",
         "year-from": 2007,
         "year-to": 2009
+      }
+    ]
+  },
+  {
+    "id": "SWM",
+    "name": "SWM",
+    "cyrillic-name": "СВМ",
+    "popular": false,
+    "country": "Китай",
+    "models": [
+      {
+        "id": "G01",
+        "name": "G01",
+        "cyrillic-name": "Г01",
+        "class": "B",
+        "year-from": 2019,
+        "year-to": null
+      },
+      {
+        "id": "G01FF",
+        "name": "G01F",
+        "cyrillic-name": "Г01ФФ",
+        "class": "C",
+        "year-from": 2022,
+        "year-to": null
+      },
+      {
+        "id": "G05",
+        "name": "G05",
+        "cyrillic-name": "Г05",
+        "class": "C",
+        "year-from": 2019,
+        "year-to": 2021
+      },
+      {
+        "id": "G05PRO",
+        "name": "G05 Pro",
+        "cyrillic-name": "г05про",
+        "class": "C",
+        "year-from": 2021,
+        "year-to": null
+      },
+      {
+        "id": "TIGER",
+        "name": "Tiger",
+        "cyrillic-name": "Тайгер",
+        "class": "C",
+        "year-from": 2022,
+        "year-to": null
       }
     ]
   },
@@ -30430,7 +30552,7 @@
         "id": "LUX_SA",
         "name": "LUX SA2.0",
         "cyrillic-name": "Люкс СА2.0",
-        "class": "D",
+        "class": "E",
         "year-from": 2019,
         "year-to": 2022
       },
@@ -30448,6 +30570,22 @@
         "cyrillic-name": "ВФ7",
         "class": "C",
         "year-from": 2022,
+        "year-to": null
+      },
+      {
+        "id": "VF8",
+        "name": "VF8",
+        "cyrillic-name": "ВФ8",
+        "class": "D",
+        "year-from": 2022,
+        "year-to": null
+      },
+      {
+        "id": "VF9",
+        "name": "VF9",
+        "cyrillic-name": "ВФ9",
+        "class": "E",
+        "year-from": 2021,
         "year-to": null
       }
     ]
@@ -31527,14 +31665,6 @@
     "country": "Китай",
     "models": [
       {
-        "id": "CHASING_LIGHT",
-        "name": "Chasing Light",
-        "cyrillic-name": "Чесинг Лайт",
-        "class": "E",
-        "year-from": 2022,
-        "year-to": null
-      },
-      {
         "id": "DREAM",
         "name": "Dream",
         "cyrillic-name": "Дрим",
@@ -31548,6 +31678,14 @@
         "cyrillic-name": "Фри",
         "class": "E",
         "year-from": 2021,
+        "year-to": null
+      },
+      {
+        "id": "PASSION",
+        "name": "Passion",
+        "cyrillic-name": "Пассион",
+        "class": "E",
+        "year-from": 2022,
         "year-to": null
       }
     ]
@@ -32059,6 +32197,14 @@
         "cyrillic-name": "009",
         "class": "M",
         "year-from": 2022,
+        "year-to": null
+      },
+      {
+        "id": "X",
+        "name": "X",
+        "cyrillic-name": "Икс",
+        "class": "C",
+        "year-from": 2023,
         "year-to": null
       }
     ]
