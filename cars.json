@@ -300,39 +300,6 @@
     ]
   },
   {
-    "id": "AITO",
-    "name": "Aito",
-    "cyrillic-name": "Аито",
-    "popular": false,
-    "country": "Китай",
-    "models": [
-      {
-        "id": "AITO_M5",
-        "name": "M5",
-        "cyrillic-name": "м5",
-        "class": "D",
-        "year-from": 2022,
-        "year-to": null
-      },
-      {
-        "id": "AITO_M7",
-        "name": "M7",
-        "cyrillic-name": "м7",
-        "class": "D",
-        "year-from": 2022,
-        "year-to": null
-      },
-      {
-        "id": "AITO_M9",
-        "name": "M9",
-        "cyrillic-name": "м9",
-        "class": "E",
-        "year-from": 2023,
-        "year-to": null
-      }
-    ]
-  },
-  {
     "id": "AIWAYS",
     "name": "Aiways",
     "cyrillic-name": "Айвэйс",
@@ -869,6 +836,23 @@
         "class": "S",
         "year-from": 1985,
         "year-to": 1990
+      }
+    ]
+  },
+  {
+    "id": "AMBERAUTO",
+    "name": "Амберавто",
+    "cyrillic-name": "Амберавто",
+    "popular": false,
+    "country": "Россия",
+    "models": [
+      {
+        "id": "AMBERAUTO_A5",
+        "name": "А5",
+        "cyrillic-name": "А5",
+        "class": "D",
+        "year-from": 2023,
+        "year-to": null
       }
     ]
   },
@@ -3256,6 +3240,14 @@
         "year-to": 1942
       },
       {
+        "id": "BORGWARD_BX5",
+        "name": "BX5",
+        "cyrillic-name": "БиИкс5",
+        "class": "C",
+        "year-from": 2017,
+        "year-to": 2021
+      },
+      {
         "id": "BORGWARD_HANSA_1100",
         "name": "Hansa 1100",
         "cyrillic-name": "ханса 1100",
@@ -4060,6 +4052,14 @@
         "cyrillic-name": "Янгвэнг Ю8",
         "class": "J",
         "year-from": 2023,
+        "year-to": null
+      },
+      {
+        "id": "BYD_YANGWANG_U9",
+        "name": "Yangwang U9",
+        "cyrillic-name": "Янгвэнг Ю9",
+        "class": "S",
+        "year-from": 2024,
         "year-to": null
       },
       {
@@ -8283,31 +8283,6 @@
     ]
   },
   {
-    "id": "DFSK",
-    "name": "DFSK",
-    "cyrillic-name": "ДФСК",
-    "popular": false,
-    "country": "Китай",
-    "models": [
-      {
-        "id": "DFSK_IX5",
-        "name": "iX5",
-        "cyrillic-name": "АйИкс5",
-        "class": "C",
-        "year-from": 2023,
-        "year-to": null
-      },
-      {
-        "id": "DFSK_IX7",
-        "name": "iX7",
-        "cyrillic-name": "АйИкс7",
-        "class": "D",
-        "year-from": 2023,
-        "year-to": null
-      }
-    ]
-  },
-  {
     "id": "DKW",
     "name": "DKW",
     "cyrillic-name": "ДКВ",
@@ -8749,6 +8724,22 @@
         "year-to": null
       },
       {
+        "id": "DONGFENG_DFSK_IX5",
+        "name": "DFSK ix5",
+        "cyrillic-name": "ДФСК АйИкс5",
+        "class": "C",
+        "year-from": 2023,
+        "year-to": null
+      },
+      {
+        "id": "DONGFENG_DFSK_IX7",
+        "name": "DFSK ix7",
+        "cyrillic-name": "ДФСК АйИкс7",
+        "class": "D",
+        "year-from": 2023,
+        "year-to": null
+      },
+      {
         "id": "DONGFENG_E11K",
         "name": "E11K",
         "cyrillic-name": "Е11К",
@@ -8765,17 +8756,17 @@
         "year-to": null
       },
       {
-        "id": "DONGFENG_IX5",
+        "id": "DONGFENG_FENGGUANG_IX5",
         "name": "Fengguang iX5",
-        "cyrillic-name": "АйИкс5",
+        "cyrillic-name": "Фенгуанг АйИкс5",
         "class": "D",
         "year-from": 2018,
         "year-to": null
       },
       {
-        "id": "DONGFENG_IX7",
+        "id": "DONGFENG_FENGGUANG_IX7",
         "name": "Fengguang iX7",
-        "cyrillic-name": "АйИкс7",
+        "cyrillic-name": "Фенгуанг АйИкс7",
         "class": "E",
         "year-from": 2019,
         "year-to": null
@@ -10296,6 +10287,14 @@
         "year-to": 1997
       },
       {
+        "id": "FORD_ANGLIA",
+        "name": "Anglia",
+        "cyrillic-name": "Англиа",
+        "class": "B",
+        "year-from": 1959,
+        "year-to": 1968
+      },
+      {
         "id": "FORD_ASPIRE",
         "name": "Aspire",
         "cyrillic-name": "Эспайр",
@@ -11338,6 +11337,14 @@
         "cyrillic-name": "иА5",
         "class": "D",
         "year-from": 2019,
+        "year-to": null
+      },
+      {
+        "id": "GAC_M8",
+        "name": "M8",
+        "cyrillic-name": "М8",
+        "class": "M",
+        "year-from": 2023,
         "year-to": null
       }
     ]
@@ -15115,6 +15122,23 @@
     ]
   },
   {
+    "id": "INEOS",
+    "name": "Ineos",
+    "cyrillic-name": "Инеос",
+    "popular": false,
+    "country": "Великобритания",
+    "models": [
+      {
+        "id": "INEOS_GRENADIER",
+        "name": "Grenadier",
+        "cyrillic-name": "Гренадер",
+        "class": "J",
+        "year-from": 2022,
+        "year-to": null
+      }
+    ]
+  },
+  {
     "id": "INFINITI",
     "name": "Infiniti",
     "cyrillic-name": "Инфинити",
@@ -16592,6 +16616,31 @@
     ]
   },
   {
+    "id": "KARMA",
+    "name": "Karma",
+    "cyrillic-name": "Карма",
+    "popular": false,
+    "country": "США",
+    "models": [
+      {
+        "id": "KARMA_REVERO",
+        "name": "Revero",
+        "cyrillic-name": "реверо",
+        "class": "F",
+        "year-from": 2016,
+        "year-to": 2020
+      },
+      {
+        "id": "KARMA_REVERO_GT",
+        "name": "Revero GT",
+        "cyrillic-name": "Реверо ГТ",
+        "class": "F",
+        "year-from": 2020,
+        "year-to": null
+      }
+    ]
+  },
+  {
     "id": "KAWEI",
     "name": "Kawei",
     "cyrillic-name": "Кавэй",
@@ -17927,6 +17976,14 @@
         "cyrillic-name": "С11",
         "class": "D",
         "year-from": 2021,
+        "year-to": null
+      },
+      {
+        "id": "LEAPMOTOR_S01",
+        "name": "S01",
+        "cyrillic-name": "С03",
+        "class": "S",
+        "year-from": 2019,
         "year-to": null
       },
       {
@@ -20945,8 +21002,8 @@
         "id": "MERCEDES_S_KLASSE",
         "name": "S-Класс",
         "cyrillic-name": "с-класс",
-        "class": "E",
-        "year-from": 1965,
+        "class": "F",
+        "year-from": 1972,
         "year-to": null
       },
       {
@@ -28644,6 +28701,39 @@
     ]
   },
   {
+    "id": "SERES_AITO",
+    "name": "Seres Aito",
+    "cyrillic-name": "Серес Аито",
+    "popular": false,
+    "country": "Китай",
+    "models": [
+      {
+        "id": "SERES_AITO_M5",
+        "name": "M5",
+        "cyrillic-name": "м5",
+        "class": "D",
+        "year-from": 2022,
+        "year-to": null
+      },
+      {
+        "id": "SERES_AITO_M7",
+        "name": "M7",
+        "cyrillic-name": "м7",
+        "class": "D",
+        "year-from": 2022,
+        "year-to": null
+      },
+      {
+        "id": "SERES_AITO_M9",
+        "name": "M9",
+        "cyrillic-name": "м9",
+        "class": "E",
+        "year-from": 2023,
+        "year-to": null
+      }
+    ]
+  },
+  {
     "id": "SHANGHAI_MAPLE",
     "name": "Shanghai Maple",
     "cyrillic-name": "Шанхай Мапл",
@@ -32061,7 +32151,7 @@
         "name": "Urban Cruiser",
         "cyrillic-name": "Урбан Крузер",
         "class": "C",
-        "year-from": 2022,
+        "year-from": 2009,
         "year-to": null
       },
       {
@@ -33087,7 +33177,7 @@
         "cyrillic-name": "2111",
         "class": "C",
         "year-from": 1997,
-        "year-to": 2009
+        "year-to": 2014
       },
       {
         "id": "VAZ_2112",
@@ -33345,7 +33435,7 @@
         "name": "D60 Plus",
         "cyrillic-name": "Д60 Плюс",
         "class": "D",
-        "year-from": 2023,
+        "year-from": 2021,
         "year-to": null
       },
       {
