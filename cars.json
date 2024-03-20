@@ -1439,7 +1439,7 @@
         "cyrillic-name": "И-трон",
         "class": "E",
         "year-from": 2018,
-        "year-to": null
+        "year-to": 2022
       },
       {
         "id": "AUDI_E_TRON_GT",
@@ -1454,16 +1454,16 @@
         "name": "e-tron S",
         "cyrillic-name": "И-трон Эс",
         "class": "E",
-        "year-from": 2020,
-        "year-to": null
+        "year-from": 2019,
+        "year-to": 2022
       },
       {
         "id": "AUDI_E_TRON_S_SPORTBACK",
         "name": "e-tron S Sportback",
         "cyrillic-name": "И-трон Эс Спортбэк",
         "class": "E",
-        "year-from": 2020,
-        "year-to": null
+        "year-from": 2019,
+        "year-to": 2022
       },
       {
         "id": "AUDI_E_TRON_SPORTBACK",
@@ -1471,7 +1471,7 @@
         "cyrillic-name": "И-трон Спортбэк",
         "class": "E",
         "year-from": 2019,
-        "year-to": null
+        "year-to": 2022
       },
       {
         "id": "AUDI_FRONT",
@@ -2319,6 +2319,14 @@
         "cyrillic-name": "Икс7",
         "class": "D",
         "year-from": 2020,
+        "year-to": null
+      },
+      {
+        "id": "BAIC_X75",
+        "name": "X75",
+        "cyrillic-name": "Икс75",
+        "class": "D",
+        "year-from": 2024,
         "year-to": null
       }
     ]
@@ -8360,7 +8368,7 @@
         "cyrillic-name": "Чарджер",
         "class": "S",
         "year-from": 1968,
-        "year-to": 2023
+        "year-to": null
       },
       {
         "id": "DODGE_CHARGER_DAYTONA",
@@ -11133,7 +11141,7 @@
         "cyrillic-name": "Т5Л",
         "class": "D",
         "year-from": 2019,
-        "year-to": 2021
+        "year-to": 2022
       },
       {
         "id": "FORTHING_THUNDER",
@@ -16471,6 +16479,14 @@
         "class": "M",
         "year-from": 2000,
         "year-to": null
+      },
+      {
+        "id": "JINBEI_HAISE_S",
+        "name": "Haise S",
+        "cyrillic-name": "Хайс С",
+        "class": "M",
+        "year-from": 2023,
+        "year-to": null
       }
     ]
   },
@@ -17981,10 +17997,10 @@
       {
         "id": "LEAPMOTOR_S01",
         "name": "S01",
-        "cyrillic-name": "С03",
+        "cyrillic-name": "С01",
         "class": "S",
         "year-from": 2019,
-        "year-to": null
+        "year-to": 2021
       },
       {
         "id": "LEAPMOTOR_T03",
@@ -19488,6 +19504,14 @@
         "class": "J",
         "year-from": 2017,
         "year-to": null
+      },
+      {
+        "id": "MAXUS_EUNIQ_6",
+        "name": "EUNIQ 6",
+        "cyrillic-name": "ЮНИК 6",
+        "class": "D",
+        "year-from": 2020,
+        "year-to": 2023
       },
       {
         "id": "MAXUS_G20",
@@ -25831,7 +25855,7 @@
         "name": "3",
         "cyrillic-name": "3",
         "class": "E",
-        "year-from": 2023,
+        "year-from": 2024,
         "year-to": null
       },
       {
@@ -29190,6 +29214,47 @@
     ]
   },
   {
+    "id": "SOLARIS",
+    "name": "Solaris",
+    "cyrillic-name": "Солярис",
+    "popular": false,
+    "country": "Россия",
+    "models": [
+      {
+        "id": "SOLARIS_HC",
+        "name": "HC",
+        "cyrillic-name": "ХЦ",
+        "class": "B",
+        "year-from": 2022,
+        "year-to": null
+      },
+      {
+        "id": "SOLARIS_HS",
+        "name": "HS",
+        "cyrillic-name": "ХС",
+        "class": "B",
+        "year-from": 2022,
+        "year-to": null
+      },
+      {
+        "id": "SOLARIS_KRS",
+        "name": "KRS",
+        "cyrillic-name": "КРС",
+        "class": "B",
+        "year-from": 2024,
+        "year-to": null
+      },
+      {
+        "id": "SOLARIS_KRX",
+        "name": "KRX",
+        "cyrillic-name": "КРИкс",
+        "class": "B",
+        "year-from": 2024,
+        "year-to": null
+      }
+    ]
+  },
+  {
     "id": "SOLLERS",
     "name": "Sollers",
     "cyrillic-name": "Соллерс",
@@ -30518,6 +30583,14 @@
         "cyrillic-name": "500",
         "class": "J",
         "year-from": 2021,
+        "year-to": null
+      },
+      {
+        "id": "TANK_700",
+        "name": "700",
+        "cyrillic-name": "700",
+        "class": "J",
+        "year-from": 2023,
         "year-to": null
       }
     ]
@@ -33626,6 +33699,14 @@
         "year-to": null
       },
       {
+        "id": "VOLKSWAGEN_C_TREK",
+        "name": "C-Trek",
+        "cyrillic-name": "Си-Трек",
+        "class": "C",
+        "year-from": 2016,
+        "year-to": 2022
+      },
+      {
         "id": "VOLKSWAGEN_CADDY",
         "name": "Caddy",
         "cyrillic-name": "Кадди",
@@ -34839,7 +34920,7 @@
         "name": "05",
         "cyrillic-name": "05",
         "class": "E",
-        "year-from": 2024,
+        "year-from": 2023,
         "year-to": null
       },
       {
@@ -35085,6 +35166,23 @@
         "class": "S",
         "year-from": 2013,
         "year-to": 2017
+      }
+    ]
+  },
+  {
+    "id": "XCITE",
+    "name": "Xcite",
+    "cyrillic-name": "Иксайт",
+    "popular": false,
+    "country": "Россия",
+    "models": [
+      {
+        "id": "XCITE_X_CROSS_7",
+        "name": "X-Cross 7",
+        "cyrillic-name": "Икс-кросс 7",
+        "class": "C",
+        "year-from": 2024,
+        "year-to": null
       }
     ]
   },
