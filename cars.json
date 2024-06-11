@@ -399,6 +399,48 @@
     ]
   },
   {
+    "id": "AITO",
+    "name": "Aito",
+    "cyrillic-name": "Аито",
+    "popular": false,
+    "country": "Китай",
+    "models": [
+      {
+        "id": "AITO_M5",
+        "name": "M5",
+        "cyrillic-name": "м5",
+        "class": "D",
+        "year-from": 2022,
+        "year-to": null,
+        "path": {
+          "mark-id": "AITO"
+        }
+      },
+      {
+        "id": "AITO_M7",
+        "name": "M7",
+        "cyrillic-name": "м7",
+        "class": "D",
+        "year-from": 2022,
+        "year-to": null,
+        "path": {
+          "mark-id": "AITO"
+        }
+      },
+      {
+        "id": "AITO_M9",
+        "name": "M9",
+        "cyrillic-name": "м9",
+        "class": "E",
+        "year-from": 2023,
+        "year-to": null,
+        "path": {
+          "mark-id": "AITO"
+        }
+      }
+    ]
+  },
+  {
     "id": "AIWAYS",
     "name": "Aiways",
     "cyrillic-name": "Айвэйс",
@@ -425,6 +467,26 @@
         "year-to": null,
         "path": {
           "mark-id": "AIWAYS"
+        }
+      }
+    ]
+  },
+  {
+    "id": "AIXAM",
+    "name": "Aixam",
+    "cyrillic-name": "Аиксам",
+    "popular": false,
+    "country": "Франция",
+    "models": [
+      {
+        "id": "AIXAM_500",
+        "name": "500",
+        "cyrillic-name": "500",
+        "class": "A",
+        "year-from": 2000,
+        "year-to": 2004,
+        "path": {
+          "mark-id": "AIXAM"
         }
       }
     ]
@@ -1896,7 +1958,7 @@
       {
         "id": "AUDI_CABRIOLET",
         "name": "Cabriolet",
-        "cyrillic-name": "Кабриолет",
+        "cyrillic-name": "цабриолет",
         "class": "D",
         "year-from": 1991,
         "year-to": 2000,
@@ -2762,6 +2824,17 @@
     "country": "Китай",
     "models": [
       {
+        "id": "AVATR_07",
+        "name": "07",
+        "cyrillic-name": "07",
+        "class": "",
+        "year-from": 2024,
+        "year-to": null,
+        "path": {
+          "mark-id": "AVATR"
+        }
+      },
+      {
         "id": "AVATR_11",
         "name": "11",
         "cyrillic-name": "11",
@@ -2956,9 +3029,9 @@
         }
       },
       {
-        "id": "BAIC_EU260",
-        "name": "EU260",
-        "cyrillic-name": "эу260",
+        "id": "BAIC_EU",
+        "name": "EU",
+        "cyrillic-name": "ЭУ",
         "class": "C",
         "year-from": 2015,
         "year-to": 2017,
@@ -2970,8 +3043,8 @@
         "id": "BAIC_EU5",
         "name": "EU5",
         "cyrillic-name": "ЕУ5",
-        "class": "D",
-        "year-from": 2015,
+        "class": "C",
+        "year-from": 2018,
         "year-to": null,
         "path": {
           "mark-id": "BAIC"
@@ -3382,6 +3455,17 @@
         "path": {
           "mark-id": "BELGEE"
         }
+      },
+      {
+        "id": "BELGEE_X70",
+        "name": "X70",
+        "cyrillic-name": "Икс 70",
+        "class": "C",
+        "year-from": 2024,
+        "year-to": null,
+        "path": {
+          "mark-id": "BELGEE"
+        }
       }
     ]
   },
@@ -3498,6 +3582,17 @@
         "class": "",
         "year-from": 1946,
         "year-to": 1952,
+        "path": {
+          "mark-id": "BENTLEY"
+        }
+      },
+      {
+        "id": "BENTLEY_MULLINER_BACALAR",
+        "name": "Mulliner Bacalar",
+        "cyrillic-name": "Муллинер Бакалар",
+        "class": "S",
+        "year-from": 2021,
+        "year-to": null,
         "path": {
           "mark-id": "BENTLEY"
         }
@@ -5136,6 +5231,17 @@
     "country": "Китай",
     "models": [
       {
+        "id": "BYD_CHAZOR",
+        "name": "Chazor",
+        "cyrillic-name": "Чазор",
+        "class": "D",
+        "year-from": 2024,
+        "year-to": null,
+        "path": {
+          "mark-id": "BYD"
+        }
+      },
+      {
         "id": "BYD_D1",
         "name": "D1",
         "cyrillic-name": "д1",
@@ -5301,6 +5407,17 @@
         }
       },
       {
+        "id": "BYD_FANGCHENGBAO_LEOPARD_8",
+        "name": "FangChengBao Leopard 8",
+        "cyrillic-name": "ФенгЧенгбао Леопард 8",
+        "class": "J",
+        "year-from": 2024,
+        "year-to": null,
+        "path": {
+          "mark-id": "BYD"
+        }
+      },
+      {
         "id": "BYD_FLYER",
         "name": "Flyer",
         "cyrillic-name": "Флаер",
@@ -5400,6 +5517,17 @@
         }
       },
       {
+        "id": "BYD_SEA_LION_07",
+        "name": "Sea Lion 07",
+        "cyrillic-name": "Сиа лион 07",
+        "class": "D",
+        "year-from": 2024,
+        "year-to": null,
+        "path": {
+          "mark-id": "BYD"
+        }
+      },
+      {
         "id": "BYD_SEAGULL",
         "name": "Seagull",
         "cyrillic-name": "Сигал",
@@ -5416,6 +5544,17 @@
         "cyrillic-name": "Сил",
         "class": "D",
         "year-from": 2022,
+        "year-to": null,
+        "path": {
+          "mark-id": "BYD"
+        }
+      },
+      {
+        "id": "BYD_SHARK",
+        "name": "Shark",
+        "cyrillic-name": "Шарк",
+        "class": "J",
+        "year-from": 2024,
         "year-to": null,
         "path": {
           "mark-id": "BYD"
@@ -5831,6 +5970,17 @@
         "class": "S",
         "year-from": 1909,
         "year-to": 1914,
+        "path": {
+          "mark-id": "CADILLAC"
+        }
+      },
+      {
+        "id": "CADILLAC_OPTIQ",
+        "name": "Optiq",
+        "cyrillic-name": "Оптик",
+        "class": "E",
+        "year-from": 2024,
+        "year-to": null,
         "path": {
           "mark-id": "CADILLAC"
         }
@@ -6398,6 +6548,17 @@
         }
       },
       {
+        "id": "CHANGAN_RAETON_CC",
+        "name": "Raeton CC",
+        "cyrillic-name": "Раетон СС",
+        "class": "D",
+        "year-from": 2017,
+        "year-to": null,
+        "path": {
+          "mark-id": "CHANGAN"
+        }
+      },
+      {
         "id": "CHANGAN_RAETON_PLUS",
         "name": "Raeton Plus",
         "cyrillic-name": "Раетон Плюс",
@@ -6468,6 +6629,17 @@
         "name": "UNI-Z",
         "cyrillic-name": "Уни-Зед",
         "class": "D",
+        "year-from": 2024,
+        "year-to": null,
+        "path": {
+          "mark-id": "CHANGAN"
+        }
+      },
+      {
+        "id": "CHANGAN_X5_PLUS",
+        "name": "X5 Plus",
+        "cyrillic-name": "икс 5 плюс",
+        "class": "C",
         "year-from": 2024,
         "year-to": null,
         "path": {
@@ -6562,7 +6734,7 @@
   },
   {
     "id": "CHERY",
-    "name": "Chery",
+    "name": "CHERY",
     "cyrillic-name": "Чери",
     "popular": true,
     "country": "Китай",
@@ -6761,6 +6933,17 @@
         "class": "C",
         "year-from": 2006,
         "year-to": 2011,
+        "path": {
+          "mark-id": "CHERY"
+        }
+      },
+      {
+        "id": "CHERY_FULWIN_A8",
+        "name": "Fulwin A8",
+        "cyrillic-name": "Фулвин А8",
+        "class": "D",
+        "year-from": 2023,
+        "year-to": null,
         "path": {
           "mark-id": "CHERY"
         }
@@ -7176,6 +7359,17 @@
         "cyrillic-name": "ЭрИкс",
         "class": "D",
         "year-from": 2023,
+        "year-to": null,
+        "path": {
+          "mark-id": "CHERYEXEED"
+        }
+      },
+      {
+        "id": "CHERYEXEED_STERRA_ET",
+        "name": "Sterra ET",
+        "cyrillic-name": "Стерра ЕТ",
+        "class": "E",
+        "year-from": 2024,
         "year-to": null,
         "path": {
           "mark-id": "CHERYEXEED"
@@ -10897,6 +11091,17 @@
         "path": {
           "mark-id": "DAYUN"
         }
+      },
+      {
+        "id": "DAYUN_YUEHU",
+        "name": "Yuehu",
+        "cyrillic-name": "Юэху",
+        "class": "A",
+        "year-from": 2020,
+        "year-to": null,
+        "path": {
+          "mark-id": "DAYUN"
+        }
       }
     ]
   },
@@ -10989,6 +11194,17 @@
     "popular": false,
     "country": "Китай",
     "models": [
+      {
+        "id": "DENZA_500",
+        "name": "500",
+        "cyrillic-name": "500",
+        "class": "B",
+        "year-from": 2014,
+        "year-to": 2019,
+        "path": {
+          "mark-id": "DENZA"
+        }
+      },
       {
         "id": "DENZA_D9",
         "name": "D9",
@@ -11092,7 +11308,7 @@
         "cyrillic-name": "Плутус",
         "class": "J",
         "year-from": 2007,
-        "year-to": 2008,
+        "year-to": 2009,
         "path": {
           "mark-id": "DERWAYS"
         }
@@ -11774,7 +11990,7 @@
         "name": "Aeolus E70",
         "cyrillic-name": "Аеолус Е70",
         "class": "B",
-        "year-from": 2019,
+        "year-from": 2017,
         "year-to": null,
         "path": {
           "mark-id": "DONGFENG"
@@ -13137,9 +13353,9 @@
         }
       },
       {
-        "id": "FERRARI_F12BERLINETTA",
-        "name": "F12berlinetta",
-        "cyrillic-name": "Ф12берлинетта",
+        "id": "FERRARI_F12",
+        "name": "F12",
+        "cyrillic-name": "Ф12",
         "class": "S",
         "year-from": 2012,
         "year-to": 2017,
@@ -14669,6 +14885,17 @@
         }
       },
       {
+        "id": "FORD_LTD",
+        "name": "LTD",
+        "cyrillic-name": "ЛТД",
+        "class": "E",
+        "year-from": 1967,
+        "year-to": 1968,
+        "path": {
+          "mark-id": "FORD"
+        }
+      },
+      {
         "id": "FORD_LTD_COUNTRY_SQUIRE",
         "name": "LTD Country Squire",
         "cyrillic-name": "ЛТД Кантри Сквайр",
@@ -15407,6 +15634,17 @@
         }
       },
       {
+        "id": "GAC_GS3",
+        "name": "GS3",
+        "cyrillic-name": "ГС3",
+        "class": "C",
+        "year-from": 2024,
+        "year-to": null,
+        "path": {
+          "mark-id": "GAC"
+        }
+      },
+      {
         "id": "GAC_GS5",
         "name": "GS5",
         "cyrillic-name": "ГС5",
@@ -16079,7 +16317,7 @@
         "cyrillic-name": "гс9",
         "class": "E",
         "year-from": 2015,
-        "year-to": 2019,
+        "year-to": null,
         "path": {
           "mark-id": "GEELY"
         }
@@ -18386,6 +18624,17 @@
         }
       },
       {
+        "id": "HONDA_ELEVATE",
+        "name": "Elevate",
+        "cyrillic-name": "Елевате",
+        "class": "B",
+        "year-from": 2023,
+        "year-to": null,
+        "path": {
+          "mark-id": "HONDA"
+        }
+      },
+      {
         "id": "HONDA_ELYSION",
         "name": "Elysion",
         "cyrillic-name": "Элюзион",
@@ -18972,7 +19221,7 @@
         "id": "HONDA_UR_V",
         "name": "UR-V",
         "cyrillic-name": "ЮР-В",
-        "class": "J",
+        "class": "D",
         "year-from": 2017,
         "year-to": null,
         "path": {
@@ -19691,6 +19940,17 @@
         "cyrillic-name": "Крета",
         "class": "B",
         "year-from": 2016,
+        "year-to": null,
+        "path": {
+          "mark-id": "HYUNDAI"
+        }
+      },
+      {
+        "id": "HYUNDAI_CUSTIN",
+        "name": "Custin",
+        "cyrillic-name": "Кустин",
+        "class": "M",
+        "year-from": 2024,
         "year-to": null,
         "path": {
           "mark-id": "HYUNDAI"
@@ -21651,6 +21911,17 @@
         }
       },
       {
+        "id": "JAC_S4",
+        "name": "S4",
+        "cyrillic-name": "с4",
+        "class": "C",
+        "year-from": 2018,
+        "year-to": 2022,
+        "path": {
+          "mark-id": "JAC"
+        }
+      },
+      {
         "id": "JAC_S5",
         "name": "S5 (Eagle)",
         "cyrillic-name": "С5 (Игл)",
@@ -22660,6 +22931,17 @@
         "id": "KAWEI_K1",
         "name": "K1",
         "cyrillic-name": "К1",
+        "class": "J",
+        "year-from": 2014,
+        "year-to": null,
+        "path": {
+          "mark-id": "KAWEI"
+        }
+      },
+      {
+        "id": "KAWEI_K150",
+        "name": "K150",
+        "cyrillic-name": "К150",
         "class": "J",
         "year-from": 2014,
         "year-to": null,
@@ -25477,6 +25759,17 @@
         }
       },
       {
+        "id": "LOTUS_EVIJA",
+        "name": "Evija",
+        "cyrillic-name": "Эвия",
+        "class": "S",
+        "year-from": 2019,
+        "year-to": null,
+        "path": {
+          "mark-id": "LOTUS"
+        }
+      },
+      {
         "id": "LOTUS_EVORA",
         "name": "Evora",
         "cyrillic-name": "Эвора",
@@ -26560,6 +26853,17 @@
         }
       },
       {
+        "id": "MAXUS_MIFA_5",
+        "name": "MIFA 5",
+        "cyrillic-name": "МИФА 5",
+        "class": "M",
+        "year-from": 2022,
+        "year-to": null,
+        "path": {
+          "mark-id": "MAXUS"
+        }
+      },
+      {
         "id": "MAXUS_MIFA_7",
         "name": "MIFA 7",
         "cyrillic-name": "МИФА 7",
@@ -27255,6 +27559,17 @@
         "class": "C",
         "year-from": 1991,
         "year-to": 1998,
+        "path": {
+          "mark-id": "MAZDA"
+        }
+      },
+      {
+        "id": "MAZDA_EZ_6",
+        "name": "EZ-6",
+        "cyrillic-name": "Изи 6",
+        "class": "E",
+        "year-from": 2024,
+        "year-to": null,
         "path": {
           "mark-id": "MAZDA"
         }
@@ -28524,7 +28839,7 @@
         "cyrillic-name": "Майбах Джи 650",
         "class": "M",
         "year-from": 2017,
-        "year-to": 2018,
+        "year-to": 2023,
         "path": {
           "mark-id": "MERCEDES"
         }
@@ -29418,7 +29733,7 @@
         "cyrillic-name": "ХС",
         "class": "C",
         "year-from": 2018,
-        "year-to": 2021,
+        "year-to": null,
         "path": {
           "mark-id": "MG"
         }
@@ -29704,9 +30019,20 @@
     "country": "Великобритания",
     "models": [
       {
+        "id": "MINI_ACEMAN",
+        "name": "Aceman",
+        "cyrillic-name": "Эйсмэн",
+        "class": "B",
+        "year-from": 2024,
+        "year-to": null,
+        "path": {
+          "mark-id": "MINI"
+        }
+      },
+      {
         "id": "MINI_CABRIO",
         "name": "Cabrio",
-        "cyrillic-name": "Кабрио",
+        "cyrillic-name": "цабрио",
         "class": "B",
         "year-from": 2004,
         "year-to": null,
@@ -33176,6 +33502,17 @@
         }
       },
       {
+        "id": "OMODA_E5",
+        "name": "E5",
+        "cyrillic-name": "Е5",
+        "class": "C",
+        "year-from": 2024,
+        "year-to": null,
+        "path": {
+          "mark-id": "OMODA"
+        }
+      },
+      {
         "id": "OMODA_S5",
         "name": "S5",
         "cyrillic-name": "С5",
@@ -33421,7 +33758,7 @@
         "cyrillic-name": "грандланд",
         "class": "C",
         "year-from": 2017,
-        "year-to": 2021,
+        "year-to": null,
         "path": {
           "mark-id": "OPEL"
         }
@@ -33861,6 +34198,17 @@
     "country": "Китай",
     "models": [
       {
+        "id": "OSHAN_COSMOS",
+        "name": "Cosmos",
+        "cyrillic-name": "Космос",
+        "class": "M",
+        "year-from": 2019,
+        "year-to": 2022,
+        "path": {
+          "mark-id": "OSHAN"
+        }
+      },
+      {
         "id": "OSHAN_X5",
         "name": "X5",
         "cyrillic-name": "Икс 5",
@@ -34014,6 +34362,17 @@
         "cyrillic-name": "Сикс",
         "class": "",
         "year-from": 1912,
+        "year-to": 1939,
+        "path": {
+          "mark-id": "PACKARD"
+        }
+      },
+      {
+        "id": "PACKARD_SUPER_EIGHT",
+        "name": "Super Eight",
+        "cyrillic-name": "Супер Эйт",
+        "class": "S",
+        "year-from": 1933,
         "year-to": 1939,
         "path": {
           "mark-id": "PACKARD"
@@ -37132,6 +37491,17 @@
         }
       },
       {
+        "id": "RENAULT_SYMBIOZ",
+        "name": "Symbioz",
+        "cyrillic-name": "Симбиоз",
+        "class": "C",
+        "year-from": 2024,
+        "year-to": null,
+        "path": {
+          "mark-id": "RENAULT"
+        }
+      },
+      {
         "id": "RENAULT_CLIO_SYMBOL",
         "name": "Symbol",
         "cyrillic-name": "Симбол",
@@ -38926,6 +39296,28 @@
     "popular": false,
     "country": "Китай",
     "models": [
+      {
+        "id": "SERES_M5",
+        "name": "M5",
+        "cyrillic-name": "м5",
+        "class": "D",
+        "year-from": 2023,
+        "year-to": null,
+        "path": {
+          "mark-id": "SERES"
+        }
+      },
+      {
+        "id": "SERES_M7",
+        "name": "M7",
+        "cyrillic-name": "М7",
+        "class": "D",
+        "year-from": 2023,
+        "year-to": null,
+        "path": {
+          "mark-id": "SERES"
+        }
+      },
       {
         "id": "SERES_SF5",
         "name": "SF5",
@@ -44221,6 +44613,17 @@
         }
       },
       {
+        "id": "TRUMPCHI_GS4_MAX",
+        "name": "GS4 Max",
+        "cyrillic-name": "ГС4 Макс",
+        "class": "C",
+        "year-from": 2024,
+        "year-to": null,
+        "path": {
+          "mark-id": "TRUMPCHI"
+        }
+      },
+      {
         "id": "TRUMPCHI_GS4_PLUS",
         "name": "GS4 Plus",
         "cyrillic-name": "ГС4 Плюс",
@@ -45523,6 +45926,48 @@
     ]
   },
   {
+    "id": "VOLGA",
+    "name": "Volga",
+    "cyrillic-name": "Волга",
+    "popular": false,
+    "country": "Россия",
+    "models": [
+      {
+        "id": "VOLGA_C40",
+        "name": "C40",
+        "cyrillic-name": "Си40",
+        "class": "D",
+        "year-from": 2024,
+        "year-to": null,
+        "path": {
+          "mark-id": "VOLGA"
+        }
+      },
+      {
+        "id": "VOLGA_K30",
+        "name": "K30",
+        "cyrillic-name": "К30",
+        "class": "C",
+        "year-from": 2024,
+        "year-to": null,
+        "path": {
+          "mark-id": "VOLGA"
+        }
+      },
+      {
+        "id": "VOLGA_K40",
+        "name": "K40",
+        "cyrillic-name": "К40",
+        "class": "D",
+        "year-from": 2024,
+        "year-to": null,
+        "path": {
+          "mark-id": "VOLGA"
+        }
+      }
+    ]
+  },
+  {
     "id": "VOLKSWAGEN",
     "name": "Volkswagen",
     "cyrillic-name": "Фольксваген",
@@ -46716,6 +47161,17 @@
         }
       },
       {
+        "id": "VOLVO_EC40",
+        "name": "EC40",
+        "cyrillic-name": "ЕЦ40",
+        "class": "C",
+        "year-from": 2024,
+        "year-to": null,
+        "path": {
+          "mark-id": "VOLVO"
+        }
+      },
+      {
         "id": "VOLVO_EM90",
         "name": "EM90",
         "cyrillic-name": "ЕМ90",
@@ -46732,6 +47188,17 @@
         "cyrillic-name": "ех30",
         "class": "C",
         "year-from": 2023,
+        "year-to": null,
+        "path": {
+          "mark-id": "VOLVO"
+        }
+      },
+      {
+        "id": "VOLVO_EX40",
+        "name": "EX40",
+        "cyrillic-name": "ЕХ40",
+        "class": "C",
+        "year-from": 2024,
         "year-to": null,
         "path": {
           "mark-id": "VOLVO"
