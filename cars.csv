@@ -26,6 +26,7 @@ ACURA,Acura,Акура,false,Япония,ACURA_TL,TL,тл,E,1995,2014
 ACURA,Acura,Акура,false,Япония,ACURA_TLX,TLX,тлх,D,2014,
 ACURA,Acura,Акура,false,Япония,ACURA_TSX,TSX,тсх,D,2003,2014
 ACURA,Acura,Акура,false,Япония,ACURA_ZDX,ZDX,здх,E,2009,2013
+ADAM,Adam,Адам,false,Пакистан,ADAM_REVO,Revo,Рево,A,2005,2006
 ADLER,Adler,Адлер,false,Германия,ADLER_DIPLOMAT,Diplomat,Дипломат,F,1934,1940
 ADLER,Adler,Адлер,false,Германия,ADLER_TRUMPF_JUNIOR,Trumpf Junior,Трумф Джуниор,,1934,1941
 AION,GAC Aion,ГАК Аион,false,Китай,AION_HYPER_GT,Hyptec GT (Hyper GT),Гипер Джи Ти,E,2023,
@@ -309,16 +310,18 @@ BAOJUN,Baojun,Баоджун,false,Китай,BAOJUN_RM_5,RM-5,РМ-5,M,2019,202
 BAOJUN,Baojun,Баоджун,false,Китай,BAOJUN_RS_3,RS-3,РС-3,B,2019,2021
 BAOJUN,Baojun,Баоджун,false,Китай,BAOJUN_RS_5,RS-5,РС-5,C,2019,2021
 BAOJUN,Baojun,Баоджун,false,Китай,BAOJUN_VALLI,Valli,Валли,D,2021,2022
+BAOJUN,Baojun,Баоджун,false,Китай,BAOJUN_XIANGJING,Xiangjing,Ксиангджинг,E,2025,
 BAOJUN,Baojun,Баоджун,false,Китай,BAOJUN_YEP,Yep,Еп,A,2023,
 BAOJUN,Baojun,Баоджун,false,Китай,BAOJUN_YEP_PLUS,Yep Plus,Еп Плюс,B,2024,
 BAOJUN,Baojun,Баоджун,false,Китай,BAOJUN_YUNDUO,Yunduo,Юньдуо,C,2023,
 BAOJUN,Baojun,Баоджун,false,Китай,BAOJUN_YUNHAI,Yunhai,Юньхай,C,2024,
 BATMOBILE,Batmobile,Бэтмобиль,false,США,BATMOBILE_1989,1989,1989,,1989,1992
 BATMOBILE,Batmobile,Бэтмобиль,false,США,BATMOBILE_2018,2018,2018,S,2018,2018
-BAW,BAW,БАВ,false,Китай,BAW_212,212,Две́сти двена́дцать,J,2020,2023
+BAW,BAW,БАВ,false,Китай,BAW_212,212,212,J,2020,2023
 BAW,BAW,БАВ,false,Китай,BAW_212_T01,212 T01,212 Т01,J,2024,
 BAW,BAW,БАВ,false,Китай,BAW_ACE_M7,Ace M7,Эйс Эм 7,M,2022,
 BAW,BAW,БАВ,false,Китай,BAW_F7,Calorie F7,Калория Ф7,,2022,
+BAW,BAW,БАВ,false,Китай,BAW_JIABAO,Jiabao,Джиабао,A,2023,
 BAW,BAW,БАВ,false,Китай,BAW_YUANBAO,Pony (Yuanbao),Пони (Янбао),A,2022,
 BELGEE,Belgee,Белджи,false,Беларусь,BELGEE_S50,S50,С50,D,2024,
 BELGEE,Belgee,Белджи,false,Беларусь,BELGEE_X50,X50,Икс 50,B,2023,
@@ -370,7 +373,7 @@ BMW,BMW,БМВ,true,Германия,BMW_501,501,501,,1952,1958
 BMW,BMW,БМВ,true,Германия,BMW_502,502,502,,1954,1961
 BMW,BMW,БМВ,true,Германия,BMW_503,503,503,S,1956,1959
 BMW,BMW,БМВ,true,Германия,BMW_507,507,507,S,1956,1959
-BMW,BMW,БМВ,true,Германия,BMW_6ER,6 серии,6 серии,E,1976,2023
+BMW,BMW,БМВ,true,Германия,BMW_6ER,6 серии,6 серии,E,1976,
 BMW,BMW,БМВ,true,Германия,BMW_600,600,600,A,1957,1959
 BMW,BMW,БМВ,true,Германия,BMW_7ER,7 серии,7 серии,F,1977,
 BMW,BMW,БМВ,true,Германия,BMW_700,700,700,A,1959,1965
@@ -387,6 +390,7 @@ BMW,BMW,БМВ,true,Германия,BMW_IX,iX,ИХ,E,2021,
 BMW,BMW,БМВ,true,Германия,BMW_IX1,iX1,ИХ1,C,2022,
 BMW,BMW,БМВ,true,Германия,BMW_IX2,iX2,иХ2,C,2023,
 BMW,BMW,БМВ,true,Германия,BMW_IX3,iX3,ИХ3,D,2020,
+BMW,BMW,БМВ,true,Германия,BMW_IX5,iX5,ИХ5,E,2023,
 BMW,BMW,БМВ,true,Германия,BMW_M_1,M1,м1,S,1978,1981
 BMW,BMW,БМВ,true,Германия,BMW_M2,M2,М2,C,2015,
 BMW,BMW,БМВ,true,Германия,BMW_M3,M3,М3,D,1986,
@@ -493,7 +497,7 @@ BYD,BYD,БИД,false,Китай,BYD_E2,E2,Е2,C,2019,
 BYD,BYD,БИД,false,Китай,BYD_E3,E3,Е3,B,2019,2023
 BYD,BYD,БИД,false,Китай,BYD_E5,E5,е5,C,2015,2020
 BYD,BYD,БИД,false,Китай,BYD_E6,E6,е6,C,2011,
-BYD,BYD,БИД,false,Китай,BYD_E7,E7,е7,D,2025,
+BYD,BYD,БИД,false,Китай,BYD_E7,E7,е7,C,2025,
 BYD,BYD,БИД,false,Китай,BYD_E9,E9,Е9,E,2021,
 BYD,BYD,БИД,false,Китай,BYD_F0,F0,ф0,A,2008,2015
 BYD,BYD,БИД,false,Китай,BYD_F3,F3,ф3,C,2005,2021
@@ -698,6 +702,7 @@ CHERY,Chery,Чери,true,Китай,CHERY_TIGGO_8L,Tiggo 8L,Тигго 8Л,D,20
 CHERY,Chery,Чери,true,Китай,CHERY_TIGGO_9,Tiggo 9,Тигго 9,D,2023,
 CHERY,Chery,Чери,true,Китай,CHERY_VERY,Very (A13),Вери,B,2011,2014
 CHERY,Chery,Чери,true,Китай,CHERY_WINDCLOUD,Windcloud (A11),Виндклауд,C,1999,2006
+CHERYEXEED,Exeed,Эксид,false,Китай,CHERYEXEED_EXLANTIX_ES,Exlantix ES,Экслантикс ЕС,E,2024,
 CHERYEXEED,Exeed,Эксид,false,Китай,CHERYEXEED_EXLANTIX_ET,Exlantix ET,Экслантикс ЕТ,E,2024,
 CHERYEXEED,Exeed,Эксид,false,Китай,CHERYEXEED_LX,LX,ЛХ,D,2019,
 CHERYEXEED,Exeed,Эксид,false,Китай,CHERYEXEED_RX,RX,ЭрИкс,D,2023,
@@ -723,7 +728,7 @@ CHEVROLET,Chevrolet,Шевроле,true,США,CHEVROLET_BOLT,Bolt,болт,B,20
 CHEVROLET,Chevrolet,Шевроле,true,США,CHEVROLET_BOLT_EUV,Bolt EUV,Болт ЭУВ,B,2021,2023
 CHEVROLET,Chevrolet,Шевроле,true,США,CHEVROLET_C_10,C-10,ц-10,J,1960,1988
 CHEVROLET,Chevrolet,Шевроле,true,США,CHEVROLET_CK,C/K,Си/Кей,J,1967,2000
-CHEVROLET,Chevrolet,Шевроле,true,США,CHEVROLET_CAMARO,Camaro,Камаро,S,1967,2023
+CHEVROLET,Chevrolet,Шевроле,true,США,CHEVROLET_CAMARO,Camaro,Камаро,S,1967,2024
 CHEVROLET,Chevrolet,Шевроле,true,США,CHEVROLET_CAPRICE,Caprice,Каприз,F,1965,2017
 CHEVROLET,Chevrolet,Шевроле,true,США,CHEVROLET_CAPTIVA,Captiva,Каптива,D,2006,
 CHEVROLET,Chevrolet,Шевроле,true,США,CHEVROLET_CAPTIVA_SPORT,Captiva Sport,Каптива Спорт,D,2008,2016
@@ -975,7 +980,7 @@ DAIHATSU,Daihatsu,Дайхатсу,false,Япония,DAIHATSU_EXTOL,Extol,Эк�
 DAIHATSU,Daihatsu,Дайхатсу,false,Япония,DAIHATSU_FELLOW,Fellow,феллов,A,1966,1976
 DAIHATSU,Daihatsu,Дайхатсу,false,Япония,DAIHATSU_FEROZA,Feroza,Фероза,J,1989,1999
 DAIHATSU,Daihatsu,Дайхатсу,false,Япония,DAIHATSU_GRAN_MOVE,Gran Move,Гран Мув,M,1996,2002
-DAIHATSU,Daihatsu,Дайхатсу,false,Япония,DAIHATSU_HIJET,Hijet,Хайджет,M,1990,
+DAIHATSU,Daihatsu,Дайхатсу,false,Япония,DAIHATSU_HIJET,Hijet,Хайджет,M,1981,
 DAIHATSU,Daihatsu,Дайхатсу,false,Япония,DAIHATSU_HIJET_CADDIE,Hijet Caddie,хайджет кадди,,2016,2021
 DAIHATSU,Daihatsu,Дайхатсу,false,Япония,DAIHATSU_LEEZA,Leeza,Лиза,A,1986,1993
 DAIHATSU,Daihatsu,Дайхатсу,false,Япония,DAIHATSU_MATERIA,Materia,Материя,B,2006,2013
@@ -1126,6 +1131,7 @@ DONGFENG,Dongfeng,ДонгФенг,false,Китай,DONGFENG_AEOLUS_YIXUAN_MAX,A
 DONGFENG,Dongfeng,ДонгФенг,false,Китай,DONGFENG_AX4,AX4,АХ4,B,2017,2021
 DONGFENG,Dongfeng,ДонгФенг,false,Китай,DONGFENG_AX7,AX7,АХ7,D,2015,2019
 DONGFENG,Dongfeng,ДонгФенг,false,Китай,DONGFENG_BOX,Box,Бокс,B,2024,
+DONGFENG,Dongfeng,ДонгФенг,false,Китай,DONGFENG_C36,C36,С36,M,2012,
 DONGFENG,Dongfeng,ДонгФенг,false,Китай,DONGFENG_DF6,DF6,дф6,J,2022,
 DONGFENG,Dongfeng,ДонгФенг,false,Китай,DONGFENG_DFSK_500,DFSK 500,ДФСК 500,C,2024,
 DONGFENG,Dongfeng,ДонгФенг,false,Китай,DONGFENG_DFSK_IX5,DFSK ix5,ДФСК АйИкс5,C,2023,
@@ -1181,6 +1187,7 @@ EAGLE,Eagle,Игл,false,США,EAGLE_VISTA,Vista,Виста,M,1988,1992
 EAGLE_CARS,Eagle Cars,Игл Карс,false,Великобритания,EAGLE_CARS_SS,SS,СС,S,1982,1998
 ENOVATE,Enovate (Enoreve),Эновате,false,Китай,ENOVATE_ME5,ME5,МЕ5,D,2021,2023
 ENOVATE,Enovate (Enoreve),Эновате,false,Китай,ENOVATE_ME7,ME7,ме7,D,2020,2023
+EONYX,Eonyx,Ионикс,false,Россия,EONYX_M2,M2,М2,A,2025,
 EVERUS,Everus,Эверус,false,Китай,EVERUS_VE_1,VE-1,ВЕ-1,B,2018,
 EVOLUTE,Evolute,Эволют,false,Россия,EVOLUTE_I_JET,i-JET,ай-ДЖЕТ,D,2022,
 EVOLUTE,Evolute,Эволют,false,Россия,EVOLUTE_I_JOY,i-JOY,ай-ДЖОЙ,B,2022,
@@ -1190,8 +1197,6 @@ EVOLUTE,Evolute,Эволют,false,Россия,EVOLUTE_I_SPACE,i-SPACE,ай-С�
 EVOLUTE,Evolute,Эволют,false,Россия,EVOLUTE_I_VAN,i-VAN,ай-ВЭН,M,2022,
 EXCALIBUR,Excalibur,Экскалибур,false,США,EXCALIBUR_SERIES_IV,Series IV,серия 4,S,1980,1985
 EXCALIBUR,Excalibur,Экскалибур,false,США,EXCALIBUR_SERIES_V,Series V,серия 5,S,1985,1997
-EXLANTIX,Exlantix,Экслантикс,false,Китай,EXLANTIX_ES,ES,ЕС,E,2024,
-EXLANTIX,Exlantix,Экслантикс,false,Китай,EXLANTIX_ET,ET,ЕТ,E,2024,
 E_CAR,E-Car,Е-Кар,false,Китай,E_CAR_GD04B,GD04B,гд04б,A,2012,2014
 E_MOBIL,Ё-мобиль,Ё-мобиль,false,Россия,E_MOBIL_E_CROSSOVER,Ё-Кроссовер,Ё-Кроссовер,B,2013,2013
 FACEL_VEGA,Facel Vega,Фэйсл Вега,false,Франция,FACEL_VEGA_FV,FV,ФВ,,1954,1958
@@ -1533,6 +1538,7 @@ GEELY,Geely,Джили,true,Китай,GEELY_GALAXY_STARSHINE_8,Galaxy Starshine
 GEELY,Geely,Джили,true,Китай,GEELY_GALAXY_STARSHIP_7,Galaxy Starship 7,Гэлэкси Старшип 7,D,2024,
 GEELY,Geely,Джили,true,Китай,GEELY_GC5,GC5,ДжиСи5,B,2011,2015
 GEELY,Geely,Джили,true,Китай,GEELY_GC6,GC6,гс6,B,2014,2016
+GEELY,Geely,Джили,true,Китай,GEELY_GC7,GC7,Джи-Си семь,D,2010,2013
 GEELY,Geely,Джили,true,Китай,GEELY_GC9,GC9,гс9,E,2015,2024
 GEELY,Geely,Джили,true,Китай,GEELY_GEOME_XINGYUAN,Geome Xingyuan,Джиом Синьюань,B,2024,
 GEELY,Geely,Джили,true,Китай,GEELY_GEOMETRY_A,Geometry A,Геометрия А,C,2019,
@@ -1541,6 +1547,7 @@ GEELY,Geely,Джили,true,Китай,GEELY_GEOMETRY_E,Geometry E,Геомет�
 GEELY,Geely,Джили,true,Китай,GEELY_GEOMETRY_G6,Geometry G6,Геометрия Г6,C,2022,
 GEELY,Geely,Джили,true,Китай,GEELY_GEOMETRY_M6,Geometry M6,Геометрия М6,C,2022,
 GEELY,Geely,Джили,true,Китай,GEELY_GS,GS,ГС,C,2016,2021
+GEELY,Geely,Джили,true,Китай,GEELY_GX3_PRO,GX3 Pro,ДиИкс3 Про,B,2021,
 GEELY,Geely,Джили,true,Китай,GEELY_HAOQING,Haoqing,хаокинг,B,1998,2006
 GEELY,Geely,Джили,true,Китай,GEELY_HAOYUE_L,Haoyue L,Хаоюэ Л,D,2022,
 GEELY,Geely,Джили,true,Китай,GEELY_ICON,Icon,Айкон,B,2019,
@@ -1575,7 +1582,7 @@ GENESIS,Genesis,Генезис,false,Южная Корея,GENESIS_GV80,GV80,Г�
 GENESIS,Genesis,Генезис,false,Южная Корея,GENESIS_GV80_COUPE,GV80 Coupe,ГВ80 Купе,E,2023,
 GEO,Geo,Гео,false,США,GEO_METRO,Metro,метро,B,1989,1997
 GEO,Geo,Гео,false,США,GEO_PRIZM,Prizm,призм,C,1992,2002
-GEO,Geo,Гео,false,США,GEO_SPECTRUM,Spectrum,спектрум,B,1990,1993
+GEO,Geo,Гео,false,США,GEO_SPECTRUM,Spectrum,спектрум,B,1988,1993
 GEO,Geo,Гео,false,США,GEO_STORM,Storm,шторм,C,1990,1993
 GEO,Geo,Гео,false,США,GEO_TRACKER,Tracker,трекер,J,1989,1998
 GMA,GMA,Джи-Эм-Эй,false,Великобритания,GMA_T33,T.33,Т.33,S,2022,
@@ -1627,6 +1634,7 @@ GREAT_WALL,Great Wall,Грейт Вол,false,Китай,GREAT_WALL_SING,Sing RU
 GREAT_WALL,Great Wall,Грейт Вол,false,Китай,GREAT_WALL_SOCOOL,Socool,Сокул,J,2005,2008
 GREAT_WALL,Great Wall,Грейт Вол,false,Китай,GREAT_WALL_VOLEEXC10,Voleex C10 (Phenom),волеекс ц10 (пхеном),B,2010,2013
 GREAT_WALL,Great Wall,Грейт Вол,false,Китай,GREAT_WALL_VOLEEXC30,Voleex C30,волеекс ц30,C,2010,2014
+GREAT_WALL,Great Wall,Грейт Вол,false,Китай,GREAT_WALL_VOLEEXC50,Voleex C50,Воликс С50,C,2011,2016
 GREAT_WALL,Great Wall,Грейт Вол,false,Китай,GREAT_WALL_WINGLE_UP,Wingle,Вингл,J,2006,2015
 GREAT_WALL,Great Wall,Грейт Вол,false,Китай,GREAT_WALL_WINGLE_7,Wingle 7,Вингл 7,F,2018,2023
 HAFEI,Hafei,Хафэй,false,Китай,HAFEI_BRIO,Brio,брио,A,2002,2010
@@ -2035,9 +2043,11 @@ JAC,JAC,Джак,false,Китай,JAC_J5,J5 (Heyue),й5 (хеюе),C,2014,2017
 JAC,JAC,Джак,false,Китай,JAC_J6,J6 (Heyue RS),й6 (хеюе рс),M,2011,2015
 JAC,JAC,Джак,false,Китай,JAC_J7,J7,й7,D,2020,
 JAC,JAC,Джак,false,Китай,JAC_J7_BINYUE,J7 (Binyue),й7 (бинюе),D,2008,2015
+JAC,JAC,Джак,false,Китай,JAC_JS2,JS2,ДжейЭс2,B,2018,
 JAC,JAC,Джак,false,Китай,JAC_JS2_PRO,JS2 Pro,ДжейЭс2 Про,B,2024,
 JAC,JAC,Джак,false,Китай,JAC_JS3,JS3,ДжейЭс3,C,2023,
 JAC,JAC,Джак,false,Китай,JAC_JS4,JS4,ДжиЭс4,B,2020,
+JAC,JAC,Джак,false,Китай,JAC_JS5,JS5,ДжиЭс5,B,2024,
 JAC,JAC,Джак,false,Китай,JAC_JS6,JS6,ДжиЭс6,C,2022,
 JAC,JAC,Джак,false,Китай,JAC_JS9,JS9,ДжейЭс9,J,2025,
 JAC,JAC,Джак,false,Китай,JAC_REFINE,M1 (Refine),м1 (рефине),M,2006,2011
@@ -2154,6 +2164,7 @@ KGM,KGM,Кей-Джи-Эм,false,Южная Корея,KGM_TIVOLI,Tivoli,Тив�
 KGM,KGM,Кей-Джи-Эм,false,Южная Корея,KGM_TORRES,Torres,Торрес,D,2023,
 KIA,Kia,Киа,true,Южная Корея,KIA_AVELLA,Avella,Авелла,B,1994,2000
 KIA,Kia,Киа,true,Южная Корея,KIA_BORREGO,Borrego,Боррего,E,2008,2011
+KIA,Kia,Киа,true,Южная Корея,KIA_CACHET,Cachet,Качет,C,2014,2020
 KIA,Kia,Киа,true,Южная Корея,KIA_CADENZA,Cadenza,Каденза,E,2009,2021
 KIA,Kia,Киа,true,Южная Корея,KIA_CAPITAL,Capital,Капитал,C,1989,1996
 KIA,Kia,Киа,true,Южная Корея,KIA_CARENS,Carens,Каренс,M,1999,
@@ -2183,10 +2194,11 @@ KIA,Kia,Киа,true,Южная Корея,KIA_K900,K900,К900,F,2014,2022
 KIA,Kia,Киа,true,Южная Корея,KIA_KX1,KX1,КаИкс1,B,2018,
 KIA,Kia,Киа,true,Южная Корея,KIA_KX3,KX3,КаИкс3,C,2019,2023
 KIA,Kia,Киа,true,Южная Корея,KIA_KX5,KX5,КаИкс5,C,2016,2022
+KIA,Kia,Киа,true,Южная Корея,KIA_KX7,KX7,КаИкс7,D,2017,2021
 KIA,Kia,Киа,true,Южная Корея,KIA_LOTZE,Lotze,Лотз,D,2005,2010
 KIA,Kia,Киа,true,Южная Корея,KIA_MAGENTIS,Magentis,Маджентис,E,2000,2010
 KIA,Kia,Киа,true,Южная Корея,KIA_MENTOR,Mentor,ментор,B,1996,2002
-KIA,Kia,Киа,true,Южная Корея,KIA_MOHAVES,Mohave,Мохав,J,2008,2024
+KIA,Kia,Киа,true,Южная Корея,KIA_MOHAVES,Mohave,Мохав,J,2008,
 KIA,Kia,Киа,true,Южная Корея,KIA_MORNING,Morning,морнинг,A,2004,
 KIA,Kia,Киа,true,Южная Корея,KIA_NIRO,Niro,Ниро,C,2016,
 KIA,Kia,Киа,true,Южная Корея,KIA_OPIRUS,Opirus,Опирус,E,2003,2011
@@ -2380,13 +2392,13 @@ LIVAN,Livan,Ливан,false,Китай,LIVAN_9,9,9,D,2022,
 LIVAN,Livan,Ливан,false,Китай,LIVAN_S6_PRO,S6 Pro,с6 про,C,2023,
 LIVAN,Livan,Ливан,false,Китай,LIVAN_X3_PRO,X3 Pro,Икс3 Про,B,2022,
 LIVAN,Livan,Ливан,false,Китай,LIVAN_X6_PRO,X6 Pro,Икс6 Про,C,2023,
-LIXIANG,LiXiang,Лисян,false,Китай,LIXIANG_I8,i8,Ай8,E,2025,
-LIXIANG,LiXiang,Лисян,false,Китай,LIXIANG_L6,L6,Л6,E,2024,
-LIXIANG,LiXiang,Лисян,false,Китай,LIXIANG_L7,L7,Л7,E,2023,
-LIXIANG,LiXiang,Лисян,false,Китай,LIXIANG_L8,L8,Л8,E,2022,
-LIXIANG,LiXiang,Лисян,false,Китай,LIXIANG_L9,L9,Л9,F,2022,
-LIXIANG,LiXiang,Лисян,false,Китай,LIXIANG_MEGA,Mega,Мега,M,2024,
-LIXIANG,LiXiang,Лисян,false,Китай,LIXIANG_ONE,One,Ван,E,2019,2023
+LIXIANG,Lixiang,Лисян,false,Китай,LIXIANG_I8,i8,Ай8,E,2025,
+LIXIANG,Lixiang,Лисян,false,Китай,LIXIANG_L6,L6,Л6,E,2024,
+LIXIANG,Lixiang,Лисян,false,Китай,LIXIANG_L7,L7,Л7,E,2023,
+LIXIANG,Lixiang,Лисян,false,Китай,LIXIANG_L8,L8,Л8,E,2022,
+LIXIANG,Lixiang,Лисян,false,Китай,LIXIANG_L9,L9,Л9,F,2022,
+LIXIANG,Lixiang,Лисян,false,Китай,LIXIANG_MEGA,Mega,Мега,M,2024,
+LIXIANG,Lixiang,Лисян,false,Китай,LIXIANG_ONE,One,Ван,E,2019,2023
 LOGEM,Logem,Логем,false,Китай,LOGEM_EC30,EC30,ЕС30,M,2018,2020
 LOTUS,Lotus,Лотус,false,Великобритания,LOTUS_2_ELEVEN,2-Eleven,2-Элевен,S,2007,2011
 LOTUS,Lotus,Лотус,false,Великобритания,LOTUS_3_ELEVEN,3-Eleven,3-Элевен,S,2015,2018
@@ -2497,6 +2509,8 @@ MAXUS,Maxus,Максус,false,Китай,MAXUS_EUNIQ_6,EUNIQ 6,ЮНИК 6,D,202
 MAXUS,Maxus,Максус,false,Китай,MAXUS_G10,G10,Г10,M,2013,
 MAXUS,Maxus,Максус,false,Китай,MAXUS_G20,G20,Джи20,M,2019,
 MAXUS,Maxus,Максус,false,Китай,MAXUS_G50,G50,Джи50,M,2019,
+MAXUS,Maxus,Максус,false,Китай,MAXUS_G50_MAX,G50 Max,Джи50 Макс,M,2025,
+MAXUS,Maxus,Максус,false,Китай,MAXUS_G50_PLUS,G50 Plus,Джи50 Плюс,M,2021,
 MAXUS,Maxus,Максус,false,Китай,MAXUS_G70,G70,Г70,M,2023,
 MAXUS,Maxus,Максус,false,Китай,MAXUS_G90,G90,Джи90,M,2022,
 MAXUS,Maxus,Максус,false,Китай,MAXUS_INTERSTELLAR,Interstellar,Интерстеллар,J,2024,
@@ -2522,6 +2536,7 @@ MAZDA,Mazda,Мазда,true,Япония,MAZDA_6,6,6,D,2002,
 MAZDA,Mazda,Мазда,true,Япония,MAZDA_6_MPS,6 MPS,6 МПС,D,2005,2008
 MAZDA,Mazda,Мазда,true,Япония,MAZDA_616,616,616,D,1970,1978
 MAZDA,Mazda,Мазда,true,Япония,MAZDA_626,626,626,D,1979,2002
+MAZDA,Mazda,Мазда,true,Япония,MAZDA_6E,6e,6е,E,2025,
 MAZDA,Mazda,Мазда,true,Япония,MAZDA_818,818,818,C,1974,1978
 MAZDA,Mazda,Мазда,true,Япония,MAZDA_929,929,929,E,1972,1992
 MAZDA,Mazda,Мазда,true,Япония,MAZDA_ATENZA,Atenza,Атенза,D,2002,2019
@@ -3033,7 +3048,7 @@ NISSAN,Nissan,Ниссан,true,Япония,NISSAN_LUCINO,Lucino,Люсино,C
 NISSAN,Nissan,Ниссан,true,Япония,NISSAN_MAGNITE,Magnite,Магнит,C,2020,
 NISSAN,Nissan,Ниссан,true,Япония,NISSAN_MARCH,March,Марч,B,1982,2022
 NISSAN,Nissan,Ниссан,true,Япония,NISSAN_MAXIMA,Maxima,Максима,E,1981,2023
-NISSAN,Nissan,Ниссан,true,Япония,NISSAN_MICRA,Micra,Микра,B,1982,2022
+NISSAN,Nissan,Ниссан,true,Япония,NISSAN_MICRA,Micra,Микра,B,1982,
 NISSAN,Nissan,Ниссан,true,Япония,NISSAN_MISTRAL,Mistral,Мистраль,J,1994,1999
 NISSAN,Nissan,Ниссан,true,Япония,NISSAN_MOCO,Moco,Моко,A,2001,2016
 NISSAN,Nissan,Ниссан,true,Япония,NISSAN_MURANO,Murano,Мурано,E,2002,
@@ -3192,6 +3207,8 @@ OSHAN,Oshan,Ошан,false,Китай,OSHAN_X7_PLUS,X7 Plus,Икс 7 Плюс,D,
 OSHAN,Oshan,Ошан,false,Китай,OSHAN_Z6,Z6,Зет6,D,2022,
 OTING,Oting,Отинг,false,Китай,OTING_PALADIN,Paladin,Паладин,J,2023,
 OTING,Oting,Отинг,false,Китай,OTING_PALASSO,Palasso,палассо,J,2024,
+OTING,Oting,Отинг,false,Китай,OTING_RICH_7,Rich 7,Рич 7,J,2025,
+OTING,Oting,Отинг,false,Китай,OTING_Z9,Z9,З9,J,2025,
 OVERLAND,Overland,Оверлэнд,false,США,OVERLAND_ROADSTER,Roadster,Родстер,,1914,1915
 PACKARD,Packard,Паккард,false,США,PACKARD_200_250,200/250,200/250,F,1951,1952
 PACKARD,Packard,Паккард,false,США,PACKARD_CARIBBEAN,Caribbean,Каррибиан,S,1953,1956
@@ -3912,10 +3929,12 @@ TOYOTA,Toyota,Тойота,true,Япония,TOYOTA_BELTA,Belta,Бельта,B,2
 TOYOTA,Toyota,Тойота,true,Япония,TOYOTA_BLADE,Blade,Блейд,C,2006,2012
 TOYOTA,Toyota,Тойота,true,Япония,TOYOTA_BLIZZARD,Blizzard,Близзард,J,1980,1994
 TOYOTA,Toyota,Тойота,true,Япония,TOYOTA_BREVIS,Brevis,Бревис,D,2001,2007
+TOYOTA,Toyota,Тойота,true,Япония,TOYOTA_BZ,bZ,БЗ,D,2026,
 TOYOTA,Toyota,Тойота,true,Япония,TOYOTA_BZ3,bZ3,бЗ3,C,2023,
 TOYOTA,Toyota,Тойота,true,Япония,TOYOTA_BZ3C,bZ3C,БЗ3С,D,2025,
 TOYOTA,Toyota,Тойота,true,Япония,TOYOTA_BZ3X,bZ3X,бЗ3Х,C,2025,
 TOYOTA,Toyota,Тойота,true,Япония,TOYOTA_BZ4X,bZ4X,бЗ4Х,D,2022,
+TOYOTA,Toyota,Тойота,true,Япония,TOYOTA_BZ5,bZ5,бЗ5,D,2025,
 TOYOTA,Toyota,Тойота,true,Япония,TOYOTA_C_HR,C-HR,ц-хр,C,2016,
 TOYOTA,Toyota,Тойота,true,Япония,TOYOTA_C_HR_PLUS,C-HR+,Си Эйч Ар Плюс,C,2025,
 TOYOTA,Toyota,Тойота,true,Япония,TOYOTA_CALDINA,Caldina,Калдина,D,1992,2007
@@ -3933,6 +3952,7 @@ TOYOTA,Toyota,Тойота,true,Япония,TOYOTA_CHASER,Chaser,Чайзер,D
 TOYOTA,Toyota,Тойота,true,Япония,TOYOTA_CLASSIC,Classic,Классик,E,1996,1997
 TOYOTA,Toyota,Тойота,true,Япония,TOYOTA_COMFORT,Comfort,комфорт,D,1995,2017
 TOYOTA,Toyota,Тойота,true,Япония,TOYOTA_COMS,COMS,КОМС,A,2012,
+TOYOTA,Toyota,Тойота,true,Япония,TOYOTA_COPEN,Copen,Копен,B,2019,
 TOYOTA,Toyota,Тойота,true,Япония,TOYOTA_COROLLA,Corolla,Королла,B,1966,
 TOYOTA,Toyota,Тойота,true,Япония,TOYOTA_COROLLA_CROSS,Corolla Cross,Королла Кросс,C,2020,
 TOYOTA,Toyota,Тойота,true,Япония,TOYOTA_COROLLA_II,Corolla II,королла 2,B,1978,1999
@@ -4106,6 +4126,7 @@ TRUMPCHI,GAC Trumpchi,Трампчи,false,Китай,TRUMPCHI_GS3_POWER,GS3 Pow
 TRUMPCHI,GAC Trumpchi,Трампчи,false,Китай,TRUMPCHI_GS4,GS4,ГС4,C,2019,
 TRUMPCHI,GAC Trumpchi,Трампчи,false,Китай,TRUMPCHI_GS4_MAX,GS4 Max,ГС4 Макс,C,2024,
 TRUMPCHI,GAC Trumpchi,Трампчи,false,Китай,TRUMPCHI_GS4_PLUS,GS4 Plus,ГС4 Плюс,D,2021,
+TRUMPCHI,GAC Trumpchi,Трампчи,false,Китай,TRUMPCHI_GS8,GS8,ГС8,E,2021,
 TRUMPCHI,GAC Trumpchi,Трампчи,false,Китай,TRUMPCHI_M6,M6,М6,M,2020,2021
 TRUMPCHI,GAC Trumpchi,Трампчи,false,Китай,TRUMPCHI_M6_MAX,M6 Max,М6 Макс,M,2024,
 TRUMPCHI,GAC Trumpchi,Трампчи,false,Китай,TRUMPCHI_M6_PRO,M6 Pro,М6 Про,M,2021,
@@ -4282,6 +4303,7 @@ VOLKSWAGEN,Volkswagen,Фольксваген,true,Германия,VOLKSWAGEN_PO
 VOLKSWAGEN,Volkswagen,Фольксваген,true,Германия,VOLKSWAGEN_POLO_GTI,Polo GTI,поло гти,B,1998,
 VOLKSWAGEN,Volkswagen,Фольксваген,true,Германия,VOLKSWAGEN_POLO_R_WRC,Polo R WRC,поло р врц,S,2013,2016
 VOLKSWAGEN,Volkswagen,Фольксваген,true,Германия,VOLKSWAGEN_QUANTUM,Quantum,квантум,D,1985,2003
+VOLKSWAGEN,Volkswagen,Фольксваген,true,Германия,VOLKSWAGEN_RABBIT,Rabbit,Рэббит,C,2009,2009
 VOLKSWAGEN,Volkswagen,Фольксваген,true,Германия,VOLKSWAGEN_ROUTAN,Routan,Рутан,M,2008,2012
 VOLKSWAGEN,Volkswagen,Фольксваген,true,Германия,VOLKSWAGEN_SAGITAR,Sagitar,Сагитар,C,2019,
 VOLKSWAGEN,Volkswagen,Фольксваген,true,Германия,VOLKSWAGEN_SANTANA,Santana,Сантана,D,1981,2022
@@ -4318,6 +4340,7 @@ VOLKSWAGEN,Volkswagen,Фольксваген,true,Германия,VOLKSWAGEN_TY
 VOLKSWAGEN,Volkswagen,Фольксваген,true,Германия,VOLKSWAGEN_UP,up!,Ап,A,2012,2023
 VOLKSWAGEN,Volkswagen,Фольксваген,true,Германия,VOLKSWAGEN_VENTO,Vento,Венто,C,1991,1998
 VOLKSWAGEN,Volkswagen,Фольксваген,true,Германия,VOLKSWAGEN_VILORAN,Viloran,Вилоран,M,2020,
+VOLKSWAGEN,Volkswagen,Фольксваген,true,Германия,VOLKSWAGEN_VOYAGE,Voyage,Вояж,B,2008,2022
 VOLKSWAGEN,Volkswagen,Фольксваген,true,Германия,VOLKSWAGEN_XL1,XL1,хл1,C,2013,2015
 VOLVO,Volvo,Вольво,true,Швеция,VOLVO_120_SERIES,120 Series,120 Серия,C,1956,1970
 VOLVO,Volvo,Вольво,true,Швеция,VOLVO_140,140 Series,140 Серия,D,1966,1975
