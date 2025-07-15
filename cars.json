@@ -2013,7 +2013,7 @@
         "name": "01",
         "cyrillic-name": "01",
         "class": "B",
-        "year-from": 2023,
+        "year-from": 2025,
         "year-to": null,
         "path": {
           "mark-id": "ATOM"
@@ -7942,9 +7942,9 @@
         }
       },
       {
-        "id": "CHERY_FULWIN_A9",
-        "name": "Fulwin A9",
-        "cyrillic-name": "Фулвин А9",
+        "id": "CHERY_FULWIN_A9L",
+        "name": "Fulwin A9L",
+        "cyrillic-name": "Фулвин А9 Л",
         "class": "E",
         "year-from": 2025,
         "year-to": null,
@@ -13844,6 +13844,26 @@
     ]
   },
   {
+    "id": "DR",
+    "name": "DR",
+    "cyrillic-name": "Дэ Эр",
+    "popular": false,
+    "country": "Италия",
+    "models": [
+      {
+        "id": "DR_6_0",
+        "name": "6.0",
+        "cyrillic-name": "Шесть Ноль",
+        "class": "C",
+        "year-from": 2022,
+        "year-to": null,
+        "path": {
+          "mark-id": "DR"
+        }
+      }
+    ]
+  },
+  {
     "id": "DS",
     "name": "DS",
     "cyrillic-name": "ДС",
@@ -14799,6 +14819,17 @@
         "class": "S",
         "year-from": 2017,
         "year-to": 2024,
+        "path": {
+          "mark-id": "FERRARI"
+        }
+      },
+      {
+        "id": "FERRARI_AMALFI",
+        "name": "Amalfi",
+        "cyrillic-name": "Амалфи",
+        "class": "S",
+        "year-from": 2025,
+        "year-to": null,
         "path": {
           "mark-id": "FERRARI"
         }
@@ -15786,6 +15817,17 @@
     "country": "США",
     "models": [
       {
+        "id": "FORD_300",
+        "name": "300",
+        "cyrillic-name": "300",
+        "class": "E",
+        "year-from": 1963,
+        "year-to": 1963,
+        "path": {
+          "mark-id": "FORD"
+        }
+      },
+      {
         "id": "FORD_AEROSTAR",
         "name": "Aerostar",
         "cyrillic-name": "Аэростар",
@@ -16548,8 +16590,8 @@
         "id": "FORD_MAVERICK",
         "name": "Maverick",
         "cyrillic-name": "Маверик",
-        "class": "J",
-        "year-from": 1993,
+        "class": "C",
+        "year-from": 1969,
         "year-to": null,
         "path": {
           "mark-id": "FORD"
@@ -17338,7 +17380,7 @@
         "name": "GN8",
         "cyrillic-name": "ГН8",
         "class": "M",
-        "year-from": 2020,
+        "year-from": 2019,
         "year-to": 2023,
         "path": {
           "mark-id": "GAC"
@@ -18281,6 +18323,17 @@
         "cyrillic-name": "Хаоюэ Л",
         "class": "D",
         "year-from": 2022,
+        "year-to": null,
+        "path": {
+          "mark-id": "GEELY"
+        }
+      },
+      {
+        "id": "GEELY_HAOYUE_PRO",
+        "name": "Haoyue Pro",
+        "cyrillic-name": "Хаоюэ Про",
+        "class": "C",
+        "year-from": 2024,
         "year-to": null,
         "path": {
           "mark-id": "GEELY"
@@ -22252,6 +22305,17 @@
         }
       },
       {
+        "id": "HYUNDAI_ELEXIO",
+        "name": "Elexio",
+        "cyrillic-name": "Илексио",
+        "class": "C",
+        "year-from": 2025,
+        "year-to": null,
+        "path": {
+          "mark-id": "HYUNDAI"
+        }
+      },
+      {
         "id": "HYUNDAI_ENCINO",
         "name": "Encino",
         "cyrillic-name": "Инсино",
@@ -24960,7 +25024,7 @@
   },
   {
     "id": "JETOUR",
-    "name": "Jetour",
+    "name": "JETOUR",
     "cyrillic-name": "Джитур",
     "popular": false,
     "country": "Китай",
@@ -25088,7 +25152,7 @@
       },
       {
         "id": "JETOUR_X70_PLUS",
-        "name": "X70 PLUS",
+        "name": "X70 Plus",
         "cyrillic-name": "Х70 Плюс",
         "class": "D",
         "year-from": 2020,
@@ -25099,7 +25163,7 @@
       },
       {
         "id": "JETOUR_X70_PRO",
-        "name": "X70 PRO",
+        "name": "X70 Pro",
         "cyrillic-name": "Х70 Про",
         "class": "D",
         "year-from": 2023,
@@ -25121,7 +25185,7 @@
       },
       {
         "id": "JETOUR_X90_PLUS",
-        "name": "X90 PLUS",
+        "name": "X90 Plus",
         "cyrillic-name": "Х90 Плюс",
         "class": "D",
         "year-from": 2021,
@@ -25132,7 +25196,7 @@
       },
       {
         "id": "JETOUR_X90_PRO",
-        "name": "X90 PRO",
+        "name": "X90 Pro",
         "cyrillic-name": "кс90 про",
         "class": "D",
         "year-from": 2024,
@@ -25200,6 +25264,17 @@
         "cyrillic-name": "ВС7",
         "class": "D",
         "year-from": 2020,
+        "year-to": null,
+        "path": {
+          "mark-id": "JETTA"
+        }
+      },
+      {
+        "id": "JETTA_VS8",
+        "name": "VS8",
+        "cyrillic-name": "ВС8",
+        "class": "D",
+        "year-from": 2025,
         "year-to": null,
         "path": {
           "mark-id": "JETTA"
@@ -26834,7 +26909,7 @@
         "id": "LAMBORGHINI_MIURA",
         "name": "Miura",
         "cyrillic-name": "миура",
-        "class": "",
+        "class": "S",
         "year-from": 1966,
         "year-to": 1973,
         "path": {
@@ -27562,6 +27637,37 @@
     ]
   },
   {
+    "id": "LETIN",
+    "name": "Letin",
+    "cyrillic-name": "Летин",
+    "popular": false,
+    "country": "Китай",
+    "models": [
+      {
+        "id": "LETIN_MENGO",
+        "name": "Mengo",
+        "cyrillic-name": "Менго",
+        "class": "A",
+        "year-from": 2020,
+        "year-to": 2023,
+        "path": {
+          "mark-id": "LETIN"
+        }
+      },
+      {
+        "id": "LETIN_MENGO_PRO",
+        "name": "Mengo Pro",
+        "cyrillic-name": "Менго про",
+        "class": "A",
+        "year-from": 2025,
+        "year-to": null,
+        "path": {
+          "mark-id": "LETIN"
+        }
+      }
+    ]
+  },
+  {
     "id": "LEVC",
     "name": "LEVC",
     "cyrillic-name": "ЛЕВК",
@@ -28058,7 +28164,7 @@
         "name": "Continental",
         "cyrillic-name": "континенталь",
         "class": "F",
-        "year-from": 1959,
+        "year-from": 1939,
         "year-to": 2020,
         "path": {
           "mark-id": "LINCOLN"
@@ -28336,6 +28442,17 @@
         }
       },
       {
+        "id": "LIVAN_SMURF",
+        "name": "Smurf",
+        "cyrillic-name": "Смурф",
+        "class": "A",
+        "year-from": 2025,
+        "year-to": null,
+        "path": {
+          "mark-id": "LIVAN"
+        }
+      },
+      {
         "id": "LIVAN_X3_PRO",
         "name": "X3 Pro",
         "cyrillic-name": "Икс3 Про",
@@ -28366,6 +28483,17 @@
     "popular": false,
     "country": "Китай",
     "models": [
+      {
+        "id": "LIXIANG_I6",
+        "name": "i6",
+        "cyrillic-name": "Ай 6",
+        "class": "E",
+        "year-from": 2025,
+        "year-to": null,
+        "path": {
+          "mark-id": "LIXIANG"
+        }
+      },
       {
         "id": "LIXIANG_I8",
         "name": "i8",
@@ -29169,6 +29297,17 @@
     "popular": false,
     "country": "Китай",
     "models": [
+      {
+        "id": "MAPLE_30X",
+        "name": "30X",
+        "cyrillic-name": "30 Икс",
+        "class": "B",
+        "year-from": 2020,
+        "year-to": null,
+        "path": {
+          "mark-id": "MAPLE"
+        }
+      },
       {
         "id": "MAPLE_X3_PRO",
         "name": "X3 Pro",
@@ -32666,6 +32805,26 @@
     ]
   },
   {
+    "id": "MERKUR",
+    "name": "Merkur",
+    "cyrillic-name": "Меркур",
+    "popular": false,
+    "country": "США",
+    "models": [
+      {
+        "id": "MERKUR_XR4TI",
+        "name": "XR4Ti",
+        "cyrillic-name": "ИксР4ТИ",
+        "class": "S",
+        "year-from": 1985,
+        "year-to": 1989,
+        "path": {
+          "mark-id": "MERKUR"
+        }
+      }
+    ]
+  },
+  {
     "id": "MESSERSCHMITT",
     "name": "Messerschmitt",
     "cyrillic-name": "Мессершмитт",
@@ -33522,6 +33681,17 @@
         "cyrillic-name": "Дулика Д:5",
         "class": "M",
         "year-from": 2007,
+        "year-to": null,
+        "path": {
+          "mark-id": "MITSUBISHI"
+        }
+      },
+      {
+        "id": "MITSUBISHI_DELICA_MINI",
+        "name": "Delica Mini",
+        "cyrillic-name": "Делика Мини",
+        "class": "A",
+        "year-from": 2023,
         "year-to": null,
         "path": {
           "mark-id": "MITSUBISHI"
@@ -46099,6 +46269,26 @@
     ]
   },
   {
+    "id": "TENET",
+    "name": "Tenet",
+    "cyrillic-name": "Тенет",
+    "popular": false,
+    "country": "Россия",
+    "models": [
+      {
+        "id": "TENET_T4",
+        "name": "T4",
+        "cyrillic-name": "Т4",
+        "class": "B",
+        "year-from": 2025,
+        "year-to": null,
+        "path": {
+          "mark-id": "TENET"
+        }
+      }
+    ]
+  },
+  {
     "id": "TESLA",
     "name": "Tesla",
     "cyrillic-name": "Тесла",
@@ -47990,7 +48180,7 @@
         "name": "Sprinter",
         "cyrillic-name": "Спринтер",
         "class": "C",
-        "year-from": 1979,
+        "year-from": 1974,
         "year-to": 2002,
         "path": {
           "mark-id": "TOYOTA"
@@ -48785,7 +48975,7 @@
         "name": "GS8",
         "cyrillic-name": "ГС8",
         "class": "E",
-        "year-from": 2021,
+        "year-from": 2016,
         "year-to": null,
         "path": {
           "mark-id": "TRUMPCHI"
@@ -49775,7 +49965,7 @@
         "id": "VAZ_AZIMUT",
         "name": "Azimut",
         "cyrillic-name": "Азимут",
-        "class": "",
+        "class": "B",
         "year-from": 2026,
         "year-to": 2026,
         "path": {
