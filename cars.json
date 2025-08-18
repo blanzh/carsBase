@@ -1510,6 +1510,16 @@
         "year_to": 2025,
         "class": "E",
         "updated_at": "2025-07-26 16:51:00"
+      },
+      {
+        "id": "ARCFOX_T1",
+        "mark_id": "ARCFOX",
+        "name": "T1",
+        "cyrillic_name": "Т1",
+        "year_from": 2025,
+        "year_to": 2025,
+        "class": "C",
+        "updated_at": "2025-08-17 12:01:56"
       }
     ]
   },
@@ -6779,6 +6789,16 @@
         "year_to": 2011,
         "class": "A",
         "updated_at": "2025-07-26 16:51:00"
+      },
+      {
+        "id": "CHANA_TAURUSTAR",
+        "mark_id": "CHANA",
+        "name": "Taurustar",
+        "cyrillic_name": "Таурустар",
+        "year_from": 2010,
+        "year_to": 2015,
+        "class": "M",
+        "updated_at": "2025-08-14 15:49:30"
       }
     ]
   },
@@ -21933,7 +21953,7 @@
         "cyrillic_name": "2125 Комби",
         "year_from": 1973,
         "year_to": 1997,
-        "class": "B",
+        "class": null,
         "updated_at": "2025-07-26 16:51:01"
       },
       {
@@ -21943,7 +21963,7 @@
         "cyrillic_name": "2126 Ода",
         "year_from": 1990,
         "year_to": 2005,
-        "class": "B",
+        "class": null,
         "updated_at": "2025-07-26 16:51:01"
       },
       {
@@ -21953,7 +21973,7 @@
         "cyrillic_name": "21261 Фабула",
         "year_from": 2004,
         "year_to": 2005,
-        "class": "B",
+        "class": null,
         "updated_at": "2025-07-26 16:51:01"
       },
       {
@@ -21963,7 +21983,7 @@
         "cyrillic_name": "2715",
         "year_from": 1972,
         "year_to": 2001,
-        "class": "B",
+        "class": null,
         "updated_at": "2025-07-26 16:51:01"
       },
       {
@@ -21973,7 +21993,7 @@
         "cyrillic_name": "2717",
         "year_from": 1997,
         "year_to": 2005,
-        "class": "B",
+        "class": null,
         "updated_at": "2025-07-26 16:51:01"
       },
       {
@@ -21983,7 +22003,7 @@
         "cyrillic_name": "27175",
         "year_from": 2005,
         "year_to": 2012,
-        "class": "B",
+        "class": null,
         "updated_at": "2025-07-26 16:51:01"
       },
       {
@@ -21993,7 +22013,7 @@
         "cyrillic_name": "412",
         "year_from": 1967,
         "year_to": 1998,
-        "class": "B",
+        "class": null,
         "updated_at": "2025-07-26 16:51:01"
       }
     ]
@@ -22048,6 +22068,16 @@
         "year_to": 2025,
         "class": "F",
         "updated_at": "2025-07-26 16:51:00"
+      },
+      {
+        "id": "IM_MOTORS_LS9",
+        "mark_id": "IM_MOTORS",
+        "name": "LS9",
+        "cyrillic_name": "ЛС9",
+        "year_from": 2025,
+        "year_to": 2025,
+        "class": "F",
+        "updated_at": "2025-08-14 15:49:31"
       }
     ]
   },
@@ -46525,6 +46555,16 @@
         "updated_at": "2025-07-26 16:51:00"
       },
       {
+        "id": "TRUMPCHI_GS5",
+        "mark_id": "TRUMPCHI",
+        "name": "GS5",
+        "cyrillic_name": "ГС5",
+        "year_from": 2018,
+        "year_to": 2021,
+        "class": "D",
+        "updated_at": "2025-08-13 00:06:45"
+      },
+      {
         "id": "TRUMPCHI_GS8",
         "mark_id": "TRUMPCHI",
         "name": "GS8",
@@ -49506,6 +49546,16 @@
         "updated_at": "2025-07-26 16:51:01"
       },
       {
+        "id": "WANDERER_W26",
+        "mark_id": "WANDERER",
+        "name": "W26",
+        "cyrillic_name": "В26",
+        "year_from": 1937,
+        "year_to": 1940,
+        "class": "F",
+        "updated_at": "2025-08-12 17:47:39"
+      },
+      {
         "id": "WANDERER_W50",
         "mark_id": "WANDERER",
         "name": "W50",
@@ -50962,6 +51012,16 @@
         "year_to": 2021,
         "class": "B",
         "updated_at": "2025-07-26 22:33:37"
+      },
+      {
+        "id": "ZOTYE_T800",
+        "mark_id": "ZOTYE",
+        "name": "T800",
+        "cyrillic_name": "Т800",
+        "year_from": 2018,
+        "year_to": 2021,
+        "class": "D",
+        "updated_at": "2025-08-15 14:41:35"
       },
       {
         "id": "ZOTYE_Z100",
