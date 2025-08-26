@@ -1518,7 +1518,7 @@
         "cyrillic_name": "Т1",
         "year_from": 2025,
         "year_to": 2025,
-        "class": "C",
+        "class": "E",
         "updated_at": "2025-08-17 12:01:56"
       }
     ]
@@ -6765,7 +6765,7 @@
     "cyrillic_name": "Чана",
     "numeric_id": 231018,
     "year_from": 2006,
-    "year_to": 2011,
+    "year_to": 2015,
     "popular": 0,
     "country": "Китай",
     "updated_at": "2025-07-26 22:33:37",
@@ -7340,6 +7340,16 @@
     "updated_at": "2025-07-26 22:33:37",
     "models": [
       {
+        "id": "CHANGHE_FREEDOM",
+        "mark_id": "CHANGHE",
+        "name": "Freedom",
+        "cyrillic_name": "Фридом",
+        "year_from": 2007,
+        "year_to": 2014,
+        "class": "M",
+        "updated_at": "2025-08-21 23:44:45"
+      },
+      {
         "id": "CHANGHE_IDEAL",
         "mark_id": "CHANGHE",
         "name": "Ideal",
@@ -7691,6 +7701,16 @@
         "year_to": 2012,
         "class": "C",
         "updated_at": "2025-07-26 16:51:00"
+      },
+      {
+        "id": "CHERY_Q22",
+        "mark_id": "CHERY",
+        "name": "Q22",
+        "cyrillic_name": "Ку22",
+        "year_from": 2009,
+        "year_to": 2022,
+        "class": "B",
+        "updated_at": "2025-08-21 02:00:59"
       },
       {
         "id": "CHERY_QQ",
@@ -13139,16 +13159,6 @@
         "updated_at": "2025-08-03 01:59:45"
       },
       {
-        "id": "DR_1_0_EV",
-        "mark_id": "DR",
-        "name": "1.0 EV",
-        "cyrillic_name": "1.0 ЕВ",
-        "year_from": 2023,
-        "year_to": 2025,
-        "class": "A",
-        "updated_at": "2025-07-30 09:05:42"
-      },
-      {
         "id": "DR_3_0",
         "mark_id": "DR",
         "name": "3.0",
@@ -13836,6 +13846,16 @@
         "year_to": 2023,
         "class": "D",
         "updated_at": "2025-07-26 16:51:00"
+      },
+      {
+        "id": "FAW_CA6420",
+        "mark_id": "FAW",
+        "name": "CA6420",
+        "cyrillic_name": "ЦА6420",
+        "year_from": 2013,
+        "year_to": 2025,
+        "class": "B",
+        "updated_at": "2025-08-20 11:03:12"
       },
       {
         "id": "FAW_D60",
@@ -14939,7 +14959,7 @@
         "name": "Strada",
         "cyrillic_name": "Страда",
         "year_from": 1998,
-        "year_to": 2003,
+        "year_to": 2025,
         "class": "A",
         "updated_at": "2025-07-26 16:51:00"
       },
@@ -16224,6 +16244,16 @@
         "year_to": 2025,
         "class": "C",
         "updated_at": "2025-07-26 16:51:00"
+      },
+      {
+        "id": "FORTHING_V9",
+        "mark_id": "FORTHING",
+        "name": "V9",
+        "cyrillic_name": "В9",
+        "year_from": 2024,
+        "year_to": 2025,
+        "class": "C",
+        "updated_at": "2025-08-25 02:55:27"
       },
       {
         "id": "FORTHING_XINGHAI_S7",
@@ -23885,6 +23915,16 @@
         "updated_at": "2025-07-26 16:51:00"
       },
       {
+        "id": "JETOUR_T1",
+        "mark_id": "JETOUR",
+        "name": "T1",
+        "cyrillic_name": "Т1",
+        "year_from": 2025,
+        "year_to": 2025,
+        "class": "D",
+        "updated_at": "2025-08-19 09:48:39"
+      },
+      {
         "id": "JETOUR_T2",
         "mark_id": "JETOUR",
         "name": "T2",
@@ -25540,6 +25580,16 @@
         "year_to": 1981,
         "class": "S",
         "updated_at": "2025-07-26 16:51:00"
+      },
+      {
+        "id": "LAMBORGHINI_FENOMENO",
+        "mark_id": "LAMBORGHINI",
+        "name": "Fenomeno",
+        "cyrillic_name": "Феномено",
+        "year_from": 2025,
+        "year_to": 2025,
+        "class": "E",
+        "updated_at": "2025-08-22 09:53:29"
       },
       {
         "id": "LAMBORGHINI_GALLARDO",
@@ -33368,6 +33418,16 @@
         "updated_at": "2025-07-26 16:51:01"
       },
       {
+        "id": "MOSCVICH_M70",
+        "mark_id": "MOSCVICH",
+        "name": "М70",
+        "cyrillic_name": "М70",
+        "year_from": 2025,
+        "year_to": 2025,
+        "class": "B",
+        "updated_at": "2025-08-21 23:44:47"
+      },
+      {
         "id": "MOSCVICH_SVYATOGOR",
         "mark_id": "MOSCVICH",
         "name": "Святогор",
@@ -34161,6 +34221,16 @@
         "year_to": 2012,
         "class": "S",
         "updated_at": "2025-07-26 16:51:00"
+      },
+      {
+        "id": "NISSAN_KUBISTAR",
+        "mark_id": "NISSAN",
+        "name": "Kubistar",
+        "cyrillic_name": "Кубистар",
+        "year_from": 2003,
+        "year_to": 2009,
+        "class": "M",
+        "updated_at": "2025-08-19 09:48:40"
       },
       {
         "id": "NISSAN_LAFESTA",
@@ -46561,7 +46631,7 @@
         "cyrillic_name": "ГС5",
         "year_from": 2018,
         "year_to": 2021,
-        "class": "D",
+        "class": "M",
         "updated_at": "2025-08-13 00:06:45"
       },
       {
@@ -47588,6 +47658,16 @@
         "year_to": 2025,
         "class": "B",
         "updated_at": "2025-07-26 16:51:00"
+      },
+      {
+        "id": "VAZ_NIVA_TRAVEL",
+        "mark_id": "VAZ",
+        "name": "Niva Travel",
+        "cyrillic_name": "Нива Тревел",
+        "year_from": 2020,
+        "year_to": 2025,
+        "class": "B",
+        "updated_at": "2025-08-20 11:03:13"
       },
       {
         "id": "VAZ_REVOLUTION",
@@ -49824,8 +49904,8 @@
     "name": "Wiesmann",
     "cyrillic_name": "Вайсман",
     "numeric_id": 3385,
-    "year_from": 1996,
-    "year_to": 2013,
+    "year_from": 1993,
+    "year_to": 2014,
     "popular": 0,
     "country": "Германия",
     "updated_at": "2025-07-26 22:33:37",
@@ -51020,7 +51100,7 @@
         "cyrillic_name": "Т800",
         "year_from": 2018,
         "year_to": 2021,
-        "class": "D",
+        "class": "C",
         "updated_at": "2025-08-15 14:41:35"
       },
       {
