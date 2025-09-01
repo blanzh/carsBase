@@ -7014,6 +7014,16 @@
         "updated_at": "2025-07-26 16:51:00"
       },
       {
+        "id": "CHANGAN_DEEPAL_L06",
+        "mark_id": "CHANGAN",
+        "name": "Deepal L06",
+        "cyrillic_name": "Дипал Л06",
+        "year_from": 2025,
+        "year_to": 2025,
+        "class": "B",
+        "updated_at": "2025-08-29 11:43:52"
+      },
+      {
         "id": "CHANGAN_DEEPAL_L07",
         "mark_id": "CHANGAN",
         "name": "Deepal L07",
@@ -7202,6 +7212,16 @@
         "year_to": 2025,
         "class": "B",
         "updated_at": "2025-07-26 16:51:00"
+      },
+      {
+        "id": "CHANGAN_UNI_L",
+        "mark_id": "CHANGAN",
+        "name": "UNI-L",
+        "cyrillic_name": "Уни-Эл",
+        "year_from": 2023,
+        "year_to": 2025,
+        "class": "D",
+        "updated_at": "2025-09-01 19:14:49"
       },
       {
         "id": "CHANGAN_UNI_S",
@@ -7643,6 +7663,16 @@
         "updated_at": "2025-07-26 16:51:00"
       },
       {
+        "id": "CHERY_FULWIN_X3",
+        "mark_id": "CHERY",
+        "name": "Fulwin X3",
+        "cyrillic_name": "Фулвин икс 3",
+        "year_from": 2025,
+        "year_to": 2025,
+        "class": "B",
+        "updated_at": "2025-08-30 11:19:48"
+      },
+      {
         "id": "CHERY_INDIS",
         "mark_id": "CHERY",
         "name": "IndiS (S18D)",
@@ -7991,6 +8021,16 @@
         "year_to": 2025,
         "class": "C",
         "updated_at": "2025-07-26 16:51:00"
+      },
+      {
+        "id": "CHERY_TIGGO_E",
+        "mark_id": "CHERY",
+        "name": "Tiggo E",
+        "cyrillic_name": "Тигго Е",
+        "year_from": 2019,
+        "year_to": 2022,
+        "class": "B",
+        "updated_at": "2025-08-27 23:43:11"
       },
       {
         "id": "CHERY_VERY",
@@ -39179,6 +39219,16 @@
         "updated_at": "2025-07-26 16:51:01"
       },
       {
+        "id": "RENAULT_KIGER",
+        "mark_id": "RENAULT",
+        "name": "Kiger",
+        "cyrillic_name": "Кигер",
+        "year_from": 2021,
+        "year_to": 2025,
+        "class": "A",
+        "updated_at": "2025-08-30 11:19:49"
+      },
+      {
         "id": "RENAULT_KOLEOS",
         "mark_id": "RENAULT",
         "name": "Koleos",
@@ -41461,6 +41511,26 @@
         "year_to": 1973,
         "class": "D",
         "updated_at": "2025-07-26 16:51:01"
+      },
+      {
+        "id": "SKODA_440",
+        "mark_id": "SKODA",
+        "name": "440",
+        "cyrillic_name": "440",
+        "year_from": 1955,
+        "year_to": 1959,
+        "class": "C",
+        "updated_at": "2025-08-29 01:19:53"
+      },
+      {
+        "id": "SKODA_445",
+        "mark_id": "SKODA",
+        "name": "445",
+        "cyrillic_name": "445",
+        "year_from": 1957,
+        "year_to": 1959,
+        "class": "C",
+        "updated_at": "2025-08-29 01:19:53"
       },
       {
         "id": "SKODA_CITIGO",
@@ -44130,6 +44200,16 @@
         "year_to": 2025,
         "class": "B",
         "updated_at": "2025-07-29 21:52:32"
+      },
+      {
+        "id": "TENET_T9",
+        "mark_id": "TENET",
+        "name": "T9",
+        "cyrillic_name": "Т9",
+        "year_from": 2025,
+        "year_to": 2025,
+        "class": "B",
+        "updated_at": "2025-08-27 23:43:12"
       }
     ]
   },
@@ -47994,7 +48074,7 @@
         "cyrillic_name": "Си40",
         "year_from": 2024,
         "year_to": 2025,
-        "class": "D",
+        "class": "C",
         "updated_at": "2025-07-26 16:51:01"
       },
       {
@@ -48004,7 +48084,7 @@
         "cyrillic_name": "К30",
         "year_from": 2024,
         "year_to": 2025,
-        "class": "D",
+        "class": "C",
         "updated_at": "2025-07-26 16:51:01"
       },
       {
@@ -48014,7 +48094,7 @@
         "cyrillic_name": "К40",
         "year_from": 2024,
         "year_to": 2025,
-        "class": "D",
+        "class": "C",
         "updated_at": "2025-07-26 16:51:01"
       }
     ]

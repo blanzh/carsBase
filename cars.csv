@@ -620,6 +620,7 @@ CHANGAN,Changan,Чанган,0,Китай,2006,2025,CHANGAN_CS95PLUS,CS95 Plus,�
 CHANGAN,Changan,Чанган,0,Китай,2006,2025,CHANGAN_CX20,CX20,сх20,B,2011,2016
 CHANGAN,Changan,Чанган,0,Китай,2006,2025,CHANGAN_CX70,Oshan CX70,ЦИкс70,B,2016,2019
 CHANGAN,Changan,Чанган,0,Китай,2006,2025,CHANGAN_DEEPAL_G318,Deepal G318,Дипал Джи318,B,2024,2025
+CHANGAN,Changan,Чанган,0,Китай,2006,2025,CHANGAN_DEEPAL_L06,Deepal L06,Дипал Л06,B,2025,2025
 CHANGAN,Changan,Чанган,0,Китай,2006,2025,CHANGAN_DEEPAL_L07,Deepal L07,Дипал Л07,B,2024,2025
 CHANGAN,Changan,Чанган,0,Китай,2006,2025,CHANGAN_DEEPAL_S05,Deepal S05,Дипал С05,B,2024,2025
 CHANGAN,Changan,Чанган,0,Китай,2006,2025,CHANGAN_DEEPAL_S09,Deepal S09,Дипал С09,B,2024,2025
@@ -639,6 +640,7 @@ CHANGAN,Changan,Чанган,0,Китай,2006,2025,CHANGAN_RAETON_PLUS,Raeton P
 CHANGAN,Changan,Чанган,0,Китай,2006,2025,CHANGAN_SHENLAN_S7,Deepal S07 (S7),Дипал С7,B,2023,2025
 CHANGAN,Changan,Чанган,0,Китай,2006,2025,CHANGAN_SHENLAN_SL03,Deepal SL03,Дипал СЛ03,B,2022,2025
 CHANGAN,Changan,Чанган,0,Китай,2006,2025,CHANGAN_UNI_K,UNI-K,УНИ-К,B,2020,2025
+CHANGAN,Changan,Чанган,0,Китай,2006,2025,CHANGAN_UNI_L,UNI-L,Уни-Эл,D,2023,2025
 CHANGAN,Changan,Чанган,0,Китай,2006,2025,CHANGAN_UNI_S,UNI-S (CS55 Plus),Уни-С,B,2024,2025
 CHANGAN,Changan,Чанган,0,Китай,2006,2025,CHANGAN_UNI_T,UNI-T,Уни-Т,B,2020,2025
 CHANGAN,Changan,Чанган,0,Китай,2006,2025,CHANGAN_UNI_V,UNI-V,Уни-В,B,2022,2025
@@ -679,6 +681,7 @@ CHERY,Chery,Чери,1,Китай,1999,2025,CHERY_FULWIN_T10,Fulwin T10,Фулв
 CHERY,Chery,Чери,1,Китай,1999,2025,CHERY_FULWIN_T6,Fulwin T6,Фулвин Т6,C,2024,2025
 CHERY,Chery,Чери,1,Китай,1999,2025,CHERY_FULWIN_T8,Fulwin T8,Фулвин Т8,C,2025,2025
 CHERY,Chery,Чери,1,Китай,1999,2025,CHERY_FULWIN_T9,Fulwin T9,Фулвин Т9,C,2024,2025
+CHERY,Chery,Чери,1,Китай,1999,2025,CHERY_FULWIN_X3,Fulwin X3,Фулвин икс 3,B,2025,2025
 CHERY,Chery,Чери,1,Китай,1999,2025,CHERY_INDIS,IndiS (S18D),Индис,C,2010,2015
 CHERY,Chery,Чери,1,Китай,1999,2025,CHERY_KARRY,Karry,Кари,C,2007,2010
 CHERY,Chery,Чери,1,Китай,1999,2025,CHERY_KIMO,Kimo (A1),Кимо,C,2007,2014
@@ -714,6 +717,7 @@ CHERY,Chery,Чери,1,Китай,1999,2025,CHERY_TIGGO_8_PRO_EPLUS,Tiggo 8 Pro 
 CHERY,Chery,Чери,1,Китай,1999,2025,CHERY_TIGGO_8_PRO_MAX,Tiggo 8 Pro Max,Тигго 8 Про Макс,C,2022,2025
 CHERY,Chery,Чери,1,Китай,1999,2025,CHERY_TIGGO_8_PRO_PLUG_IN_HYBRID,Tiggo 8 Pro Plug-in Hybrid,Тигго 8 Про Плаг-ин Гибрид,C,2023,2025
 CHERY,Chery,Чери,1,Китай,1999,2025,CHERY_TIGGO_9,Tiggo 9,Тигго 9,C,2023,2025
+CHERY,Chery,Чери,1,Китай,1999,2025,CHERY_TIGGO_E,Tiggo E,Тигго Е,B,2019,2022
 CHERY,Chery,Чери,1,Китай,1999,2025,CHERY_VERY,Very (A13),Вери,C,2011,2014
 CHERY,Chery,Чери,1,Китай,1999,2025,CHERY_WINDCLOUD,Windcloud (A11),Виндклауд,C,1999,2006
 CHERYEXEED,Exeed,Эксид,0,Китай,2019,2025,CHERYEXEED_ES,Sterra ES,Стерра ЕС,D,2023,2025
@@ -3531,6 +3535,7 @@ RENAULT,Renault,Рено,1,Франция,1929,2025,RENAULT_KADJAR,Kadjar,Кад
 RENAULT,Renault,Рено,1,Франция,1929,2025,RENAULT_KANGOO,Kangoo,Кэнгу,M,1997,2025
 RENAULT,Renault,Рено,1,Франция,1929,2025,RENAULT_KAPTUR,Kaptur,Каптюр,M,2016,2022
 RENAULT,Renault,Рено,1,Франция,1929,2025,RENAULT_KARDIAN,Kardian,Кардиан,M,2023,2025
+RENAULT,Renault,Рено,1,Франция,1929,2025,RENAULT_KIGER,Kiger,Кигер,A,2021,2025
 RENAULT,Renault,Рено,1,Франция,1929,2025,RENAULT_KOLEOS,Koleos,Колеос,M,2008,2023
 RENAULT,Renault,Рено,1,Франция,1929,2025,RENAULT_KWID,KWID,квид,M,2015,2025
 RENAULT,Renault,Рено,1,Франция,1929,2025,RENAULT_LAGUNA,Laguna,Лагуна,M,1993,2015
@@ -3723,6 +3728,8 @@ SIMCA,Simca,Симка,0,Франция,1963,1979,SIMCA_1307,1307,1307,D,1975,19
 SKODA,Skoda,Шкода,1,Чехия,1934,2025,SKODA_100_SERIES,100 Series,100 серия,D,1969,1991
 SKODA,Skoda,Шкода,1,Чехия,1934,2025,SKODA_120,"105, 120","105, 120",D,1976,1990
 SKODA,Skoda,Шкода,1,Чехия,1934,2025,SKODA_1200,1200,1200,D,1952,1973
+SKODA,Skoda,Шкода,1,Чехия,1934,2025,SKODA_440,440,440,C,1955,1959
+SKODA,Skoda,Шкода,1,Чехия,1934,2025,SKODA_445,445,445,C,1957,1959
 SKODA,Skoda,Шкода,1,Чехия,1934,2025,SKODA_CITIGO,Citigo,Ситиго,D,2011,2020
 SKODA,Skoda,Шкода,1,Чехия,1934,2025,SKODA_ELROQ,Elroq,Элрок,D,2024,2025
 SKODA,Skoda,Шкода,1,Чехия,1934,2025,SKODA_ELROQ_RS,Elroq RS,Элрок РС,D,2025,2025
@@ -3960,6 +3967,7 @@ TAZZARI,Tazzari,Таззари,0,Италия,2009,2016,TAZZARI_ZERO,Zero,зер
 TENET,Tenet,Тенет,0,Россия,2024,2025,TENET_T4,T4,Т4,B,2025,2025
 TENET,Tenet,Тенет,0,Россия,2024,2025,TENET_T7,T7,Т7,B,2025,2025
 TENET,Tenet,Тенет,0,Россия,2024,2025,TENET_T8,T8,Т8,B,2024,2025
+TENET,Tenet,Тенет,0,Россия,2024,2025,TENET_T9,T9,Т9,B,2025,2025
 TESLA,Tesla,Тесла,0,США,2008,2025,TESLA_CYBERTRUCK,Cybertruck,Кибертрак,F,2023,2025
 TESLA,Tesla,Тесла,0,США,2008,2025,TESLA_MODEL_3,Model 3,Модел 3,F,2017,2025
 TESLA,Tesla,Тесла,0,США,2008,2025,TESLA_MODEL_S,Model S,Модел C,F,2012,2025
@@ -4317,9 +4325,9 @@ VINFAST,VinFast,Винфаст,0,Вьетнам,2019,2025,VINFAST_VF6,VF6,ВФ6,
 VINFAST,VinFast,Винфаст,0,Вьетнам,2019,2025,VINFAST_VF7,VF7,ВФ7,B,2024,2025
 VINFAST,VinFast,Винфаст,0,Вьетнам,2019,2025,VINFAST_VF8,VF8,ВФ8,B,2022,2025
 VINFAST,VinFast,Винфаст,0,Вьетнам,2019,2025,VINFAST_VF9,VF9,ВФ9,B,2022,2025
-VOLGA,Volga,Волга,0,Россия,2024,2025,VOLGA_C40,C40,Си40,D,2024,2025
-VOLGA,Volga,Волга,0,Россия,2024,2025,VOLGA_K30,K30,К30,D,2024,2025
-VOLGA,Volga,Волга,0,Россия,2024,2025,VOLGA_K40,K40,К40,D,2024,2025
+VOLGA,Volga,Волга,0,Россия,2024,2025,VOLGA_C40,C40,Си40,C,2024,2025
+VOLGA,Volga,Волга,0,Россия,2024,2025,VOLGA_K30,K30,К30,C,2024,2025
+VOLGA,Volga,Волга,0,Россия,2024,2025,VOLGA_K40,K40,К40,C,2024,2025
 VOLKSWAGEN,Volkswagen,Фольксваген,1,Германия,1938,2025,VOLKSWAGEN_181,181,181,D,1969,1979
 VOLKSWAGEN,Volkswagen,Фольксваген,1,Германия,1938,2025,VOLKSWAGEN_AMAROK,Amarok,Амарок,D,2010,2025
 VOLKSWAGEN,Volkswagen,Фольксваген,1,Германия,1938,2025,VOLKSWAGEN_ARTEON,Arteon,Артеон,D,2017,2024
