@@ -125,6 +125,7 @@ AM_GENERAL,AM General,АМ Дженерал,0,США,1984,2006,AM_GENERAL_HUMVEE
 APAL,Apal,Апал,0,Россия,2018,2020,APAL_21541,21541 Stalker,21541 Сталкер,J,2018,2020
 ARCFOX,Arcfox,Аркфокс,0,Китай,2020,2025,ARCFOX_ALPHA_S,Alpha S,Альфа С,E,2021,2025
 ARCFOX,Arcfox,Аркфокс,0,Китай,2020,2025,ARCFOX_ALPHA_S5,Alpha S5,Альфа С5,E,2024,2025
+ARCFOX,Arcfox,Аркфокс,0,Китай,2020,2025,ARCFOX_ALPHA_S6,Alpha S6,Альфа С6,E,2025,2025
 ARCFOX,Arcfox,Аркфокс,0,Китай,2020,2025,ARCFOX_ALPHA_T,Alpha T,Альфа Т,E,2020,2025
 ARCFOX,Arcfox,Аркфокс,0,Китай,2020,2025,ARCFOX_ALPHA_T5,Alpha T5,Альфа Т5,D,2023,2025
 ARCFOX,Arcfox,Аркфокс,0,Китай,2020,2025,ARCFOX_KAOLA,Kaola,Каола,E,2023,2025
@@ -618,6 +619,7 @@ CHANGAN,Changan,Чанган,0,Китай,2006,2025,CHANGAN_CS55,CS55,цс55,B,2
 CHANGAN,Changan,Чанган,0,Китай,2006,2025,CHANGAN_CS55PLUS,CS55 Plus,ЦС55ПЛЮС,B,2019,2025
 CHANGAN,Changan,Чанган,0,Китай,2006,2025,CHANGAN_CS75,CS75,ЦС75,B,2014,2025
 CHANGAN,Changan,Чанган,0,Китай,2006,2025,CHANGAN_CS75PLUS,CS75 Plus,ЦС75Плюс,B,2019,2025
+CHANGAN,Changan,Чанган,0,Китай,2006,2025,CHANGAN_CS75_PRO,CS75 Pro,ЦС75 Про,C,2025,2025
 CHANGAN,Changan,Чанган,0,Китай,2006,2025,CHANGAN_CS85,CS85,ЦС85,B,2019,2025
 CHANGAN,Changan,Чанган,0,Китай,2006,2025,CHANGAN_CS95,CS95,ЦС95,B,2017,2025
 CHANGAN,Changan,Чанган,0,Китай,2006,2025,CHANGAN_CS95PLUS,CS95 Plus,ЦС95Плюс,B,2023,2025
@@ -682,6 +684,7 @@ CHERY,Chery,Чери,1,Китай,1999,2025,CHERY_FORA,Fora (A21),Фора,C,200
 CHERY,Chery,Чери,1,Китай,1999,2025,CHERY_FULWIN_A8,Fulwin A8,Фулвин А8,C,2023,2025
 CHERY,Chery,Чери,1,Китай,1999,2025,CHERY_FULWIN_A9L,Fulwin A9L,Фулвин А9 Л,C,2025,2025
 CHERY,Chery,Чери,1,Китай,1999,2025,CHERY_FULWIN_T10,Fulwin T10,Фулвин Т10,C,2024,2025
+CHERY,Chery,Чери,1,Китай,1999,2025,CHERY_FULWIN_T11,Fulwin T11,Фулвин Т11,E,2025,2025
 CHERY,Chery,Чери,1,Китай,1999,2025,CHERY_FULWIN_T6,Fulwin T6,Фулвин Т6,C,2024,2025
 CHERY,Chery,Чери,1,Китай,1999,2025,CHERY_FULWIN_T8,Fulwin T8,Фулвин Т8,C,2025,2025
 CHERY,Chery,Чери,1,Китай,1999,2025,CHERY_FULWIN_T9,Fulwin T9,Фулвин Т9,C,2024,2025
@@ -726,6 +729,7 @@ CHERY,Chery,Чери,1,Китай,1999,2025,CHERY_TIGGO_E,Tiggo E,Тигго Е,
 CHERY,Chery,Чери,1,Китай,1999,2025,CHERY_VERY,Very (A13),Вери,C,2011,2014
 CHERY,Chery,Чери,1,Китай,1999,2025,CHERY_WINDCLOUD,Windcloud (A11),Виндклауд,C,1999,2006
 CHERYEXEED,Exeed,Эксид,0,Китай,2019,2025,CHERYEXEED_ES,Sterra ES,Стерра ЕС,D,2023,2025
+CHERYEXEED,Exeed,Эксид,0,Китай,2019,2025,CHERYEXEED_ET8,ET8,ЕТ8,J,2025,2025
 CHERYEXEED,Exeed,Эксид,0,Китай,2019,2025,CHERYEXEED_EXLANTIX_ES,Exlantix ES,Экслантикс ЕС,D,2024,2025
 CHERYEXEED,Exeed,Эксид,0,Китай,2019,2025,CHERYEXEED_EXLANTIX_ET,Exlantix ET,Экслантикс ЕТ,D,2024,2025
 CHERYEXEED,Exeed,Эксид,0,Китай,2019,2025,CHERYEXEED_LX,LX,ЛХ,D,2019,2025
@@ -1223,12 +1227,12 @@ ENOVATE,Enovate (Enoreve),Эновате,0,Китай,2020,2023,ENOVATE_ME5,ME5,
 ENOVATE,Enovate (Enoreve),Эновате,0,Китай,2020,2023,ENOVATE_ME7,ME7,ме7,D,2020,2023
 EONYX,Eonyx,Еоникс,0,Россия,2025,2025,EONYX_M2,M2,М2,A,2025,2025
 EVERUS,Everus,Эверус,0,Китай,2018,2025,EVERUS_VE_1,VE-1,ВЕ-1,B,2018,2025
-EVOLUTE,Evolute,Эволют,0,Россия,2022,2025,EVOLUTE_I_JET,i-JET,ай-ДЖЕТ,C,2022,2025
-EVOLUTE,Evolute,Эволют,0,Россия,2022,2025,EVOLUTE_I_JOY,i-JOY,ай-ДЖОЙ,C,2022,2025
-EVOLUTE,Evolute,Эволют,0,Россия,2022,2025,EVOLUTE_I_PRO,i-PRO,ай-ПРО,C,2022,2025
-EVOLUTE,Evolute,Эволют,0,Россия,2022,2025,EVOLUTE_I_SKY,i-SKY,АйСкай,C,2023,2025
-EVOLUTE,Evolute,Эволют,0,Россия,2022,2025,EVOLUTE_I_SPACE,i-SPACE,ай-Спэйс,C,2023,2025
-EVOLUTE,Evolute,Эволют,0,Россия,2022,2025,EVOLUTE_I_VAN,i-VAN,ай-ВЭН,C,2022,2025
+EVOLUTE,Evolute,Эволют,0,Россия,2022,2025,EVOLUTE_I_JET,i-JET,ай-ДЖЕТ,M,2022,2025
+EVOLUTE,Evolute,Эволют,0,Россия,2022,2025,EVOLUTE_I_JOY,i-JOY,ай-ДЖОЙ,M,2022,2025
+EVOLUTE,Evolute,Эволют,0,Россия,2022,2025,EVOLUTE_I_PRO,i-PRO,ай-ПРО,M,2022,2025
+EVOLUTE,Evolute,Эволют,0,Россия,2022,2025,EVOLUTE_I_SKY,i-SKY,АйСкай,M,2023,2025
+EVOLUTE,Evolute,Эволют,0,Россия,2022,2025,EVOLUTE_I_SPACE,i-SPACE,ай-Спэйс,M,2023,2025
+EVOLUTE,Evolute,Эволют,0,Россия,2022,2025,EVOLUTE_I_VAN,i-VAN,ай-ВЭН,M,2022,2025
 EXCALIBUR,Excalibur,Экскалибур,0,США,1980,1997,EXCALIBUR_SERIES_IV,Series IV,серия 4,S,1980,1985
 EXCALIBUR,Excalibur,Экскалибур,0,США,1980,1997,EXCALIBUR_SERIES_V,Series V,серия 5,S,1985,1997
 E_CAR,E-Car,Е-Кар,0,Китай,2012,2014,E_CAR_GD04B,GD04B,гд04б,A,2012,2014
@@ -1305,6 +1309,7 @@ FERRARI,Ferrari,Феррари,0,Италия,1955,2025,FERRARI_MONZA_SP,Monza S
 FERRARI,Ferrari,Феррари,0,Италия,1955,2025,FERRARI_PORTOFINO,Portofino,Портофино,S,2017,2023
 FERRARI,Ferrari,Феррари,0,Италия,1955,2025,FERRARI_PUROSANGUE,Purosangue,Пуросанг,S,2022,2025
 FERRARI,Ferrari,Феррари,0,Италия,1955,2025,FERRARI_ROMA,Roma,Рома,S,2020,2025
+FERRARI,Ferrari,Феррари,0,Италия,1955,2025,FERRARI_SC40,SC40,Эс Си 40,S,2025,2025
 FERRARI,Ferrari,Феррари,0,Италия,1955,2025,FERRARI_SF90_STRADALE,SF90,СФ90 Штрадале,S,2019,2025
 FERRARI,Ferrari,Феррари,0,Италия,1955,2025,FERRARI_TESTAROSSA,Testarossa,Теста Росса,S,1984,1991
 FIAT,Fiat,Фиат,0,Италия,1932,2025,FIAT_1100,1100,1100,A,1939,1948
@@ -3663,6 +3668,7 @@ ROVER,Rover,Ровер,0,Великобритания,1933,2005,ROVER_P6,P6,п6,
 ROVER,Rover,Ровер,0,Великобритания,1933,2005,ROVER_SD1,SD1,сд1,D,1976,1986
 ROVER,Rover,Ровер,0,Великобритания,1933,2005,ROVER_STREETWISE,Streetwise,Стритвайз,D,2003,2005
 ROX,Rox,Рокс,0,Китай,2024,2025,ROX_01,01,01,J,2024,2025
+ROX,Rox,Рокс,0,Китай,2024,2025,ROX_ADAMAS,Adamas,Адамас,J,2025,2025
 RUSSO_BALTIQUE,Руссо-Балт,Руссо-Балт,0,Россия,1909,1918,RUSSO_BALTIQUE_C24,С24,С24,F,1909,1918
 SAAB,Saab,Сааб,0,Швеция,1956,2014,SAAB_600,600,600,D,1980,1982
 SAAB,Saab,Сааб,0,Швеция,1956,2014,SAAB_90,90,90,D,1984,1987
@@ -3885,6 +3891,7 @@ SUBARU,Subaru,Субару,1,Япония,1958,2025,SUBARU_SAMBAR,Sambar,Сам�
 SUBARU,Subaru,Субару,1,Япония,1958,2025,SUBARU_SOLTERRA,Solterra,Солтерра,D,2022,2025
 SUBARU,Subaru,Субару,1,Япония,1958,2025,SUBARU_STELLA,Stella,Стелла,D,2006,2023
 SUBARU,Subaru,Субару,1,Япония,1958,2025,SUBARU_SVX,SVX,SVX,D,1991,1997
+SUBARU,Subaru,Субару,1,Япония,1958,2025,SUBARU_TRAILSEEKER,Trailseeker,Трейлсикер,D,2025,2025
 SUBARU,Subaru,Субару,1,Япония,1958,2025,SUBARU_TRAVIQ,Traviq,Трэвик,D,2001,2004
 SUBARU,Subaru,Субару,1,Япония,1958,2025,SUBARU_TREZIA,Trezia,Трэзия,D,2010,2016
 SUBARU,Subaru,Субару,1,Япония,1958,2025,SUBARU_UNCHARTED,Uncharted,Анчартед,M,2025,2025
@@ -4107,6 +4114,7 @@ TOYOTA,Toyota,Тойота,1,Япония,1960,2025,TOYOTA_IST,Ist,Ист,J,2001
 TOYOTA,Toyota,Тойота,1,Япония,1960,2025,TOYOTA_IZOA,Izoa,Изоа,J,2018,2025
 TOYOTA,Toyota,Тойота,1,Япония,1960,2025,TOYOTA_KLUGER,Kluger,Клюгер,J,2000,2013
 TOYOTA,Toyota,Тойота,1,Япония,1960,2025,TOYOTA_LAND_CRUISER,Land Cruiser,Ленд Крузер,J,1960,2025
+TOYOTA,Toyota,Тойота,1,Япония,1960,2025,TOYOTA_LAND_CRUISER_FJ,Land Cruiser FJ,Ленд Крузер ФДжи,J,2025,2025
 TOYOTA,Toyota,Тойота,1,Япония,1960,2025,TOYOTA_LAND_CRUISER_PRADO,Land Cruiser Prado,Ленд Крузер Прадо,J,1987,2025
 TOYOTA,Toyota,Тойота,1,Япония,1960,2025,TOYOTA_LEVIN,Levin,Левин,J,2014,2025
 TOYOTA,Toyota,Тойота,1,Япония,1960,2025,TOYOTA_LITE_ACE,Lite Ace,ЛайтЭйс,J,1979,2020
@@ -4578,6 +4586,7 @@ XPENG,Xpeng,Икспенг,0,Китай,2018,2025,XPENG_P7,P7,П7,C,2020,2025
 XPENG,Xpeng,Икспенг,0,Китай,2018,2025,XPENG_P7I,P7i,П7ай,C,2023,2025
 XPENG,Xpeng,Икспенг,0,Китай,2018,2025,XPENG_P7PLUS,P7+,П7+,C,2024,2025
 XPENG,Xpeng,Икспенг,0,Китай,2018,2025,XPENG_X9,X9,Икс9,C,2024,2025
+YANDEX_ROVER,Яндекс Ровер,Яндекс Ровер,0,Россия,2021,2025,YANDEX_ROVER_R_3,R3,Р3,A,2021,2025
 YEMA,Yema,Йема,0,Китай,2015,2025,YEMA_EC30,EC30,ЕС30,C,2017,2025
 YEMA,Yema,Йема,0,Китай,2015,2025,YEMA_SPICA,Spica,Спика,C,2015,2023
 YEMA,Yema,Йема,0,Китай,2015,2025,YEMA_T70,T70,Т70,C,2015,2020

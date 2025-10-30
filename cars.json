@@ -1492,6 +1492,16 @@
         "updated_at": "2025-07-26 16:51:00"
       },
       {
+        "id": "ARCFOX_ALPHA_S6",
+        "mark_id": "ARCFOX",
+        "name": "Alpha S6",
+        "cyrillic_name": "Альфа С6",
+        "year_from": 2025,
+        "year_to": 2025,
+        "class": "E",
+        "updated_at": "2025-10-30 12:06:58"
+      },
+      {
         "id": "ARCFOX_ALPHA_T",
         "mark_id": "ARCFOX",
         "name": "Alpha T",
@@ -6994,6 +7004,16 @@
         "updated_at": "2025-07-26 16:51:00"
       },
       {
+        "id": "CHANGAN_CS75_PRO",
+        "mark_id": "CHANGAN",
+        "name": "CS75 Pro",
+        "cyrillic_name": "ЦС75 Про",
+        "year_from": 2025,
+        "year_to": 2025,
+        "class": "C",
+        "updated_at": "2025-10-22 02:35:04"
+      },
+      {
         "id": "CHANGAN_CS85",
         "mark_id": "CHANGAN",
         "name": "CS85",
@@ -7673,6 +7693,16 @@
         "updated_at": "2025-07-26 16:51:00"
       },
       {
+        "id": "CHERY_FULWIN_T11",
+        "mark_id": "CHERY",
+        "name": "Fulwin T11",
+        "cyrillic_name": "Фулвин Т11",
+        "year_from": 2025,
+        "year_to": 2025,
+        "class": "E",
+        "updated_at": "2025-10-24 15:53:27"
+      },
+      {
         "id": "CHERY_FULWIN_T6",
         "mark_id": "CHERY",
         "name": "Fulwin T6",
@@ -8124,6 +8154,16 @@
         "year_to": 2025,
         "class": "D",
         "updated_at": "2025-07-26 16:51:00"
+      },
+      {
+        "id": "CHERYEXEED_ET8",
+        "mark_id": "CHERYEXEED",
+        "name": "ET8",
+        "cyrillic_name": "ЕТ8",
+        "year_from": 2025,
+        "year_to": 2025,
+        "class": "J",
+        "updated_at": "2025-10-28 10:54:05"
       },
       {
         "id": "CHERYEXEED_EXLANTIX_ES",
@@ -13609,7 +13649,7 @@
         "cyrillic_name": "ай-ДЖЕТ",
         "year_from": 2022,
         "year_to": 2025,
-        "class": "C",
+        "class": "M",
         "updated_at": "2025-07-26 16:51:00"
       },
       {
@@ -13619,7 +13659,7 @@
         "cyrillic_name": "ай-ДЖОЙ",
         "year_from": 2022,
         "year_to": 2025,
-        "class": "C",
+        "class": "M",
         "updated_at": "2025-07-26 16:51:00"
       },
       {
@@ -13629,7 +13669,7 @@
         "cyrillic_name": "ай-ПРО",
         "year_from": 2022,
         "year_to": 2025,
-        "class": "C",
+        "class": "M",
         "updated_at": "2025-07-26 16:51:00"
       },
       {
@@ -13639,7 +13679,7 @@
         "cyrillic_name": "АйСкай",
         "year_from": 2023,
         "year_to": 2025,
-        "class": "C",
+        "class": "M",
         "updated_at": "2025-07-26 16:51:00"
       },
       {
@@ -13649,7 +13689,7 @@
         "cyrillic_name": "ай-Спэйс",
         "year_from": 2023,
         "year_to": 2025,
-        "class": "C",
+        "class": "M",
         "updated_at": "2025-07-26 16:51:00"
       },
       {
@@ -13659,7 +13699,7 @@
         "cyrillic_name": "ай-ВЭН",
         "year_from": 2022,
         "year_to": 2025,
-        "class": "C",
+        "class": "M",
         "updated_at": "2025-07-26 16:51:00"
       }
     ]
@@ -14499,6 +14539,16 @@
         "year_to": 2025,
         "class": "S",
         "updated_at": "2025-07-26 16:51:00"
+      },
+      {
+        "id": "FERRARI_SC40",
+        "mark_id": "FERRARI",
+        "name": "SC40",
+        "cyrillic_name": "Эс Си 40",
+        "year_from": 2025,
+        "year_to": 2025,
+        "class": "S",
+        "updated_at": "2025-10-25 15:19:45"
       },
       {
         "id": "FERRARI_SF90_STRADALE",
@@ -40640,6 +40690,16 @@
         "year_to": 2025,
         "class": "J",
         "updated_at": "2025-07-26 16:51:01"
+      },
+      {
+        "id": "ROX_ADAMAS",
+        "mark_id": "ROX",
+        "name": "Adamas",
+        "cyrillic_name": "Адамас",
+        "year_from": 2025,
+        "year_to": 2025,
+        "class": "J",
+        "updated_at": "2025-10-25 15:19:46"
       }
     ]
   },
@@ -43290,6 +43350,16 @@
         "updated_at": "2025-07-26 16:51:01"
       },
       {
+        "id": "SUBARU_TRAILSEEKER",
+        "mark_id": "SUBARU",
+        "name": "Trailseeker",
+        "cyrillic_name": "Трейлсикер",
+        "year_from": 2025,
+        "year_to": 2025,
+        "class": "D",
+        "updated_at": "2025-10-22 02:35:05"
+      },
+      {
         "id": "SUBARU_TRAVIQ",
         "mark_id": "SUBARU",
         "name": "Traviq",
@@ -45716,6 +45786,16 @@
         "year_to": 2025,
         "class": "J",
         "updated_at": "2025-07-26 16:51:01"
+      },
+      {
+        "id": "TOYOTA_LAND_CRUISER_FJ",
+        "mark_id": "TOYOTA",
+        "name": "Land Cruiser FJ",
+        "cyrillic_name": "Ленд Крузер ФДжи",
+        "year_from": 2025,
+        "year_to": 2025,
+        "class": "J",
+        "updated_at": "2025-10-28 10:54:06"
       },
       {
         "id": "TOYOTA_LAND_CRUISER_PRADO",
@@ -50868,6 +50948,29 @@
         "year_to": 2025,
         "class": "C",
         "updated_at": "2025-07-26 16:51:01"
+      }
+    ]
+  },
+  {
+    "id": "YANDEX_ROVER",
+    "name": "Яндекс Ровер",
+    "cyrillic_name": "Яндекс Ровер",
+    "numeric_id": 14775049,
+    "year_from": 2021,
+    "year_to": 2025,
+    "popular": 0,
+    "country": "Россия",
+    "updated_at": "2025-10-22 02:35:05",
+    "models": [
+      {
+        "id": "YANDEX_ROVER_R_3",
+        "mark_id": "YANDEX_ROVER",
+        "name": "R3",
+        "cyrillic_name": "Р3",
+        "year_from": 2021,
+        "year_to": 2025,
+        "class": "A",
+        "updated_at": "2025-10-22 02:35:05"
       }
     ]
   },
