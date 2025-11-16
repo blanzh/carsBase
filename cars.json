@@ -1518,8 +1518,18 @@
         "cyrillic_name": "Альфа Т5",
         "year_from": 2023,
         "year_to": 2025,
-        "class": "D",
+        "class": "E",
         "updated_at": "2025-10-19 19:03:47"
+      },
+      {
+        "id": "ARCFOX_ALPHA_T6",
+        "mark_id": "ARCFOX",
+        "name": "Alpha T6",
+        "cyrillic_name": "Альфа Т6",
+        "year_from": 2025,
+        "year_to": 2025,
+        "class": "E",
+        "updated_at": "2025-11-03 09:59:53"
       },
       {
         "id": "ARCFOX_KAOLA",
@@ -3782,6 +3792,16 @@
         "updated_at": "2025-07-26 16:51:00"
       },
       {
+        "id": "BAW_M8",
+        "mark_id": "BAW",
+        "name": "M8",
+        "cyrillic_name": "М8",
+        "year_from": 2025,
+        "year_to": 2025,
+        "class": "M",
+        "updated_at": "2025-11-10 09:47:54"
+      },
+      {
         "id": "BAW_MPV",
         "mark_id": "BAW",
         "name": "MPV",
@@ -5366,7 +5386,7 @@
         "cyrillic_name": "Электра Л7",
         "year_from": 2025,
         "year_to": 2025,
-        "class": "E",
+        "class": "C",
         "updated_at": "2025-10-16 19:23:16"
       },
       {
@@ -6864,6 +6884,36 @@
     "updated_at": "2025-07-26 22:33:37",
     "models": [
       {
+        "id": "CHANGAN_A05",
+        "mark_id": "CHANGAN",
+        "name": "Qiyuan A05",
+        "cyrillic_name": "Циюань А05",
+        "year_from": 2023,
+        "year_to": 2025,
+        "class": "B",
+        "updated_at": "2025-11-12 12:39:43"
+      },
+      {
+        "id": "CHANGAN_A06",
+        "mark_id": "CHANGAN",
+        "name": "Qiyuan A06",
+        "cyrillic_name": "Циюань А06",
+        "year_from": 2025,
+        "year_to": 2025,
+        "class": "B",
+        "updated_at": "2025-11-12 12:39:43"
+      },
+      {
+        "id": "CHANGAN_A07",
+        "mark_id": "CHANGAN",
+        "name": "Qiyuan A07",
+        "cyrillic_name": "Циюань А07",
+        "year_from": 2023,
+        "year_to": 2025,
+        "class": "B",
+        "updated_at": "2025-11-12 12:39:43"
+      },
+      {
         "id": "CHANGAN_ALSVIN",
         "mark_id": "CHANGAN",
         "name": "Alsvin",
@@ -7010,7 +7060,7 @@
         "cyrillic_name": "ЦС75 Про",
         "year_from": 2025,
         "year_to": 2025,
-        "class": "C",
+        "class": "B",
         "updated_at": "2025-10-22 02:35:04"
       },
       {
@@ -7114,6 +7164,16 @@
         "updated_at": "2025-07-26 16:51:00"
       },
       {
+        "id": "CHANGAN_E07",
+        "mark_id": "CHANGAN",
+        "name": "Qiyuan E07",
+        "cyrillic_name": "Циюань Е07",
+        "year_from": 2024,
+        "year_to": 2025,
+        "class": "B",
+        "updated_at": "2025-11-12 12:39:43"
+      },
+      {
         "id": "CHANGAN_EADO",
         "mark_id": "CHANGAN",
         "name": "Eado",
@@ -7152,6 +7212,16 @@
         "year_to": 2025,
         "class": "B",
         "updated_at": "2025-07-26 16:51:00"
+      },
+      {
+        "id": "CHANGAN_HUNTER_K50",
+        "mark_id": "CHANGAN",
+        "name": "Qiyuan Hunter K50",
+        "cyrillic_name": "Циюань Хантер К50",
+        "year_from": 2025,
+        "year_to": 2025,
+        "class": "B",
+        "updated_at": "2025-11-12 12:39:43"
       },
       {
         "id": "CHANGAN_HUNTER_PLUS",
@@ -7212,6 +7282,26 @@
         "year_to": 2022,
         "class": "B",
         "updated_at": "2025-07-26 16:51:00"
+      },
+      {
+        "id": "CHANGAN_Q05",
+        "mark_id": "CHANGAN",
+        "name": "Qiyuan Q05",
+        "cyrillic_name": "Циюань Ку05",
+        "year_from": 2023,
+        "year_to": 2025,
+        "class": "B",
+        "updated_at": "2025-11-12 12:39:43"
+      },
+      {
+        "id": "CHANGAN_Q07",
+        "mark_id": "CHANGAN",
+        "name": "Qiyuan Q07",
+        "cyrillic_name": "Циюань Ку07",
+        "year_from": 2025,
+        "year_to": 2025,
+        "class": "B",
+        "updated_at": "2025-11-12 12:39:43"
       },
       {
         "id": "CHANGAN_RAETON",
@@ -7699,7 +7789,7 @@
         "cyrillic_name": "Фулвин Т11",
         "year_from": 2025,
         "year_to": 2025,
-        "class": "E",
+        "class": "B",
         "updated_at": "2025-10-24 15:53:27"
       },
       {
@@ -8162,7 +8252,7 @@
         "cyrillic_name": "ЕТ8",
         "year_from": 2025,
         "year_to": 2025,
-        "class": "J",
+        "class": "D",
         "updated_at": "2025-10-28 10:54:05"
       },
       {
@@ -8214,6 +8304,16 @@
         "year_to": 2025,
         "class": "D",
         "updated_at": "2025-07-26 16:51:00"
+      },
+      {
+        "id": "CHERYEXEED_STERRA_ET5",
+        "mark_id": "CHERYEXEED",
+        "name": "Sterra ET5",
+        "cyrillic_name": "Стерра ЕТ5",
+        "year_from": 2025,
+        "year_to": 2025,
+        "class": "D",
+        "updated_at": "2025-11-10 09:47:54"
       },
       {
         "id": "CHERYEXEED_TX",
@@ -13649,7 +13749,7 @@
         "cyrillic_name": "ай-ДЖЕТ",
         "year_from": 2022,
         "year_to": 2025,
-        "class": "M",
+        "class": "C",
         "updated_at": "2025-07-26 16:51:00"
       },
       {
@@ -13659,7 +13759,7 @@
         "cyrillic_name": "ай-ДЖОЙ",
         "year_from": 2022,
         "year_to": 2025,
-        "class": "M",
+        "class": "C",
         "updated_at": "2025-07-26 16:51:00"
       },
       {
@@ -13669,7 +13769,7 @@
         "cyrillic_name": "ай-ПРО",
         "year_from": 2022,
         "year_to": 2025,
-        "class": "M",
+        "class": "C",
         "updated_at": "2025-07-26 16:51:00"
       },
       {
@@ -13679,7 +13779,7 @@
         "cyrillic_name": "АйСкай",
         "year_from": 2023,
         "year_to": 2025,
-        "class": "M",
+        "class": "C",
         "updated_at": "2025-07-26 16:51:00"
       },
       {
@@ -13689,7 +13789,7 @@
         "cyrillic_name": "ай-Спэйс",
         "year_from": 2023,
         "year_to": 2025,
-        "class": "M",
+        "class": "C",
         "updated_at": "2025-07-26 16:51:00"
       },
       {
@@ -13699,7 +13799,7 @@
         "cyrillic_name": "ай-ВЭН",
         "year_from": 2022,
         "year_to": 2025,
-        "class": "M",
+        "class": "C",
         "updated_at": "2025-07-26 16:51:00"
       }
     ]
@@ -15389,7 +15489,7 @@
         "cyrillic_name": "Крестлайн",
         "year_from": 1952,
         "year_to": 1955,
-        "class": "E",
+        "class": "S",
         "updated_at": "2025-10-16 19:23:17"
       },
       {
@@ -16685,7 +16785,7 @@
     "cyrillic_name": "Фучи",
     "numeric_id": 7151120,
     "year_from": 2005,
-    "year_to": 2005,
+    "year_to": 2007,
     "popular": 0,
     "country": "Китай",
     "updated_at": "2025-07-26 22:33:37",
@@ -17366,7 +17466,7 @@
         "cyrillic_name": "ЕИкс2",
         "year_from": 2025,
         "year_to": 2025,
-        "class": "E",
+        "class": "B",
         "updated_at": "2025-10-19 19:03:48"
       },
       {
@@ -19082,6 +19182,16 @@
         "updated_at": "2025-07-26 16:51:00"
       },
       {
+        "id": "HAVAL_H6L",
+        "mark_id": "HAVAL",
+        "name": "H6L",
+        "cyrillic_name": "Х6Л",
+        "year_from": 2025,
+        "year_to": 2025,
+        "class": "J",
+        "updated_at": "2025-11-06 01:21:29"
+      },
+      {
         "id": "HAVAL_H6S",
         "mark_id": "HAVAL",
         "name": "H6S",
@@ -20732,6 +20842,16 @@
         "updated_at": "2025-07-26 16:51:00"
       },
       {
+        "id": "HONGQI_HS6",
+        "mark_id": "HONGQI",
+        "name": "HS6",
+        "cyrillic_name": "ХС6",
+        "year_from": 2025,
+        "year_to": 2025,
+        "class": "F",
+        "updated_at": "2025-11-12 12:39:44"
+      },
+      {
         "id": "HONGQI_HS7",
         "mark_id": "HONGQI",
         "name": "HS7",
@@ -21067,11 +21187,21 @@
     "cyrillic_name": "Хадсон",
     "numeric_id": 11592873,
     "year_from": 1916,
-    "year_to": 1937,
+    "year_to": 1939,
     "popular": 0,
     "country": "США",
     "updated_at": "2025-07-26 22:33:37",
     "models": [
+      {
+        "id": "HUDSON_CUSTOM_EIGHT",
+        "mark_id": "HUDSON",
+        "name": "Custom Eight",
+        "cyrillic_name": "Кастом Эйт",
+        "year_from": 1937,
+        "year_to": 1939,
+        "class": null,
+        "updated_at": "2025-11-10 09:47:55"
+      },
       {
         "id": "HUDSON_DELUXE_EIGHT",
         "mark_id": "HUDSON",
@@ -27345,7 +27475,7 @@
         "mark_id": "LIVAN",
         "name": "7",
         "cyrillic_name": "7",
-        "year_from": 2022,
+        "year_from": 2023,
         "year_to": 2025,
         "class": "B",
         "updated_at": "2025-07-26 16:51:00"
@@ -33734,7 +33864,7 @@
         "cyrillic_name": "м90",
         "year_from": 2025,
         "year_to": 2025,
-        "class": "E",
+        "class": "B",
         "updated_at": "2025-10-16 19:23:18"
       },
       {
@@ -33813,80 +33943,9 @@
     "year_from": 2023,
     "year_to": 2025,
     "popular": 0,
-    "country": "Китай",
+    "country": null,
     "updated_at": "2025-07-26 22:33:37",
-    "models": [
-      {
-        "id": "NEVO_A05",
-        "mark_id": "NEVO",
-        "name": "A05",
-        "cyrillic_name": "А05",
-        "year_from": 2023,
-        "year_to": 2025,
-        "class": "E",
-        "updated_at": "2025-07-26 16:51:00"
-      },
-      {
-        "id": "NEVO_A06",
-        "mark_id": "NEVO",
-        "name": "A06",
-        "cyrillic_name": "А06",
-        "year_from": 2025,
-        "year_to": 2025,
-        "class": "E",
-        "updated_at": "2025-08-07 10:09:19"
-      },
-      {
-        "id": "NEVO_A07",
-        "mark_id": "NEVO",
-        "name": "A07",
-        "cyrillic_name": "А07",
-        "year_from": 2023,
-        "year_to": 2025,
-        "class": "E",
-        "updated_at": "2025-07-26 16:51:00"
-      },
-      {
-        "id": "NEVO_E07",
-        "mark_id": "NEVO",
-        "name": "E07",
-        "cyrillic_name": "Е07",
-        "year_from": 2024,
-        "year_to": 2025,
-        "class": "E",
-        "updated_at": "2025-07-26 16:51:00"
-      },
-      {
-        "id": "NEVO_HUNTER_K50",
-        "mark_id": "NEVO",
-        "name": "Hunter K50",
-        "cyrillic_name": "Хантер К50",
-        "year_from": 2025,
-        "year_to": 2025,
-        "class": "E",
-        "updated_at": "2025-07-26 16:51:00"
-      },
-      {
-        "id": "NEVO_Q05",
-        "mark_id": "NEVO",
-        "name": "Q05",
-        "cyrillic_name": "Ку05",
-        "year_from": 2023,
-        "year_to": 2025,
-        "class": "E",
-        "updated_at": "2025-07-26 16:51:00"
-      },
-      {
-        "id": "NEVO_Q07",
-        "mark_id": "NEVO",
-        "name": "Q07",
-        "cyrillic_name": "Ку07",
-        "year_from": 2025,
-        "year_to": 2025,
-        "class": "E",
-        "updated_at": "2025-07-26 16:51:00"
-      }
-    ]
+    "models": []
   },
   {
     "id": "NIO",
@@ -34441,6 +34500,16 @@
         "year_to": 2025,
         "class": "S",
         "updated_at": "2025-07-26 16:51:00"
+      },
+      {
+        "id": "NISSAN_FRONTIER_PRO",
+        "mark_id": "NISSAN",
+        "name": "Frontier Pro",
+        "cyrillic_name": "Фронтир про",
+        "year_from": 2025,
+        "year_to": 2025,
+        "class": "M",
+        "updated_at": "2025-11-12 12:39:44"
       },
       {
         "id": "NISSAN_FUGA",
@@ -40675,7 +40744,7 @@
     "name": "Rox",
     "cyrillic_name": "Рокс",
     "numeric_id": 14920960,
-    "year_from": 2024,
+    "year_from": 2023,
     "year_to": 2025,
     "popular": 0,
     "country": "Китай",
@@ -40686,7 +40755,7 @@
         "mark_id": "ROX",
         "name": "01",
         "cyrillic_name": "01",
-        "year_from": 2024,
+        "year_from": 2023,
         "year_to": 2025,
         "class": "J",
         "updated_at": "2025-07-26 16:51:01"
@@ -43356,7 +43425,7 @@
         "cyrillic_name": "Трейлсикер",
         "year_from": 2025,
         "year_to": 2025,
-        "class": "D",
+        "class": "M",
         "updated_at": "2025-10-22 02:35:05"
       },
       {
@@ -44605,16 +44674,6 @@
         "year_to": 2025,
         "class": "B",
         "updated_at": "2025-07-29 21:52:32"
-      },
-      {
-        "id": "TENET_T9",
-        "mark_id": "TENET",
-        "name": "T9",
-        "cyrillic_name": "Т9",
-        "year_from": 2025,
-        "year_to": 2025,
-        "class": "B",
-        "updated_at": "2025-08-27 23:43:12"
       }
     ]
   },
@@ -45154,7 +45213,7 @@
         "cyrillic_name": "БЗ7",
         "year_from": 2025,
         "year_to": 2025,
-        "class": "E",
+        "class": "J",
         "updated_at": "2025-10-19 19:03:49"
       },
       {
@@ -46963,7 +47022,7 @@
     "name": "GAC Trumpchi",
     "cyrillic_name": "Трампчи",
     "numeric_id": 14403477,
-    "year_from": 2016,
+    "year_from": 2011,
     "year_to": 2025,
     "popular": 0,
     "country": "Китай",
@@ -47134,7 +47193,7 @@
         "mark_id": "TRUMPCHI",
         "name": "GS5",
         "cyrillic_name": "ГС5",
-        "year_from": 2018,
+        "year_from": 2011,
         "year_to": 2021,
         "class": "M",
         "updated_at": "2025-08-13 00:06:45"
@@ -48882,7 +48941,7 @@
         "cyrillic_name": "айдиюнэкс 07",
         "year_from": 2025,
         "year_to": 2025,
-        "class": "C",
+        "class": "M",
         "updated_at": "2025-10-19 19:03:49"
       },
       {
@@ -50532,6 +50591,16 @@
     "updated_at": "2025-07-26 22:33:37",
     "models": [
       {
+        "id": "WULING_AISHANG_A100C",
+        "mark_id": "WULING",
+        "name": "Aishang A100C",
+        "cyrillic_name": "Айшанг А100С",
+        "year_from": 2025,
+        "year_to": 2025,
+        "class": "A",
+        "updated_at": "2025-11-10 09:47:56"
+      },
+      {
         "id": "WULING_BINGUO",
         "mark_id": "WULING",
         "name": "Binguo",
@@ -50600,6 +50669,16 @@
         "year_to": 2025,
         "class": "A",
         "updated_at": "2025-07-26 16:51:01"
+      },
+      {
+        "id": "WULING_NANO_EV",
+        "mark_id": "WULING",
+        "name": "Nano EV",
+        "cyrillic_name": "Нано ЕВ",
+        "year_from": 2021,
+        "year_to": 2025,
+        "class": "A",
+        "updated_at": "2025-11-03 09:59:55"
       },
       {
         "id": "WULING_STARLIGHT",
@@ -51047,6 +51126,29 @@
         "year_to": 2025,
         "class": "D",
         "updated_at": "2025-07-26 16:51:01"
+      }
+    ]
+  },
+  {
+    "id": "YUDO",
+    "name": "Yudo",
+    "cyrillic_name": "Юдо",
+    "numeric_id": 20078047,
+    "year_from": 2023,
+    "year_to": 2025,
+    "popular": 0,
+    "country": "Китай",
+    "updated_at": "2025-11-16 21:42:42",
+    "models": [
+      {
+        "id": "YUDO_YUNTY",
+        "mark_id": "YUDO",
+        "name": "Yunty",
+        "cyrillic_name": "Юнти",
+        "year_from": 2023,
+        "year_to": 2025,
+        "class": "B",
+        "updated_at": "2025-11-16 21:42:42"
       }
     ]
   },
