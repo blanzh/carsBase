@@ -33,6 +33,7 @@ AION,GAC Aion,ГАК Аион,0,Китай,2019,2025,AION_HYPER_GT,Hyptec GT (Hy
 AION,GAC Aion,ГАК Аион,0,Китай,2019,2025,AION_HYPER_HT,Hyptec HT (Hyper HT),Гипер Аш Ти,C,2023,2025
 AION,GAC Aion,ГАК Аион,0,Китай,2019,2025,AION_HYPER_SSR,Hyptec SSR (Hyper SSR),Гипер Эс Эс Эр,C,2023,2025
 AION,GAC Aion,ГАК Аион,0,Китай,2019,2025,AION_HYPTEC_HL,Hyptec HL,Хиптек Аш Эл,C,2025,2025
+AION,GAC Aion,ГАК Аион,0,Китай,2019,2025,AION_I60,I60,И60,C,2025,2025
 AION,GAC Aion,ГАК Аион,0,Китай,2019,2025,AION_LX,LX,ЛХ,C,2019,2022
 AION,GAC Aion,ГАК Аион,0,Китай,2019,2025,AION_LX_PLUS,LX Plus,ЛХ Плюс,C,2022,2025
 AION,GAC Aion,ГАК Аион,0,Китай,2019,2025,AION_RT,RT,РТ,C,2024,2025
@@ -2093,6 +2094,7 @@ ISUZU,Isuzu,Исузу,0,Япония,1963,2025,ISUZU_MU_X,MU-X,му-х,J,2013,2
 ISUZU,Isuzu,Исузу,0,Япония,1963,2025,ISUZU_OASIS,Oasis,Оазис,J,1995,1999
 ISUZU,Isuzu,Исузу,0,Япония,1963,2025,ISUZU_PIAZZA,Piazza,пиаза,J,1980,1993
 ISUZU,Isuzu,Исузу,0,Япония,1963,2025,ISUZU_RODEO,Rodeo,родео,J,1989,2004
+ISUZU,Isuzu,Исузу,0,Япония,1963,2025,ISUZU_RUIMAI,Ruimai,Руимай,J,2023,2025
 ISUZU,Isuzu,Исузу,0,Япония,1963,2025,ISUZU_STYLUS,Stylus,Стилус,J,1990,1993
 ISUZU,Isuzu,Исузу,0,Япония,1963,2025,ISUZU_T17,T17,Т17,J,2021,2025
 ISUZU,Isuzu,Исузу,0,Япония,1963,2025,ISUZU_T30_EXPLORER,T30 Explorer,Е30 Эксплорер,J,2023,2025
@@ -2180,6 +2182,7 @@ JEEP,Jeep,Джип,0,США,1966,2025,JEEP_GRAND_COMMANDER,Grand Commander,Гр�
 JEEP,Jeep,Джип,0,США,1966,2025,JEEP_GRAND_WAGONEER,Wagoneer,Вагонер,C,1984,2025
 JEEP,Jeep,Джип,0,США,1966,2025,JEEP_LIBETY_NA,Liberty (North America),Либерти,C,2001,2012
 JEEP,Jeep,Джип,0,США,1966,2025,JEEP_PATRIOT,Liberty (Patriot),Патриот,C,2006,2016
+JEEP,Jeep,Джип,0,США,1966,2025,JEEP_RECON,Recon,Рекон,J,2025,2025
 JEEP,Jeep,Джип,0,США,1966,2025,JEEP_RENEGADE,Renegade,Ренегейд,C,2014,2025
 JEEP,Jeep,Джип,0,США,1966,2025,JEEP_WAGONEER_S,Wagoneer S,Вагонер С,C,2024,2025
 JEEP,Jeep,Джип,0,США,1966,2025,JEEP_WRANGLER,Wrangler,Рэнглер,C,1986,2025
@@ -4409,6 +4412,7 @@ VOLKSWAGEN,Volkswagen,Фольксваген,1,Германия,1938,2025,VOLKSW
 VOLKSWAGEN,Volkswagen,Фольксваген,1,Германия,1938,2025,VOLKSWAGEN_IDUNYX,ID.Unyx,айдиюнэкс,D,2024,2025
 VOLKSWAGEN,Volkswagen,Фольксваген,1,Германия,1938,2025,VOLKSWAGEN_IDUNYX_06,ID.Unyx 06,айдиюнэкс 06,D,2025,2025
 VOLKSWAGEN,Volkswagen,Фольксваген,1,Германия,1938,2025,VOLKSWAGEN_IDUNYX_07,ID.Unyx 07,айдиюнэкс 07,M,2025,2025
+VOLKSWAGEN,Volkswagen,Фольксваген,1,Германия,1938,2025,VOLKSWAGEN_IDUNYX_08,ID.Unyx 08,айдиюнэкс 08,E,2025,2025
 VOLKSWAGEN,Volkswagen,Фольксваген,1,Германия,1938,2025,VOLKSWAGEN_ILTIS,Iltis,Илтис,D,1978,1988
 VOLKSWAGEN,Volkswagen,Фольксваген,1,Германия,1938,2025,VOLKSWAGEN_JETTA,Jetta,Джетта,D,1978,2025
 VOLKSWAGEN,Volkswagen,Фольксваген,1,Германия,1938,2025,VOLKSWAGEN_K70,K70,к70,D,1970,1974

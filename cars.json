@@ -416,6 +416,16 @@
         "updated_at": "2025-07-26 16:51:00"
       },
       {
+        "id": "AION_I60",
+        "mark_id": "AION",
+        "name": "I60",
+        "cyrillic_name": "И60",
+        "year_from": 2025,
+        "year_to": 2025,
+        "class": "C",
+        "updated_at": "2025-11-21 14:45:54"
+      },
+      {
         "id": "AION_LX",
         "mark_id": "AION",
         "name": "LX",
@@ -23174,6 +23184,16 @@
         "updated_at": "2025-07-26 16:51:00"
       },
       {
+        "id": "ISUZU_RUIMAI",
+        "mark_id": "ISUZU",
+        "name": "Ruimai",
+        "cyrillic_name": "Руимай",
+        "year_from": 2023,
+        "year_to": 2025,
+        "class": "J",
+        "updated_at": "2025-11-21 14:45:54"
+      },
+      {
         "id": "ISUZU_STYLUS",
         "mark_id": "ISUZU",
         "name": "Stylus",
@@ -24107,6 +24127,16 @@
         "year_to": 2016,
         "class": "C",
         "updated_at": "2025-07-26 16:51:00"
+      },
+      {
+        "id": "JEEP_RECON",
+        "mark_id": "JEEP",
+        "name": "Recon",
+        "cyrillic_name": "Рекон",
+        "year_from": 2025,
+        "year_to": 2025,
+        "class": "J",
+        "updated_at": "2025-11-21 14:45:54"
       },
       {
         "id": "JEEP_RENEGADE",
@@ -48943,6 +48973,16 @@
         "year_to": 2025,
         "class": "M",
         "updated_at": "2025-10-19 19:03:49"
+      },
+      {
+        "id": "VOLKSWAGEN_IDUNYX_08",
+        "mark_id": "VOLKSWAGEN",
+        "name": "ID.Unyx 08",
+        "cyrillic_name": "айдиюнэкс 08",
+        "year_from": 2025,
+        "year_to": 2025,
+        "class": "E",
+        "updated_at": "2025-11-21 14:45:55"
       },
       {
         "id": "VOLKSWAGEN_ILTIS",
