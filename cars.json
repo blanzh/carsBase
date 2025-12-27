@@ -744,7 +744,7 @@
         "cyrillic_name": "2600",
         "year_from": 1962,
         "year_to": 1968,
-        "class": "D",
+        "class": "S",
         "updated_at": "2025-07-26 16:51:00"
       },
       {
@@ -10024,7 +10024,7 @@
         "cyrillic_name": "C5 Аиркросс",
         "year_from": 2018,
         "year_to": 2025,
-        "class": "C",
+        "class": "D",
         "updated_at": "2025-07-26 16:51:00"
       },
       {
@@ -12870,6 +12870,16 @@
         "updated_at": "2025-07-26 16:51:00"
       },
       {
+        "id": "DONGFENG_AEOLUS_L8",
+        "mark_id": "DONGFENG",
+        "name": "Aeolus L8",
+        "cyrillic_name": "Аеолус Л8",
+        "year_from": 2025,
+        "year_to": 2025,
+        "class": "C",
+        "updated_at": "2025-12-17 12:21:58"
+      },
+      {
         "id": "DONGFENG_AEOLUS_YIXUAN",
         "mark_id": "DONGFENG",
         "name": "Aeolus Yixuan",
@@ -15411,6 +15421,16 @@
         "year_to": 2025,
         "class": "J",
         "updated_at": "2025-07-26 16:51:00"
+      },
+      {
+        "id": "FORD_BRONCO_BASECAMP",
+        "mark_id": "FORD",
+        "name": "Bronco Basecamp",
+        "cyrillic_name": "Бронко Бэйскемп",
+        "year_from": 2025,
+        "year_to": 2025,
+        "class": "C",
+        "updated_at": "2025-12-27 13:47:29"
       },
       {
         "id": "FORD_BRONCO_II",
@@ -19138,7 +19158,7 @@
         "cyrillic_name": "Ф8",
         "year_from": 2024,
         "year_to": 2025,
-        "class": "D",
+        "class": null,
         "updated_at": "2025-07-26 16:51:00"
       },
       {
@@ -19745,7 +19765,7 @@
         "cyrillic_name": "145",
         "year_from": 1972,
         "year_to": 1974,
-        "class": "B",
+        "class": "S",
         "updated_at": "2025-07-26 16:51:00"
       },
       {
@@ -24275,6 +24295,16 @@
         "updated_at": "2025-09-12 12:10:30"
       },
       {
+        "id": "JETOUR_REAOLO",
+        "mark_id": "JETOUR",
+        "name": "Reaolo",
+        "cyrillic_name": "Реаоло",
+        "year_from": 2025,
+        "year_to": 2025,
+        "class": "J",
+        "updated_at": "2025-12-21 13:33:46"
+      },
+      {
         "id": "JETOUR_SHANHAI_L6",
         "mark_id": "JETOUR",
         "name": "Shanhai L6",
@@ -24293,6 +24323,16 @@
         "year_to": 2025,
         "class": "C",
         "updated_at": "2025-07-26 16:51:00"
+      },
+      {
+        "id": "JETOUR_SHANHAI_L7_PLUS",
+        "mark_id": "JETOUR",
+        "name": "Shanhai L7 Plus",
+        "cyrillic_name": "Шанхай Л7 Плюс",
+        "year_from": 2025,
+        "year_to": 2025,
+        "class": "D",
+        "updated_at": "2025-12-27 13:47:30"
       },
       {
         "id": "JETOUR_SHANHAI_L9",
@@ -30014,6 +30054,16 @@
         "updated_at": "2025-07-26 16:51:00"
       },
       {
+        "id": "MAZDA_RX_4",
+        "mark_id": "MAZDA",
+        "name": "RX-4",
+        "cyrillic_name": "РХ-4",
+        "year_from": 1972,
+        "year_to": 1978,
+        "class": "S",
+        "updated_at": "2025-12-17 12:21:59"
+      },
+      {
         "id": "MAZDA_RX_5",
         "mark_id": "MAZDA",
         "name": "RX-5",
@@ -34930,6 +34980,16 @@
         "updated_at": "2025-07-26 16:51:00"
       },
       {
+        "id": "NISSAN_NX8",
+        "mark_id": "NISSAN",
+        "name": "NX8",
+        "cyrillic_name": "нх8",
+        "year_from": 2026,
+        "year_to": 2025,
+        "class": "D",
+        "updated_at": "2025-12-21 13:33:46"
+      },
+      {
         "id": "NISSAN_NX_COUPE",
         "mark_id": "NISSAN",
         "name": "NX Coupe",
@@ -35727,6 +35787,29 @@
         "year_to": 1977,
         "class": "F",
         "updated_at": "2025-07-26 16:51:00"
+      }
+    ]
+  },
+  {
+    "id": "OLTCIT",
+    "name": "Oltcit",
+    "cyrillic_name": "Олтцит",
+    "numeric_id": 20102671,
+    "year_from": 1981,
+    "year_to": 1993,
+    "popular": 0,
+    "country": "Румыния",
+    "updated_at": "2025-12-12 23:23:29",
+    "models": [
+      {
+        "id": "OLTCIT_CLUB",
+        "mark_id": "OLTCIT",
+        "name": "Club",
+        "cyrillic_name": "Клаб",
+        "year_from": 1981,
+        "year_to": 1993,
+        "class": "B",
+        "updated_at": "2025-12-12 23:23:29"
       }
     ]
   },
@@ -42049,7 +42132,7 @@
         "cyrillic_name": "Эниак Купе РС",
         "year_from": 2022,
         "year_to": 2025,
-        "class": "C",
+        "class": "D",
         "updated_at": "2025-07-26 16:51:01"
       },
       {
@@ -42059,7 +42142,7 @@
         "cyrillic_name": "Эниак РС",
         "year_from": 2022,
         "year_to": 2025,
-        "class": "C",
+        "class": "D",
         "updated_at": "2025-07-26 16:51:01"
       },
       {
@@ -45109,7 +45192,7 @@
         "cyrillic_name": "Айго Икс",
         "year_from": 2022,
         "year_to": 2025,
-        "class": "A",
+        "class": "B",
         "updated_at": "2025-07-26 16:51:01"
       },
       {
@@ -45721,6 +45804,16 @@
         "year_to": 2025,
         "class": "M",
         "updated_at": "2025-07-26 16:51:01"
+      },
+      {
+        "id": "TOYOTA_GR_GT",
+        "mark_id": "TOYOTA",
+        "name": "GR GT",
+        "cyrillic_name": "ГР ГТ",
+        "year_from": 2027,
+        "year_to": 2027,
+        "class": null,
+        "updated_at": "2025-12-12 23:23:29"
       },
       {
         "id": "TOYOTA_GT86",

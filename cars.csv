@@ -60,7 +60,7 @@ ALFA_ROMEO,Alfa Romeo,Альфа Ромео,0,Италия,1927,2025,ALFA_ROMEO_
 ALFA_ROMEO,Alfa Romeo,Альфа Ромео,0,Италия,1927,2025,ALFA_ROMEO_164,164,164,E,1987,1998
 ALFA_ROMEO,Alfa Romeo,Альфа Ромео,0,Италия,1927,2025,ALFA_ROMEO_166,166,166,E,1998,2007
 ALFA_ROMEO,Alfa Romeo,Альфа Ромео,0,Италия,1927,2025,ALFA_ROMEO_1900,1900,1900,S,1950,1959
-ALFA_ROMEO,Alfa Romeo,Альфа Ромео,0,Италия,1927,2025,ALFA_ROMEO_2600,2600,2600,D,1962,1968
+ALFA_ROMEO,Alfa Romeo,Альфа Ромео,0,Италия,1927,2025,ALFA_ROMEO_2600,2600,2600,S,1962,1968
 ALFA_ROMEO,Alfa Romeo,Альфа Ромео,0,Италия,1927,2025,ALFA_ROMEO_33,33,33,C,1983,1994
 ALFA_ROMEO,Alfa Romeo,Альфа Ромео,0,Италия,1927,2025,ALFA_ROMEO_33_STRADALE,33 Stradale,33 Страдале,S,2023,2025
 ALFA_ROMEO,Alfa Romeo,Альфа Ромео,0,Италия,1927,2025,ALFA_ROMEO_4C,4C,4с,S,2013,2016
@@ -910,7 +910,7 @@ CITROEN,Citroen,Ситроен,1,Франция,1934,2025,CITROEN_C4_CACTUS,C4 C
 CITROEN,Citroen,Ситроен,1,Франция,1934,2025,CITROEN_C4_PICASSO,C4 Picasso,C4 Пикассо,M,2006,2018
 CITROEN,Citroen,Ситроен,1,Франция,1934,2025,CITROEN_C4_SPACETOURER,C4 SpaceTourer,С4 Спейстурер,M,2018,2022
 CITROEN,Citroen,Ситроен,1,Франция,1934,2025,CITROEN_C5,C5,C5,D,2000,2017
-CITROEN,Citroen,Ситроен,1,Франция,1934,2025,CITROEN_C5_AIRCROSS,C5 Aircross,C5 Аиркросс,C,2018,2025
+CITROEN,Citroen,Ситроен,1,Франция,1934,2025,CITROEN_C5_AIRCROSS,C5 Aircross,C5 Аиркросс,D,2018,2025
 CITROEN,Citroen,Ситроен,1,Франция,1934,2025,CITROEN_C5_X,C5 X,C5 Икс,D,2021,2025
 CITROEN,Citroen,Ситроен,1,Франция,1934,2025,CITROEN_C6,C6,C6,F,2004,2023
 CITROEN,Citroen,Ситроен,1,Франция,1934,2025,CITROEN_C8,C8,C8,M,2002,2014
@@ -1164,6 +1164,7 @@ DONGFENG,Dongfeng,ДонгФенг,0,Китай,2007,2025,DONGFENG_AEOLUS_E70,Ae
 DONGFENG,Dongfeng,ДонгФенг,0,Китай,2007,2025,DONGFENG_AEOLUS_HAOHAN,Aeolus Haohan,Аеолус Хаохан,C,2023,2025
 DONGFENG,Dongfeng,ДонгФенг,0,Китай,2007,2025,DONGFENG_AEOLUS_HAOJI,Aeolus Haoji,Аеолус Хаоджи,D,2022,2025
 DONGFENG,Dongfeng,ДонгФенг,0,Китай,2007,2025,DONGFENG_AEOLUS_L7,Aeolus L7,Аеолус Л7,C,2024,2025
+DONGFENG,Dongfeng,ДонгФенг,0,Китай,2007,2025,DONGFENG_AEOLUS_L8,Aeolus L8,Аеолус Л8,C,2025,2025
 DONGFENG,Dongfeng,ДонгФенг,0,Китай,2007,2025,DONGFENG_AEOLUS_YIXUAN,Aeolus Yixuan,Иэлес Исюань,C,2019,2025
 DONGFENG,Dongfeng,ДонгФенг,0,Китай,2007,2025,DONGFENG_AEOLUS_YIXUAN_MAX,Aeolus Yixuan Max,Иэлес Исюань Макс,D,2021,2025
 DONGFENG,Dongfeng,ДонгФенг,0,Китай,2007,2025,DONGFENG_AX4,AX4,АХ4,B,2017,2021
@@ -1391,6 +1392,7 @@ FORD,Ford,Форд,1,США,1908,2025,FORD_AEROSTAR,Aerostar,Аэростар,M,
 FORD,Ford,Форд,1,США,1908,2025,FORD_ANGLIA,Anglia,Англиа,B,1948,1968
 FORD,Ford,Форд,1,США,1908,2025,FORD_ASPIRE,Aspire,Эспайр,C,1993,1997
 FORD,Ford,Форд,1,США,1908,2025,FORD_BRONCO,Bronco,Бронко,J,1966,2025
+FORD,Ford,Форд,1,США,1908,2025,FORD_BRONCO_BASECAMP,Bronco Basecamp,Бронко Бэйскемп,C,2025,2025
 FORD,Ford,Форд,1,США,1908,2025,FORD_BRONCO_II,Bronco-II,Бронко-2,J,1984,1990
 FORD,Ford,Форд,1,США,1908,2025,FORD_BRONCO_SPORT,Bronco Sport,Бронко Спорт,C,2020,2025
 FORD,Ford,Форд,1,США,1908,2025,FORD_B_MAX,B-MAX,Б-МАКС,M,2012,2018
@@ -1733,7 +1735,7 @@ HAVAL,Haval,Хавэйл,1,Китай,2014,2025,HAVAL_DARGO,Dargo,Дарго,C,2
 HAVAL,Haval,Хавэйл,1,Китай,2014,2025,HAVAL_F5,F5,Ф5,C,2018,2020
 HAVAL,Haval,Хавэйл,1,Китай,2014,2025,HAVAL_F7,F7,Ф7,C,2018,2025
 HAVAL,Haval,Хавэйл,1,Китай,2014,2025,HAVAL_F7X,F7x,Ф7х,C,2019,2025
-HAVAL,Haval,Хавэйл,1,Китай,2014,2025,HAVAL_F8,F8,Ф8,D,2024,2025
+HAVAL,Haval,Хавэйл,1,Китай,2014,2025,HAVAL_F8,F8,Ф8,,2024,2025
 HAVAL,Haval,Хавэйл,1,Китай,2014,2025,HAVAL_H1,H1,Эйч1,B,2014,2018
 HAVAL,Haval,Хавэйл,1,Китай,2014,2025,HAVAL_H2,H2,Н2,B,2014,2021
 HAVAL,Haval,Хавэйл,1,Китай,2014,2025,HAVAL_H2S,H2s,Х2с,B,2016,2020
@@ -1782,7 +1784,7 @@ HOLDEN,Holden,Холден,0,Австралия,1988,2013,HOLDEN_STATESMAN,State
 HOLDEN,Holden,Холден,0,Австралия,1988,2013,HOLDEN_UTE,UTE,Ю Т Е,J,2000,2013
 HOLDEN,Holden,Холден,0,Австралия,1988,2013,HOLDEN_VECTRA,Vectra,Вектра,D,1998,2001
 HOLDEN,Holden,Холден,0,Австралия,1988,2013,HOLDEN_ZAFIRA,Zafira,Зафира,M,2001,2005
-HONDA,Honda,Хонда,1,Япония,1963,2025,HONDA_145,145,145,B,1972,1974
+HONDA,Honda,Хонда,1,Япония,1963,2025,HONDA_145,145,145,S,1972,1974
 HONDA,Honda,Хонда,1,Япония,1963,2025,HONDA_ACCORD,Accord,Аккорд,D,1976,2025
 HONDA,Honda,Хонда,1,Япония,1963,2025,HONDA_ACTY,Acty,акти,M,1977,2018
 HONDA,Honda,Хонда,1,Япония,1963,2025,HONDA_AIRWAVE,Airwave,Эйрвэйв,B,2005,2010
@@ -2194,8 +2196,10 @@ JENSEN,Jensen,Дженсен,0,Великобритания,1966,2003,JENSEN_S_V
 JETOUR,JETOUR,Джетур,0,Китай,2018,2025,JETOUR_DASHING,DASHING,Дашинг,D,2022,2025
 JETOUR,JETOUR,Джетур,0,Китай,2018,2025,JETOUR_FREEDOM,Freedom,Фридом,D,2025,2025
 JETOUR,JETOUR,Джетур,0,Китай,2018,2025,JETOUR_G700,G700,Джи 700,J,2025,2025
+JETOUR,JETOUR,Джетур,0,Китай,2018,2025,JETOUR_REAOLO,Reaolo,Реаоло,J,2025,2025
 JETOUR,JETOUR,Джетур,0,Китай,2018,2025,JETOUR_SHANHAI_L6,Shanhai L6,Шанхай Л6,C,2024,2025
 JETOUR,JETOUR,Джетур,0,Китай,2018,2025,JETOUR_SHANHAI_L7,Shanhai L7,Шанхай Л7,C,2024,2025
+JETOUR,JETOUR,Джетур,0,Китай,2018,2025,JETOUR_SHANHAI_L7_PLUS,Shanhai L7 Plus,Шанхай Л7 Плюс,D,2025,2025
 JETOUR,JETOUR,Джетур,0,Китай,2018,2025,JETOUR_SHANHAI_L9,Shanhai L9,Шанхай Л9,D,2023,2025
 JETOUR,JETOUR,Джетур,0,Китай,2018,2025,JETOUR_SHANHAI_T1,Shanhai T1,Шанхай Т1,D,2024,2025
 JETOUR,JETOUR,Джетур,0,Китай,2018,2025,JETOUR_SHANHAI_T2,Shanhai T2,Шанхай Т2,D,2024,2025
@@ -2699,6 +2703,7 @@ MAZDA,Mazda,Мазда,1,Япония,1960,2025,MAZDA_PROCEED_MARVIE,Proceed Mar
 MAZDA,Mazda,Мазда,1,Япония,1960,2025,MAZDA_PROTEGE,Protege,Протеж,C,1989,2004
 MAZDA,Mazda,Мазда,1,Япония,1960,2025,MAZDA_REVUE,Revue,Ревю,B,1990,1998
 MAZDA,Mazda,Мазда,1,Япония,1960,2025,MAZDA_ROADSTER,Roadster,Родстер,S,1989,2025
+MAZDA,Mazda,Мазда,1,Япония,1960,2025,MAZDA_RX_4,RX-4,РХ-4,S,1972,1978
 MAZDA,Mazda,Мазда,1,Япония,1960,2025,MAZDA_RX_5,RX-5,РХ-5,D,1976,1980
 MAZDA,Mazda,Мазда,1,Япония,1960,2025,MAZDA_RX_7,RX-7,RX-7,S,1979,2002
 MAZDA,Mazda,Мазда,1,Япония,1960,2025,MAZDA_RX_8,RX-8,RX-8,S,2003,2012
@@ -3162,6 +3167,7 @@ NISSAN,Nissan,Ниссан,1,Япония,1962,2025,NISSAN_NP300,NP300,NP 300,J,
 NISSAN,Nissan,Ниссан,1,Япония,1962,2025,NISSAN_NV200,NV200,нв200,M,2009,2025
 NISSAN,Nissan,Ниссан,1,Япония,1962,2025,NISSAN_NV300,NV300,НВ300,,2016,2021
 NISSAN,Nissan,Ниссан,1,Япония,1962,2025,NISSAN_NV350_CARAVAN,NV350 Caravan,NV350 Караван,,2012,2021
+NISSAN,Nissan,Ниссан,1,Япония,1962,2025,NISSAN_NX8,NX8,нх8,D,2026,2025
 NISSAN,Nissan,Ниссан,1,Япония,1962,2025,NISSAN_NX_COUPE,NX Coupe,нх купе,C,1990,1994
 NISSAN,Nissan,Ниссан,1,Япония,1962,2025,NISSAN_OTTI,Otti,Отти,A,2005,2013
 NISSAN,Nissan,Ниссан,1,Япония,1962,2025,NISSAN_PAO,Pao,Пао,B,1989,1991
@@ -3238,6 +3244,7 @@ OLDSMOBILE,Oldsmobile,Олдсмобиль,0,США,1939,2004,OLDSMOBILE_SILHOUE
 OLDSMOBILE,Oldsmobile,Олдсмобиль,0,США,1939,2004,OLDSMOBILE_STARFIRE,Starfire,Старфайер,C,1961,1980
 OLDSMOBILE,Oldsmobile,Олдсмобиль,0,США,1939,2004,OLDSMOBILE_TORONADO,Toronado,Торонадо,S,1966,1992
 OLDSMOBILE,Oldsmobile,Олдсмобиль,0,США,1939,2004,OLDSMOBILE_VISTA_CRUISER,Vista Cruiser,Виста Круизер,F,1964,1977
+OLTCIT,Oltcit,Олтцит,0,Румыния,1981,1993,OLTCIT_CLUB,Club,Клаб,B,1981,1993
 OMODA,Omoda,Омода,0,Китай,2022,2025,OMODA_C5,C5,С5,C,2022,2025
 OMODA,Omoda,Омода,0,Китай,2022,2025,OMODA_C7,C7,С7,D,2024,2025
 OMODA,Omoda,Омода,0,Китай,2022,2025,OMODA_C9,C9,С9,D,2024,2025
@@ -3781,8 +3788,8 @@ SKODA,Skoda,Шкода,1,Чехия,1934,2025,SKODA_ELROQ,Elroq,Элрок,D,202
 SKODA,Skoda,Шкода,1,Чехия,1934,2025,SKODA_ELROQ_RS,Elroq RS,Элрок РС,D,2025,2025
 SKODA,Skoda,Шкода,1,Чехия,1934,2025,SKODA_ENYAQ,Enyaq,Эниак,D,2020,2025
 SKODA,Skoda,Шкода,1,Чехия,1934,2025,SKODA_ENYAQ_COUPE,Enyaq Coupe,Эниак Купе,D,2022,2025
-SKODA,Skoda,Шкода,1,Чехия,1934,2025,SKODA_ENYAQ_COUPE_RS,Enyaq Coupe RS,Эниак Купе РС,C,2022,2025
-SKODA,Skoda,Шкода,1,Чехия,1934,2025,SKODA_ENYAQ_RS,Enyaq RS,Эниак РС,C,2022,2025
+SKODA,Skoda,Шкода,1,Чехия,1934,2025,SKODA_ENYAQ_COUPE_RS,Enyaq Coupe RS,Эниак Купе РС,D,2022,2025
+SKODA,Skoda,Шкода,1,Чехия,1934,2025,SKODA_ENYAQ_RS,Enyaq RS,Эниак РС,D,2022,2025
 SKODA,Skoda,Шкода,1,Чехия,1934,2025,SKODA_FABIA,Fabia,Фабия,B,1999,2025
 SKODA,Skoda,Шкода,1,Чехия,1934,2025,SKODA_FABIA_RS,Fabia RS,Фабия РС,B,2003,2014
 SKODA,Skoda,Шкода,1,Чехия,1934,2025,SKODA_FAVORIT,Favorit,Фаворит,B,1989,2000
@@ -4048,7 +4055,7 @@ TOYOTA,Toyota,Тойота,1,Япония,1960,2025,TOYOTA_AVANZA,Avanza,ава�
 TOYOTA,Toyota,Тойота,1,Япония,1960,2025,TOYOTA_AVENSIS,Avensis,Авенсис,D,1997,2018
 TOYOTA,Toyota,Тойота,1,Япония,1960,2025,TOYOTA_AVENSIS_VERSO,Avensis Verso,Авенсис Версо,M,2001,2009
 TOYOTA,Toyota,Тойота,1,Япония,1960,2025,TOYOTA_AYGO,Aygo,Айго,A,2005,2022
-TOYOTA,Toyota,Тойота,1,Япония,1960,2025,TOYOTA_AYGO_X,Aygo X,Айго Икс,A,2022,2025
+TOYOTA,Toyota,Тойота,1,Япония,1960,2025,TOYOTA_AYGO_X,Aygo X,Айго Икс,B,2022,2025
 TOYOTA,Toyota,Тойота,1,Япония,1960,2025,TOYOTA_BB,bB,bB,M,2000,2016
 TOYOTA,Toyota,Тойота,1,Япония,1960,2025,TOYOTA_BELTA,Belta,Бельта,B,2005,2025
 TOYOTA,Toyota,Тойота,1,Япония,1960,2025,TOYOTA_BLADE,Blade,Блейд,C,2006,2012
@@ -4110,6 +4117,7 @@ TOYOTA,Toyota,Тойота,1,Япония,1960,2025,TOYOTA_GR86,GR86,ГР86,C,20
 TOYOTA,Toyota,Тойота,1,Япония,1960,2025,TOYOTA_GRAND_HIACE,Grand HiAce,гранд хайс,M,1999,2002
 TOYOTA,Toyota,Тойота,1,Япония,1960,2025,TOYOTA_GRAND_HIGHLANDER,Grand Highlander,Гранд Хайлендер,E,2023,2025
 TOYOTA,Toyota,Тойота,1,Япония,1960,2025,TOYOTA_GRANVIA,Granvia,Гранвиа,M,1995,2025
+TOYOTA,Toyota,Тойота,1,Япония,1960,2025,TOYOTA_GR_GT,GR GT,ГР ГТ,,2027,2027
 TOYOTA,Toyota,Тойота,1,Япония,1960,2025,TOYOTA_GT86,GT86,GT86,S,2012,2021
 TOYOTA,Toyota,Тойота,1,Япония,1960,2025,TOYOTA_HARRIER,Harrier,Харриер,E,1997,2025
 TOYOTA,Toyota,Тойота,1,Япония,1960,2025,TOYOTA_HIACE,HiAce,Хайс,M,1982,2025
