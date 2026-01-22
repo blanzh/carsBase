@@ -744,7 +744,7 @@
         "cyrillic_name": "2600",
         "year_from": 1962,
         "year_to": 1968,
-        "class": "D",
+        "class": "S",
         "updated_at": "2025-07-26 16:51:00"
       },
       {
@@ -2231,6 +2231,16 @@
         "year_to": 2025,
         "class": "E",
         "updated_at": "2025-07-26 16:51:00"
+      },
+      {
+        "id": "AUDI_E7X",
+        "mark_id": "AUDI",
+        "name": "E7X",
+        "cyrillic_name": "Е7Х",
+        "year_from": 2026,
+        "year_to": 2026,
+        "class": null,
+        "updated_at": "2026-01-18 11:46:46"
       },
       {
         "id": "AUDI_E_TRON",
@@ -16942,6 +16952,16 @@
         "year_to": 2026,
         "class": "M",
         "updated_at": "2025-07-26 16:51:00"
+      },
+      {
+        "id": "GAC_S7",
+        "mark_id": "GAC",
+        "name": "S7",
+        "cyrillic_name": "C7",
+        "year_from": 2026,
+        "year_to": 2026,
+        "class": "D",
+        "updated_at": "2026-01-18 11:46:47"
       }
     ]
   },
@@ -17368,6 +17388,16 @@
         "year_to": 2025,
         "class": "C",
         "updated_at": "2025-07-26 16:51:00"
+      },
+      {
+        "id": "GEELY_BOYUE_L",
+        "mark_id": "GEELY",
+        "name": "Boyue L",
+        "cyrillic_name": "Боую Л",
+        "year_from": 2022,
+        "year_to": 2026,
+        "class": null,
+        "updated_at": "2026-01-18 11:46:47"
       },
       {
         "id": "GEELY_BOYUE_PRO",
@@ -23843,6 +23873,16 @@
     "updated_at": "2025-07-26 22:33:37",
     "models": [
       {
+        "id": "JAECOO_EJ6",
+        "mark_id": "JAECOO",
+        "name": "EJ6",
+        "cyrillic_name": "ЕДжей6",
+        "year_from": 2024,
+        "year_to": 2026,
+        "class": "C",
+        "updated_at": "2026-01-18 11:46:47"
+      },
+      {
         "id": "JAECOO_J6",
         "mark_id": "JAECOO",
         "name": "J6",
@@ -26814,6 +26854,16 @@
         "updated_at": "2025-07-26 16:51:00"
       },
       {
+        "id": "LEAPMOTOR_D19",
+        "mark_id": "LEAPMOTOR",
+        "name": "D19",
+        "cyrillic_name": "Д19",
+        "year_from": 2026,
+        "year_to": 2026,
+        "class": "F",
+        "updated_at": "2026-01-18 11:46:47"
+      },
+      {
         "id": "LEAPMOTOR_S01",
         "mark_id": "LEAPMOTOR",
         "name": "S01",
@@ -29662,6 +29712,16 @@
         "year_to": 2025,
         "class": "C",
         "updated_at": "2025-07-26 16:51:00"
+      },
+      {
+        "id": "MAZDA_CX_6E",
+        "mark_id": "MAZDA",
+        "name": "CX-6e",
+        "cyrillic_name": "ЦэИкс-6е",
+        "year_from": 2026,
+        "year_to": 2026,
+        "class": "D",
+        "updated_at": "2026-01-18 11:46:47"
       },
       {
         "id": "MAZDA_CX_7",
@@ -34117,6 +34177,16 @@
         "updated_at": "2025-07-26 16:51:00"
       },
       {
+        "id": "NIO_ES9",
+        "mark_id": "NIO",
+        "name": "ES9",
+        "cyrillic_name": "ЕС9",
+        "year_from": 2026,
+        "year_to": 2026,
+        "class": "D",
+        "updated_at": "2026-01-18 11:46:47"
+      },
+      {
         "id": "NIO_ET5",
         "mark_id": "NIO",
         "name": "ET5",
@@ -36094,7 +36164,7 @@
         "cyrillic_name": "Дипломат",
         "year_from": 1964,
         "year_to": 1978,
-        "class": "S",
+        "class": "E",
         "updated_at": "2025-07-26 16:51:00"
       },
       {
@@ -39649,6 +39719,16 @@
         "updated_at": "2025-07-26 16:51:01"
       },
       {
+        "id": "RENAULT_FILANTE",
+        "mark_id": "RENAULT",
+        "name": "Filante",
+        "cyrillic_name": "Филантэ",
+        "year_from": 2026,
+        "year_to": 2026,
+        "class": "D",
+        "updated_at": "2026-01-18 11:46:48"
+      },
+      {
         "id": "RENAULT_FLORIDE",
         "mark_id": "RENAULT",
         "name": "Floride",
@@ -42072,7 +42152,7 @@
         "cyrillic_name": "1200",
         "year_from": 1952,
         "year_to": 1973,
-        "class": "C",
+        "class": null,
         "updated_at": "2025-07-26 16:51:01"
       },
       {
@@ -49024,6 +49104,16 @@
         "updated_at": "2025-07-26 16:51:01"
       },
       {
+        "id": "VOLKSWAGEN_IDERA_9X",
+        "mark_id": "VOLKSWAGEN",
+        "name": "ID.Era 9X",
+        "cyrillic_name": "АйДи Эра 9Икс",
+        "year_from": 2026,
+        "year_to": 2026,
+        "class": "E",
+        "updated_at": "2026-01-18 11:46:48"
+      },
+      {
         "id": "VOLKSWAGEN_IDUNYX",
         "mark_id": "VOLKSWAGEN",
         "name": "ID.Unyx",
@@ -49310,7 +49400,7 @@
         "cyrillic_name": "Сагитар",
         "year_from": 2019,
         "year_to": 2025,
-        "class": "C",
+        "class": "D",
         "updated_at": "2025-07-26 16:51:01"
       },
       {
