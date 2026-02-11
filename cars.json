@@ -31,6 +31,16 @@
         "updated_at": "2025-07-26 16:51:00"
       },
       {
+        "id": "ABARTH_595",
+        "mark_id": "ABARTH",
+        "name": "595",
+        "cyrillic_name": "595",
+        "year_from": 2012,
+        "year_to": 2026,
+        "class": "A",
+        "updated_at": "2026-02-02 13:55:44"
+      },
+      {
         "id": "ABARTH_600E",
         "mark_id": "ABARTH",
         "name": "600e",
@@ -39,6 +49,16 @@
         "year_to": 2025,
         "class": "B",
         "updated_at": "2025-07-26 16:51:00"
+      },
+      {
+        "id": "ABARTH_695",
+        "mark_id": "ABARTH",
+        "name": "695",
+        "cyrillic_name": "695",
+        "year_from": 2014,
+        "year_to": 2026,
+        "class": "A",
+        "updated_at": "2026-02-02 13:55:44"
       }
     ]
   },
@@ -754,7 +774,7 @@
         "cyrillic_name": "2600",
         "year_from": 1962,
         "year_to": 1968,
-        "class": "D",
+        "class": "S",
         "updated_at": "2025-07-26 16:51:00"
       },
       {
@@ -1560,6 +1580,16 @@
         "year_to": 2026,
         "class": "M",
         "updated_at": "2025-07-26 16:51:00"
+      },
+      {
+        "id": "ARCFOX_LITE",
+        "mark_id": "ARCFOX",
+        "name": "Lite",
+        "cyrillic_name": "Лайт",
+        "year_from": 2017,
+        "year_to": 2020,
+        "class": "B",
+        "updated_at": "2026-02-07 15:45:07"
       },
       {
         "id": "ARCFOX_T1",
@@ -3357,6 +3387,16 @@
         "updated_at": "2025-07-26 16:51:00"
       },
       {
+        "id": "BAIC_EU5_PLUS",
+        "mark_id": "BAIC",
+        "name": "EU5 Plus",
+        "cyrillic_name": "ЕУ5 Плюс",
+        "year_from": 2021,
+        "year_to": 2026,
+        "class": "C",
+        "updated_at": "2026-02-02 13:55:44"
+      },
+      {
         "id": "BAIC_EU7",
         "mark_id": "BAIC",
         "name": "EU7",
@@ -3800,6 +3840,16 @@
         "year_to": 2026,
         "class": "J",
         "updated_at": "2025-07-26 16:51:00"
+      },
+      {
+        "id": "BAW_212_T10",
+        "mark_id": "BAW",
+        "name": "212 T10",
+        "cyrillic_name": "212 Т10",
+        "year_from": 2026,
+        "year_to": 2026,
+        "class": "C",
+        "updated_at": "2026-02-02 13:55:44"
       },
       {
         "id": "BAW_ACE_M7",
@@ -7973,6 +8023,16 @@
         "updated_at": "2025-07-26 16:51:00"
       },
       {
+        "id": "CHERY_QQ3",
+        "mark_id": "CHERY",
+        "name": "QQ3",
+        "cyrillic_name": "КуКу3",
+        "year_from": 2026,
+        "year_to": 2026,
+        "class": "B",
+        "updated_at": "2026-02-02 13:55:44"
+      },
+      {
         "id": "CHERY_QQ6",
         "mark_id": "CHERY",
         "name": "QQ6 (S21)",
@@ -8805,7 +8865,7 @@
         "cyrillic_name": "Дамас",
         "year_from": 2019,
         "year_to": 2025,
-        "class": "M",
+        "class": "C",
         "updated_at": "2025-07-26 16:51:00"
       },
       {
@@ -13444,6 +13504,16 @@
         "year_to": 2025,
         "class": "S",
         "updated_at": "2025-07-26 16:51:00"
+      },
+      {
+        "id": "DONKERVOORT_P24_RS",
+        "mark_id": "DONKERVOORT",
+        "name": "P24 RS",
+        "cyrillic_name": "П24 РС",
+        "year_from": 2026,
+        "year_to": 2026,
+        "class": "S",
+        "updated_at": "2026-02-02 13:55:44"
       }
     ]
   },
@@ -20035,7 +20105,7 @@
         "cyrillic_name": "Кроссроуд",
         "year_from": 2007,
         "year_to": 2010,
-        "class": "C",
+        "class": "J",
         "updated_at": "2025-07-26 16:51:00"
       },
       {
@@ -22178,6 +22248,16 @@
         "updated_at": "2025-07-26 16:51:00"
       },
       {
+        "id": "HYUNDAI_REINA",
+        "mark_id": "HYUNDAI",
+        "name": "Reina",
+        "cyrillic_name": "Рейна",
+        "year_from": 2017,
+        "year_to": 2021,
+        "class": "B",
+        "updated_at": "2026-02-02 13:55:45"
+      },
+      {
         "id": "HYUNDAI_SANTAMO",
         "mark_id": "HYUNDAI",
         "name": "Santamo",
@@ -22274,7 +22354,7 @@
         "cyrillic_name": "Стария",
         "year_from": 2021,
         "year_to": 2025,
-        "class": null,
+        "class": "M",
         "updated_at": "2025-07-26 16:51:00"
       },
       {
@@ -22419,6 +22499,16 @@
         "year_to": 2026,
         "class": "B",
         "updated_at": "2025-07-26 16:51:00"
+      },
+      {
+        "id": "ICAR_V27",
+        "mark_id": "ICAR",
+        "name": "V27",
+        "cyrillic_name": "В27",
+        "year_from": 2026,
+        "year_to": 2026,
+        "class": "D",
+        "updated_at": "2026-02-05 19:44:38"
       }
     ]
   },
@@ -22635,6 +22725,16 @@
     "country": "Япония",
     "updated_at": "2025-07-26 22:33:37",
     "models": [
+      {
+        "id": "INFINITI_ESQ",
+        "mark_id": "INFINITI",
+        "name": "ESQ",
+        "cyrillic_name": "Е Эс Кью",
+        "year_from": 2014,
+        "year_to": 2019,
+        "class": "C",
+        "updated_at": "2026-02-05 19:44:38"
+      },
       {
         "id": "INFINITI_EX",
         "mark_id": "INFINITI",
@@ -32318,6 +32418,16 @@
         "updated_at": "2025-07-26 16:51:00"
       },
       {
+        "id": "MG_U9",
+        "mark_id": "MG",
+        "name": "U9",
+        "cyrillic_name": "Ю9",
+        "year_from": 2025,
+        "year_to": 2026,
+        "class": "J",
+        "updated_at": "2026-02-02 13:55:45"
+      },
+      {
         "id": "MG_XPOWER_SV",
         "mark_id": "MG",
         "name": "Xpower SV",
@@ -35935,7 +36045,7 @@
         "cyrillic_name": "Серия 70",
         "year_from": 1939,
         "year_to": 1950,
-        "class": null,
+        "class": "S",
         "updated_at": "2025-07-26 16:51:00"
       },
       {
@@ -35955,7 +36065,7 @@
         "cyrillic_name": "Старфайер",
         "year_from": 1961,
         "year_to": 1980,
-        "class": "S",
+        "class": "C",
         "updated_at": "2025-07-26 16:51:00"
       },
       {
@@ -39290,7 +39400,7 @@
         "cyrillic_name": "Промастер Сити",
         "year_from": 2014,
         "year_to": 2022,
-        "class": "M",
+        "class": null,
         "updated_at": "2025-07-26 16:51:01"
       },
       {
@@ -44159,6 +44269,16 @@
         "year_to": 2008,
         "class": "C",
         "updated_at": "2025-07-26 16:51:01"
+      },
+      {
+        "id": "SUZUKI_MIGHTY_BOY",
+        "mark_id": "SUZUKI",
+        "name": "Mighty Boy",
+        "cyrillic_name": "Майти бой",
+        "year_from": 1983,
+        "year_to": 1985,
+        "class": "B",
+        "updated_at": "2026-02-07 15:45:08"
       },
       {
         "id": "SUZUKI_MR_WAGON",
@@ -49562,6 +49682,16 @@
         "year_to": 2018,
         "class": "C",
         "updated_at": "2025-07-26 16:51:01"
+      },
+      {
+        "id": "VOLKSWAGEN_SP_2",
+        "mark_id": "VOLKSWAGEN",
+        "name": "SP-2",
+        "cyrillic_name": "СП-2",
+        "year_from": 1972,
+        "year_to": 1976,
+        "class": "S",
+        "updated_at": "2026-02-02 13:55:45"
       },
       {
         "id": "VOLKSWAGEN_TACQUA",
