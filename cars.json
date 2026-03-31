@@ -479,6 +479,16 @@
         "updated_at": "2025-07-26 16:51:00"
       },
       {
+        "id": "AION_HYPTEC_A800",
+        "mark_id": "AION",
+        "name": "Hyptec A800",
+        "cyrillic_name": "Хиптек А800",
+        "year_from": 2026,
+        "year_to": 2026,
+        "class": "E",
+        "updated_at": "2026-03-12 07:51:24"
+      },
+      {
         "id": "AION_HYPTEC_HL",
         "mark_id": "AION",
         "name": "Hyptec HL",
@@ -1655,6 +1665,16 @@
         "updated_at": "2026-02-07 15:45:07"
       },
       {
+        "id": "ARCFOX_S3",
+        "mark_id": "ARCFOX",
+        "name": "S3",
+        "cyrillic_name": "С3",
+        "year_from": 2026,
+        "year_to": 2026,
+        "class": "D",
+        "updated_at": "2026-03-20 13:18:27"
+      },
+      {
         "id": "ARCFOX_T1",
         "mark_id": "ARCFOX",
         "name": "T1",
@@ -2061,7 +2081,7 @@
         "mark_id": "ASTON_MARTIN",
         "name": "Vanquish Zagato",
         "cyrillic_name": "Ванквиш Загато",
-        "year_from": 2016,
+        "year_from": 2004,
         "year_to": 2018,
         "class": "S",
         "updated_at": "2026-02-19 00:01:42"
@@ -2352,7 +2372,7 @@
         "cyrillic_name": "Е7Х",
         "year_from": 2026,
         "year_to": 2026,
-        "class": null,
+        "class": "E",
         "updated_at": "2026-01-18 11:46:46"
       },
       {
@@ -2952,7 +2972,7 @@
     "name": "Aurus",
     "cyrillic_name": "Аурус",
     "numeric_id": 12477226,
-    "year_from": 2021,
+    "year_from": 2018,
     "year_to": 2026,
     "popular": 0,
     "country": "Россия",
@@ -2983,7 +3003,7 @@
         "mark_id": "AURUS",
         "name": "Senat",
         "cyrillic_name": "Сенат",
-        "year_from": 2021,
+        "year_from": 2018,
         "year_to": 2026,
         "class": "F",
         "updated_at": "2025-07-26 16:51:00"
@@ -3692,7 +3712,7 @@
     "name": "Baojun",
     "cyrillic_name": "Баоджун",
     "numeric_id": 14406105,
-    "year_from": 2017,
+    "year_from": 2014,
     "year_to": 2026,
     "popular": 0,
     "country": "Китай",
@@ -4056,6 +4076,16 @@
         "year_to": 2026,
         "class": "B",
         "updated_at": "2025-07-26 16:51:00"
+      },
+      {
+        "id": "BELGEE_X50PLUS",
+        "mark_id": "BELGEE",
+        "name": "X50+",
+        "cyrillic_name": "Икс 50 плюс",
+        "year_from": 2026,
+        "year_to": 2026,
+        "class": "B",
+        "updated_at": "2026-03-12 07:51:23"
       },
       {
         "id": "BELGEE_X70",
@@ -6246,6 +6276,16 @@
         "updated_at": "2025-07-26 16:51:00"
       },
       {
+        "id": "BYD_QIN_MAX",
+        "mark_id": "BYD",
+        "name": "Qin Max",
+        "cyrillic_name": "Чин Макс",
+        "year_from": 2026,
+        "year_to": 2026,
+        "class": "D",
+        "updated_at": "2026-03-12 07:51:24"
+      },
+      {
         "id": "BYD_RACCO",
         "mark_id": "BYD",
         "name": "Racco",
@@ -6316,14 +6356,34 @@
         "updated_at": "2025-07-26 16:51:00"
       },
       {
-        "id": "BYD_SEAL_07_DM_I",
+        "id": "BYD_SEAL_07",
         "mark_id": "BYD",
         "name": "Seal 07",
         "cyrillic_name": "Сиэл 07",
         "year_from": 2024,
         "year_to": 2026,
         "class": "E",
+        "updated_at": "2026-03-12 07:51:24"
+      },
+      {
+        "id": "BYD_SEAL_07_DM_I",
+        "mark_id": "BYD",
+        "name": "Seal 07",
+        "cyrillic_name": "Сиэл 07",
+        "year_from": 2024,
+        "year_to": 2026,
+        "class": null,
         "updated_at": "2025-07-26 16:51:00"
+      },
+      {
+        "id": "BYD_SEAL_08",
+        "mark_id": "BYD",
+        "name": "Seal 08",
+        "cyrillic_name": "Сиэл 08",
+        "year_from": 2026,
+        "year_to": 2026,
+        "class": "E",
+        "updated_at": "2026-03-16 10:09:05"
       },
       {
         "id": "BYD_SEA_LION_05",
@@ -7207,6 +7267,16 @@
         "updated_at": "2025-07-26 16:51:00"
       },
       {
+        "id": "CHANGAN_AUCHAN_CHANGXNG",
+        "mark_id": "CHANGAN",
+        "name": "Auchan Changxing",
+        "cyrillic_name": "Ашан Чансин",
+        "year_from": 2019,
+        "year_to": 2022,
+        "class": "M",
+        "updated_at": "2026-03-16 10:09:05"
+      },
+      {
         "id": "CHANGAN_BENBEN_E_STAR",
         "mark_id": "CHANGAN",
         "name": "Benben E-Star",
@@ -8036,6 +8106,16 @@
         "updated_at": "2025-07-26 16:51:00"
       },
       {
+        "id": "CHERY_FULWIN_T9L",
+        "mark_id": "CHERY",
+        "name": "Fulwin T9L",
+        "cyrillic_name": "Фулвин Т9Л",
+        "year_from": 2026,
+        "year_to": 2026,
+        "class": "D",
+        "updated_at": "2026-03-12 07:51:24"
+      },
+      {
         "id": "CHERY_FULWIN_X3",
         "mark_id": "CHERY",
         "name": "Fulwin X3",
@@ -8222,7 +8302,7 @@
         "cyrillic_name": "Тигго 3Х",
         "year_from": 2016,
         "year_to": 2023,
-        "class": "B",
+        "class": "C",
         "updated_at": "2025-07-26 16:51:00"
       },
       {
@@ -10737,6 +10817,29 @@
         "year_to": 2026,
         "class": "C",
         "updated_at": "2025-07-26 16:51:00"
+      }
+    ]
+  },
+  {
+    "id": "CZINGER",
+    "name": "Czinger",
+    "cyrillic_name": "Зингер",
+    "numeric_id": 21021248,
+    "year_from": 2020,
+    "year_to": 2026,
+    "popular": 0,
+    "country": "США",
+    "updated_at": "2026-03-31 04:07:27",
+    "models": [
+      {
+        "id": "CZINGER_21C",
+        "mark_id": "CZINGER",
+        "name": "21C",
+        "cyrillic_name": "21С",
+        "year_from": 2020,
+        "year_to": 2026,
+        "class": "S",
+        "updated_at": "2026-03-31 04:07:27"
       }
     ]
   },
@@ -13866,6 +13969,16 @@
         "year_to": 2026,
         "class": "C",
         "updated_at": "2025-08-09 13:45:53"
+      },
+      {
+        "id": "DS_NO7",
+        "mark_id": "DS",
+        "name": "No7",
+        "cyrillic_name": "H7",
+        "year_from": 2026,
+        "year_to": 2026,
+        "class": "C",
+        "updated_at": "2026-03-20 13:18:27"
       },
       {
         "id": "DS_NO8",
@@ -17200,6 +17313,16 @@
     "updated_at": "2025-07-26 22:33:37",
     "models": [
       {
+        "id": "GAC_AION_V",
+        "mark_id": "GAC",
+        "name": "Aion V",
+        "cyrillic_name": "Айон Ви",
+        "year_from": 2026,
+        "year_to": 2026,
+        "class": "C",
+        "updated_at": "2026-03-16 10:09:05"
+      },
+      {
         "id": "GAC_EMPOW",
         "mark_id": "GAC",
         "name": "Empow",
@@ -18361,7 +18484,7 @@
         "name": "Vision S1",
         "cyrillic_name": "Вижн S1",
         "year_from": 2017,
-        "year_to": 2019,
+        "year_to": 2021,
         "class": "D",
         "updated_at": "2026-03-02 09:17:37"
       },
@@ -21418,11 +21541,21 @@
     "cyrillic_name": "Хозон",
     "numeric_id": 14220169,
     "year_from": 2020,
-    "year_to": 2026,
+    "year_to": 2025,
     "popular": 0,
     "country": "Китай",
     "updated_at": "2025-07-26 22:33:37",
     "models": [
+      {
+        "id": "HOZON_NETA_AYA",
+        "mark_id": "HOZON",
+        "name": "Neta Aya",
+        "cyrillic_name": "Нета Айа",
+        "year_from": 2023,
+        "year_to": 2025,
+        "class": "C",
+        "updated_at": "2026-03-12 07:51:24"
+      },
       {
         "id": "HOZON_NETA_GT",
         "mark_id": "HOZON",
@@ -21667,6 +21800,16 @@
         "year_to": 1937,
         "class": null,
         "updated_at": "2025-07-26 16:51:00"
+      },
+      {
+        "id": "HUDSON_HORNET",
+        "mark_id": "HUDSON",
+        "name": "Hornet",
+        "cyrillic_name": "Хорнет",
+        "year_from": 1950,
+        "year_to": 1957,
+        "class": "E",
+        "updated_at": "2026-03-31 04:07:25"
       },
       {
         "id": "HUDSON_SUPER_SIX",
@@ -24264,6 +24407,16 @@
         "year_to": 2026,
         "class": "J",
         "updated_at": "2025-07-26 16:51:00"
+      },
+      {
+        "id": "JAC_YTTRIUM_3",
+        "mark_id": "JAC",
+        "name": "Yttrium 3",
+        "cyrillic_name": "Итриум 3",
+        "year_from": 2023,
+        "year_to": 2026,
+        "class": "B",
+        "updated_at": "2026-03-31 04:07:26"
       }
     ]
   },
@@ -24916,8 +25069,8 @@
       {
         "id": "JETOUR_X70_PLUS",
         "mark_id": "JETOUR",
-        "name": "X70 PLUS",
-        "cyrillic_name": "Х70 Плюс",
+        "name": "X70+",
+        "cyrillic_name": "Х70+",
         "year_from": 2020,
         "year_to": 2026,
         "class": "D",
@@ -24946,8 +25099,8 @@
       {
         "id": "JETOUR_X90_PLUS",
         "mark_id": "JETOUR",
-        "name": "X90 PLUS",
-        "cyrillic_name": "Х90 Плюс",
+        "name": "X90+",
+        "cyrillic_name": "Х90+",
         "year_from": 2021,
         "year_to": 2026,
         "class": "D",
@@ -25099,8 +25252,8 @@
     "name": "Jinbei",
     "cyrillic_name": "Джинбей",
     "numeric_id": 3356,
-    "year_from": 2000,
-    "year_to": 2023,
+    "year_from": 2002,
+    "year_to": 2026,
     "popular": 0,
     "country": "Китай",
     "updated_at": "2025-07-26 22:33:37",
@@ -25174,7 +25327,7 @@
         "name": "Vigus Work",
         "cyrillic_name": "Вигус Ворк",
         "year_from": 2021,
-        "year_to": 2023,
+        "year_to": 2024,
         "class": "J",
         "updated_at": "2025-07-26 16:51:00"
       },
@@ -25458,6 +25611,16 @@
         "year_to": 2026,
         "class": "J",
         "updated_at": "2026-02-19 00:01:42"
+      },
+      {
+        "id": "KGM_MUSSO_SPORTS",
+        "mark_id": "KGM",
+        "name": "Musso Sports",
+        "cyrillic_name": "Муссо Спортс",
+        "year_from": 2025,
+        "year_to": 2026,
+        "class": "J",
+        "updated_at": "2026-03-12 07:51:24"
       },
       {
         "id": "KGM_REXTON",
@@ -27233,6 +27396,26 @@
     "updated_at": "2025-07-26 22:33:37",
     "models": [
       {
+        "id": "LEAPMOTOR_A05",
+        "mark_id": "LEAPMOTOR",
+        "name": "A05",
+        "cyrillic_name": "А05",
+        "year_from": 2026,
+        "year_to": 2026,
+        "class": "B",
+        "updated_at": "2026-03-20 13:18:28"
+      },
+      {
+        "id": "LEAPMOTOR_A10",
+        "mark_id": "LEAPMOTOR",
+        "name": "A10",
+        "cyrillic_name": "А10",
+        "year_from": 2026,
+        "year_to": 2026,
+        "class": "C",
+        "updated_at": "2026-03-31 04:07:26"
+      },
+      {
         "id": "LEAPMOTOR_B01",
         "mark_id": "LEAPMOTOR",
         "name": "B01",
@@ -28437,6 +28620,16 @@
         "year_to": 2021,
         "class": "S",
         "updated_at": "2025-07-26 16:51:00"
+      },
+      {
+        "id": "LOTUS_FOR_ME",
+        "mark_id": "LOTUS",
+        "name": "For Me",
+        "cyrillic_name": "Фо Ми",
+        "year_from": 2026,
+        "year_to": 2026,
+        "class": "E",
+        "updated_at": "2026-03-12 07:51:24"
       }
     ]
   },
@@ -29939,7 +30132,7 @@
         "cyrillic_name": "929",
         "year_from": 1972,
         "year_to": 1992,
-        "class": "E",
+        "class": "F",
         "updated_at": "2025-07-26 16:51:00"
       },
       {
@@ -32385,6 +32578,16 @@
         "year_to": 2026,
         "class": "C",
         "updated_at": "2025-07-26 16:51:00"
+      },
+      {
+        "id": "MG_4_X",
+        "mark_id": "MG",
+        "name": "4 X",
+        "cyrillic_name": "4 Х",
+        "year_from": 2026,
+        "year_to": 2026,
+        "class": "C",
+        "updated_at": "2026-03-20 13:18:28"
       },
       {
         "id": "MG_5",
@@ -36354,7 +36557,7 @@
         "cyrillic_name": "Старфайер",
         "year_from": 1961,
         "year_to": 1980,
-        "class": "C",
+        "class": "S",
         "updated_at": "2025-07-26 16:51:00"
       },
       {
@@ -36663,7 +36866,7 @@
         "cyrillic_name": "Дипломат",
         "year_from": 1964,
         "year_to": 1978,
-        "class": "E",
+        "class": "S",
         "updated_at": "2025-07-26 16:51:00"
       },
       {
@@ -39698,8 +39901,8 @@
         "name": "ProMaster City",
         "cyrillic_name": "Промастер Сити",
         "year_from": 2014,
-        "year_to": 2022,
-        "class": null,
+        "year_to": 2026,
+        "class": "M",
         "updated_at": "2025-07-26 16:51:01"
       },
       {
@@ -40774,7 +40977,7 @@
     "cyrillic_name": "Райзинг Авто",
     "numeric_id": 14467940,
     "year_from": 2020,
-    "year_to": 2024,
+    "year_to": 2026,
     "popular": 0,
     "country": "Китай",
     "updated_at": "2025-07-26 22:33:37",
@@ -40785,7 +40988,7 @@
         "name": "F7",
         "cyrillic_name": "Ф7",
         "year_from": 2023,
-        "year_to": 2024,
+        "year_to": 2026,
         "class": "E",
         "updated_at": "2025-07-26 16:51:01"
       },
@@ -40805,7 +41008,7 @@
         "name": "R7",
         "cyrillic_name": "Р7",
         "year_from": 2022,
-        "year_to": 2024,
+        "year_to": 2026,
         "class": "E",
         "updated_at": "2025-07-26 16:51:01"
       }
@@ -40841,6 +41044,16 @@
         "year_to": 2026,
         "class": "J",
         "updated_at": "2025-07-26 16:51:01"
+      },
+      {
+        "id": "RIVIAN_R2",
+        "mark_id": "RIVIAN",
+        "name": "R2",
+        "cyrillic_name": "Р2",
+        "year_from": 2026,
+        "year_to": 2026,
+        "class": "D",
+        "updated_at": "2026-03-20 13:18:28"
       }
     ]
   },
@@ -41708,6 +41921,16 @@
         "year_to": 2026,
         "class": "D",
         "updated_at": "2025-10-11 22:22:47"
+      },
+      {
+        "id": "SAIC_Z7",
+        "mark_id": "SAIC",
+        "name": "Z7",
+        "cyrillic_name": "Зэт7",
+        "year_from": 2026,
+        "year_to": 2026,
+        "class": "F",
+        "updated_at": "2026-03-20 13:18:28"
       }
     ]
   },
@@ -43803,7 +44026,7 @@
         "cyrillic_name": "Альциона",
         "year_from": 1985,
         "year_to": 1996,
-        "class": "D",
+        "class": "S",
         "updated_at": "2025-07-26 16:51:01"
       },
       {
@@ -43935,6 +44158,16 @@
         "year_to": 2018,
         "class": "D",
         "updated_at": "2025-07-26 16:51:01"
+      },
+      {
+        "id": "SUBARU_E_OUTBACK",
+        "mark_id": "SUBARU",
+        "name": "E-Outback",
+        "cyrillic_name": "E-Аутбэк",
+        "year_from": 2026,
+        "year_to": 2026,
+        "class": "D",
+        "updated_at": "2026-03-16 10:09:06"
       },
       {
         "id": "SUBARU_FORESTER",
@@ -48402,7 +48635,7 @@
     "name": "UMO",
     "cyrillic_name": "УМО",
     "numeric_id": 20466532,
-    "year_from": 2026,
+    "year_from": 2025,
     "year_to": 2026,
     "popular": 0,
     "country": "Россия",
@@ -49386,7 +49619,7 @@
     "name": "Volga",
     "cyrillic_name": "Волга",
     "numeric_id": 14814670,
-    "year_from": 2024,
+    "year_from": 2026,
     "year_to": 2026,
     "popular": 0,
     "country": "Россия",
@@ -49401,16 +49634,6 @@
         "year_to": 2026,
         "class": "D",
         "updated_at": "2026-02-27 15:08:54"
-      },
-      {
-        "id": "VOLGA_K30",
-        "mark_id": "VOLGA",
-        "name": "K30",
-        "cyrillic_name": "К30",
-        "year_from": 2024,
-        "year_to": 2026,
-        "class": "C",
-        "updated_at": "2025-07-26 16:51:01"
       },
       {
         "id": "VOLGA_K40",
@@ -49429,7 +49652,7 @@
         "cyrillic_name": "К50",
         "year_from": 2026,
         "year_to": 2026,
-        "class": null,
+        "class": "D",
         "updated_at": "2026-02-27 15:08:54"
       }
     ]
