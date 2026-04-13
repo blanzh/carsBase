@@ -185,6 +185,7 @@ AUBURN,Auburn,Оберн,0,США,1935,1937,AUBURN_SPEEDSTER,Speedster,Спид�
 AUDI,Audi,Ауди,1,Германия,1927,2026,AUDI_100,100,100,E,1968,1994
 AUDI,Audi,Ауди,1,Германия,1927,2026,AUDI_200,200,200,E,1979,1991
 AUDI,Audi,Ауди,1,Германия,1927,2026,AUDI_50,50,50,B,1974,1978
+AUDI,Audi,Ауди,1,Германия,1927,2026,AUDI_60,60,60,D,1969,1973
 AUDI,Audi,Ауди,1,Германия,1927,2026,AUDI_80,80,80,D,1972,1996
 AUDI,Audi,Ауди,1,Германия,1927,2026,AUDI_90,90,90,D,1984,1995
 AUDI,Audi,Ауди,1,Германия,1927,2026,AUDI_920,920,920,,1938,1940
@@ -384,6 +385,7 @@ BILENKIN,Bilenkin,Биленкин,0,Россия,2015,2016,BILENKIN_VINTAGE,Vin
 BIO_AUTO,Bio Auto,Био Авто,0,Китай,2009,2020,BIO_AUTO_EVA_4,evA-4,эвА-4,A,2009,2020
 BITTER,Bitter,Биттер,0,Германия,1973,1988,BITTER_CD,CD,сд,S,1973,1979
 BITTER,Bitter,Биттер,0,Германия,1973,1988,BITTER_TYPE_3,Type 3,Тайп 3,S,1987,1988
+BIZZARRINI,Bizzarrini,Биззарини,0,Италия,1964,1968,BIZZARRINI_5300_GT,5300 GT,5300 ГТ,S,1964,1968
 BLAVAL,Blaval,Блавал,0,Китай,2021,2023,BLAVAL_FH_EQ,FH-EQ,ФХ-ЕКУ,A,2021,2023
 BMW,BMW,БМВ,1,Германия,1927,2026,BMW_02,02 (E10),02,D,1966,1977
 BMW,BMW,БМВ,1,Германия,1927,2026,BMW_1ER,1 серии,1 серии,C,2004,2026
@@ -668,10 +670,13 @@ CHANGAN,Changan,Чанган,0,Китай,2006,2026,CHANGAN_EADO,Eado,Еадо,C
 CHANGAN,Changan,Чанган,0,Китай,2006,2026,CHANGAN_EADO_DT,Eado DT,Еадо ДТ,B,2018,2022
 CHANGAN,Changan,Чанган,0,Китай,2006,2026,CHANGAN_EADO_PLUS,Eado Plus,Еадо Плюс,C,2020,2026
 CHANGAN,Changan,Чанган,0,Китай,2006,2026,CHANGAN_EXPLORER,Lantuozhe (Explorer),Лантоуж (Эксплорер),J,2022,2026
+CHANGAN,Changan,Чанган,0,Китай,2006,2026,CHANGAN_G318,Deepal G318,Дипал Джи318,D,2024,2026
 CHANGAN,Changan,Чанган,0,Китай,2006,2026,CHANGAN_HUNTER,Hunter,Хантер,J,2020,2026
 CHANGAN,Changan,Чанган,0,Китай,2006,2026,CHANGAN_HUNTER_K50,Qiyuan Hunter K50,Циюань Хантер К50,J,2025,2026
 CHANGAN,Changan,Чанган,0,Китай,2006,2026,CHANGAN_HUNTER_PLUS,Hunter Plus,Хантер Плюс,J,2023,2026
 CHANGAN,Changan,Чанган,0,Китай,2006,2026,CHANGAN_KAICENE_F70,Kaicene F70,Кайсен Ф70,F,2019,2026
+CHANGAN,Changan,Чанган,0,Китай,2006,2026,CHANGAN_L06,Deepal L06,Дипал Л06,C,2025,2026
+CHANGAN,Changan,Чанган,0,Китай,2006,2026,CHANGAN_L07,Deepal L07,Дипал Л07,D,2024,2026
 CHANGAN,Changan,Чанган,0,Китай,2006,2026,CHANGAN_LAMORE,Lamore,Ламоре,D,2023,2026
 CHANGAN,Changan,Чанган,0,Китай,2006,2026,CHANGAN_LINMAX,Linmax,Линмакс,M,2017,2020
 CHANGAN,Changan,Чанган,0,Китай,2006,2026,CHANGAN_LUMIN,Lumin,Люмин,A,2022,2026
@@ -681,6 +686,10 @@ CHANGAN,Changan,Чанган,0,Китай,2006,2026,CHANGAN_Q07,Qiyuan Q07,Ци�
 CHANGAN,Changan,Чанган,0,Китай,2006,2026,CHANGAN_RAETON,Raeton,Раетон,E,2013,2019
 CHANGAN,Changan,Чанган,0,Китай,2006,2026,CHANGAN_RAETON_CC,Raeton CC,Раетон СС,D,2017,2022
 CHANGAN,Changan,Чанган,0,Китай,2006,2026,CHANGAN_RAETON_PLUS,Raeton Plus,Раетон Плюс,D,2022,2026
+CHANGAN,Changan,Чанган,0,Китай,2006,2026,CHANGAN_S05,Deepal S05,Дипал С05,C,2024,2026
+CHANGAN,Changan,Чанган,0,Китай,2006,2026,CHANGAN_S07,Deepal S07 (S7),Дипал С07 (С7),D,2023,2026
+CHANGAN,Changan,Чанган,0,Китай,2006,2026,CHANGAN_S09,Deepal S09,Дипал С09,E,2024,2026
+CHANGAN,Changan,Чанган,0,Китай,2006,2026,CHANGAN_SL03,Deepal SL03,Дипал СЛ03,D,2022,2026
 CHANGAN,Changan,Чанган,0,Китай,2006,2026,CHANGAN_UNI_K,UNI-K,УНИ-К,E,2020,2026
 CHANGAN,Changan,Чанган,0,Китай,2006,2026,CHANGAN_UNI_L,UNI-L,Уни-Эл,D,2024,2026
 CHANGAN,Changan,Чанган,0,Китай,2006,2026,CHANGAN_UNI_S,UNI-S (CS55 Plus),Уни-С,C,2024,2026
@@ -903,7 +912,7 @@ CHRYSLER,Chrysler,Крайслер,0,США,1924,2026,CHRYSLER_NASSAU,Nassau,Н�
 CHRYSLER,Chrysler,Крайслер,0,США,1924,2026,CHRYSLER_NEON,Neon,Неон,C,1994,2004
 CHRYSLER,Chrysler,Крайслер,0,США,1924,2026,CHRYSLER_NEWPORT,Newport,Ньюпорт,F,1968,1978
 CHRYSLER,Chrysler,Крайслер,0,США,1924,2026,CHRYSLER_NEW_YORKER,New Yorker,Нью Йоркер,E,1949,1996
-CHRYSLER,Chrysler,Крайслер,0,США,1924,2026,CHRYSLER_PACIFICA,Pacifica,Пацифика,F,2003,2026
+CHRYSLER,Chrysler,Крайслер,0,США,1924,2026,CHRYSLER_PACIFICA,Pacifica,Пацифика,M,2003,2026
 CHRYSLER,Chrysler,Крайслер,0,США,1924,2026,CHRYSLER_PROWLER,Prowler,Праулер,S,2001,2002
 CHRYSLER,Chrysler,Крайслер,0,США,1924,2026,CHRYSLER_PT_CRUISER,PT Cruiser,ПТ Крузер,C,2000,2010
 CHRYSLER,Chrysler,Крайслер,0,США,1924,2026,CHRYSLER_SARATOGA,Saratoga,Саратога,D,1989,1995
@@ -1115,13 +1124,6 @@ DAYUN,Dayun,Даюн,0,Китай,2018,2026,DAYUN_PICKUP,Pickup,Пикап,J,201
 DAYUN,Dayun,Даюн,0,Китай,2018,2026,DAYUN_YUANZHI_M1,Yuanzhi M1,Юаньчжи М1,M,2020,2026
 DAYUN,Dayun,Даюн,0,Китай,2018,2026,DAYUN_YUEHU,Yuehu,Юэху,A,2020,2026
 DECO_RIDES,Deco Rides,Деко Райдс,0,США,1999,2026,DECO_RIDES_ZEPHYR,Zephyr,Зефир,S,1999,2026
-DEEPAL,Deepal,Дипэл,0,Китай,2022,2026,DEEPAL_G318,G318,Джи318,D,2024,2026
-DEEPAL,Deepal,Дипэл,0,Китай,2022,2026,DEEPAL_L06,L06,Л06,C,2025,2026
-DEEPAL,Deepal,Дипэл,0,Китай,2022,2026,DEEPAL_L07,L07,Л07,D,2024,2026
-DEEPAL,Deepal,Дипэл,0,Китай,2022,2026,DEEPAL_S05,S05,С05,C,2024,2026
-DEEPAL,Deepal,Дипэл,0,Китай,2022,2026,DEEPAL_S07,S07 (S7),С07 (С7),D,2023,2026
-DEEPAL,Deepal,Дипэл,0,Китай,2022,2026,DEEPAL_S09,S09,С09,E,2024,2026
-DEEPAL,Deepal,Дипэл,0,Китай,2022,2026,DEEPAL_SL03,SL03,СЛ03,D,2022,2026
 DELAGE,Delage,Делаж,0,Франция,1923,2026,DELAGE_D12,D12,Д12,S,2020,2026
 DELAGE,Delage,Делаж,0,Франция,1923,2026,DELAGE_D6,D6,Д6,F,1930,1940
 DELAGE,Delage,Делаж,0,Франция,1923,2026,DELAGE_DI,DI,ДИ,F,1923,1927
@@ -1193,54 +1195,54 @@ DODGE,Dodge,Додж,0,США,1937,2026,DODGE_STRATUS,Stratus,Стратус,D,1
 DODGE,Dodge,Додж,0,США,1937,2026,DODGE_SUPER_BEE,Super Bee,Супер Би,S,1968,1970
 DODGE,Dodge,Додж,0,США,1937,2026,DODGE_VIPER,Viper,Вайпер,S,1992,2017
 DODGE,Dodge,Додж,0,США,1937,2026,DODGE_WC,WC series,вс,J,1941,1945
-DONGFENG,Dongfeng,ДонгФенг,0,Китай,2007,2026,DONGFENG_370,370,370,C,2016,2020
-DONGFENG,Dongfeng,ДонгФенг,0,Китай,2007,2026,DONGFENG_580,580,580,D,2016,2026
-DONGFENG,Dongfeng,ДонгФенг,0,Китай,2007,2026,DONGFENG_A30,A30,А30,C,2014,2019
-DONGFENG,Dongfeng,ДонгФенг,0,Китай,2007,2026,DONGFENG_A9,A9,а9,E,2016,2019
-DONGFENG,Dongfeng,ДонгФенг,0,Китай,2007,2026,DONGFENG_AEOLUS_E70,Aeolus E70,Аеолус Е70,B,2017,2026
-DONGFENG,Dongfeng,ДонгФенг,0,Китай,2007,2026,DONGFENG_AEOLUS_HAOHAN,Aeolus Haohan,Аеолус Хаохан,C,2023,2026
-DONGFENG,Dongfeng,ДонгФенг,0,Китай,2007,2026,DONGFENG_AEOLUS_HAOJI,Aeolus Haoji,Аеолус Хаоджи,D,2022,2026
-DONGFENG,Dongfeng,ДонгФенг,0,Китай,2007,2026,DONGFENG_AEOLUS_L7,Aeolus L7,Аеолус Л7,C,2024,2026
-DONGFENG,Dongfeng,ДонгФенг,0,Китай,2007,2026,DONGFENG_AEOLUS_L8,Aeolus L8,Аеолус Л8,C,2025,2026
-DONGFENG,Dongfeng,ДонгФенг,0,Китай,2007,2026,DONGFENG_AEOLUS_YIXUAN,Aeolus Yixuan,Иэлес Исюань,C,2019,2026
-DONGFENG,Dongfeng,ДонгФенг,0,Китай,2007,2026,DONGFENG_AEOLUS_YIXUAN_MAX,Aeolus Yixuan Max,Иэлес Исюань Макс,D,2021,2026
-DONGFENG,Dongfeng,ДонгФенг,0,Китай,2007,2026,DONGFENG_AX4,AX4,АХ4,B,2017,2021
-DONGFENG,Dongfeng,ДонгФенг,0,Китай,2007,2026,DONGFENG_AX7,AX7,АХ7,D,2015,2019
-DONGFENG,Dongfeng,ДонгФенг,0,Китай,2007,2026,DONGFENG_BOX,Box,Бокс,B,2024,2026
-DONGFENG,Dongfeng,ДонгФенг,0,Китай,2007,2026,DONGFENG_C36,C36,С36,M,2012,2026
-DONGFENG,Dongfeng,ДонгФенг,0,Китай,2007,2026,DONGFENG_DF6,DF6,дф6,J,2022,2026
-DONGFENG,Dongfeng,ДонгФенг,0,Китай,2007,2026,DONGFENG_DFSK_500,DFSK 500,ДФСК 500,C,2024,2026
-DONGFENG,Dongfeng,ДонгФенг,0,Китай,2007,2026,DONGFENG_DFSK_IX5,DFSK ix5,ДФСК АйИкс5,C,2023,2026
-DONGFENG,Dongfeng,ДонгФенг,0,Китай,2007,2026,DONGFENG_DFSK_IX7,DFSK ix7,ДФСК АйИкс7,D,2023,2026
-DONGFENG,Dongfeng,ДонгФенг,0,Китай,2007,2026,DONGFENG_E11K,E11K,Е11К,B,2018,2021
-DONGFENG,Dongfeng,ДонгФенг,0,Китай,2007,2026,DONGFENG_EC36,EC36,ЕС36,M,2017,2023
-DONGFENG,Dongfeng,ДонгФенг,0,Китай,2007,2026,DONGFENG_FENGON_500,Fengon 500,Фенгон 500,C,2020,2026
-DONGFENG,Dongfeng,ДонгФенг,0,Китай,2007,2026,DONGFENG_FENGON_560,Fengon 560,Фенгон 560,C,2017,2026
-DONGFENG,Dongfeng,ДонгФенг,0,Китай,2007,2026,DONGFENG_FENGON_E5,Fengon E5,Фенгон Е5,D,2023,2026
-DONGFENG,Dongfeng,ДонгФенг,0,Китай,2007,2026,DONGFENG_FENGON_IX5,Fengon ix5,Фенгон айикс5,D,2018,2026
-DONGFENG,Dongfeng,ДонгФенг,0,Китай,2007,2026,DONGFENG_FENGON_IX7,Fengon ix7,Фенгон айикс7,E,2019,2023
-DONGFENG,Dongfeng,ДонгФенг,0,Китай,2007,2026,DONGFENG_FUKANG_ES600,Fukang ES600,Фуканг ЕС600,C,2022,2026
-DONGFENG,Dongfeng,ДонгФенг,0,Китай,2007,2026,DONGFENG_H30_CROSS,H30 Cross,Н30 Кросс,B,2011,2018
-DONGFENG,Dongfeng,ДонгФенг,0,Китай,2007,2026,DONGFENG_HUGE,Huge,Хьюдж,D,2022,2026
-DONGFENG,Dongfeng,ДонгФенг,0,Китай,2007,2026,DONGFENG_MAGE,Mage,Маге,C,2024,2026
-DONGFENG,Dongfeng,ДонгФенг,0,Китай,2007,2026,DONGFENG_MENGSHI_800,Mengshi M-Hero 800,Менгши М-Хиро 800,J,2024,2026
-DONGFENG,Dongfeng,ДонгФенг,0,Китай,2007,2026,DONGFENG_MENGSHI_817,Mengshi M-Hero 817,Менгши М-Хиро 817,J,2025,2026
-DONGFENG,Dongfeng,ДонгФенг,0,Китай,2007,2026,DONGFENG_MENGSHI_917,Mengshi M-Hero 917,Менгши М-Хиро 917,J,2023,2026
-DONGFENG,Dongfeng,ДонгФенг,0,Китай,2007,2026,DONGFENG_MPV,MPV,мпв,M,2007,2009
-DONGFENG,Dongfeng,ДонгФенг,0,Китай,2007,2026,DONGFENG_NAMMI_01,Nammi 01,Намми 01,B,2024,2026
-DONGFENG,Dongfeng,ДонгФенг,0,Китай,2007,2026,DONGFENG_NAMMI_06,Nammi 06,Намми 06,B,2025,2026
-DONGFENG,Dongfeng,ДонгФенг,0,Китай,2007,2026,DONGFENG_NANO_EX1,Nano EX1,Нано Е-икс1,A,2020,2023
-DONGFENG,Dongfeng,ДонгФенг,0,Китай,2007,2026,DONGFENG_OTING,Oting,Отинг,J,2007,2013
-DONGFENG,Dongfeng,ДонгФенг,0,Китай,2007,2026,DONGFENG_PALADIN,Paladin,Паладин,J,2023,2026
-DONGFENG,Dongfeng,ДонгФенг,0,Китай,2007,2026,DONGFENG_RICH,Rich,Рич,J,2007,2018
-DONGFENG,Dongfeng,ДонгФенг,0,Китай,2007,2026,DONGFENG_RICH_7,Rich 7,Рич 7,J,2022,2026
-DONGFENG,Dongfeng,ДонгФенг,0,Китай,2007,2026,DONGFENG_S30,S30,С30,C,2013,2017
-DONGFENG,Dongfeng,ДонгФенг,0,Китай,2007,2026,DONGFENG_SHINE,Shine,Шайн,C,2019,2026
-DONGFENG,Dongfeng,ДонгФенг,0,Китай,2007,2026,DONGFENG_SHINE_GS,Shine GS,Шайн ГС,C,2024,2026
-DONGFENG,Dongfeng,ДонгФенг,0,Китай,2007,2026,DONGFENG_SHINE_MAX,Shine Max,Шайн Макс,D,2023,2026
-DONGFENG,Dongfeng,ДонгФенг,0,Китай,2007,2026,DONGFENG_SKY_EV01,Sky EV01,Скай ЕВ01,D,2023,2026
-DONGFENG,Dongfeng,ДонгФенг,0,Китай,2007,2026,DONGFENG_YIXUAN_GS,Aeolus Yixuan GS,Исюань ГС,C,2020,2026
-DONGFENG,Dongfeng,ДонгФенг,0,Китай,2007,2026,DONGFENG_Z9,Z9,З9,J,2025,2026
+DONGFENG,Dongfeng,ДонгФенг,0,Китай,2006,2026,DONGFENG_370,370,370,C,2016,2020
+DONGFENG,Dongfeng,ДонгФенг,0,Китай,2006,2026,DONGFENG_580,580,580,D,2016,2026
+DONGFENG,Dongfeng,ДонгФенг,0,Китай,2006,2026,DONGFENG_A30,A30,А30,C,2014,2019
+DONGFENG,Dongfeng,ДонгФенг,0,Китай,2006,2026,DONGFENG_A9,A9,а9,E,2016,2019
+DONGFENG,Dongfeng,ДонгФенг,0,Китай,2006,2026,DONGFENG_AEOLUS_E70,Aeolus E70,Аеолус Е70,B,2017,2026
+DONGFENG,Dongfeng,ДонгФенг,0,Китай,2006,2026,DONGFENG_AEOLUS_HAOHAN,Aeolus Haohan,Аеолус Хаохан,C,2023,2026
+DONGFENG,Dongfeng,ДонгФенг,0,Китай,2006,2026,DONGFENG_AEOLUS_HAOJI,Aeolus Haoji,Аеолус Хаоджи,D,2022,2026
+DONGFENG,Dongfeng,ДонгФенг,0,Китай,2006,2026,DONGFENG_AEOLUS_L7,Aeolus L7,Аеолус Л7,C,2024,2026
+DONGFENG,Dongfeng,ДонгФенг,0,Китай,2006,2026,DONGFENG_AEOLUS_L8,Aeolus L8,Аеолус Л8,C,2025,2026
+DONGFENG,Dongfeng,ДонгФенг,0,Китай,2006,2026,DONGFENG_AEOLUS_YIXUAN,Aeolus Yixuan,Иэлес Исюань,C,2019,2026
+DONGFENG,Dongfeng,ДонгФенг,0,Китай,2006,2026,DONGFENG_AEOLUS_YIXUAN_MAX,Aeolus Yixuan Max,Иэлес Исюань Макс,D,2021,2026
+DONGFENG,Dongfeng,ДонгФенг,0,Китай,2006,2026,DONGFENG_AX4,AX4,АХ4,B,2017,2021
+DONGFENG,Dongfeng,ДонгФенг,0,Китай,2006,2026,DONGFENG_AX7,AX7,АХ7,D,2015,2019
+DONGFENG,Dongfeng,ДонгФенг,0,Китай,2006,2026,DONGFENG_BOX,Box,Бокс,B,2024,2026
+DONGFENG,Dongfeng,ДонгФенг,0,Китай,2006,2026,DONGFENG_C36,C36,С36,M,2012,2026
+DONGFENG,Dongfeng,ДонгФенг,0,Китай,2006,2026,DONGFENG_DF6,DF6,дф6,J,2022,2026
+DONGFENG,Dongfeng,ДонгФенг,0,Китай,2006,2026,DONGFENG_DFSK_500,DFSK 500,ДФСК 500,C,2024,2026
+DONGFENG,Dongfeng,ДонгФенг,0,Китай,2006,2026,DONGFENG_DFSK_IX5,DFSK ix5,ДФСК АйИкс5,C,2023,2026
+DONGFENG,Dongfeng,ДонгФенг,0,Китай,2006,2026,DONGFENG_DFSK_IX7,DFSK ix7,ДФСК АйИкс7,D,2023,2026
+DONGFENG,Dongfeng,ДонгФенг,0,Китай,2006,2026,DONGFENG_E11K,E11K,Е11К,B,2018,2021
+DONGFENG,Dongfeng,ДонгФенг,0,Китай,2006,2026,DONGFENG_EC36,EC36,ЕС36,M,2017,2023
+DONGFENG,Dongfeng,ДонгФенг,0,Китай,2006,2026,DONGFENG_FENGON_500,Fengon 500,Фенгон 500,C,2020,2026
+DONGFENG,Dongfeng,ДонгФенг,0,Китай,2006,2026,DONGFENG_FENGON_560,Fengon 560,Фенгон 560,C,2017,2026
+DONGFENG,Dongfeng,ДонгФенг,0,Китай,2006,2026,DONGFENG_FENGON_E5,Fengon E5,Фенгон Е5,D,2023,2026
+DONGFENG,Dongfeng,ДонгФенг,0,Китай,2006,2026,DONGFENG_FENGON_IX5,Fengon ix5,Фенгон айикс5,D,2018,2026
+DONGFENG,Dongfeng,ДонгФенг,0,Китай,2006,2026,DONGFENG_FENGON_IX7,Fengon ix7,Фенгон айикс7,E,2019,2023
+DONGFENG,Dongfeng,ДонгФенг,0,Китай,2006,2026,DONGFENG_FUKANG_ES600,Fukang ES600,Фуканг ЕС600,C,2022,2026
+DONGFENG,Dongfeng,ДонгФенг,0,Китай,2006,2026,DONGFENG_H30_CROSS,H30 Cross,Н30 Кросс,B,2011,2018
+DONGFENG,Dongfeng,ДонгФенг,0,Китай,2006,2026,DONGFENG_HUGE,Huge,Хьюдж,D,2022,2026
+DONGFENG,Dongfeng,ДонгФенг,0,Китай,2006,2026,DONGFENG_MAGE,Mage,Маге,C,2024,2026
+DONGFENG,Dongfeng,ДонгФенг,0,Китай,2006,2026,DONGFENG_MENGSHI_800,Mengshi M-Hero 800,Менгши М-Хиро 800,J,2024,2026
+DONGFENG,Dongfeng,ДонгФенг,0,Китай,2006,2026,DONGFENG_MENGSHI_817,Mengshi M-Hero 817,Менгши М-Хиро 817,J,2025,2026
+DONGFENG,Dongfeng,ДонгФенг,0,Китай,2006,2026,DONGFENG_MENGSHI_917,Mengshi M-Hero 917,Менгши М-Хиро 917,J,2023,2026
+DONGFENG,Dongfeng,ДонгФенг,0,Китай,2006,2026,DONGFENG_MPV,MPV,мпв,M,2007,2009
+DONGFENG,Dongfeng,ДонгФенг,0,Китай,2006,2026,DONGFENG_NAMMI_01,Nammi 01,Намми 01,B,2024,2026
+DONGFENG,Dongfeng,ДонгФенг,0,Китай,2006,2026,DONGFENG_NAMMI_06,Nammi 06,Намми 06,B,2025,2026
+DONGFENG,Dongfeng,ДонгФенг,0,Китай,2006,2026,DONGFENG_NANO_EX1,Nano EX1,Нано Е-икс1,A,2020,2023
+DONGFENG,Dongfeng,ДонгФенг,0,Китай,2006,2026,DONGFENG_OTING,Oting,Отинг,J,2007,2013
+DONGFENG,Dongfeng,ДонгФенг,0,Китай,2006,2026,DONGFENG_PALADIN,Paladin,Паладин,J,2023,2026
+DONGFENG,Dongfeng,ДонгФенг,0,Китай,2006,2026,DONGFENG_RICH,Rich,Рич,J,2007,2018
+DONGFENG,Dongfeng,ДонгФенг,0,Китай,2006,2026,DONGFENG_RICH_7,Rich 7,Рич 7,J,2022,2026
+DONGFENG,Dongfeng,ДонгФенг,0,Китай,2006,2026,DONGFENG_S30,S30,С30,C,2013,2017
+DONGFENG,Dongfeng,ДонгФенг,0,Китай,2006,2026,DONGFENG_SHINE,Shine,Шайн,C,2019,2026
+DONGFENG,Dongfeng,ДонгФенг,0,Китай,2006,2026,DONGFENG_SHINE_GS,Shine GS,Шайн ГС,C,2024,2026
+DONGFENG,Dongfeng,ДонгФенг,0,Китай,2006,2026,DONGFENG_SHINE_MAX,Shine Max,Шайн Макс,D,2023,2026
+DONGFENG,Dongfeng,ДонгФенг,0,Китай,2006,2026,DONGFENG_SKY_EV01,Sky EV01,Скай ЕВ01,D,2023,2026
+DONGFENG,Dongfeng,ДонгФенг,0,Китай,2006,2026,DONGFENG_YIXUAN_GS,Aeolus Yixuan GS,Исюань ГС,C,2020,2026
+DONGFENG,Dongfeng,ДонгФенг,0,Китай,2006,2026,DONGFENG_Z9,Z9,З9,J,2025,2026
 DONINVEST,Doninvest,Донинвест,0,Россия,1998,2002,DONINVEST_ASSOL,Assol,Ассоль,B,1998,2002
 DONINVEST,Doninvest,Донинвест,0,Россия,1998,2002,DONINVEST_KONDOR,Kondor,Кондор,D,1998,2002
 DONINVEST,Doninvest,Донинвест,0,Россия,1998,2002,DONINVEST_ORION,Orion,Орион,C,1998,2002
@@ -1754,6 +1756,7 @@ GREAT_WALL,Great Wall,Грейт Вол,0,Китай,1996,2026,GREAT_WALL_VOLEEX
 GREAT_WALL,Great Wall,Грейт Вол,0,Китай,1996,2026,GREAT_WALL_VOLEEXC50,Voleex C50,Воликс С50,C,2012,2016
 GREAT_WALL,Great Wall,Грейт Вол,0,Китай,1996,2026,GREAT_WALL_WINGLE_7,Wingle 7,Вингл 7,J,2018,2023
 GREAT_WALL,Great Wall,Грейт Вол,0,Китай,1996,2026,GREAT_WALL_WINGLE_UP,Wingle,Вингл,J,2006,2026
+GUMPERT,Gumpert,Гумперт,0,Германия,2005,2012,GUMPERT_APOLLO,Apollo,Аполло,S,2005,2012
 HAFEI,Hafei,Хафэй,0,Китай,2002,2018,HAFEI_BRIO,Brio,брио,A,2002,2010
 HAFEI,Hafei,Хафэй,0,Китай,2002,2018,HAFEI_MINYI,Minyi,Миньи,M,2003,2018
 HAFEI,Hafei,Хафэй,0,Китай,2002,2018,HAFEI_PRINCIP,Princip,принцип,C,2004,2010
@@ -1972,10 +1975,10 @@ HUANGHAI,HuangHai,ХуангХай,0,Китай,2006,2026,HUANGHAI_N2,N2,Н2,J,2
 HUANGHAI,HuangHai,ХуангХай,0,Китай,2006,2026,HUANGHAI_N7,N7,Н7,J,2023,2026
 HUANGHAI,HuangHai,ХуангХай,0,Китай,2006,2026,HUANGHAI_PLUTUS,Plutus,Плютус,J,2007,2011
 HUAZI,Huazi,Хуацзы,0,Китай,2023,2026,HUAZI_OMEGA,Omega,Омега,A,2023,2026
-HUDSON,Hudson,Хадсон,0,США,1916,1939,HUDSON_CUSTOM_EIGHT,Custom Eight,Кастом Эйт,,1937,1939
-HUDSON,Hudson,Хадсон,0,США,1916,1939,HUDSON_DELUXE_EIGHT,Deluxe Eight,Делюкс Эйт,,1936,1937
-HUDSON,Hudson,Хадсон,0,США,1916,1939,HUDSON_HORNET,Hornet,Хорнет,E,1950,1957
-HUDSON,Hudson,Хадсон,0,США,1916,1939,HUDSON_SUPER_SIX,Super Six,супер сикс,,1916,1928
+HUDSON,Hudson,Хадсон,0,США,1916,1957,HUDSON_CUSTOM_EIGHT,Custom Eight,Кастом Эйт,,1937,1939
+HUDSON,Hudson,Хадсон,0,США,1916,1957,HUDSON_DELUXE_EIGHT,Deluxe Eight,Делюкс Эйт,,1936,1937
+HUDSON,Hudson,Хадсон,0,США,1916,1957,HUDSON_HORNET,Hornet,Хорнет,E,1950,1957
+HUDSON,Hudson,Хадсон,0,США,1916,1957,HUDSON_SUPER_SIX,Super Six,супер сикс,,1916,1928
 HUMBER,Humber,Хамбер,0,Великобритания,1962,1964,HUMBER_HAWK,Hawk,Хок,E,1962,1964
 HUMMER,Hummer,Хаммер,0,США,1992,2010,HUMMER_H1,H1,н1,J,1992,2006
 HUMMER,Hummer,Хаммер,0,США,1992,2010,HUMMER_H2,H2,н2,J,2002,2009
@@ -2110,6 +2113,7 @@ INFINITI,Infiniti,Инфинити,0,Япония,1989,2026,INFINITI_QX50,QX50,�
 INFINITI,Infiniti,Инфинити,0,Япония,1989,2026,INFINITI_QX55,QX55,КуИкс55,D,2021,2025
 INFINITI,Infiniti,Инфинити,0,Япония,1989,2026,INFINITI_QX56,QX56,QX56,J,2004,2013
 INFINITI,Infiniti,Инфинити,0,Япония,1989,2026,INFINITI_QX60,QX60,ку икс 60,E,2013,2026
+INFINITI,Infiniti,Инфинити,0,Япония,1989,2026,INFINITI_QX65,QX65,Ку Икс 65,E,2026,2026
 INFINITI,Infiniti,Инфинити,0,Япония,1989,2026,INFINITI_QX70,QX70,ку икс 70,E,2013,2017
 INFINITI,Infiniti,Инфинити,0,Япония,1989,2026,INFINITI_QX80,QX80,ку икс 80,J,2013,2026
 INNOCENTI,Innocenti,Инноченти,0,Италия,1965,1997,INNOCENTI_ELBA,Elba,ельба,B,1991,1997
@@ -2249,7 +2253,7 @@ JEEP,Jeep,Джип,0,США,1966,2026,JEEP_RECON,Recon,Рекон,J,2025,2026
 JEEP,Jeep,Джип,0,США,1966,2026,JEEP_RENEGADE,Renegade,Ренегейд,B,2014,2025
 JEEP,Jeep,Джип,0,США,1966,2026,JEEP_WAGONEER_S,Wagoneer S,Вагонер С,J,2024,2026
 JEEP,Jeep,Джип,0,США,1966,2026,JEEP_WRANGLER,Wrangler,Рэнглер,J,1986,2026
-JELAND,Jeland,Джейланд,0,Россия,2026,2026,JELAND_J6,J6,Джей 6,C,2026,2026
+JELAND,Jeland,Джейланд,0,Россия,2026,2026,JELAND_VT6,VT6,ВТ6,C,2026,2026
 JENSEN,Jensen,Дженсен,0,Великобритания,1966,2003,JENSEN_INTERCEPTOR,Interceptor,Интерцептор,S,1966,1976
 JENSEN,Jensen,Дженсен,0,Великобритания,1966,2003,JENSEN_S_V8,S-V8,с-в8,S,2001,2003
 JETOUR,JETOUR,Джетур,0,Китай,2018,2026,JETOUR_DASHING,DASHING,Дашинг,D,2022,2026
@@ -2289,7 +2293,7 @@ JMC,JMC,Джей Эм Си,0,Китай,2006,2026,JMC_DADAO,Dadao,Дадао,J,2
 JMC,JMC,Джей Эм Си,0,Китай,2006,2026,JMC_VIGUS,Vigus,Вигус,J,2023,2026
 JMC,JMC,Джей Эм Си,0,Китай,2006,2026,JMC_VIGUS_WORK,Vigus Work,Вигус Ворк,J,2021,2024
 JMC,JMC,Джей Эм Си,0,Китай,2006,2026,JMC_YUHU_7,Yuhu 7,Юху 7,J,2017,2026
-JMEV,JMEV,Джмев,0,Китай,2022,2026,JMEV_01,01,01,S,2023,2026
+JMEV,JMEV,Джмев,0,Китай,2022,2026,JMEV_01,01,01,S,2025,2026
 JMEV,JMEV,Джмев,0,Китай,2022,2026,JMEV_EV3,EV3,EB3,A,2023,2026
 JMEV,JMEV,Джмев,0,Китай,2022,2026,JMEV_GSE_YI,GSE (Yi),Гсе (Йи),D,2022,2026
 JONWAY,Jonway,Джонвэй,0,Китай,2005,2015,JONWAY_UFO_A380,UFO A380,Уфо а380,C,2005,2015
@@ -2327,6 +2331,7 @@ KIA,Kia,Киа,1,Южная Корея,1987,2026,KIA_CLARUS,Clarus,Кларус,
 KIA,Kia,Киа,1,Южная Корея,1987,2026,KIA_CONCORD,Concord,Конкорд,D,1987,1995
 KIA,Kia,Киа,1,Южная Корея,1987,2026,KIA_ELAN,Elan,Элан,S,1996,1999
 KIA,Kia,Киа,1,Южная Корея,1987,2026,KIA_ENTERPRISE,Enterprise,Энтерпрайз,E,1997,2002
+KIA,Kia,Киа,1,Южная Корея,1987,2026,KIA_EV2,EV2,ев2,B,2026,2026
 KIA,Kia,Киа,1,Южная Корея,1987,2026,KIA_EV3,EV3,ев3,C,2024,2026
 KIA,Kia,Киа,1,Южная Корея,1987,2026,KIA_EV4,EV4,ев4,C,2025,2026
 KIA,Kia,Киа,1,Южная Корея,1987,2026,KIA_EV5,EV5,ев5,C,2023,2026
@@ -2664,6 +2669,7 @@ MASERATI,Maserati,Мазерати,0,Италия,1957,2026,MASERATI_MC20,MC20,�
 MASERATI,Maserati,Мазерати,0,Италия,1957,2026,MASERATI_MCPURA,MCPura,МСПура,S,2025,2026
 MASERATI,Maserati,Мазерати,0,Италия,1957,2026,MASERATI_MERAK,Merak,мерак,S,1975,1983
 MASERATI,Maserati,Мазерати,0,Италия,1957,2026,MASERATI_MEXICO,Mexico,мехико,S,1967,1972
+MASERATI,Maserati,Мазерати,0,Италия,1957,2026,MASERATI_MOSTRO_ZAGATO,Mostro Zagato,Мостро Загато,S,2015,2022
 MASERATI,Maserati,Мазерати,0,Италия,1957,2026,MASERATI_QUATTROPORTE,Quattroporte,Кваттропорте,F,1979,2024
 MASERATI,Maserati,Мазерати,0,Италия,1957,2026,MASERATI_ROYALE,Royale,рояле,F,1985,1993
 MASERATI,Maserati,Мазерати,0,Италия,1957,2026,MASERATI_SHAMAL,Shamal,шамаль,S,1989,1995
@@ -2687,10 +2693,10 @@ MAXUS,Maxus,Максус,0,Китай,2013,2026,MAXUS_T70,T70,Т70,,2019,2023
 MAXUS,Maxus,Максус,0,Китай,2013,2026,MAXUS_T90,T90,Т90,J,2021,2023
 MAXUS,Maxus,Максус,0,Китай,2013,2026,MAXUS_TERRITORY,Territory,территори,J,2022,2026
 MAXUS,Maxus,Максус,0,Китай,2013,2026,MAXUS_V70,V70,В70,M,2023,2026
-MAYBACH,Maybach,Майбах,0,Германия,1936,2012,MAYBACH_57,57,57,F,2002,2012
-MAYBACH,Maybach,Майбах,0,Германия,1936,2012,MAYBACH_62,62,62,F,2002,2012
-MAYBACH,Maybach,Майбах,0,Германия,1936,2012,MAYBACH_EXELERO,Exelero,Экселеро,S,2005,2005
-MAYBACH,Maybach,Майбах,0,Германия,1936,2012,MAYBACH_SW38,SW38,СВ38,E,1936,1938
+MAYBACH,Maybach,Майбах,0,Германия,1936,2013,MAYBACH_57,57,57,F,2002,2012
+MAYBACH,Maybach,Майбах,0,Германия,1936,2013,MAYBACH_62,62,62,F,2002,2012
+MAYBACH,Maybach,Майбах,0,Германия,1936,2013,MAYBACH_EXELERO,Exelero,Экселеро,S,2005,2005
+MAYBACH,Maybach,Майбах,0,Германия,1936,2013,MAYBACH_SW38,SW38,СВ38,E,1936,1938
 MAZDA,Mazda,Мазда,1,Япония,1960,2026,MAZDA_1000,1000,1000,B,1967,1977
 MAZDA,Mazda,Мазда,1,Япония,1960,2026,MAZDA_121,121,121,B,1975,2003
 MAZDA,Mazda,Мазда,1,Япония,1960,2026,MAZDA_1300,1300,1300,C,1975,1977
@@ -3323,7 +3329,7 @@ OMODA,Omoda,Омода,0,Китай,2022,2026,OMODA_C5,C5,С5,C,2022,2026
 OMODA,Omoda,Омода,0,Китай,2022,2026,OMODA_C7,C7,С7,D,2024,2026
 OMODA,Omoda,Омода,0,Китай,2022,2026,OMODA_C9,C9,С9,D,2024,2026
 OMODA,Omoda,Омода,0,Китай,2022,2026,OMODA_E5,E5,Е5,C,2024,2026
-OMODA,Omoda,Омода,0,Китай,2022,2026,OMODA_S5,S5,С5,C,2022,2025
+OMODA,Omoda,Омода,0,Китай,2022,2026,OMODA_S5,S5,С5,C,2023,2025
 OMODA,Omoda,Омода,0,Китай,2022,2026,OMODA_S5_GT,S5 GT,С5 ГТ,C,2023,2025
 OPEL,Opel,Опель,1,Германия,1909,2026,OPEL_4_8_PS,4/8 PS,4/8 ПС,,1909,1910
 OPEL,Opel,Опель,1,Германия,1909,2026,OPEL_ADAM,Adam,адам,A,2013,2019
@@ -3342,7 +3348,7 @@ OPEL,Opel,Опель,1,Германия,1909,2026,OPEL_COMMODORE,Commodore,Ко�
 OPEL,Opel,Опель,1,Германия,1909,2026,OPEL_CORSA,Corsa,Корса,B,1982,2026
 OPEL,Opel,Опель,1,Германия,1909,2026,OPEL_CORSA_OPC,Corsa OPC,корса опс,B,2007,2018
 OPEL,Opel,Опель,1,Германия,1909,2026,OPEL_CROSSLAND_X,Crossland X,Кросленд Х,B,2017,2024
-OPEL,Opel,Опель,1,Германия,1909,2026,OPEL_DIPLOMAT,Diplomat,Дипломат,S,1964,1978
+OPEL,Opel,Опель,1,Германия,1909,2026,OPEL_DIPLOMAT,Diplomat,Дипломат,E,1964,1978
 OPEL,Opel,Опель,1,Германия,1909,2026,OPEL_FRONTERA,Frontera,Фронтера,J,1991,2026
 OPEL,Opel,Опель,1,Германия,1909,2026,OPEL_GRANDLAND_X,Grandland,Grandland X,C,2017,2026
 OPEL,Opel,Опель,1,Германия,1909,2026,OPEL_GT,GT,GT,S,1968,2009
@@ -3510,7 +3516,7 @@ POLESTAR,Polestar,Полестар,0,Швеция,2019,2026,POLESTAR_5,5,5,E,202
 PONTIAC,Pontiac,Понтиак,0,США,1939,2010,PONTIAC_6000,6000,6000,D,1982,1991
 PONTIAC,Pontiac,Понтиак,0,США,1939,2010,PONTIAC_AZTEK,Aztek,Ацтек,D,2001,2005
 PONTIAC,Pontiac,Понтиак,0,США,1939,2010,PONTIAC_BONNEVILLE,Bonneville,Бонневиль,S,1965,2005
-PONTIAC,Pontiac,Понтиак,0,США,1939,2010,PONTIAC_CATALINA,Catalina,Каталина,S,1959,1981
+PONTIAC,Pontiac,Понтиак,0,США,1939,2010,PONTIAC_CATALINA,Catalina,Каталина,F,1959,1981
 PONTIAC,Pontiac,Понтиак,0,США,1939,2010,PONTIAC_FIERO,Fiero,Фиеро,S,1984,1988
 PONTIAC,Pontiac,Понтиак,0,США,1939,2010,PONTIAC_FIREBIRD,Firebird,Фаербёрд,S,1967,2002
 PONTIAC,Pontiac,Понтиак,0,США,1939,2010,PONTIAC_FIREFLY,Firefly,Файрфлай,B,1985,1988
@@ -3530,7 +3536,7 @@ PONTIAC,Pontiac,Понтиак,0,США,1939,2010,PONTIAC_SOLSTICE,Solstice,Со
 PONTIAC,Pontiac,Понтиак,0,США,1939,2010,PONTIAC_SUNBIRD,Sunbird,Санбёрд,C,1975,1994
 PONTIAC,Pontiac,Понтиак,0,США,1939,2010,PONTIAC_SUNFIRE,Sunfire,Санфаер,C,1995,2005
 PONTIAC,Pontiac,Понтиак,0,США,1939,2010,PONTIAC_SUNRUNNER,Sunrunner,Санраннер,J,1994,1998
-PONTIAC,Pontiac,Понтиак,0,США,1939,2010,PONTIAC_TEMPEST,Tempest,Темпест,S,1961,1991
+PONTIAC,Pontiac,Понтиак,0,США,1939,2010,PONTIAC_TEMPEST,Tempest,Темпест,E,1961,1991
 PONTIAC,Pontiac,Понтиак,0,США,1939,2010,PONTIAC_TORPEDO,Torpedo,Торпедо,,1939,1948
 PONTIAC,Pontiac,Понтиак,0,США,1939,2010,PONTIAC_TORRENT,Torrent,Торрент,E,2005,2009
 PONTIAC,Pontiac,Понтиак,0,США,1939,2010,PONTIAC_TRANS_SPORT,Trans Sport,Транс Спорт,M,1989,1999
@@ -3539,6 +3545,7 @@ PONTIAC,Pontiac,Понтиак,0,США,1939,2010,PONTIAC_WAVE,Wave,Вейв,B,2
 PORSCHE,Porsche,Порше,1,Германия,1948,2026,PORSCHE_356,356,356,S,1948,1965
 PORSCHE,Porsche,Порше,1,Германия,1948,2026,PORSCHE_718_SPYDER,718 Spyder,718 Спайдер,S,2019,2025
 PORSCHE,Porsche,Порше,1,Германия,1948,2026,PORSCHE_911,911,911,S,1963,2026
+PORSCHE,Porsche,Порше,1,Германия,1948,2026,PORSCHE_911_GT1,911 GT1,911 ГТ1,S,1997,1998
 PORSCHE,Porsche,Порше,1,Германия,1948,2026,PORSCHE_911_GT2,911 GT2,911 GT2,S,1995,2019
 PORSCHE,Porsche,Порше,1,Германия,1948,2026,PORSCHE_911_GT3,911 GT3,911 GT3,S,1999,2026
 PORSCHE,Porsche,Порше,1,Германия,1948,2026,PORSCHE_911_R,911 R,911 р,S,2016,2019
@@ -3908,6 +3915,7 @@ SOLARIS,Solaris,Солярис,0,Россия,2022,2026,SOLARIS_HC,HC,ХЦ,B,202
 SOLARIS,Solaris,Солярис,0,Россия,2022,2026,SOLARIS_HS,HS,ХС,B,2022,2026
 SOLARIS,Solaris,Солярис,0,Россия,2022,2026,SOLARIS_KRS,KRS,КРС,B,2024,2026
 SOLARIS,Solaris,Солярис,0,Россия,2022,2026,SOLARIS_KRX,KRX,КРИкс,B,2024,2026
+SOLLERS,Sollers,Соллерс,0,Россия,2023,2026,SOLLERS_SF1,SF1,СФ1,M,2025,2026
 SOLLERS,Sollers,Соллерс,0,Россия,2023,2026,SOLLERS_SP7,SP7,СП7,M,2025,2026
 SOLLERS,Sollers,Соллерс,0,Россия,2023,2026,SOLLERS_ST6,ST6,СТ6,J,2023,2026
 SOLLERS,Sollers,Соллерс,0,Россия,2023,2026,SOLLERS_ST8,ST8,СТ8,J,2024,2026
@@ -3927,8 +3935,8 @@ SOUEAST,Soueast,Соуист,0,Китай,2004,2026,SOUEAST_V3,V3,В3,B,2008,201
 SOUEAST,Soueast,Соуист,0,Китай,2004,2026,SOUEAST_V5,V5,В5,C,2012,2020
 SOUEAST,Soueast,Соуист,0,Китай,2004,2026,SOUEAST_V6_CROSS,V6 Cross,В6 Кросс,C,2013,2015
 SPECTRE,Spectre,Спектр,0,Великобритания,1996,1997,SPECTRE_R42,R42,р42,S,1996,1997
-SPYKER,Spyker,Спайкер,0,Дания,2001,2009,SPYKER_C12,C12,с12,S,2006,2008
-SPYKER,Spyker,Спайкер,0,Дания,2001,2009,SPYKER_C8,C8,с8,S,2001,2009
+SPYKER,Spyker,Спайкер,0,Дания,2001,2026,SPYKER_C12,C12,с12,S,2006,2008
+SPYKER,Spyker,Спайкер,0,Дания,2001,2026,SPYKER_C8,C8,с8,S,2001,2009
 SSANG_YONG,SsangYong,Ссанъён,0,Южная Корея,1987,2023,SSANG_YONG_ACTYON,Actyon,Актион,C,2005,2019
 SSANG_YONG,SsangYong,Ссанъён,0,Южная Корея,1987,2023,SSANG_YONG_ACTYON_SPORT,Actyon Sports,Актион Спортс,J,2006,2016
 SSANG_YONG,SsangYong,Ссанъён,0,Южная Корея,1987,2023,SSANG_YONG_CHAIRMAN,Chairman,Чиамэн,F,1997,2017
@@ -3954,7 +3962,7 @@ STEYR,Steyr,Штайр,0,Австрия,1941,1974,STEYR_HAFLINGER,Haflinger,Ха
 STUDEBAKER,Studebaker,Студебейкер,0,США,1956,1958,STUDEBAKER_GOLDEN_HAWK,Golden Hawk,Голден Хоук,E,1956,1958
 SUBARU,Subaru,Субару,1,Япония,1958,2026,SUBARU_1000,1000,1000,B,1965,1969
 SUBARU,Subaru,Субару,1,Япония,1958,2026,SUBARU_360,360,360,A,1958,1971
-SUBARU,Subaru,Субару,1,Япония,1958,2026,SUBARU_ALCYONE,Alcyone,Альциона,S,1985,1996
+SUBARU,Subaru,Субару,1,Япония,1958,2026,SUBARU_ALCYONE,Alcyone,Альциона,D,1985,1996
 SUBARU,Subaru,Субару,1,Япония,1958,2026,SUBARU_ASCENT,Ascent,асцент,E,2017,2026
 SUBARU,Subaru,Субару,1,Япония,1958,2026,SUBARU_B9_TRIBECA,Tribeca,Трибека,E,2004,2014
 SUBARU,Subaru,Субару,1,Япония,1958,2026,SUBARU_BAJA,Baja,Байя,D,2002,2006
@@ -3970,6 +3978,7 @@ SUBARU,Subaru,Субару,1,Япония,1958,2026,SUBARU_DOMINGO,Domingo,До�
 SUBARU,Subaru,Субару,1,Япония,1958,2026,SUBARU_EXIGA,Exiga,Эксига,D,2008,2018
 SUBARU,Subaru,Субару,1,Япония,1958,2026,SUBARU_E_OUTBACK,E-Outback,E-Аутбэк,D,2026,2026
 SUBARU,Subaru,Субару,1,Япония,1958,2026,SUBARU_FORESTER,Forester,Форестер,D,1997,2026
+SUBARU,Subaru,Субару,1,Япония,1958,2026,SUBARU_GETAWAY,Getaway,Гетэвэй,E,2026,2026
 SUBARU,Subaru,Субару,1,Япония,1958,2026,SUBARU_IMPREZA,Impreza,Импреза,C,1992,2026
 SUBARU,Subaru,Субару,1,Япония,1958,2026,SUBARU_IMPREZA_WRX,Impreza WRX,Импреза WRX,C,1992,2014
 SUBARU,Subaru,Субару,1,Япония,1958,2026,SUBARU_IMPREZA_WRX_STI,Impreza WRX STi,импреза врх сти,C,1994,2014
@@ -4094,7 +4103,7 @@ TATA,Tata,ТАТА,0,Индия,1993,2026,TATA_SIERRA,Sierra,Сьерра,J,1993
 TATA,Tata,ТАТА,0,Индия,1993,2026,TATA_SUMO,Sumo,Сумо,J,1996,2004
 TATA,Tata,ТАТА,0,Индия,1993,2026,TATA_SUMO_GRANDE,Sumo Grande,сумо гранде,J,2008,2016
 TATA,Tata,ТАТА,0,Индия,1993,2026,TATA_TELCOLINE,Telcoline,Тэлколайн,J,2005,2007
-TATA,Tata,ТАТА,0,Индия,1993,2026,TATA_XENON,Xenon,Ксенон,J,2007,2026
+TATA,Tata,ТАТА,0,Индия,1993,2026,TATA_XENON,Xenon,Ксенон,J,2006,2026
 TATRA,Tatra,Татра,0,Чехия,1931,1999,TATRA_57,57,57,C,1932,1949
 TATRA,Tatra,Татра,0,Чехия,1931,1999,TATRA_77,77,77,,1934,1938
 TATRA,Tatra,Татра,0,Чехия,1931,1999,TATRA_80,80,80,,1931,1935
@@ -4632,6 +4641,7 @@ VOYAH,Voyah,Воя,0,Китай,2021,2026,VOYAH_DREAM,Dream,Дрим,M,2021,2026
 VOYAH,Voyah,Воя,0,Китай,2021,2026,VOYAH_FREE,Free,Фри,E,2021,2026
 VOYAH,Voyah,Воя,0,Китай,2021,2026,VOYAH_PASSION,Passion,Пассион,E,2022,2026
 VOYAH,Voyah,Воя,0,Китай,2021,2026,VOYAH_TAISHAN,Taishan,Тайшан,F,2025,2026
+VOYAH,Voyah,Воя,0,Китай,2021,2026,VOYAH_TAISHAN_X8,Taishan X8,Тайшан Х8,F,2026,2026
 VUHL,VUHL,Вухл,0,Мексика,2013,2020,VUHL_05,05,05,S,2013,2020
 WANDERER,Wanderer,Вандерер,0,Германия,1933,1941,WANDERER_W22,W22,ДаблЮ22,C,1933,1938
 WANDERER,Wanderer,Вандерер,0,Германия,1933,1941,WANDERER_W23,W23,в23,F,1936,1941

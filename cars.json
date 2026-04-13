@@ -2196,6 +2196,16 @@
         "updated_at": "2025-07-26 16:51:00"
       },
       {
+        "id": "AUDI_60",
+        "mark_id": "AUDI",
+        "name": "60",
+        "cyrillic_name": "60",
+        "year_from": 1969,
+        "year_to": 1973,
+        "class": "D",
+        "updated_at": "2026-04-08 07:37:02"
+      },
+      {
         "id": "AUDI_80",
         "mark_id": "AUDI",
         "name": "80",
@@ -4444,6 +4454,29 @@
         "year_to": 1988,
         "class": "S",
         "updated_at": "2025-07-26 16:51:00"
+      }
+    ]
+  },
+  {
+    "id": "BIZZARRINI",
+    "name": "Bizzarrini",
+    "cyrillic_name": "Биззарини",
+    "numeric_id": 21029376,
+    "year_from": 1964,
+    "year_to": 1968,
+    "popular": 0,
+    "country": "Италия",
+    "updated_at": "2026-04-08 07:37:02",
+    "models": [
+      {
+        "id": "BIZZARRINI_5300_GT",
+        "mark_id": "BIZZARRINI",
+        "name": "5300 GT",
+        "cyrillic_name": "5300 ГТ",
+        "year_from": 1964,
+        "year_to": 1968,
+        "class": "S",
+        "updated_at": "2026-04-08 07:37:02"
       }
     ]
   },
@@ -7507,6 +7540,16 @@
         "updated_at": "2025-07-26 16:51:00"
       },
       {
+        "id": "CHANGAN_G318",
+        "mark_id": "CHANGAN",
+        "name": "Deepal G318",
+        "cyrillic_name": "Дипал Джи318",
+        "year_from": 2024,
+        "year_to": 2026,
+        "class": "D",
+        "updated_at": "2026-04-08 07:37:02"
+      },
+      {
         "id": "CHANGAN_HUNTER",
         "mark_id": "CHANGAN",
         "name": "Hunter",
@@ -7545,6 +7588,26 @@
         "year_to": 2026,
         "class": "F",
         "updated_at": "2025-07-26 16:51:00"
+      },
+      {
+        "id": "CHANGAN_L06",
+        "mark_id": "CHANGAN",
+        "name": "Deepal L06",
+        "cyrillic_name": "Дипал Л06",
+        "year_from": 2025,
+        "year_to": 2026,
+        "class": "C",
+        "updated_at": "2026-04-08 07:37:02"
+      },
+      {
+        "id": "CHANGAN_L07",
+        "mark_id": "CHANGAN",
+        "name": "Deepal L07",
+        "cyrillic_name": "Дипал Л07",
+        "year_from": 2024,
+        "year_to": 2026,
+        "class": "D",
+        "updated_at": "2026-04-08 07:37:02"
       },
       {
         "id": "CHANGAN_LAMORE",
@@ -7635,6 +7698,46 @@
         "year_to": 2026,
         "class": "D",
         "updated_at": "2025-07-26 16:51:00"
+      },
+      {
+        "id": "CHANGAN_S05",
+        "mark_id": "CHANGAN",
+        "name": "Deepal S05",
+        "cyrillic_name": "Дипал С05",
+        "year_from": 2024,
+        "year_to": 2026,
+        "class": "C",
+        "updated_at": "2026-04-08 07:37:02"
+      },
+      {
+        "id": "CHANGAN_S07",
+        "mark_id": "CHANGAN",
+        "name": "Deepal S07 (S7)",
+        "cyrillic_name": "Дипал С07 (С7)",
+        "year_from": 2023,
+        "year_to": 2026,
+        "class": "D",
+        "updated_at": "2026-04-08 07:37:02"
+      },
+      {
+        "id": "CHANGAN_S09",
+        "mark_id": "CHANGAN",
+        "name": "Deepal S09",
+        "cyrillic_name": "Дипал С09",
+        "year_from": 2024,
+        "year_to": 2026,
+        "class": "E",
+        "updated_at": "2026-04-08 07:37:02"
+      },
+      {
+        "id": "CHANGAN_SL03",
+        "mark_id": "CHANGAN",
+        "name": "Deepal SL03",
+        "cyrillic_name": "Дипал СЛ03",
+        "year_from": 2022,
+        "year_to": 2026,
+        "class": "D",
+        "updated_at": "2026-04-08 07:37:02"
       },
       {
         "id": "CHANGAN_UNI_K",
@@ -9941,7 +10044,7 @@
         "cyrillic_name": "Пацифика",
         "year_from": 2003,
         "year_to": 2026,
-        "class": "F",
+        "class": "M",
         "updated_at": "2025-07-26 16:51:00"
       },
       {
@@ -12298,80 +12401,9 @@
     "year_from": 2022,
     "year_to": 2026,
     "popular": 0,
-    "country": "Китай",
+    "country": null,
     "updated_at": "2026-02-12 00:53:00",
-    "models": [
-      {
-        "id": "DEEPAL_G318",
-        "mark_id": "DEEPAL",
-        "name": "G318",
-        "cyrillic_name": "Джи318",
-        "year_from": 2024,
-        "year_to": 2026,
-        "class": "D",
-        "updated_at": "2026-02-12 00:53:00"
-      },
-      {
-        "id": "DEEPAL_L06",
-        "mark_id": "DEEPAL",
-        "name": "L06",
-        "cyrillic_name": "Л06",
-        "year_from": 2025,
-        "year_to": 2026,
-        "class": "C",
-        "updated_at": "2026-02-12 00:53:00"
-      },
-      {
-        "id": "DEEPAL_L07",
-        "mark_id": "DEEPAL",
-        "name": "L07",
-        "cyrillic_name": "Л07",
-        "year_from": 2024,
-        "year_to": 2026,
-        "class": "D",
-        "updated_at": "2026-02-12 00:53:00"
-      },
-      {
-        "id": "DEEPAL_S05",
-        "mark_id": "DEEPAL",
-        "name": "S05",
-        "cyrillic_name": "С05",
-        "year_from": 2024,
-        "year_to": 2026,
-        "class": "C",
-        "updated_at": "2026-02-12 00:53:00"
-      },
-      {
-        "id": "DEEPAL_S07",
-        "mark_id": "DEEPAL",
-        "name": "S07 (S7)",
-        "cyrillic_name": "С07 (С7)",
-        "year_from": 2023,
-        "year_to": 2026,
-        "class": "D",
-        "updated_at": "2026-02-12 00:53:00"
-      },
-      {
-        "id": "DEEPAL_S09",
-        "mark_id": "DEEPAL",
-        "name": "S09",
-        "cyrillic_name": "С09",
-        "year_from": 2024,
-        "year_to": 2026,
-        "class": "E",
-        "updated_at": "2026-02-12 00:53:00"
-      },
-      {
-        "id": "DEEPAL_SL03",
-        "mark_id": "DEEPAL",
-        "name": "SL03",
-        "cyrillic_name": "СЛ03",
-        "year_from": 2022,
-        "year_to": 2026,
-        "class": "D",
-        "updated_at": "2026-02-12 00:53:00"
-      }
-    ]
+    "models": []
   },
   {
     "id": "DELAGE",
@@ -13192,7 +13224,7 @@
     "name": "Dongfeng",
     "cyrillic_name": "ДонгФенг",
     "numeric_id": 7081179,
-    "year_from": 2007,
+    "year_from": 2006,
     "year_to": 2026,
     "popular": 0,
     "country": "Китай",
@@ -19318,6 +19350,29 @@
     ]
   },
   {
+    "id": "GUMPERT",
+    "name": "Gumpert",
+    "cyrillic_name": "Гумперт",
+    "numeric_id": 21029397,
+    "year_from": 2005,
+    "year_to": 2012,
+    "popular": 0,
+    "country": "Германия",
+    "updated_at": "2026-04-08 07:37:03",
+    "models": [
+      {
+        "id": "GUMPERT_APOLLO",
+        "mark_id": "GUMPERT",
+        "name": "Apollo",
+        "cyrillic_name": "Аполло",
+        "year_from": 2005,
+        "year_to": 2012,
+        "class": "S",
+        "updated_at": "2026-04-08 07:37:03"
+      }
+    ]
+  },
+  {
     "id": "HAFEI",
     "name": "Hafei",
     "cyrillic_name": "Хафэй",
@@ -21776,7 +21831,7 @@
     "cyrillic_name": "Хадсон",
     "numeric_id": 11592873,
     "year_from": 1916,
-    "year_to": 1939,
+    "year_to": 1957,
     "popular": 0,
     "country": "США",
     "updated_at": "2025-07-26 22:33:37",
@@ -23303,6 +23358,16 @@
         "year_to": 2026,
         "class": "E",
         "updated_at": "2025-07-26 16:51:00"
+      },
+      {
+        "id": "INFINITI_QX65",
+        "mark_id": "INFINITI",
+        "name": "QX65",
+        "cyrillic_name": "Ку Икс 65",
+        "year_from": 2026,
+        "year_to": 2026,
+        "class": "E",
+        "updated_at": "2026-04-08 07:37:03"
       },
       {
         "id": "INFINITI_QX70",
@@ -24851,14 +24916,14 @@
     "updated_at": "2026-02-19 00:01:43",
     "models": [
       {
-        "id": "JELAND_J6",
+        "id": "JELAND_VT6",
         "mark_id": "JELAND",
-        "name": "J6",
-        "cyrillic_name": "Джей 6",
+        "name": "VT6",
+        "cyrillic_name": "ВТ6",
         "year_from": 2026,
         "year_to": 2026,
         "class": "C",
-        "updated_at": "2026-02-19 00:01:43"
+        "updated_at": "2026-04-08 07:37:03"
       }
     ]
   },
@@ -25359,7 +25424,7 @@
         "mark_id": "JMEV",
         "name": "01",
         "cyrillic_name": "01",
-        "year_from": 2023,
+        "year_from": 2025,
         "year_to": 2026,
         "class": "S",
         "updated_at": "2025-07-26 16:51:00"
@@ -25824,6 +25889,16 @@
         "year_to": 2002,
         "class": "E",
         "updated_at": "2025-07-26 16:51:00"
+      },
+      {
+        "id": "KIA_EV2",
+        "mark_id": "KIA",
+        "name": "EV2",
+        "cyrillic_name": "ев2",
+        "year_from": 2026,
+        "year_to": 2026,
+        "class": "B",
+        "updated_at": "2026-04-08 07:37:03"
       },
       {
         "id": "KIA_EV3",
@@ -29664,6 +29739,16 @@
         "updated_at": "2025-07-26 16:51:00"
       },
       {
+        "id": "MASERATI_MOSTRO_ZAGATO",
+        "mark_id": "MASERATI",
+        "name": "Mostro Zagato",
+        "cyrillic_name": "Мостро Загато",
+        "year_from": 2015,
+        "year_to": 2022,
+        "class": "S",
+        "updated_at": "2026-04-08 07:37:03"
+      },
+      {
         "id": "MASERATI_QUATTROPORTE",
         "mark_id": "MASERATI",
         "name": "Quattroporte",
@@ -29927,7 +30012,7 @@
     "cyrillic_name": "Майбах",
     "numeric_id": 3170,
     "year_from": 1936,
-    "year_to": 2012,
+    "year_to": 2013,
     "popular": 0,
     "country": "Германия",
     "updated_at": "2025-07-26 22:33:37",
@@ -36661,7 +36746,7 @@
         "mark_id": "OMODA",
         "name": "S5",
         "cyrillic_name": "С5",
-        "year_from": 2022,
+        "year_from": 2023,
         "year_to": 2025,
         "class": "C",
         "updated_at": "2025-07-26 16:51:00"
@@ -36866,7 +36951,7 @@
         "cyrillic_name": "Дипломат",
         "year_from": 1964,
         "year_to": 1978,
-        "class": "S",
+        "class": "E",
         "updated_at": "2025-07-26 16:51:00"
       },
       {
@@ -38780,7 +38865,7 @@
         "cyrillic_name": "Каталина",
         "year_from": 1959,
         "year_to": 1981,
-        "class": "S",
+        "class": "F",
         "updated_at": "2025-07-26 16:51:00"
       },
       {
@@ -38980,7 +39065,7 @@
         "cyrillic_name": "Темпест",
         "year_from": 1961,
         "year_to": 1991,
-        "class": "S",
+        "class": "E",
         "updated_at": "2025-07-26 16:51:00"
       },
       {
@@ -39075,6 +39160,16 @@
         "year_to": 2026,
         "class": "S",
         "updated_at": "2025-07-26 16:51:00"
+      },
+      {
+        "id": "PORSCHE_911_GT1",
+        "mark_id": "PORSCHE",
+        "name": "911 GT1",
+        "cyrillic_name": "911 ГТ1",
+        "year_from": 1997,
+        "year_to": 1998,
+        "class": "S",
+        "updated_at": "2026-04-08 07:37:03"
       },
       {
         "id": "PORSCHE_911_GT2",
@@ -43456,6 +43551,16 @@
     "updated_at": "2025-07-26 22:33:37",
     "models": [
       {
+        "id": "SOLLERS_SF1",
+        "mark_id": "SOLLERS",
+        "name": "SF1",
+        "cyrillic_name": "СФ1",
+        "year_from": 2025,
+        "year_to": 2026,
+        "class": "M",
+        "updated_at": "2026-04-08 07:37:04"
+      },
+      {
         "id": "SOLLERS_SP7",
         "mark_id": "SOLLERS",
         "name": "SP7",
@@ -43679,7 +43784,7 @@
     "cyrillic_name": "Спайкер",
     "numeric_id": 3375,
     "year_from": 2001,
-    "year_to": 2009,
+    "year_to": 2026,
     "popular": 0,
     "country": "Дания",
     "updated_at": "2025-07-26 22:33:37",
@@ -44026,7 +44131,7 @@
         "cyrillic_name": "Альциона",
         "year_from": 1985,
         "year_to": 1996,
-        "class": "S",
+        "class": "D",
         "updated_at": "2025-07-26 16:51:01"
       },
       {
@@ -44178,6 +44283,16 @@
         "year_to": 2026,
         "class": "D",
         "updated_at": "2025-07-26 16:51:01"
+      },
+      {
+        "id": "SUBARU_GETAWAY",
+        "mark_id": "SUBARU",
+        "name": "Getaway",
+        "cyrillic_name": "Гетэвэй",
+        "year_from": 2026,
+        "year_to": 2026,
+        "class": "E",
+        "updated_at": "2026-04-08 07:37:04"
       },
       {
         "id": "SUBARU_IMPREZA",
@@ -45502,7 +45617,7 @@
         "mark_id": "TATA",
         "name": "Xenon",
         "cyrillic_name": "Ксенон",
-        "year_from": 2007,
+        "year_from": 2006,
         "year_to": 2026,
         "class": "J",
         "updated_at": "2025-07-26 16:51:01"
@@ -51266,6 +51381,16 @@
         "year_to": 2026,
         "class": "F",
         "updated_at": "2025-09-12 12:10:31"
+      },
+      {
+        "id": "VOYAH_TAISHAN_X8",
+        "mark_id": "VOYAH",
+        "name": "Taishan X8",
+        "cyrillic_name": "Тайшан Х8",
+        "year_from": 2026,
+        "year_to": 2026,
+        "class": "F",
+        "updated_at": "2026-04-08 07:37:04"
       }
     ]
   },
