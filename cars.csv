@@ -494,14 +494,14 @@ BUGATTI,Bugatti,Бугатти,0,Франция,1932,2026,BUGATTI_TYPE_55,Type 5
 BUGATTI,Bugatti,Бугатти,0,Франция,1932,2026,BUGATTI_W16_MISTRAL,W16 Mistral,В16 Мистрал,S,2024,2025
 BUICK,Buick,Бьюик,0,США,1936,2026,BUICK_CASCADA,Cascada,Каскада,C,2015,2019
 BUICK,Buick,Бьюик,0,США,1936,2026,BUICK_CENTURY,Century,сенчури,E,1973,2005
-BUICK,Buick,Бьюик,0,США,1936,2026,BUICK_ELECTRA,Electra,Электра,S,1959,1990
+BUICK,Buick,Бьюик,0,США,1936,2026,BUICK_ELECTRA,Electra,Электра,F,1959,1990
 BUICK,Buick,Бьюик,0,США,1936,2026,BUICK_ELECTRA_E4,Electra E4,Электра Е4,D,2023,2025
 BUICK,Buick,Бьюик,0,США,1936,2026,BUICK_ELECTRA_E5,Electra E5,Электра Е5,D,2022,2026
 BUICK,Buick,Бьюик,0,США,1936,2026,BUICK_ELECTRA_E7,Electra E7,Электра Е7,D,2026,2026
 BUICK,Buick,Бьюик,0,США,1936,2026,BUICK_ELECTRA_L7,Electra L7,Электра Л7,E,2025,2026
 BUICK,Buick,Бьюик,0,США,1936,2026,BUICK_ENCLAVE,Enclave,анклав,F,2007,2026
 BUICK,Buick,Бьюик,0,США,1936,2026,BUICK_ENCORE,Encore,Энкор,B,2012,2022
-BUICK,Buick,Бьюик,0,США,1936,2026,BUICK_ENCORE_GX,Encore GX,Энкор ДжиИкс,C,2019,2026
+BUICK,Buick,Бьюик,0,США,1936,2026,BUICK_ENCORE_GX,Encore GX,Энкор ДжиИкс,D,2019,2026
 BUICK,Buick,Бьюик,0,США,1936,2026,BUICK_ENCORE_PLUS,Encore Plus,Энкор Плюс,C,2023,2025
 BUICK,Buick,Бьюик,0,США,1936,2026,BUICK_ENVISION,Envision,энвижн,D,2014,2026
 BUICK,Buick,Бьюик,0,США,1936,2026,BUICK_ENVISTA,Envista,Энвиста,C,2022,2026
@@ -652,6 +652,7 @@ CHANGAN,Changan,Чанган,0,Китай,2006,2026,CHANGAN_A06,Qiyuan A06,Ци�
 CHANGAN,Changan,Чанган,0,Китай,2006,2026,CHANGAN_A07,Qiyuan A07,Циюань А07,E,2023,2026
 CHANGAN,Changan,Чанган,0,Китай,2006,2026,CHANGAN_ALSVIN,Alsvin,Алсвин,B,2018,2026
 CHANGAN,Changan,Чанган,0,Китай,2006,2026,CHANGAN_ALSVIN_V7,Alsvin V7,Алсвин В7,B,2014,2018
+CHANGAN,Changan,Чанган,0,Китай,2006,2026,CHANGAN_AUCHAN_A600,Auchan A600,Ашан А600,M,2015,2022
 CHANGAN,Changan,Чанган,0,Китай,2006,2026,CHANGAN_AUCHAN_A600EV,Auchan A600 EV,Ашан А600 ЕВ,M,2018,2022
 CHANGAN,Changan,Чанган,0,Китай,2006,2026,CHANGAN_AUCHAN_CHANGXNG,Auchan Changxing,Ашан Чансин,M,2019,2022
 CHANGAN,Changan,Чанган,0,Китай,2006,2026,CHANGAN_BENBEN_E_STAR,Benben E-Star,бенбен е-стар,A,2020,2024
@@ -1336,6 +1337,7 @@ FAW,FAW,ФАВ,0,Китай,2005,2026,FAW_VITA,Vita,вита,B,2007,2010
 FAW,FAW,ФАВ,0,Китай,2005,2026,FAW_X80,Besturn X80,Бестёрн Икс80,C,2013,2022
 FERRARI,Ferrari,Феррари,0,Италия,1955,2026,FERRARI_12CILINDRI,12Cilindri,12Цилиндри,S,2024,2026
 FERRARI,Ferrari,Феррари,0,Италия,1955,2026,FERRARI_208_308,208/308,208/308,S,1974,1989
+FERRARI,Ferrari,Феррари,0,Италия,1955,2026,FERRARI_250_GTE_2_2,250 GT/E 2+2,250 ГТЕ 2+2,S,1960,1963
 FERRARI,Ferrari,Феррари,0,Италия,1955,2026,FERRARI_250_GTO,250 GTO,250 гто,S,1962,1964
 FERRARI,Ferrari,Феррари,0,Италия,1955,2026,FERRARI_250_GT_BERLINETTA,250 GT Berlinetta,250 ГТ Берлинетта,S,1955,1959
 FERRARI,Ferrari,Феррари,0,Италия,1955,2026,FERRARI_288_GTO,288 GTO,288 гто,S,1984,1987
@@ -1377,6 +1379,7 @@ FERRARI,Ferrari,Феррари,0,Италия,1955,2026,FERRARI_FF,FF,фф,S,201
 FERRARI,Ferrari,Феррари,0,Италия,1955,2026,FERRARI_FXX_K,FXX K,фхх к,S,2015,2017
 FERRARI,Ferrari,Феррари,0,Италия,1955,2026,FERRARI_GTC4LUSSO,GTC4Lusso,гтц4люссо,S,2016,2020
 FERRARI,Ferrari,Феррари,0,Италия,1955,2026,FERRARI_LAFERRARI,LaFerrari,ЛаФеррари,S,2013,2017
+FERRARI,Ferrari,Феррари,0,Италия,1955,2026,FERRARI_LUCE,Luce,Льюс,E,2026,2026
 FERRARI,Ferrari,Феррари,0,Италия,1955,2026,FERRARI_MONDIAL,Mondial,Мондиаль,S,1980,1993
 FERRARI,Ferrari,Феррари,0,Италия,1955,2026,FERRARI_MONZA_SP,Monza SP,Монза СП,S,2019,2022
 FERRARI,Ferrari,Феррари,0,Италия,1955,2026,FERRARI_PORTOFINO,Portofino,Портофино,S,2017,2023
@@ -1599,7 +1602,7 @@ GAC,GAC,ГАК,0,Китай,2016,2026,GAC_GS8,GS8,ГС8,E,2016,2026
 GAC,GAC,ГАК,0,Китай,2016,2026,GAC_IA5,iA5,иА5,D,2019,2022
 GAC,GAC,ГАК,0,Китай,2016,2026,GAC_M8,M8,М8,M,2023,2026
 GAC,GAC,ГАК,0,Китай,2016,2026,GAC_S7,S7,C7,D,2025,2026
-GAC,GAC,ГАК,0,Китай,2016,2026,GAC_S9,S9,С9,,,
+GAC,GAC,ГАК,0,Китай,2016,2026,GAC_S9,S9,С9,E,,
 GAZ,ГАЗ,ГАЗ,1,Россия,1932,2026,GAZ_12,12 ЗИМ,12 ЗИМ,F,1948,1960
 GAZ,ГАЗ,ГАЗ,1,Россия,1932,2026,GAZ_13,13 «Чайка»,13 «Чайка»,F,1959,1981
 GAZ,ГАЗ,ГАЗ,1,Россия,1932,2026,GAZ_14,14 «Чайка»,14 «Чайка»,F,1977,1989
@@ -2846,7 +2849,7 @@ MERCEDES,Mercedes-Benz,Мерседес-Бенц,1,Германия,1904,2026,ME
 MERCEDES,Mercedes-Benz,Мерседес-Бенц,1,Германия,1904,2026,MERCEDES_300_SLR,300 SLR,300 СЛР,S,1954,1955
 MERCEDES,Mercedes-Benz,Мерседес-Бенц,1,Германия,1904,2026,MERCEDES_AMG_GLC_COUPE,GLC Coupe AMG,глц купе амг,D,2016,2026
 MERCEDES,Mercedes-Benz,Мерседес-Бенц,1,Германия,1904,2026,MERCEDES_AMG_GT,AMG GT,АМГ GT,S,2014,2026
-MERCEDES,Mercedes-Benz,Мерседес-Бенц,1,Германия,1904,2026,MERCEDES_AMG_GT_4_DOOR_COUPE,AMG GT 4-Door Coupe,АМГ ГТ 4-Дверное Купе,,,
+MERCEDES,Mercedes-Benz,Мерседес-Бенц,1,Германия,1904,2026,MERCEDES_AMG_GT_4_DOOR_COUPE,AMG GT 4-Door Coupe,АМГ ГТ 4-Дверное Купе,E,,
 MERCEDES,Mercedes-Benz,Мерседес-Бенц,1,Германия,1904,2026,MERCEDES_AMG_ONE,AMG ONE,АМГ УАН,S,2022,2026
 MERCEDES,Mercedes-Benz,Мерседес-Бенц,1,Германия,1904,2026,MERCEDES_AMG_PURESPEED,AMG PureSpeed,АМГ ПьюрСпид,S,2024,2026
 MERCEDES,Mercedes-Benz,Мерседес-Бенц,1,Германия,1904,2026,MERCEDES_A_KLASSE,A-Класс,А-класс,C,1997,2026
@@ -3619,7 +3622,7 @@ PROTON,Proton,Протон,0,Малайзия,1985,2026,PROTON_INSPIRA,Inspira,�
 PROTON,Proton,Протон,0,Малайзия,1985,2026,PROTON_IRIZ,Iriz,ириз,B,2014,2025
 PROTON,Proton,Протон,0,Малайзия,1985,2026,PROTON_JUARA,Juara,жуара,M,2001,2003
 PROTON,Proton,Протон,0,Малайзия,1985,2026,PROTON_PERDANA,Perdana,пердана,D,1995,2010
-PROTON,Proton,Протон,0,Малайзия,1985,2026,PROTON_PERSONA,Persona,персона,C,1993,2026
+PROTON,Proton,Протон,0,Малайзия,1985,2026,PROTON_PERSONA,Persona,персона,S,1993,2026
 PROTON,Proton,Протон,0,Малайзия,1985,2026,PROTON_PREVE,Preve,преве,C,2011,2020
 PROTON,Proton,Протон,0,Малайзия,1985,2026,PROTON_PUTRA,Putra,путра,S,1996,2004
 PROTON,Proton,Протон,0,Малайзия,1985,2026,PROTON_SAGA,Saga,Сага,B,1985,2025
@@ -3644,7 +3647,7 @@ RADAR,Radar,Радар,0,Китай,2022,2026,RADAR_RD6,RD6,РД6,J,2022,2026
 RADFORD,Radford,Радфорд,0,Великобритания,2022,2026,RADFORD_TYPE_62_2,Type 62-2,Тип 62-2,S,2022,2026
 RAM,Ram,Рам,0,США,2011,2026,RAM_1500,1500,1500,J,2011,2026
 RAM,Ram,Рам,0,США,2011,2026,RAM_DAKOTA,Dakota,Дакота,J,2025,2026
-RAM,Ram,Рам,0,США,2011,2026,RAM_PROMASTER_CITY,ProMaster City,Промастер Сити,M,2014,2026
+RAM,Ram,Рам,0,США,2011,2026,RAM_PROMASTER_CITY,ProMaster City,Промастер Сити,,2014,2026
 RAM,Ram,Рам,0,США,2011,2026,RAM_RAMPAGE,Rampage,Рэмпейдж,J,2023,2026
 RAM,Ram,Рам,0,США,2011,2026,RAM_V_1000,V1000,Ви 1000,M,2022,2023
 RAVON,Ravon,Равон,0,Узбекистан,2015,2020,RAVON_GENTRA,Gentra,Джентра,C,2015,2018
@@ -3912,6 +3915,7 @@ SKODA,Skoda,Шкода,1,Чехия,1934,2026,SKODA_ENYAQ,Enyaq,Эниак,D,202
 SKODA,Skoda,Шкода,1,Чехия,1934,2026,SKODA_ENYAQ_COUPE,Enyaq Coupe,Эниак Купе,D,2022,2026
 SKODA,Skoda,Шкода,1,Чехия,1934,2026,SKODA_ENYAQ_COUPE_RS,Enyaq Coupe RS,Эниак Купе РС,D,2022,2026
 SKODA,Skoda,Шкода,1,Чехия,1934,2026,SKODA_ENYAQ_RS,Enyaq RS,Эниак РС,D,2022,2026
+SKODA,Skoda,Шкода,1,Чехия,1934,2026,SKODA_EPIQ,Epiq,Эпик,B,2026,2026
 SKODA,Skoda,Шкода,1,Чехия,1934,2026,SKODA_FABIA,Fabia,Фабия,B,1999,2026
 SKODA,Skoda,Шкода,1,Чехия,1934,2026,SKODA_FABIA_RS,Fabia RS,Фабия РС,B,2003,2014
 SKODA,Skoda,Шкода,1,Чехия,1934,2026,SKODA_FAVORIT,Favorit,Фаворит,B,1989,2000
@@ -3998,7 +4002,7 @@ STEYR,Steyr,Штайр,0,Австрия,1941,1974,STEYR_HAFLINGER,Haflinger,Ха
 STUDEBAKER,Studebaker,Студебейкер,0,США,1956,1958,STUDEBAKER_GOLDEN_HAWK,Golden Hawk,Голден Хоук,E,1956,1958
 SUBARU,Subaru,Субару,1,Япония,1958,2026,SUBARU_1000,1000,1000,B,1965,1969
 SUBARU,Subaru,Субару,1,Япония,1958,2026,SUBARU_360,360,360,A,1958,1971
-SUBARU,Subaru,Субару,1,Япония,1958,2026,SUBARU_ALCYONE,Alcyone,Альциона,S,1985,1996
+SUBARU,Subaru,Субару,1,Япония,1958,2026,SUBARU_ALCYONE,Alcyone,Альциона,D,1985,1996
 SUBARU,Subaru,Субару,1,Япония,1958,2026,SUBARU_ASCENT,Ascent,асцент,E,2017,2026
 SUBARU,Subaru,Субару,1,Япония,1958,2026,SUBARU_B9_TRIBECA,Tribeca,Трибека,E,2004,2014
 SUBARU,Subaru,Субару,1,Япония,1958,2026,SUBARU_BAJA,Baja,Байя,D,2002,2006
@@ -4145,7 +4149,7 @@ TATRA,Tatra,Татра,0,Чехия,1931,1999,TATRA_77,77,77,,1934,1938
 TATRA,Tatra,Татра,0,Чехия,1931,1999,TATRA_80,80,80,,1931,1935
 TATRA,Tatra,Татра,0,Чехия,1931,1999,TATRA_87,87,87,,1936,1950
 TATRA,Tatra,Татра,0,Чехия,1931,1999,TATRA_T600,T600,т600,D,1946,1952
-TATRA,Tatra,Татра,0,Чехия,1931,1999,TATRA_T603,T603,т603,F,1956,1975
+TATRA,Tatra,Татра,0,Чехия,1931,1999,TATRA_T603,T603,т603,,1956,1975
 TATRA,Tatra,Татра,0,Чехия,1931,1999,TATRA_T613,T613,т613,E,1973,1996
 TATRA,Tatra,Татра,0,Чехия,1931,1999,TATRA_T700,T700,т700,E,1996,1999
 TAZZARI,Tazzari,Таззари,0,Италия,2009,2016,TAZZARI_ZERO,Zero,зеро,A,2009,2016
@@ -4384,6 +4388,7 @@ TRUMPCHI,GAC Trumpchi,Трампчи,0,Китай,2011,2026,TRUMPCHI_E9,E9,Е9,M
 TRUMPCHI,GAC Trumpchi,Трампчи,0,Китай,2011,2026,TRUMPCHI_EMKOO,Emkoo,Эмку,D,2022,2026
 TRUMPCHI,GAC Trumpchi,Трампчи,0,Китай,2011,2026,TRUMPCHI_EMPOW,Empow,Эмпау,C,2021,2026
 TRUMPCHI,GAC Trumpchi,Трампчи,0,Китай,2011,2026,TRUMPCHI_ES9,ES9,ЕС9,E,2023,2026
+TRUMPCHI,GAC Trumpchi,Трампчи,0,Китай,2011,2026,TRUMPCHI_GA4,GA4,ГА4,D,2018,2021
 TRUMPCHI,GAC Trumpchi,Трампчи,0,Китай,2011,2026,TRUMPCHI_GA4_PLUS,GA4 Plus,ГА4 Плюс,C,2021,2022
 TRUMPCHI,GAC Trumpchi,Трампчи,0,Китай,2011,2026,TRUMPCHI_GA6,GA6,ГА6,D,2019,2023
 TRUMPCHI,GAC Trumpchi,Трампчи,0,Китай,2011,2026,TRUMPCHI_GA8,GA8,ГА8,E,2020,2023
@@ -4730,6 +4735,7 @@ WULING,Wuling,Вулинг,0,Китай,2012,2026,WULING_NEBULA,Nebula,Небу�
 WULING,Wuling,Вулинг,0,Китай,2012,2026,WULING_STARLIGHT,Starlight,Старлайт,D,2023,2026
 WULING,Wuling,Вулинг,0,Китай,2012,2026,WULING_STARLIGHT_560,Starlight 560,Старлайт 560,D,2026,2026
 WULING,Wuling,Вулинг,0,Китай,2012,2026,WULING_STARLIGHT_730,Starlight 730,Старлайт 730,M,2025,2026
+WULING,Wuling,Вулинг,0,Китай,2012,2026,WULING_STARLIGHT_L,Starlight L,Старлайт Л,D,2026,2026
 WULING,Wuling,Вулинг,0,Китай,2012,2026,WULING_STARLIGHT_S,Starlight S,Старлайт С,D,2024,2026
 WULING,Wuling,Вулинг,0,Китай,2012,2026,WULING_STAR_ASTA,Star Asta,Стар Аста,C,2021,2026
 WULING,Wuling,Вулинг,0,Китай,2012,2026,WULING_SUNSHINE,Sunshine,Саншайн,M,2012,2022

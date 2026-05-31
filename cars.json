@@ -5682,7 +5682,7 @@
         "cyrillic_name": "Электра",
         "year_from": 1959,
         "year_to": 1990,
-        "class": "S",
+        "class": "F",
         "updated_at": "2025-07-26 16:51:00"
       },
       {
@@ -5752,7 +5752,7 @@
         "cyrillic_name": "Энкор ДжиИкс",
         "year_from": 2019,
         "year_to": 2026,
-        "class": "C",
+        "class": "D",
         "updated_at": "2025-07-26 16:51:00"
       },
       {
@@ -7358,6 +7358,16 @@
         "year_to": 2018,
         "class": "B",
         "updated_at": "2025-07-26 16:51:00"
+      },
+      {
+        "id": "CHANGAN_AUCHAN_A600",
+        "mark_id": "CHANGAN",
+        "name": "Auchan A600",
+        "cyrillic_name": "Ашан А600",
+        "year_from": 2015,
+        "year_to": 2022,
+        "class": "M",
+        "updated_at": "2026-05-27 08:08:32"
       },
       {
         "id": "CHANGAN_AUCHAN_A600EV",
@@ -14875,6 +14885,16 @@
         "updated_at": "2025-07-26 16:51:00"
       },
       {
+        "id": "FERRARI_250_GTE_2_2",
+        "mark_id": "FERRARI",
+        "name": "250 GT/E 2+2",
+        "cyrillic_name": "250 ГТЕ 2+2",
+        "year_from": 1960,
+        "year_to": 1963,
+        "class": "S",
+        "updated_at": "2026-05-27 08:08:32"
+      },
+      {
         "id": "FERRARI_250_GTO",
         "mark_id": "FERRARI",
         "name": "250 GTO",
@@ -15283,6 +15303,16 @@
         "year_to": 2017,
         "class": "S",
         "updated_at": "2025-07-26 16:51:00"
+      },
+      {
+        "id": "FERRARI_LUCE",
+        "mark_id": "FERRARI",
+        "name": "Luce",
+        "cyrillic_name": "Льюс",
+        "year_from": 2026,
+        "year_to": 2026,
+        "class": "E",
+        "updated_at": "2026-05-27 08:08:32"
       },
       {
         "id": "FERRARI_MONDIAL",
@@ -17654,7 +17684,7 @@
         "cyrillic_name": "С9",
         "year_from": null,
         "year_to": null,
-        "class": null,
+        "class": "E",
         "updated_at": "2026-05-20 19:45:14"
       }
     ]
@@ -31632,7 +31662,7 @@
         "cyrillic_name": "АМГ ГТ 4-Дверное Купе",
         "year_from": null,
         "year_to": null,
-        "class": null,
+        "class": "E",
         "updated_at": "2026-05-20 19:45:14"
       },
       {
@@ -39986,7 +40016,7 @@
         "cyrillic_name": "персона",
         "year_from": 1993,
         "year_to": 2026,
-        "class": "C",
+        "class": "S",
         "updated_at": "2025-07-26 16:51:01"
       },
       {
@@ -40366,7 +40396,7 @@
         "cyrillic_name": "Промастер Сити",
         "year_from": 2014,
         "year_to": 2026,
-        "class": "M",
+        "class": null,
         "updated_at": "2025-07-26 16:51:01"
       },
       {
@@ -43495,6 +43525,16 @@
         "updated_at": "2025-07-26 16:51:01"
       },
       {
+        "id": "SKODA_EPIQ",
+        "mark_id": "SKODA",
+        "name": "Epiq",
+        "cyrillic_name": "Эпик",
+        "year_from": 2026,
+        "year_to": 2026,
+        "class": "B",
+        "updated_at": "2026-05-27 08:08:33"
+      },
+      {
         "id": "SKODA_FABIA",
         "mark_id": "SKODA",
         "name": "Fabia",
@@ -44556,7 +44596,7 @@
         "cyrillic_name": "Альциона",
         "year_from": 1985,
         "year_to": 1996,
-        "class": "S",
+        "class": "D",
         "updated_at": "2025-07-26 16:51:01"
       },
       {
@@ -46117,7 +46157,7 @@
         "cyrillic_name": "т603",
         "year_from": 1956,
         "year_to": 1975,
-        "class": "F",
+        "class": null,
         "updated_at": "2025-07-26 16:51:01"
       },
       {
@@ -48668,6 +48708,16 @@
         "year_to": 2026,
         "class": "E",
         "updated_at": "2025-07-26 16:51:00"
+      },
+      {
+        "id": "TRUMPCHI_GA4",
+        "mark_id": "TRUMPCHI",
+        "name": "GA4",
+        "cyrillic_name": "ГА4",
+        "year_from": 2018,
+        "year_to": 2021,
+        "class": "D",
+        "updated_at": "2026-05-27 08:08:32"
       },
       {
         "id": "TRUMPCHI_GA4_PLUS",
@@ -52453,6 +52503,16 @@
         "year_to": 2026,
         "class": "M",
         "updated_at": "2025-11-30 21:16:02"
+      },
+      {
+        "id": "WULING_STARLIGHT_L",
+        "mark_id": "WULING",
+        "name": "Starlight L",
+        "cyrillic_name": "Старлайт Л",
+        "year_from": 2026,
+        "year_to": 2026,
+        "class": "D",
+        "updated_at": "2026-05-27 08:08:33"
       },
       {
         "id": "WULING_STARLIGHT_S",
