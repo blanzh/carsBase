@@ -641,6 +641,29 @@
     ]
   },
   {
+    "id": "AISTALAND",
+    "name": "Aistaland",
+    "cyrillic_name": "Аисталэнд",
+    "numeric_id": 21136782,
+    "year_from": 2026,
+    "year_to": 2026,
+    "popular": 0,
+    "country": "Китай",
+    "updated_at": "2026-06-07 09:51:18",
+    "models": [
+      {
+        "id": "AISTALAND_GT7",
+        "mark_id": "AISTALAND",
+        "name": "GT7",
+        "cyrillic_name": "ГТ7",
+        "year_from": 2026,
+        "year_to": 2026,
+        "class": "E",
+        "updated_at": "2026-06-07 09:51:18"
+      }
+    ]
+  },
+  {
     "id": "AITO",
     "name": "Aito",
     "cyrillic_name": "Аито",
@@ -2496,6 +2519,16 @@
         "updated_at": "2025-07-26 16:51:00"
       },
       {
+        "id": "AUDI_NUVOLARI",
+        "mark_id": "AUDI",
+        "name": "Nuvolari",
+        "cyrillic_name": "Нуволари",
+        "year_from": 2026,
+        "year_to": 2026,
+        "class": "S",
+        "updated_at": "2026-06-14 19:15:48"
+      },
+      {
         "id": "AUDI_Q2",
         "mark_id": "AUDI",
         "name": "Q2",
@@ -3548,6 +3581,16 @@
         "year_to": 2026,
         "class": "D",
         "updated_at": "2025-07-26 16:51:00"
+      },
+      {
+        "id": "BAIC_EU8",
+        "mark_id": "BAIC",
+        "name": "EU8",
+        "cyrillic_name": "ЕУ8",
+        "year_from": 2026,
+        "year_to": 2026,
+        "class": "D",
+        "updated_at": "2026-06-07 09:51:16"
       },
       {
         "id": "BAIC_EX3",
@@ -5281,6 +5324,16 @@
         "updated_at": "2025-07-26 16:51:00"
       },
       {
+        "id": "BRABUS_BODO",
+        "mark_id": "BRABUS",
+        "name": "Bodo",
+        "cyrillic_name": "Бодо",
+        "year_from": 2026,
+        "year_to": 2026,
+        "class": "S",
+        "updated_at": "2026-06-01 19:52:02"
+      },
+      {
         "id": "BRABUS_CRAWLER",
         "mark_id": "BRABUS",
         "name": "Crawler",
@@ -5682,7 +5735,7 @@
         "cyrillic_name": "Электра",
         "year_from": 1959,
         "year_to": 1990,
-        "class": "F",
+        "class": "S",
         "updated_at": "2025-07-26 16:51:00"
       },
       {
@@ -14341,6 +14394,26 @@
     "updated_at": "2026-05-05 08:13:50",
     "models": [
       {
+        "id": "ESTEO_EXLANTIX_ES",
+        "mark_id": "ESTEO",
+        "name": "Exlantix ES",
+        "cyrillic_name": "Экслантикс ЕС",
+        "year_from": 2025,
+        "year_to": 2026,
+        "class": "E",
+        "updated_at": "2026-06-01 19:52:02"
+      },
+      {
+        "id": "ESTEO_EXLANTIX_ET",
+        "mark_id": "ESTEO",
+        "name": "Exlantix ET",
+        "cyrillic_name": "Экслантикс ЕТ",
+        "year_from": 2025,
+        "year_to": 2026,
+        "class": "E",
+        "updated_at": "2026-06-01 19:52:02"
+      },
+      {
         "id": "ESTEO_MX",
         "mark_id": "ESTEO",
         "name": "MX",
@@ -14357,7 +14430,7 @@
         "cyrillic_name": "ЭрИкс",
         "year_from": 2026,
         "year_to": 2026,
-        "class": "D",
+        "class": null,
         "updated_at": "2026-05-05 08:13:50"
       }
     ]
@@ -17371,6 +17444,16 @@
         "year_to": 2018,
         "class": "J",
         "updated_at": "2025-07-26 16:51:00"
+      },
+      {
+        "id": "FOTON_TUNLAND_F9",
+        "mark_id": "FOTON",
+        "name": "Tunland F9",
+        "cyrillic_name": "Тунланд Ф9",
+        "year_from": 2022,
+        "year_to": 2026,
+        "class": "J",
+        "updated_at": "2026-06-07 09:51:17"
       },
       {
         "id": "FOTON_TUNLAND_G7",
@@ -27394,7 +27477,7 @@
         "cyrillic_name": "Гамма",
         "year_from": 1976,
         "year_to": 1984,
-        "class": "D",
+        "class": "C",
         "updated_at": "2025-07-26 16:51:00"
       },
       {
@@ -27843,7 +27926,7 @@
         "cyrillic_name": "С10",
         "year_from": 2023,
         "year_to": 2026,
-        "class": "D",
+        "class": null,
         "updated_at": "2025-07-26 16:51:00"
       },
       {
@@ -41398,6 +41481,16 @@
         "updated_at": "2025-07-26 16:51:01"
       },
       {
+        "id": "REZVANI_FORTRESS",
+        "mark_id": "REZVANI",
+        "name": "Fortress",
+        "cyrillic_name": "Фортрис",
+        "year_from": 2026,
+        "year_to": 2026,
+        "class": "J",
+        "updated_at": "2026-06-07 09:51:18"
+      },
+      {
         "id": "REZVANI_TANK",
         "mark_id": "REZVANI",
         "name": "Tank",
@@ -43190,6 +43283,16 @@
     "updated_at": "2026-05-20 19:45:15",
     "models": [
       {
+        "id": "SENAT_1000",
+        "mark_id": "SENAT",
+        "name": "1000",
+        "cyrillic_name": "1000",
+        "year_from": 2026,
+        "year_to": 2026,
+        "class": "F",
+        "updated_at": "2026-06-14 19:15:49"
+      },
+      {
         "id": "SENAT_900",
         "mark_id": "SENAT",
         "name": "900",
@@ -43390,6 +43493,29 @@
         "year_to": 1979,
         "class": "D",
         "updated_at": "2025-07-26 16:51:01"
+      }
+    ]
+  },
+  {
+    "id": "SKM",
+    "name": "SKM",
+    "cyrillic_name": "СКМ",
+    "numeric_id": 21138150,
+    "year_from": 2026,
+    "year_to": 2026,
+    "popular": 0,
+    "country": "Россия",
+    "updated_at": "2026-06-14 19:15:49",
+    "models": [
+      {
+        "id": "SKM_M7",
+        "mark_id": "SKM",
+        "name": "M7",
+        "cyrillic_name": "м7",
+        "year_from": 2026,
+        "year_to": 2026,
+        "class": "M",
+        "updated_at": "2026-06-14 19:15:49"
       }
     ]
   },
@@ -46157,7 +46283,7 @@
         "cyrillic_name": "т603",
         "year_from": 1956,
         "year_to": 1975,
-        "class": null,
+        "class": "F",
         "updated_at": "2025-07-26 16:51:01"
       },
       {
@@ -49250,6 +49376,16 @@
         "year_to": 2026,
         "class": "C",
         "updated_at": "2026-02-12 00:53:02"
+      },
+      {
+        "id": "UMO_8",
+        "mark_id": "UMO",
+        "name": "8",
+        "cyrillic_name": "8",
+        "year_from": 2026,
+        "year_to": 2026,
+        "class": "D",
+        "updated_at": "2026-06-14 19:15:49"
       }
     ]
   },
@@ -52375,6 +52511,16 @@
         "updated_at": "2025-07-26 16:51:01"
       },
       {
+        "id": "WULING_BINGUO_PRO",
+        "mark_id": "WULING",
+        "name": "Binguo Pro",
+        "cyrillic_name": "Бингуо про",
+        "year_from": 2026,
+        "year_to": 2026,
+        "class": "B",
+        "updated_at": "2026-06-01 19:52:04"
+      },
+      {
         "id": "WULING_BINGUO_S",
         "mark_id": "WULING",
         "name": "Binguo S",
@@ -52970,6 +53116,16 @@
         "year_to": 2026,
         "class": "E",
         "updated_at": "2025-07-26 16:51:01"
+      },
+      {
+        "id": "YIPAI_M8",
+        "mark_id": "YIPAI",
+        "name": "M8",
+        "cyrillic_name": "М8",
+        "year_from": 2026,
+        "year_to": 2026,
+        "class": "E",
+        "updated_at": "2026-06-07 09:51:18"
       },
       {
         "id": "YIPAI_NAMMI_01",
