@@ -1776,7 +1776,7 @@
         "name": "Atom",
         "cyrillic_name": "Атом",
         "year_from": 2000,
-        "year_to": 2026,
+        "year_to": 2013,
         "class": "S",
         "updated_at": "2025-07-26 16:51:00"
       },
@@ -3887,7 +3887,7 @@
         "name": "E200",
         "cyrillic_name": "е200",
         "year_from": 2018,
-        "year_to": 2026,
+        "year_to": 2022,
         "class": "A",
         "updated_at": "2026-02-19 00:01:42"
       },
@@ -6452,6 +6452,16 @@
         "updated_at": "2026-03-12 07:51:24"
       },
       {
+        "id": "BYD_QIN_PLUS",
+        "mark_id": "BYD",
+        "name": "Qin Plus",
+        "cyrillic_name": "Кин Плюс",
+        "year_from": 2020,
+        "year_to": 2026,
+        "class": "C",
+        "updated_at": "2026-07-16 11:50:16"
+      },
+      {
         "id": "BYD_RACCO",
         "mark_id": "BYD",
         "name": "Racco",
@@ -7885,8 +7895,8 @@
       {
         "id": "CHANGAN_S07",
         "mark_id": "CHANGAN",
-        "name": "Deepal S07 (S7)",
-        "cyrillic_name": "Дипал С07 (С7)",
+        "name": "Deepal S07",
+        "cyrillic_name": "Дипал С07",
         "year_from": 2023,
         "year_to": 2026,
         "class": "D",
@@ -8841,7 +8851,7 @@
         "cyrillic_name": "ЕТ8",
         "year_from": 2025,
         "year_to": 2026,
-        "class": "J",
+        "class": null,
         "updated_at": "2025-10-28 10:54:05"
       },
       {
@@ -13800,7 +13810,7 @@
         "cyrillic_name": "Намми 06",
         "year_from": 2025,
         "year_to": 2026,
-        "class": null,
+        "class": "B",
         "updated_at": "2025-07-26 16:51:00"
       },
       {
@@ -14467,6 +14477,16 @@
         "updated_at": "2026-06-01 19:52:02"
       },
       {
+        "id": "ESTEO_EXLANTIX_ET8",
+        "mark_id": "ESTEO",
+        "name": "Exlantix ET8",
+        "cyrillic_name": "Экслантикс ЕТ8",
+        "year_from": 2026,
+        "year_to": 2026,
+        "class": "J",
+        "updated_at": "2026-07-09 02:16:43"
+      },
+      {
         "id": "ESTEO_MX",
         "mark_id": "ESTEO",
         "name": "MX",
@@ -14475,6 +14495,16 @@
         "year_to": 2026,
         "class": "D",
         "updated_at": "2026-05-05 08:13:50"
+      },
+      {
+        "id": "ESTEO_V_27",
+        "mark_id": "ESTEO",
+        "name": "V27",
+        "cyrillic_name": "В27",
+        "year_from": 2026,
+        "year_to": 2026,
+        "class": null,
+        "updated_at": "2026-07-09 02:16:43"
       }
     ]
   },
@@ -14744,7 +14774,7 @@
         "cyrillic_name": "Бестюн юи 08",
         "year_from": 2026,
         "year_to": 2026,
-        "class": null,
+        "class": "E",
         "updated_at": "2026-05-20 19:45:14"
       },
       {
@@ -26463,6 +26493,16 @@
         "updated_at": "2025-07-26 16:51:00"
       },
       {
+        "id": "KIA_K2",
+        "mark_id": "KIA",
+        "name": "K2",
+        "cyrillic_name": "к2",
+        "year_from": 2016,
+        "year_to": 2020,
+        "class": "B",
+        "updated_at": "2026-07-09 02:16:43"
+      },
+      {
         "id": "KIA_K3",
         "mark_id": "KIA",
         "name": "K3",
@@ -26571,6 +26611,16 @@
         "year_to": 2021,
         "class": "D",
         "updated_at": "2025-07-26 16:51:00"
+      },
+      {
+        "id": "KIA_KX_CROSS",
+        "mark_id": "KIA",
+        "name": "KX Cross",
+        "cyrillic_name": "KХ Кросс",
+        "year_from": 2017,
+        "year_to": 2020,
+        "class": "B",
+        "updated_at": "2026-07-09 02:16:43"
       },
       {
         "id": "KIA_LOTZE",
@@ -30443,7 +30493,7 @@
         "cyrillic_name": "Джи50 Макс",
         "year_from": 2025,
         "year_to": 2026,
-        "class": "M",
+        "class": null,
         "updated_at": "2025-07-26 16:51:00"
       },
       {
@@ -37576,7 +37626,7 @@
         "cyrillic_name": "Дипломат",
         "year_from": 1964,
         "year_to": 1978,
-        "class": "E",
+        "class": "S",
         "updated_at": "2025-07-26 16:51:00"
       },
       {
@@ -37928,7 +37978,7 @@
         "name": "03",
         "cyrillic_name": "03",
         "year_from": 2023,
-        "year_to": 2026,
+        "year_to": 2025,
         "class": "B",
         "updated_at": "2025-07-26 16:51:00"
       },
@@ -39734,6 +39784,16 @@
         "updated_at": "2025-07-26 16:51:00"
       },
       {
+        "id": "PONTIAC_VENTURA",
+        "mark_id": "PONTIAC",
+        "name": "Ventura",
+        "cyrillic_name": "Вентура",
+        "year_from": 1960,
+        "year_to": 1977,
+        "class": "F",
+        "updated_at": "2026-07-09 02:16:44"
+      },
+      {
         "id": "PONTIAC_VIBE",
         "mark_id": "PONTIAC",
         "name": "Vibe",
@@ -40252,7 +40312,7 @@
         "cyrillic_name": "персона",
         "year_from": 1993,
         "year_to": 2026,
-        "class": "C",
+        "class": "S",
         "updated_at": "2025-07-26 16:51:01"
       },
       {
@@ -44905,7 +44965,7 @@
         "cyrillic_name": "Альциона",
         "year_from": 1985,
         "year_to": 1996,
-        "class": "D",
+        "class": "S",
         "updated_at": "2025-07-26 16:51:01"
       },
       {
@@ -46526,6 +46586,16 @@
     "updated_at": "2025-07-26 22:33:37",
     "models": [
       {
+        "id": "TENET_A8",
+        "mark_id": "TENET",
+        "name": "A8",
+        "cyrillic_name": "А8",
+        "year_from": 2026,
+        "year_to": 2026,
+        "class": "D",
+        "updated_at": "2026-07-10 16:17:19"
+      },
+      {
         "id": "TENET_T4",
         "mark_id": "TENET",
         "name": "T4",
@@ -46578,6 +46648,16 @@
     "country": "Россия",
     "updated_at": "2026-06-20 08:56:52",
     "models": [
+      {
+        "id": "TENET_PLUS_L4",
+        "mark_id": "TENET_PLUS",
+        "name": "L4",
+        "cyrillic_name": "Л4",
+        "year_from": 2026,
+        "year_to": 2026,
+        "class": "C",
+        "updated_at": "2026-07-10 16:17:19"
+      },
       {
         "id": "TENET_PLUS_L6",
         "mark_id": "TENET_PLUS",
