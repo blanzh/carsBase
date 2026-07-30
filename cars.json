@@ -2689,6 +2689,16 @@
         "updated_at": "2025-07-26 16:51:00"
       },
       {
+        "id": "AUDI_Q9",
+        "mark_id": "AUDI",
+        "name": "Q9",
+        "cyrillic_name": "Ку9",
+        "year_from": 2026,
+        "year_to": 2026,
+        "class": "F",
+        "updated_at": "2026-07-29 22:43:19"
+      },
+      {
         "id": "AUDI_QUATTRO",
         "mark_id": "AUDI",
         "name": "Quattro",
@@ -3671,6 +3681,16 @@
         "year_to": 2026,
         "class": "C",
         "updated_at": "2025-07-26 16:51:00"
+      },
+      {
+        "id": "BAIC_TAITAN_700",
+        "mark_id": "BAIC",
+        "name": "Taitan 700",
+        "cyrillic_name": "Тайтан 700",
+        "year_from": 2026,
+        "year_to": 2026,
+        "class": "D",
+        "updated_at": "2026-07-29 13:22:08"
       },
       {
         "id": "BAIC_U5",
@@ -6152,6 +6172,16 @@
         "updated_at": "2025-07-26 16:51:00"
       },
       {
+        "id": "BYD_DAHAN",
+        "mark_id": "BYD",
+        "name": "Dahan",
+        "cyrillic_name": "Дахан",
+        "year_from": null,
+        "year_to": null,
+        "class": "F",
+        "updated_at": "2026-07-29 13:22:08"
+      },
+      {
         "id": "BYD_DATANG",
         "mark_id": "BYD",
         "name": "Datang",
@@ -6312,6 +6342,16 @@
         "updated_at": "2025-07-26 16:51:00"
       },
       {
+        "id": "BYD_FANGCHENGBAO_FORMULA_S",
+        "mark_id": "BYD",
+        "name": "FangChengBao Formula S",
+        "cyrillic_name": "ФенгЧенгбао Формула С",
+        "year_from": 2026,
+        "year_to": 2026,
+        "class": "D",
+        "updated_at": "2026-07-29 13:22:08"
+      },
+      {
         "id": "BYD_FANGCHENGBAO_LEOPARD_5",
         "mark_id": "BYD",
         "name": "FangChengBao Leopard 5",
@@ -6440,6 +6480,16 @@
         "year_to": 2026,
         "class": "C",
         "updated_at": "2025-07-26 16:51:00"
+      },
+      {
+        "id": "BYD_QIN_L",
+        "mark_id": "BYD",
+        "name": "Qin L",
+        "cyrillic_name": "Кин Эль",
+        "year_from": 2024,
+        "year_to": 2026,
+        "class": null,
+        "updated_at": "2026-07-29 13:22:08"
       },
       {
         "id": "BYD_QIN_MAX",
@@ -8330,6 +8380,16 @@
         "year_to": 2026,
         "class": "D",
         "updated_at": "2025-07-26 16:51:00"
+      },
+      {
+        "id": "CHERY_FULWIN_A9",
+        "mark_id": "CHERY",
+        "name": "Fulwin A9",
+        "cyrillic_name": "Фулвин А9",
+        "year_from": 2026,
+        "year_to": 2026,
+        "class": "D",
+        "updated_at": "2026-07-29 13:22:09"
       },
       {
         "id": "CHERY_FULWIN_A9L",
@@ -10713,7 +10773,7 @@
         "cyrillic_name": "дс",
         "year_from": 1955,
         "year_to": 1976,
-        "class": "E",
+        "class": "S",
         "updated_at": "2025-07-26 16:51:00"
       },
       {
@@ -12746,6 +12806,16 @@
         "updated_at": "2025-07-26 16:51:00"
       },
       {
+        "id": "DENZA_Z",
+        "mark_id": "DENZA",
+        "name": "Z",
+        "cyrillic_name": "Зет",
+        "year_from": 2026,
+        "year_to": 2026,
+        "class": "S",
+        "updated_at": "2026-07-29 13:22:09"
+      },
+      {
         "id": "DENZA_Z9",
         "mark_id": "DENZA",
         "name": "Z9",
@@ -12986,6 +13056,16 @@
         "year_to": 1955,
         "class": "C",
         "updated_at": "2025-07-26 16:51:00"
+      },
+      {
+        "id": "DKW_F7",
+        "mark_id": "DKW",
+        "name": "F7",
+        "cyrillic_name": "Ф7",
+        "year_from": 1936,
+        "year_to": 1939,
+        "class": "C",
+        "updated_at": "2026-07-29 13:22:09"
       }
     ]
   },
@@ -13922,6 +14002,16 @@
         "year_to": 2026,
         "class": "C",
         "updated_at": "2025-07-26 16:51:00"
+      },
+      {
+        "id": "DONGFENG_YOUNG_GUANG_XIAOXIN",
+        "mark_id": "DONGFENG",
+        "name": "Young Guang Xiaoxin",
+        "cyrillic_name": "Йан Гуан Сяосинь",
+        "year_from": 2021,
+        "year_to": 2023,
+        "class": "B",
+        "updated_at": "2026-07-29 13:22:09"
       },
       {
         "id": "DONGFENG_Z9",
@@ -17754,6 +17844,16 @@
         "updated_at": "2026-03-16 10:09:05"
       },
       {
+        "id": "GAC_EA6",
+        "mark_id": "GAC",
+        "name": "EA6",
+        "cyrillic_name": "ЕА6",
+        "year_from": 2021,
+        "year_to": 2026,
+        "class": "D",
+        "updated_at": "2026-07-29 13:22:09"
+      },
+      {
         "id": "GAC_EMPOW",
         "mark_id": "GAC",
         "name": "Empow",
@@ -18488,6 +18588,16 @@
         "year_to": 2026,
         "class": "E",
         "updated_at": "2025-07-26 16:51:00"
+      },
+      {
+        "id": "GEELY_GALAXY_CRUISER_700",
+        "mark_id": "GEELY",
+        "name": "Galaxy Cruiser 700",
+        "cyrillic_name": "Гэлэкси Крузер 700",
+        "year_from": 2026,
+        "year_to": 2026,
+        "class": "J",
+        "updated_at": "2026-07-29 13:22:09"
       },
       {
         "id": "GEELY_GALAXY_E5",
@@ -20913,6 +21023,16 @@
         "year_to": 2018,
         "class": "A",
         "updated_at": "2025-07-26 16:51:00"
+      },
+      {
+        "id": "HONDA_BR_V",
+        "mark_id": "HONDA",
+        "name": "BR-V",
+        "cyrillic_name": "BR-V",
+        "year_from": 2021,
+        "year_to": 2026,
+        "class": "B",
+        "updated_at": "2026-07-29 13:22:09"
       },
       {
         "id": "HONDA_CAPA",
@@ -25514,6 +25634,16 @@
         "updated_at": "2025-07-26 16:51:00"
       },
       {
+        "id": "JETOUR_FREEDOM_7_PLUS",
+        "mark_id": "JETOUR",
+        "name": "Freedom 7 Plus",
+        "cyrillic_name": "Фри́дом 7 Плюс",
+        "year_from": 2026,
+        "year_to": 2026,
+        "class": "D",
+        "updated_at": "2026-07-29 13:22:09"
+      },
+      {
         "id": "JETOUR_G700",
         "mark_id": "JETOUR",
         "name": "G700",
@@ -28993,6 +29123,16 @@
         "updated_at": "2025-07-26 16:51:00"
       },
       {
+        "id": "LIXIANG_I9",
+        "mark_id": "LIXIANG",
+        "name": "i9",
+        "cyrillic_name": "Ай9",
+        "year_from": 2026,
+        "year_to": 2026,
+        "class": "F",
+        "updated_at": "2026-07-29 13:22:09"
+      },
+      {
         "id": "LIXIANG_L6",
         "mark_id": "LIXIANG",
         "name": "L6",
@@ -31726,6 +31866,16 @@
         "updated_at": "2025-07-26 16:51:00"
       },
       {
+        "id": "MCLAREN_788HS",
+        "mark_id": "MCLAREN",
+        "name": "788HS",
+        "cyrillic_name": "788XC",
+        "year_from": 2026,
+        "year_to": 2026,
+        "class": "S",
+        "updated_at": "2026-07-29 13:22:09"
+      },
+      {
         "id": "MCLAREN_ARTURA",
         "mark_id": "MCLAREN",
         "name": "Artura",
@@ -31794,6 +31944,16 @@
         "year_to": 2019,
         "class": "S",
         "updated_at": "2025-07-26 16:51:00"
+      },
+      {
+        "id": "MCLAREN_SOLUS_GT",
+        "mark_id": "MCLAREN",
+        "name": "Solus GT",
+        "cyrillic_name": "Солус ГТ",
+        "year_from": 2022,
+        "year_to": 2023,
+        "class": "S",
+        "updated_at": "2026-07-29 13:22:09"
       },
       {
         "id": "MCLAREN_W1",
@@ -36890,6 +37050,16 @@
         "year_to": 2026,
         "class": "D",
         "updated_at": "2025-07-26 16:51:00"
+      },
+      {
+        "id": "NISSAN_TEKTON",
+        "mark_id": "NISSAN",
+        "name": "Tekton",
+        "cyrillic_name": "Тектон",
+        "year_from": 2026,
+        "year_to": 2026,
+        "class": "B",
+        "updated_at": "2026-07-29 13:22:09"
       },
       {
         "id": "NISSAN_TERRA",
@@ -44965,7 +45135,7 @@
         "cyrillic_name": "Альциона",
         "year_from": 1985,
         "year_to": 1996,
-        "class": "S",
+        "class": "D",
         "updated_at": "2025-07-26 16:51:01"
       },
       {
@@ -47008,6 +47178,16 @@
         "year_to": 2004,
         "class": "E",
         "updated_at": "2025-07-26 16:51:01"
+      },
+      {
+        "id": "TOYOTA_ATIV",
+        "mark_id": "TOYOTA",
+        "name": "Ativ",
+        "cyrillic_name": "Атив",
+        "year_from": 2025,
+        "year_to": 2026,
+        "class": "B",
+        "updated_at": "2026-07-29 13:22:10"
       },
       {
         "id": "TOYOTA_AURION",
@@ -51021,6 +51201,16 @@
         "updated_at": "2025-07-26 16:51:01"
       },
       {
+        "id": "VOLKSWAGEN_IDCROSS",
+        "mark_id": "VOLKSWAGEN",
+        "name": "ID.Cross",
+        "cyrillic_name": "АйДи Кросс",
+        "year_from": 2026,
+        "year_to": 2026,
+        "class": "B",
+        "updated_at": "2026-07-29 13:22:10"
+      },
+      {
         "id": "VOLKSWAGEN_IDERA_8X",
         "mark_id": "VOLKSWAGEN",
         "name": "ID.Era 8X",
@@ -53118,6 +53308,26 @@
     "country": "Китай",
     "updated_at": "2025-07-26 22:33:37",
     "models": [
+      {
+        "id": "XIAOMI_SKYNOMAD_N70",
+        "mark_id": "XIAOMI",
+        "name": "Skynomad N70",
+        "cyrillic_name": "Скайномэд Н70",
+        "year_from": 2026,
+        "year_to": 2026,
+        "class": "E",
+        "updated_at": "2026-07-29 13:22:10"
+      },
+      {
+        "id": "XIAOMI_SKYNOMAD_N90",
+        "mark_id": "XIAOMI",
+        "name": "Skynomad N90",
+        "cyrillic_name": "Скайномэд Н90",
+        "year_from": 2026,
+        "year_to": 2026,
+        "class": "F",
+        "updated_at": "2026-07-29 13:22:10"
+      },
       {
         "id": "XIAOMI_SU7",
         "mark_id": "XIAOMI",
