@@ -276,7 +276,7 @@
         "cyrillic_name": "легенд",
         "year_from": 1986,
         "year_to": 1996,
-        "class": "E",
+        "class": "D",
         "updated_at": "2025-07-26 16:51:00"
       },
       {
@@ -316,7 +316,7 @@
         "cyrillic_name": "рл",
         "year_from": 1995,
         "year_to": 2012,
-        "class": "E",
+        "class": "F",
         "updated_at": "2025-07-26 16:51:00"
       },
       {
@@ -365,8 +365,8 @@
         "name": "TLX",
         "cyrillic_name": "тлх",
         "year_from": 2014,
-        "year_to": 2026,
-        "class": "E",
+        "year_to": 2025,
+        "class": "D",
         "updated_at": "2025-07-26 16:51:00"
       },
       {
@@ -385,7 +385,7 @@
         "name": "ZDX",
         "cyrillic_name": "здх",
         "year_from": 2009,
-        "year_to": 2026,
+        "year_to": 2025,
         "class": "E",
         "updated_at": "2025-07-26 16:51:00"
       }
@@ -584,7 +584,7 @@
         "name": "S Plus",
         "cyrillic_name": "С Плюс",
         "year_from": 2021,
-        "year_to": 2023,
+        "year_to": 2025,
         "class": "C",
         "updated_at": "2025-07-26 16:51:00"
       },
@@ -635,7 +635,7 @@
         "cyrillic_name": "Уай Плюс",
         "year_from": 2022,
         "year_to": 2026,
-        "class": null,
+        "class": "J",
         "updated_at": "2025-07-26 16:51:00"
       }
     ]
@@ -779,6 +779,16 @@
         "year_to": 2004,
         "class": "A",
         "updated_at": "2025-07-26 16:51:00"
+      },
+      {
+        "id": "AIXAM_COUPE",
+        "mark_id": "AIXAM",
+        "name": "Coupe",
+        "cyrillic_name": "Купе",
+        "year_from": 2023,
+        "year_to": 2026,
+        "class": "A",
+        "updated_at": "2026-08-12 16:57:33"
       }
     ]
   },
@@ -890,7 +900,7 @@
         "cyrillic_name": "1900",
         "year_from": 1950,
         "year_to": 1959,
-        "class": "S",
+        "class": "C",
         "updated_at": "2025-07-26 16:51:00"
       },
       {
@@ -900,7 +910,7 @@
         "cyrillic_name": "2600",
         "year_from": 1962,
         "year_to": 1968,
-        "class": "D",
+        "class": "S",
         "updated_at": "2025-07-26 16:51:00"
       },
       {
@@ -919,7 +929,7 @@
         "name": "33 Stradale",
         "cyrillic_name": "33 Страдале",
         "year_from": 2024,
-        "year_to": 2026,
+        "year_to": 2024,
         "class": "S",
         "updated_at": "2025-07-26 16:51:00"
       },
@@ -1000,7 +1010,7 @@
         "cyrillic_name": "Альфетта",
         "year_from": 1972,
         "year_to": 1987,
-        "class": "D",
+        "class": "S",
         "updated_at": "2025-07-26 16:51:00"
       },
       {
@@ -1039,8 +1049,8 @@
         "name": "Giulia",
         "cyrillic_name": "Джулия",
         "year_from": 1962,
-        "year_to": 2026,
-        "class": "D",
+        "year_to": 2025,
+        "class": "C",
         "updated_at": "2025-07-26 16:51:00"
       },
       {
@@ -1213,7 +1223,7 @@
         "cyrillic_name": "б12",
         "year_from": 1988,
         "year_to": 2001,
-        "class": "S",
+        "class": "F",
         "updated_at": "2025-07-26 16:51:00"
       },
       {
@@ -1232,7 +1242,7 @@
         "name": "B4",
         "cyrillic_name": "б4",
         "year_from": 2013,
-        "year_to": 2026,
+        "year_to": 2025,
         "class": "D",
         "updated_at": "2025-07-26 16:51:00"
       },
@@ -1322,7 +1332,7 @@
         "name": "D3",
         "cyrillic_name": "д3",
         "year_from": 2005,
-        "year_to": 2026,
+        "year_to": 2025,
         "class": "D",
         "updated_at": "2025-07-26 16:51:00"
       },
@@ -1332,7 +1342,7 @@
         "name": "D4",
         "cyrillic_name": "Д4",
         "year_from": 2014,
-        "year_to": 2026,
+        "year_to": 2024,
         "class": "D",
         "updated_at": "2025-07-26 16:51:00"
       },
@@ -1372,7 +1382,7 @@
         "name": "XD3",
         "cyrillic_name": "хд3",
         "year_from": 2012,
-        "year_to": 2026,
+        "year_to": 2024,
         "class": "D",
         "updated_at": "2025-07-26 16:51:00"
       },
@@ -1382,7 +1392,7 @@
         "name": "XD4",
         "cyrillic_name": "хд4",
         "year_from": 2018,
-        "year_to": 2026,
+        "year_to": 2025,
         "class": "D",
         "updated_at": "2025-07-26 16:51:00"
       }
@@ -1525,7 +1535,7 @@
         "cyrillic_name": "Игл",
         "year_from": 1979,
         "year_to": 1987,
-        "class": "C",
+        "class": "D",
         "updated_at": "2025-07-26 16:51:00"
       },
       {
@@ -1698,6 +1708,16 @@
         "updated_at": "2025-11-03 09:59:53"
       },
       {
+        "id": "ARCFOX_ALPHA_T7",
+        "mark_id": "ARCFOX",
+        "name": "Alpha T7",
+        "cyrillic_name": "Альфа Т7",
+        "year_from": 2026,
+        "year_to": 2026,
+        "class": "E",
+        "updated_at": "2026-08-12 16:57:33"
+      },
+      {
         "id": "ARCFOX_BETA_T1",
         "mark_id": "ARCFOX",
         "name": "Beta T1",
@@ -1833,7 +1853,7 @@
     "year_from": 1987,
     "year_to": 2003,
     "popular": 0,
-    "country": "Южная Корея",
+    "country": "Республика Корея",
     "updated_at": "2025-07-26 22:33:37",
     "models": [
       {
@@ -2034,7 +2054,7 @@
         "mark_id": "ASTON_MARTIN",
         "name": "Rapide",
         "cyrillic_name": "Рапиде",
-        "year_from": 2010,
+        "year_from": 2009,
         "year_to": 2020,
         "class": "F",
         "updated_at": "2025-07-26 16:51:00"
@@ -2414,7 +2434,7 @@
         "name": "A6 allroad",
         "cyrillic_name": "А6 Олроуд",
         "year_from": 2000,
-        "year_to": 2025,
+        "year_to": 2026,
         "class": "E",
         "updated_at": "2025-07-26 16:51:00"
       },
@@ -2655,7 +2675,7 @@
         "cyrillic_name": "Ку7",
         "year_from": 2005,
         "year_to": 2026,
-        "class": "E",
+        "class": "F",
         "updated_at": "2025-07-26 16:51:00"
       },
       {
@@ -2674,7 +2694,7 @@
         "name": "Q8 e-tron",
         "cyrillic_name": "Ку8 е-трон",
         "year_from": 2022,
-        "year_to": 2026,
+        "year_to": 2025,
         "class": "E",
         "updated_at": "2025-07-26 16:51:00"
       },
@@ -2754,7 +2774,7 @@
         "name": "RS 4",
         "cyrillic_name": "РС4",
         "year_from": 1999,
-        "year_to": 2026,
+        "year_to": 2025,
         "class": "D",
         "updated_at": "2025-07-26 16:51:00"
       },
@@ -2765,7 +2785,7 @@
         "cyrillic_name": "РС5",
         "year_from": 2010,
         "year_to": 2026,
-        "class": "S",
+        "class": "D",
         "updated_at": "2025-07-26 16:51:00"
       },
       {
@@ -2794,7 +2814,7 @@
         "name": "RS Q3",
         "cyrillic_name": "РС Ку3",
         "year_from": 2013,
-        "year_to": 2026,
+        "year_to": 2023,
         "class": "C",
         "updated_at": "2025-07-26 16:51:00"
       },
@@ -2814,7 +2834,7 @@
         "name": "RS Q3 Sportback",
         "cyrillic_name": "РС Ку3 Спортбек",
         "year_from": 2019,
-        "year_to": 2026,
+        "year_to": 2023,
         "class": "C",
         "updated_at": "2025-07-26 16:51:00"
       },
@@ -2864,7 +2884,7 @@
         "name": "S4",
         "cyrillic_name": "S4",
         "year_from": 1997,
-        "year_to": 2026,
+        "year_to": 2023,
         "class": "D",
         "updated_at": "2025-07-26 16:51:00"
       },
@@ -2994,7 +3014,7 @@
         "name": "SQ8 e-tron",
         "cyrillic_name": "СКу8 е-трон",
         "year_from": 2022,
-        "year_to": 2026,
+        "year_to": 2025,
         "class": "E",
         "updated_at": "2025-07-26 16:51:00"
       },
@@ -3007,6 +3027,16 @@
         "year_to": 2025,
         "class": "E",
         "updated_at": "2025-07-26 16:51:00"
+      },
+      {
+        "id": "AUDI_SQ9",
+        "mark_id": "AUDI",
+        "name": "SQ9",
+        "cyrillic_name": "ЭсКу9",
+        "year_from": 2026,
+        "year_to": 2026,
+        "class": "F",
+        "updated_at": "2026-08-02 09:52:12"
       },
       {
         "id": "AUDI_S_E_TRON_GT",
@@ -3035,7 +3065,7 @@
         "cyrillic_name": "ТТС",
         "year_from": 2007,
         "year_to": 2023,
-        "class": "C",
+        "class": "S",
         "updated_at": "2025-07-26 16:51:00"
       },
       {
@@ -3181,7 +3211,7 @@
         "cyrillic_name": "Макси",
         "year_from": 1969,
         "year_to": 1982,
-        "class": "B",
+        "class": "C",
         "updated_at": "2025-07-26 16:51:00"
       },
       {
@@ -3718,7 +3748,7 @@
         "name": "U7",
         "cyrillic_name": "у7",
         "year_from": 2018,
-        "year_to": 2026,
+        "year_to": 2021,
         "class": "D",
         "updated_at": "2025-07-26 16:51:00"
       },
@@ -3728,7 +3758,7 @@
         "name": "X3",
         "cyrillic_name": "Икс3",
         "year_from": 2019,
-        "year_to": 2026,
+        "year_to": 2025,
         "class": "C",
         "updated_at": "2025-07-26 16:51:00"
       },
@@ -3987,7 +4017,7 @@
         "name": "RS-7",
         "cyrillic_name": "РС-7",
         "year_from": 2020,
-        "year_to": 2026,
+        "year_to": 2022,
         "class": "D",
         "updated_at": "2026-02-11 13:29:24"
       },
@@ -4359,7 +4389,7 @@
         "name": "Mulliner Batur",
         "cyrillic_name": "Муллинер Батур",
         "year_from": 2022,
-        "year_to": 2026,
+        "year_to": 2025,
         "class": "S",
         "updated_at": "2025-07-26 16:51:00"
       },
@@ -4410,7 +4440,7 @@
         "cyrillic_name": "Т-Сериес",
         "year_from": 1965,
         "year_to": 1980,
-        "class": "S",
+        "class": "F",
         "updated_at": "2025-07-26 16:51:00"
       }
     ]
@@ -4672,7 +4702,7 @@
         "mark_id": "BMW",
         "name": "2 серии",
         "cyrillic_name": "2 серии",
-        "year_from": 2014,
+        "year_from": 2013,
         "year_to": 2026,
         "class": "C",
         "updated_at": "2025-07-26 16:51:00"
@@ -4914,7 +4944,7 @@
         "cyrillic_name": "и3",
         "year_from": 2013,
         "year_to": 2026,
-        "class": "D",
+        "class": "B",
         "updated_at": "2025-07-26 16:51:00"
       },
       {
@@ -5012,7 +5042,7 @@
         "mark_id": "BMW",
         "name": "iX5",
         "cyrillic_name": "ИХ5",
-        "year_from": 2023,
+        "year_from": 2022,
         "year_to": 2026,
         "class": "E",
         "updated_at": "2025-07-26 16:51:00"
@@ -5104,7 +5134,7 @@
         "cyrillic_name": "нью класс",
         "year_from": 1962,
         "year_to": 1971,
-        "class": "S",
+        "class": "C",
         "updated_at": "2025-07-26 16:51:00"
       },
       {
@@ -5755,7 +5785,7 @@
         "cyrillic_name": "сенчури",
         "year_from": 1973,
         "year_to": 2005,
-        "class": "E",
+        "class": "D",
         "updated_at": "2025-07-26 16:51:00"
       },
       {
@@ -5765,7 +5795,7 @@
         "cyrillic_name": "Электра",
         "year_from": 1959,
         "year_to": 1990,
-        "class": "S",
+        "class": "E",
         "updated_at": "2025-07-26 16:51:00"
       },
       {
@@ -5835,7 +5865,7 @@
         "cyrillic_name": "Энкор ДжиИкс",
         "year_from": 2019,
         "year_to": 2026,
-        "class": "D",
+        "class": "C",
         "updated_at": "2025-07-26 16:51:00"
       },
       {
@@ -6023,7 +6053,7 @@
         "mark_id": "BUICK",
         "name": "Roadmaster",
         "cyrillic_name": "Роадмастер",
-        "year_from": 1942,
+        "year_from": 1938,
         "year_to": 1996,
         "class": "E",
         "updated_at": "2025-07-26 16:51:00"
@@ -6054,8 +6084,8 @@
         "name": "Special",
         "cyrillic_name": "спешиал",
         "year_from": 1936,
-        "year_to": 1958,
-        "class": "E",
+        "year_to": 1969,
+        "class": "S",
         "updated_at": "2025-07-26 16:51:00"
       },
       {
@@ -6095,7 +6125,7 @@
         "cyrillic_name": "Велит 6",
         "year_from": 2019,
         "year_to": 2026,
-        "class": "D",
+        "class": "C",
         "updated_at": "2025-07-26 16:51:00"
       },
       {
@@ -6125,7 +6155,7 @@
         "cyrillic_name": "вайлдкэт",
         "year_from": 1963,
         "year_to": 1970,
-        "class": "F",
+        "class": "S",
         "updated_at": "2025-07-26 16:51:00"
       }
     ]
@@ -6176,8 +6206,8 @@
         "mark_id": "BYD",
         "name": "Dahan",
         "cyrillic_name": "Дахан",
-        "year_from": null,
-        "year_to": null,
+        "year_from": 2026,
+        "year_to": 2026,
         "class": "F",
         "updated_at": "2026-07-29 13:22:08"
       },
@@ -6287,7 +6317,7 @@
         "name": "E9",
         "cyrillic_name": "Е9",
         "year_from": 2021,
-        "year_to": 2021,
+        "year_to": 2026,
         "class": "E",
         "updated_at": "2025-07-26 16:51:00"
       },
@@ -6358,7 +6388,7 @@
         "cyrillic_name": "ФенгЧенгбао Леопард 5",
         "year_from": 2023,
         "year_to": 2026,
-        "class": "J",
+        "class": "E",
         "updated_at": "2025-07-26 16:51:00"
       },
       {
@@ -6407,7 +6437,7 @@
         "name": "Frigate 07",
         "cyrillic_name": "Фригейт_07",
         "year_from": 2022,
-        "year_to": 2026,
+        "year_to": 2025,
         "class": "D",
         "updated_at": "2025-07-26 16:51:00"
       },
@@ -6474,10 +6504,10 @@
       {
         "id": "BYD_QIN",
         "mark_id": "BYD",
-        "name": "Qin",
-        "cyrillic_name": "Чин",
+        "name": "Qin Pro",
+        "cyrillic_name": "Кин Про",
         "year_from": 2018,
-        "year_to": 2026,
+        "year_to": 2025,
         "class": "C",
         "updated_at": "2025-07-26 16:51:00"
       },
@@ -6488,7 +6518,7 @@
         "cyrillic_name": "Кин Эль",
         "year_from": 2024,
         "year_to": 2026,
-        "class": null,
+        "class": "C",
         "updated_at": "2026-07-29 13:22:08"
       },
       {
@@ -6590,16 +6620,6 @@
         "year_to": 2026,
         "class": "E",
         "updated_at": "2026-03-12 07:51:24"
-      },
-      {
-        "id": "BYD_SEAL_07_DM_I",
-        "mark_id": "BYD",
-        "name": "Seal 07",
-        "cyrillic_name": "Сиэл 07",
-        "year_from": 2024,
-        "year_to": 2026,
-        "class": null,
-        "updated_at": "2025-07-26 16:51:00"
       },
       {
         "id": "BYD_SEAL_08",
@@ -6797,7 +6817,7 @@
         "name": "Yuan",
         "cyrillic_name": "Юан",
         "year_from": 2016,
-        "year_to": 2023,
+        "year_to": 2024,
         "class": "B",
         "updated_at": "2025-07-26 16:51:00"
       },
@@ -7034,7 +7054,7 @@
         "cyrillic_name": "Эльдорадо",
         "year_from": 1953,
         "year_to": 2002,
-        "class": "S",
+        "class": "F",
         "updated_at": "2025-07-26 16:51:00"
       },
       {
@@ -7194,7 +7214,7 @@
         "cyrillic_name": "Севиль",
         "year_from": 1975,
         "year_to": 2004,
-        "class": "F",
+        "class": "E",
         "updated_at": "2025-07-26 16:51:00"
       },
       {
@@ -7224,7 +7244,7 @@
         "cyrillic_name": "стс",
         "year_from": 2004,
         "year_to": 2011,
-        "class": "E",
+        "class": "F",
         "updated_at": "2025-07-26 16:51:00"
       },
       {
@@ -7467,7 +7487,7 @@
         "mark_id": "CHANGAN",
         "name": "Qiyuan A06",
         "cyrillic_name": "Циюань А06",
-        "year_from": 2025,
+        "year_from": 2023,
         "year_to": 2026,
         "class": "D",
         "updated_at": "2025-11-12 12:39:43"
@@ -7549,7 +7569,7 @@
         "cyrillic_name": "Бенни",
         "year_from": 2006,
         "year_to": 2014,
-        "class": "A",
+        "class": "B",
         "updated_at": "2025-07-26 16:51:00"
       },
       {
@@ -7729,7 +7749,7 @@
         "cyrillic_name": "Еадо",
         "year_from": 2013,
         "year_to": 2026,
-        "class": "C",
+        "class": "D",
         "updated_at": "2025-07-26 16:51:00"
       },
       {
@@ -7809,7 +7829,7 @@
         "cyrillic_name": "Кайсен Ф70",
         "year_from": 2019,
         "year_to": 2026,
-        "class": "F",
+        "class": "J",
         "updated_at": "2025-07-26 16:51:00"
       },
       {
@@ -7901,6 +7921,16 @@
         "year_to": 2026,
         "class": "D",
         "updated_at": "2025-11-12 12:39:43"
+      },
+      {
+        "id": "CHANGAN_QIYUAN_A05L",
+        "mark_id": "CHANGAN",
+        "name": "Qiyuan A05L",
+        "cyrillic_name": "Циюань А05Л",
+        "year_from": 2026,
+        "year_to": 2026,
+        "class": "D",
+        "updated_at": "2026-08-07 14:26:50"
       },
       {
         "id": "CHANGAN_RAETON",
@@ -7995,7 +8025,7 @@
       {
         "id": "CHANGAN_UNI_S",
         "mark_id": "CHANGAN",
-        "name": "UNI-S (CS55 Plus)",
+        "name": "UNI-S",
         "cyrillic_name": "Уни-С",
         "year_from": 2024,
         "year_to": 2026,
@@ -8019,7 +8049,7 @@
         "cyrillic_name": "Уни-В",
         "year_from": 2022,
         "year_to": 2026,
-        "class": "D",
+        "class": "C",
         "updated_at": "2025-07-26 16:51:00"
       },
       {
@@ -8287,7 +8317,7 @@
         "name": "CrossEastar (B14)",
         "cyrillic_name": "Кросс Эстар",
         "year_from": 2006,
-        "year_to": 2014,
+        "year_to": 2015,
         "class": "D",
         "updated_at": "2025-07-26 16:51:00"
       },
@@ -8647,8 +8677,8 @@
         "name": "Tiggo 3x",
         "cyrillic_name": "Тигго 3Х",
         "year_from": 2016,
-        "year_to": 2023,
-        "class": "C",
+        "year_to": 2026,
+        "class": "B",
         "updated_at": "2025-07-26 16:51:00"
       },
       {
@@ -8842,6 +8872,16 @@
         "updated_at": "2025-07-26 16:51:00"
       },
       {
+        "id": "CHERY_TIGGO_9X",
+        "mark_id": "CHERY",
+        "name": "Tiggo 9x",
+        "cyrillic_name": "Тигго 9х",
+        "year_from": 2025,
+        "year_to": 2026,
+        "class": "D",
+        "updated_at": "2026-08-07 14:26:50"
+      },
+      {
         "id": "CHERY_TIGGO_E",
         "mark_id": "CHERY",
         "name": "Tiggo E",
@@ -8905,16 +8945,6 @@
         "updated_at": "2026-01-05 18:11:46"
       },
       {
-        "id": "CHERYEXEED_ET8",
-        "mark_id": "CHERYEXEED",
-        "name": "ET8",
-        "cyrillic_name": "ЕТ8",
-        "year_from": 2025,
-        "year_to": 2026,
-        "class": null,
-        "updated_at": "2025-10-28 10:54:05"
-      },
-      {
         "id": "CHERYEXEED_EX7",
         "mark_id": "CHERYEXEED",
         "name": "EX7",
@@ -8939,7 +8969,7 @@
         "mark_id": "CHERYEXEED",
         "name": "Exlantix ET",
         "cyrillic_name": "Экслантикс ЕТ",
-        "year_from": 2024,
+        "year_from": 2025,
         "year_to": 2026,
         "class": "E",
         "updated_at": "2025-07-26 16:51:00"
@@ -8951,7 +8981,7 @@
         "cyrillic_name": "ЛХ",
         "year_from": 2019,
         "year_to": 2026,
-        "class": "D",
+        "class": "C",
         "updated_at": "2025-07-26 16:51:00"
       },
       {
@@ -8979,7 +9009,7 @@
         "mark_id": "CHERYEXEED",
         "name": "TX",
         "cyrillic_name": "ТХ",
-        "year_from": 2021,
+        "year_from": 2019,
         "year_to": 2023,
         "class": "D",
         "updated_at": "2025-07-26 16:51:00"
@@ -9104,7 +9134,7 @@
         "cyrillic_name": "Бел Эйр",
         "year_from": 1949,
         "year_to": 1957,
-        "class": null,
+        "class": "S",
         "updated_at": "2025-07-26 16:51:00"
       },
       {
@@ -9143,7 +9173,7 @@
         "name": "Bolt",
         "cyrillic_name": "болт",
         "year_from": 2016,
-        "year_to": 2023,
+        "year_to": 2026,
         "class": "B",
         "updated_at": "2025-07-26 16:51:00"
       },
@@ -9174,7 +9204,7 @@
         "cyrillic_name": "Каприз",
         "year_from": 1965,
         "year_to": 2017,
-        "class": "F",
+        "class": "D",
         "updated_at": "2025-07-26 16:51:00"
       },
       {
@@ -9214,7 +9244,7 @@
         "cyrillic_name": "Селебрити",
         "year_from": 1982,
         "year_to": 1990,
-        "class": null,
+        "class": "D",
         "updated_at": "2025-07-26 16:51:00"
       },
       {
@@ -9234,7 +9264,7 @@
         "cyrillic_name": "чевелле",
         "year_from": 1963,
         "year_to": 1977,
-        "class": "S",
+        "class": "F",
         "updated_at": "2025-07-26 16:51:00"
       },
       {
@@ -9394,7 +9424,7 @@
         "cyrillic_name": "Дамас",
         "year_from": 2019,
         "year_to": 2026,
-        "class": "C",
+        "class": "M",
         "updated_at": "2025-07-26 16:51:00"
       },
       {
@@ -9474,7 +9504,7 @@
         "cyrillic_name": "флитмастер",
         "year_from": 1946,
         "year_to": 1948,
-        "class": "E",
+        "class": "S",
         "updated_at": "2025-07-26 16:51:00"
       },
       {
@@ -9484,7 +9514,7 @@
         "cyrillic_name": "Грув",
         "year_from": 2020,
         "year_to": 2026,
-        "class": "C",
+        "class": "B",
         "updated_at": "2025-07-26 16:51:00"
       },
       {
@@ -9554,7 +9584,7 @@
         "cyrillic_name": "Люмина",
         "year_from": 1989,
         "year_to": 2001,
-        "class": "D",
+        "class": "F",
         "updated_at": "2025-07-26 16:51:00"
       },
       {
@@ -9624,7 +9654,7 @@
         "cyrillic_name": "Монте Карло",
         "year_from": 1970,
         "year_to": 2007,
-        "class": "S",
+        "class": "D",
         "updated_at": "2025-07-26 16:51:00"
       },
       {
@@ -9674,7 +9704,7 @@
         "cyrillic_name": "Нова",
         "year_from": 1967,
         "year_to": 1988,
-        "class": "B",
+        "class": "D",
         "updated_at": "2025-07-26 16:51:00"
       },
       {
@@ -9704,7 +9734,7 @@
         "cyrillic_name": "Оникс",
         "year_from": 2012,
         "year_to": 2026,
-        "class": "C",
+        "class": "B",
         "updated_at": "2025-07-26 16:51:00"
       },
       {
@@ -9914,7 +9944,7 @@
         "cyrillic_name": "Трекер",
         "year_from": 1989,
         "year_to": 2026,
-        "class": "J",
+        "class": "B",
         "updated_at": "2025-07-26 16:51:00"
       },
       {
@@ -9954,7 +9984,7 @@
         "cyrillic_name": "Тракс",
         "year_from": 2013,
         "year_to": 2026,
-        "class": "C",
+        "class": "B",
         "updated_at": "2025-07-26 16:51:00"
       },
       {
@@ -10096,7 +10126,7 @@
         "name": "300 Letter Series",
         "cyrillic_name": "300 Леттер Сериес",
         "year_from": 1955,
-        "year_to": 1957,
+        "year_to": 1965,
         "class": "S",
         "updated_at": "2025-07-26 16:51:00"
       },
@@ -10127,7 +10157,7 @@
         "cyrillic_name": "Конкорд",
         "year_from": 1992,
         "year_to": 2004,
-        "class": "F",
+        "class": "E",
         "updated_at": "2025-07-26 16:51:00"
       },
       {
@@ -10187,7 +10217,7 @@
         "cyrillic_name": "5-е Авеню",
         "year_from": 1982,
         "year_to": 1993,
-        "class": "E",
+        "class": "D",
         "updated_at": "2025-07-26 16:51:00"
       },
       {
@@ -10197,7 +10227,7 @@
         "cyrillic_name": "Империал",
         "year_from": 1926,
         "year_to": 1993,
-        "class": null,
+        "class": "E",
         "updated_at": "2025-07-26 16:51:00"
       },
       {
@@ -10227,7 +10257,7 @@
         "cyrillic_name": "Ле Барон",
         "year_from": 1977,
         "year_to": 1995,
-        "class": "S",
+        "class": "D",
         "updated_at": "2025-07-26 16:51:00"
       },
       {
@@ -10583,7 +10613,7 @@
         "cyrillic_name": "C3 Аиркросс",
         "year_from": 2017,
         "year_to": 2026,
-        "class": "C",
+        "class": "B",
         "updated_at": "2025-07-26 16:51:00"
       },
       {
@@ -10673,7 +10703,7 @@
         "cyrillic_name": "C5 Аиркросс",
         "year_from": 2018,
         "year_to": 2026,
-        "class": "D",
+        "class": "C",
         "updated_at": "2025-07-26 16:51:00"
       },
       {
@@ -10713,7 +10743,7 @@
         "cyrillic_name": "Cx",
         "year_from": 1974,
         "year_to": 1991,
-        "class": "D",
+        "class": "E",
         "updated_at": "2025-07-26 16:51:00"
       },
       {
@@ -10773,7 +10803,7 @@
         "cyrillic_name": "дс",
         "year_from": 1955,
         "year_to": 1976,
-        "class": "S",
+        "class": "E",
         "updated_at": "2025-07-26 16:51:00"
       },
       {
@@ -10853,7 +10883,7 @@
         "cyrillic_name": "Джампи",
         "year_from": 1994,
         "year_to": 2026,
-        "class": null,
+        "class": "M",
         "updated_at": "2025-07-26 16:51:00"
       },
       {
@@ -10873,7 +10903,7 @@
         "cyrillic_name": "немо",
         "year_from": 2007,
         "year_to": 2017,
-        "class": null,
+        "class": "M",
         "updated_at": "2025-07-26 16:51:00"
       },
       {
@@ -10913,7 +10943,7 @@
         "cyrillic_name": "трекшн авант",
         "year_from": 1934,
         "year_to": 1957,
-        "class": null,
+        "class": "D",
         "updated_at": "2025-07-26 16:51:00"
       },
       {
@@ -10943,7 +10973,7 @@
         "cyrillic_name": "XM",
         "year_from": 1989,
         "year_to": 2000,
-        "class": "E",
+        "class": "D",
         "updated_at": "2025-07-26 16:51:00"
       },
       {
@@ -11347,7 +11377,7 @@
         "cyrillic_name": "Спринг",
         "year_from": 2021,
         "year_to": 2026,
-        "class": "B",
+        "class": "A",
         "updated_at": "2025-07-26 16:51:00"
       },
       {
@@ -11413,7 +11443,7 @@
     "year_from": 1981,
     "year_to": 2016,
     "popular": 1,
-    "country": "Южная Корея",
+    "country": "Республика Корея",
     "updated_at": "2025-07-26 22:33:37",
     "models": [
       {
@@ -11493,7 +11523,7 @@
         "cyrillic_name": "Джентра",
         "year_from": 2005,
         "year_to": 2015,
-        "class": "B",
+        "class": "C",
         "updated_at": "2025-07-26 16:51:00"
       },
       {
@@ -12004,7 +12034,7 @@
         "mark_id": "DAIHATSU",
         "name": "Mira",
         "cyrillic_name": "Мира",
-        "year_from": 1994,
+        "year_from": 1990,
         "year_to": 2018,
         "class": "A",
         "updated_at": "2025-07-26 16:51:00"
@@ -12176,7 +12206,7 @@
         "cyrillic_name": "Тафт",
         "year_from": 1974,
         "year_to": 2026,
-        "class": "A",
+        "class": "J",
         "updated_at": "2025-07-26 16:51:00"
       },
       {
@@ -12647,18 +12677,6 @@
     ]
   },
   {
-    "id": "DEEPAL",
-    "name": "Deepal",
-    "cyrillic_name": "Дипэл",
-    "numeric_id": 20466812,
-    "year_from": 2022,
-    "year_to": 2026,
-    "popular": 0,
-    "country": null,
-    "updated_at": "2026-02-12 00:53:00",
-    "models": []
-  },
-  {
     "id": "DELAGE",
     "name": "Delage",
     "cyrillic_name": "Делаж",
@@ -12824,6 +12842,16 @@
         "year_to": 2026,
         "class": "E",
         "updated_at": "2025-07-26 16:51:00"
+      },
+      {
+        "id": "DENZA_Z9S",
+        "mark_id": "DENZA",
+        "name": "Z9S",
+        "cyrillic_name": "З9С",
+        "year_from": 2026,
+        "year_to": 2026,
+        "class": "E",
+        "updated_at": "2026-08-07 14:26:50"
       }
     ]
   },
@@ -12958,7 +12986,7 @@
         "cyrillic_name": "Файрфлит",
         "year_from": 1955,
         "year_to": 1960,
-        "class": "S",
+        "class": "F",
         "updated_at": "2025-07-26 16:51:00"
       }
     ]
@@ -13041,7 +13069,7 @@
     "name": "DKW",
     "cyrillic_name": "ДКВ",
     "numeric_id": 12776676,
-    "year_from": 1953,
+    "year_from": 1936,
     "year_to": 1955,
     "popular": 0,
     "country": "Германия",
@@ -13116,7 +13144,7 @@
         "name": "Caliber",
         "cyrillic_name": "Калибр",
         "year_from": 2006,
-        "year_to": 2013,
+        "year_to": 2012,
         "class": "D",
         "updated_at": "2025-07-26 16:51:00"
       },
@@ -13137,7 +13165,7 @@
         "cyrillic_name": "Челленджер",
         "year_from": 1969,
         "year_to": 2023,
-        "class": "D",
+        "class": "S",
         "updated_at": "2025-07-26 16:51:00"
       },
       {
@@ -13167,7 +13195,7 @@
         "cyrillic_name": "Кольт",
         "year_from": 1992,
         "year_to": 1994,
-        "class": "S",
+        "class": "C",
         "updated_at": "2025-07-26 16:51:00"
       },
       {
@@ -13187,7 +13215,7 @@
         "cyrillic_name": "Кастом Роял",
         "year_from": 1955,
         "year_to": 1959,
-        "class": "E",
+        "class": "S",
         "updated_at": "2025-07-26 16:51:00"
       },
       {
@@ -13217,7 +13245,7 @@
         "cyrillic_name": "дарт",
         "year_from": 1967,
         "year_to": 2016,
-        "class": "E",
+        "class": "C",
         "updated_at": "2025-07-26 16:51:00"
       },
       {
@@ -13245,7 +13273,7 @@
         "mark_id": "DODGE",
         "name": "Durango",
         "cyrillic_name": "Дуранго",
-        "year_from": 1998,
+        "year_from": 1997,
         "year_to": 2026,
         "class": "E",
         "updated_at": "2025-07-26 16:51:00"
@@ -13287,7 +13315,7 @@
         "cyrillic_name": "Интерпид",
         "year_from": 1992,
         "year_to": 2004,
-        "class": "F",
+        "class": "E",
         "updated_at": "2025-07-26 16:51:00"
       },
       {
@@ -13345,7 +13373,7 @@
         "mark_id": "DODGE",
         "name": "Monaco",
         "cyrillic_name": "Монако",
-        "year_from": 1969,
+        "year_from": 1965,
         "year_to": 1993,
         "class": "E",
         "updated_at": "2025-07-26 16:51:00"
@@ -13437,7 +13465,7 @@
         "cyrillic_name": "Шадоу",
         "year_from": 1986,
         "year_to": 1994,
-        "class": "C",
+        "class": "S",
         "updated_at": "2025-07-26 16:51:00"
       },
       {
@@ -13467,7 +13495,7 @@
         "cyrillic_name": "Стратус",
         "year_from": 1995,
         "year_to": 2006,
-        "class": "D",
+        "class": "E",
         "updated_at": "2025-07-26 16:51:00"
       },
       {
@@ -13779,7 +13807,7 @@
         "name": "Fengon ix7",
         "cyrillic_name": "Фенгон айикс7",
         "year_from": 2019,
-        "year_to": 2023,
+        "year_to": 2024,
         "class": "E",
         "updated_at": "2025-07-26 16:51:00"
       },
@@ -13868,7 +13896,7 @@
         "mark_id": "DONGFENG",
         "name": "MPV",
         "cyrillic_name": "мпв",
-        "year_from": 2007,
+        "year_from": 2006,
         "year_to": 2009,
         "class": "M",
         "updated_at": "2025-07-26 16:51:00"
@@ -13888,7 +13916,7 @@
         "mark_id": "DONGFENG",
         "name": "Nammi 06",
         "cyrillic_name": "Намми 06",
-        "year_from": 2025,
+        "year_from": 2024,
         "year_to": 2026,
         "class": "B",
         "updated_at": "2025-07-26 16:51:00"
@@ -14833,7 +14861,7 @@
         "name": "Bestune E01",
         "cyrillic_name": "Бестюн Е01",
         "year_from": 2020,
-        "year_to": 2026,
+        "year_to": 2024,
         "class": "C",
         "updated_at": "2026-04-20 21:58:39"
       },
@@ -14873,7 +14901,7 @@
         "name": "Bestune M9",
         "cyrillic_name": "Бестун М9",
         "year_from": 2023,
-        "year_to": 2026,
+        "year_to": 2024,
         "class": "M",
         "updated_at": "2025-07-26 16:51:00"
       },
@@ -14948,26 +14976,6 @@
         "updated_at": "2025-07-26 16:51:00"
       },
       {
-        "id": "FAW_BESTUNE_YUEYI_03",
-        "mark_id": "FAW",
-        "name": "Bestune Yueyi 03",
-        "cyrillic_name": "Бестюн юи 03",
-        "year_from": 2025,
-        "year_to": 2026,
-        "class": null,
-        "updated_at": "2025-07-26 16:51:00"
-      },
-      {
-        "id": "FAW_BESTUNE_YUEYI_07",
-        "mark_id": "FAW",
-        "name": "Bestune Yueyi 07",
-        "cyrillic_name": "Бестюн юи 07",
-        "year_from": 2025,
-        "year_to": 2026,
-        "class": null,
-        "updated_at": "2025-07-26 16:51:00"
-      },
-      {
         "id": "FAW_BESTURN_B30",
         "mark_id": "FAW",
         "name": "Besturn B30",
@@ -15013,7 +15021,7 @@
         "name": "CA6420",
         "cyrillic_name": "ЦА6420",
         "year_from": 2013,
-        "year_to": 2026,
+        "year_to": 2025,
         "class": "M",
         "updated_at": "2025-08-20 11:03:12"
       },
@@ -15387,7 +15395,7 @@
         "cyrillic_name": "калифорния",
         "year_from": 2008,
         "year_to": 2017,
-        "class": "F",
+        "class": "S",
         "updated_at": "2025-07-26 16:51:00"
       },
       {
@@ -15616,7 +15624,7 @@
         "name": "SC40",
         "cyrillic_name": "Эс Си 40",
         "year_from": 2025,
-        "year_to": 2026,
+        "year_to": 2025,
         "class": "S",
         "updated_at": "2025-10-25 15:19:45"
       },
@@ -15880,7 +15888,7 @@
         "cyrillic_name": "Альбеа",
         "year_from": 2002,
         "year_to": 2012,
-        "class": "C",
+        "class": "B",
         "updated_at": "2025-07-26 16:51:00"
       },
       {
@@ -15950,7 +15958,7 @@
         "cyrillic_name": "Крома",
         "year_from": 1985,
         "year_to": 2011,
-        "class": "D",
+        "class": "C",
         "updated_at": "2025-07-26 16:51:00"
       },
       {
@@ -16110,7 +16118,7 @@
         "cyrillic_name": "Пунто",
         "year_from": 1993,
         "year_to": 2018,
-        "class": "C",
+        "class": "B",
         "updated_at": "2025-07-26 16:51:00"
       },
       {
@@ -16140,7 +16148,7 @@
         "cyrillic_name": "Ритмо",
         "year_from": 1978,
         "year_to": 1989,
-        "class": "B",
+        "class": "C",
         "updated_at": "2025-07-26 16:51:00"
       },
       {
@@ -16170,7 +16178,7 @@
         "cyrillic_name": "Сейеченто",
         "year_from": 1998,
         "year_to": 2010,
-        "class": "B",
+        "class": "A",
         "updated_at": "2025-07-26 16:51:00"
       },
       {
@@ -16499,7 +16507,7 @@
         "cyrillic_name": "Краун Виктория",
         "year_from": 1992,
         "year_to": 2011,
-        "class": "E",
+        "class": "F",
         "updated_at": "2025-07-26 16:51:00"
       },
       {
@@ -16689,7 +16697,7 @@
         "cyrillic_name": "Фейрлайн",
         "year_from": 1957,
         "year_to": 1981,
-        "class": "F",
+        "class": "S",
         "updated_at": "2025-07-26 16:51:00"
       },
       {
@@ -16778,7 +16786,7 @@
         "name": "Focus",
         "cyrillic_name": "Фокус",
         "year_from": 1998,
-        "year_to": 2026,
+        "year_to": 2025,
         "class": "C",
         "updated_at": "2025-07-26 16:51:00"
       },
@@ -16798,7 +16806,7 @@
         "name": "Focus ST",
         "cyrillic_name": "Фокус СТ",
         "year_from": 2001,
-        "year_to": 2026,
+        "year_to": 2025,
         "class": "C",
         "updated_at": "2025-07-26 16:51:00"
       },
@@ -16889,7 +16897,7 @@
         "cyrillic_name": "Гэлаксье",
         "year_from": 1960,
         "year_to": 1974,
-        "class": "F",
+        "class": "S",
         "updated_at": "2025-07-26 16:51:00"
       },
       {
@@ -17059,7 +17067,7 @@
         "cyrillic_name": "Маверик",
         "year_from": 1969,
         "year_to": 2026,
-        "class": "C",
+        "class": "J",
         "updated_at": "2025-07-26 16:51:00"
       },
       {
@@ -17169,7 +17177,7 @@
         "cyrillic_name": "Ранчеро",
         "year_from": 1957,
         "year_to": 1976,
-        "class": "J",
+        "class": "D",
         "updated_at": "2025-07-26 16:51:00"
       },
       {
@@ -17239,7 +17247,7 @@
         "cyrillic_name": "Таунус",
         "year_from": 1964,
         "year_to": 1982,
-        "class": "E",
+        "class": "D",
         "updated_at": "2025-07-26 16:51:00"
       },
       {
@@ -17249,7 +17257,7 @@
         "cyrillic_name": "Таурус",
         "year_from": 1985,
         "year_to": 2026,
-        "class": "D",
+        "class": "E",
         "updated_at": "2025-07-26 16:51:00"
       },
       {
@@ -17288,8 +17296,8 @@
         "name": "Territory",
         "cyrillic_name": "территори",
         "year_from": 2004,
-        "year_to": 2026,
-        "class": "C",
+        "year_to": 2025,
+        "class": "E",
         "updated_at": "2025-07-26 16:51:00"
       },
       {
@@ -17359,7 +17367,7 @@
         "cyrillic_name": "Транзит Коннект",
         "year_from": 2002,
         "year_to": 2024,
-        "class": null,
+        "class": "M",
         "updated_at": "2025-07-26 16:51:00"
       },
       {
@@ -17369,7 +17377,7 @@
         "cyrillic_name": "Транзит Кастом",
         "year_from": 2012,
         "year_to": 2026,
-        "class": null,
+        "class": "M",
         "updated_at": "2025-07-26 16:51:00"
       },
       {
@@ -18042,7 +18050,7 @@
         "name": "2308 «Атаман»",
         "cyrillic_name": "2308 Атаман",
         "year_from": 1999,
-        "year_to": 2000,
+        "year_to": 2001,
         "class": "J",
         "updated_at": "2025-07-26 16:51:01"
       },
@@ -18294,7 +18302,7 @@
         "mark_id": "GEELY",
         "name": "Atlas Pro",
         "cyrillic_name": "Атлас Про",
-        "year_from": 2021,
+        "year_from": 2019,
         "year_to": 2025,
         "class": "C",
         "updated_at": "2025-07-26 16:51:00"
@@ -18356,16 +18364,6 @@
         "cyrillic_name": "Биную Кул",
         "year_from": 2022,
         "year_to": 2024,
-        "class": "B",
-        "updated_at": "2025-07-26 16:51:00"
-      },
-      {
-        "id": "GEELY_BINYUE_L",
-        "mark_id": "GEELY",
-        "name": "Binyue L",
-        "cyrillic_name": "Бинью Эл",
-        "year_from": 2024,
-        "year_to": 2026,
         "class": "B",
         "updated_at": "2025-07-26 16:51:00"
       },
@@ -18466,7 +18464,7 @@
         "cyrillic_name": "Эмгранд",
         "year_from": 2018,
         "year_to": 2026,
-        "class": "E",
+        "class": "C",
         "updated_at": "2025-07-26 16:51:00"
       },
       {
@@ -18572,8 +18570,8 @@
       {
         "id": "GEELY_EX5_EM_I",
         "mark_id": "GEELY",
-        "name": "EX5 EM-i",
-        "cyrillic_name": "ЕИкс5 ЕМ-ай",
+        "name": "EX5 Гибрид",
+        "cyrillic_name": "ЕИкс5 Гибрид",
         "year_from": 2025,
         "year_to": 2026,
         "class": "D",
@@ -18625,7 +18623,7 @@
         "name": "Galaxy L6",
         "cyrillic_name": "Гелекси Л6",
         "year_from": 2023,
-        "year_to": 2026,
+        "year_to": 2025,
         "class": "D",
         "updated_at": "2025-07-26 16:51:00"
       },
@@ -18766,7 +18764,7 @@
         "cyrillic_name": "гс9",
         "year_from": 2015,
         "year_to": 2024,
-        "class": "D",
+        "class": "E",
         "updated_at": "2025-07-26 16:51:00"
       },
       {
@@ -18775,7 +18773,7 @@
         "name": "Geometry A",
         "cyrillic_name": "Геометрия А",
         "year_from": 2019,
-        "year_to": 2026,
+        "year_to": 2024,
         "class": "C",
         "updated_at": "2025-07-26 16:51:00"
       },
@@ -18845,7 +18843,7 @@
         "name": "GX3 Pro",
         "cyrillic_name": "ДиИкс3 Про",
         "year_from": 2021,
-        "year_to": 2026,
+        "year_to": 2023,
         "class": "B",
         "updated_at": "2025-07-26 16:51:00"
       },
@@ -19076,7 +19074,7 @@
         "cyrillic_name": "Вижн S1",
         "year_from": 2017,
         "year_to": 2021,
-        "class": "D",
+        "class": "C",
         "updated_at": "2026-03-02 09:17:37"
       },
       {
@@ -19124,7 +19122,7 @@
         "mark_id": "GEELY",
         "name": "Xingyue",
         "cyrillic_name": "Синьюэ",
-        "year_from": 2019,
+        "year_from": 2018,
         "year_to": 2023,
         "class": "C",
         "updated_at": "2025-07-26 16:51:00"
@@ -19159,7 +19157,7 @@
     "year_from": 2016,
     "year_to": 2026,
     "popular": 0,
-    "country": "Южная Корея",
+    "country": "Республика Корея",
     "updated_at": "2025-07-26 22:33:37",
     "models": [
       {
@@ -19179,7 +19177,7 @@
         "cyrillic_name": "Г80",
         "year_from": 2016,
         "year_to": 2026,
-        "class": "F",
+        "class": "E",
         "updated_at": "2025-07-26 16:51:00"
       },
       {
@@ -19209,7 +19207,7 @@
         "cyrillic_name": "ГВ70",
         "year_from": 2020,
         "year_to": 2026,
-        "class": "C",
+        "class": "D",
         "updated_at": "2025-07-26 16:51:00"
       },
       {
@@ -19478,7 +19476,7 @@
         "cyrillic_name": "Террейн",
         "year_from": 2009,
         "year_to": 2026,
-        "class": "C",
+        "class": "D",
         "updated_at": "2025-07-26 16:51:00"
       },
       {
@@ -19742,7 +19740,7 @@
         "name": "Hover M2",
         "cyrillic_name": "Ховер М2",
         "year_from": 2010,
-        "year_to": 2014,
+        "year_to": 2015,
         "class": "B",
         "updated_at": "2025-07-26 16:51:00"
       },
@@ -19893,7 +19891,7 @@
         "cyrillic_name": "Вингл 7",
         "year_from": 2018,
         "year_to": 2023,
-        "class": "J",
+        "class": "F",
         "updated_at": "2025-07-26 16:51:00"
       },
       {
@@ -20031,7 +20029,7 @@
         "name": "3",
         "cyrillic_name": "3",
         "year_from": 2010,
-        "year_to": 2013,
+        "year_to": 2014,
         "class": "C",
         "updated_at": "2025-07-26 16:51:00"
       },
@@ -20241,7 +20239,7 @@
         "cyrillic_name": "Дагоу (Биг Дог)",
         "year_from": 2020,
         "year_to": 2026,
-        "class": "D",
+        "class": "C",
         "updated_at": "2025-07-26 16:51:00"
       },
       {
@@ -20421,7 +20419,7 @@
         "cyrillic_name": "Н9",
         "year_from": 2014,
         "year_to": 2026,
-        "class": "F",
+        "class": "J",
         "updated_at": "2025-07-26 16:51:00"
       },
       {
@@ -20921,7 +20919,7 @@
         "cyrillic_name": "145",
         "year_from": 1972,
         "year_to": 1974,
-        "class": "S",
+        "class": "B",
         "updated_at": "2025-07-26 16:51:00"
       },
       {
@@ -21011,7 +21009,7 @@
         "cyrillic_name": "Бриз",
         "year_from": 2019,
         "year_to": 2026,
-        "class": "D",
+        "class": "C",
         "updated_at": "2025-07-26 16:51:00"
       },
       {
@@ -21020,7 +21018,7 @@
         "name": "Brio",
         "cyrillic_name": "Брио",
         "year_from": 2011,
-        "year_to": 2018,
+        "year_to": 2026,
         "class": "A",
         "updated_at": "2025-07-26 16:51:00"
       },
@@ -21111,7 +21109,7 @@
         "cyrillic_name": "Кроссроуд",
         "year_from": 1993,
         "year_to": 2010,
-        "class": "J",
+        "class": "C",
         "updated_at": "2025-07-26 16:51:00"
       },
       {
@@ -21220,7 +21218,7 @@
         "name": "Envix",
         "cyrillic_name": "Енвикс",
         "year_from": 2019,
-        "year_to": 2026,
+        "year_to": 2025,
         "class": "C",
         "updated_at": "2025-07-26 16:51:00"
       },
@@ -21281,7 +21279,7 @@
         "cyrillic_name": "Кларити",
         "year_from": 2008,
         "year_to": 2021,
-        "class": "E",
+        "class": "D",
         "updated_at": "2025-07-26 16:51:00"
       },
       {
@@ -21370,8 +21368,8 @@
         "name": "Insight",
         "cyrillic_name": "Инсайт",
         "year_from": 1999,
-        "year_to": 2022,
-        "class": "B",
+        "year_to": 2026,
+        "class": "C",
         "updated_at": "2025-07-26 16:51:00"
       },
       {
@@ -21441,7 +21439,7 @@
         "cyrillic_name": "Легенд",
         "year_from": 1985,
         "year_to": 2021,
-        "class": "E",
+        "class": "D",
         "updated_at": "2025-07-26 16:51:00"
       },
       {
@@ -21741,7 +21739,7 @@
         "cyrillic_name": "Шатл",
         "year_from": 1994,
         "year_to": 2022,
-        "class": "M",
+        "class": "B",
         "updated_at": "2025-07-26 16:51:00"
       },
       {
@@ -22167,7 +22165,7 @@
         "cyrillic_name": "830",
         "year_from": 1933,
         "year_to": 1940,
-        "class": "F",
+        "class": "S",
         "updated_at": "2025-07-26 16:51:00"
       },
       {
@@ -22219,7 +22217,7 @@
         "name": "Neta GT",
         "cyrillic_name": "Нета ГТ",
         "year_from": 2023,
-        "year_to": 2026,
+        "year_to": 2025,
         "class": "S",
         "updated_at": "2025-07-26 16:51:00"
       },
@@ -22229,7 +22227,7 @@
         "name": "Neta L",
         "cyrillic_name": "Нета Л",
         "year_from": 2024,
-        "year_to": 2026,
+        "year_to": 2025,
         "class": "D",
         "updated_at": "2025-07-26 16:51:00"
       },
@@ -22239,7 +22237,7 @@
         "name": "Neta S",
         "cyrillic_name": "Нета С",
         "year_from": 2022,
-        "year_to": 2026,
+        "year_to": 2025,
         "class": "D",
         "updated_at": "2025-07-26 16:51:00"
       },
@@ -22279,7 +22277,7 @@
         "name": "Neta X",
         "cyrillic_name": "Нета Икс",
         "year_from": 2023,
-        "year_to": 2026,
+        "year_to": 2025,
         "class": "C",
         "updated_at": "2025-07-26 16:51:00"
       }
@@ -22410,7 +22408,7 @@
     "cyrillic_name": "Хуацзы",
     "numeric_id": 14676800,
     "year_from": 2023,
-    "year_to": 2026,
+    "year_to": 2024,
     "popular": 0,
     "country": "Китай",
     "updated_at": "2025-07-26 22:33:37",
@@ -22421,7 +22419,7 @@
         "name": "Omega",
         "cyrillic_name": "Омега",
         "year_from": 2023,
-        "year_to": 2026,
+        "year_to": 2024,
         "class": "A",
         "updated_at": "2025-07-26 16:51:00"
       }
@@ -22552,7 +22550,7 @@
     "cyrillic_name": "Хикан",
     "numeric_id": 14629452,
     "year_from": 2020,
-    "year_to": 2026,
+    "year_to": 2025,
     "popular": 0,
     "country": "Китай",
     "updated_at": "2025-07-26 22:33:37",
@@ -22563,7 +22561,7 @@
         "name": "007",
         "cyrillic_name": "007",
         "year_from": 2020,
-        "year_to": 2026,
+        "year_to": 2022,
         "class": "D",
         "updated_at": "2025-07-26 16:51:00"
       },
@@ -22630,7 +22628,7 @@
     "year_from": 1975,
     "year_to": 2026,
     "popular": 1,
-    "country": "Южная Корея",
+    "country": "Республика Корея",
     "updated_at": "2025-07-26 22:33:37",
     "models": [
       {
@@ -22699,7 +22697,7 @@
         "name": "Azera",
         "cyrillic_name": "азера",
         "year_from": 2005,
-        "year_to": 2022,
+        "year_to": 2026,
         "class": "E",
         "updated_at": "2025-07-26 16:51:00"
       },
@@ -22880,7 +22878,7 @@
         "cyrillic_name": "Эксель",
         "year_from": 1985,
         "year_to": 1998,
-        "class": "C",
+        "class": "B",
         "updated_at": "2025-07-26 16:51:00"
       },
       {
@@ -22918,7 +22916,7 @@
         "mark_id": "HYUNDAI",
         "name": "Genesis Coupe",
         "cyrillic_name": "Дженесис Купе",
-        "year_from": 2009,
+        "year_from": 2008,
         "year_to": 2016,
         "class": "D",
         "updated_at": "2025-07-26 16:51:00"
@@ -22960,7 +22958,7 @@
         "cyrillic_name": "Гранд Старекс",
         "year_from": 2007,
         "year_to": 2021,
-        "class": null,
+        "class": "M",
         "updated_at": "2025-07-26 16:51:00"
       },
       {
@@ -23248,9 +23246,9 @@
         "mark_id": "HYUNDAI",
         "name": "Mistra",
         "cyrillic_name": "Мистра",
-        "year_from": 2020,
+        "year_from": 2017,
         "year_to": 2023,
-        "class": "C",
+        "class": "D",
         "updated_at": "2025-07-26 16:51:00"
       },
       {
@@ -23290,7 +23288,7 @@
         "cyrillic_name": "Пони",
         "year_from": 1975,
         "year_to": 1994,
-        "class": "C",
+        "class": "B",
         "updated_at": "2025-07-26 16:51:00"
       },
       {
@@ -23380,7 +23378,7 @@
         "cyrillic_name": "Старекс",
         "year_from": 1997,
         "year_to": 2007,
-        "class": null,
+        "class": "M",
         "updated_at": "2025-07-26 16:51:00"
       },
       {
@@ -23389,8 +23387,8 @@
         "name": "Stargazer",
         "cyrillic_name": "Старгейзер",
         "year_from": 2022,
-        "year_to": 2025,
-        "class": "M",
+        "year_to": 2026,
+        "class": "C",
         "updated_at": "2025-07-26 16:51:00"
       },
       {
@@ -23937,7 +23935,7 @@
         "name": "QX50",
         "cyrillic_name": "ку икс 50",
         "year_from": 2013,
-        "year_to": 2025,
+        "year_to": 2026,
         "class": "D",
         "updated_at": "2025-07-26 16:51:00"
       },
@@ -24304,7 +24302,7 @@
         "mark_id": "ISUZU",
         "name": "Axiom",
         "cyrillic_name": "аксиом",
-        "year_from": 2002,
+        "year_from": 2001,
         "year_to": 2004,
         "class": "J",
         "updated_at": "2025-07-26 16:51:00"
@@ -24346,7 +24344,7 @@
         "cyrillic_name": "Фарго",
         "year_from": 1980,
         "year_to": 2002,
-        "class": null,
+        "class": "M",
         "updated_at": "2025-07-26 16:51:00"
       },
       {
@@ -24642,7 +24640,7 @@
         "cyrillic_name": "Хантер",
         "year_from": 2021,
         "year_to": 2026,
-        "class": "F",
+        "class": "J",
         "updated_at": "2025-07-26 16:51:00"
       },
       {
@@ -24851,7 +24849,7 @@
         "name": "M5",
         "cyrillic_name": "м5",
         "year_from": 2011,
-        "year_to": 2026,
+        "year_to": 2025,
         "class": "M",
         "updated_at": "2025-07-26 16:51:00"
       },
@@ -25060,7 +25058,7 @@
         "mark_id": "JAC",
         "name": "T8",
         "cyrillic_name": "т8",
-        "year_from": 2023,
+        "year_from": 2018,
         "year_to": 2026,
         "class": "J",
         "updated_at": "2025-07-26 16:51:00"
@@ -25238,7 +25236,7 @@
         "cyrillic_name": "S-type",
         "year_from": 1963,
         "year_to": 2008,
-        "class": "E",
+        "class": "F",
         "updated_at": "2025-07-26 16:51:00"
       },
       {
@@ -25371,7 +25369,7 @@
         "cyrillic_name": "Чероки",
         "year_from": 1983,
         "year_to": 2026,
-        "class": "J",
+        "class": "C",
         "updated_at": "2025-07-26 16:51:00"
       },
       {
@@ -25490,7 +25488,7 @@
         "name": "Renegade",
         "cyrillic_name": "Ренегейд",
         "year_from": 2014,
-        "year_to": 2025,
+        "year_to": 2026,
         "class": "B",
         "updated_at": "2025-07-26 16:51:00"
       },
@@ -25620,7 +25618,7 @@
         "cyrillic_name": "Дашинг",
         "year_from": 2022,
         "year_to": 2026,
-        "class": "D",
+        "class": "C",
         "updated_at": "2025-07-26 16:51:00"
       },
       {
@@ -25857,6 +25855,16 @@
     "updated_at": "2025-07-26 22:33:37",
     "models": [
       {
+        "id": "JETTA_M6",
+        "mark_id": "JETTA",
+        "name": "M6",
+        "cyrillic_name": "М6",
+        "year_from": 2026,
+        "year_to": 2026,
+        "class": "C",
+        "updated_at": "2026-08-07 14:26:50"
+      },
+      {
         "id": "JETTA_VA3",
         "mark_id": "JETTA",
         "name": "VA3",
@@ -25937,7 +25945,7 @@
     "cyrillic_name": "Джиду",
     "numeric_id": 14896384,
     "year_from": 2024,
-    "year_to": 2026,
+    "year_to": 2025,
     "popular": 0,
     "country": "Китай",
     "updated_at": "2025-07-26 22:33:37",
@@ -25948,7 +25956,7 @@
         "name": "01",
         "cyrillic_name": "01",
         "year_from": 2024,
-        "year_to": 2026,
+        "year_to": 2025,
         "class": "D",
         "updated_at": "2025-07-26 16:51:00"
       },
@@ -25958,7 +25966,7 @@
         "name": "07",
         "cyrillic_name": "07",
         "year_from": 2024,
-        "year_to": 2026,
+        "year_to": 2025,
         "class": "E",
         "updated_at": "2025-07-26 16:51:00"
       }
@@ -25980,8 +25988,8 @@
         "mark_id": "JINBEI",
         "name": "Haise",
         "cyrillic_name": "хайс",
-        "year_from": 2000,
-        "year_to": 2022,
+        "year_from": 2002,
+        "year_to": 2026,
         "class": "M",
         "updated_at": "2025-07-26 16:51:00"
       },
@@ -26296,7 +26304,7 @@
     "year_from": 2023,
     "year_to": 2026,
     "popular": 0,
-    "country": "Южная Корея",
+    "country": "Республика Корея",
     "updated_at": "2025-07-26 22:33:37",
     "models": [
       {
@@ -26389,7 +26397,7 @@
     "year_from": 1987,
     "year_to": 2026,
     "popular": 1,
-    "country": "Южная Корея",
+    "country": "Республика Корея",
     "updated_at": "2025-07-26 22:33:37",
     "models": [
       {
@@ -26509,7 +26517,7 @@
         "cyrillic_name": "Кларус",
         "year_from": 1996,
         "year_to": 2001,
-        "class": "E",
+        "class": "D",
         "updated_at": "2025-07-26 16:51:00"
       },
       {
@@ -26639,7 +26647,7 @@
         "cyrillic_name": "к3",
         "year_from": 2012,
         "year_to": 2026,
-        "class": "B",
+        "class": "C",
         "updated_at": "2025-07-26 16:51:00"
       },
       {
@@ -26679,7 +26687,7 @@
         "cyrillic_name": "К8",
         "year_from": 2021,
         "year_to": 2026,
-        "class": "F",
+        "class": "E",
         "updated_at": "2025-07-26 16:51:00"
       },
       {
@@ -26689,7 +26697,7 @@
         "cyrillic_name": "К9",
         "year_from": 2012,
         "year_to": 2026,
-        "class": "F",
+        "class": "E",
         "updated_at": "2025-07-26 16:51:00"
       },
       {
@@ -26869,7 +26877,7 @@
         "cyrillic_name": "Преджио",
         "year_from": 1995,
         "year_to": 2007,
-        "class": null,
+        "class": "M",
         "updated_at": "2025-07-26 16:51:00"
       },
       {
@@ -26929,7 +26937,7 @@
         "cyrillic_name": "Рэй",
         "year_from": 2011,
         "year_to": 2026,
-        "class": "A",
+        "class": "M",
         "updated_at": "2025-07-26 16:51:00"
       },
       {
@@ -27158,7 +27166,7 @@
         "name": "XCeed",
         "cyrillic_name": "Икс Сид",
         "year_from": 2019,
-        "year_to": 2025,
+        "year_to": 2026,
         "class": "C",
         "updated_at": "2025-07-26 16:51:00"
       },
@@ -27720,7 +27728,7 @@
         "cyrillic_name": "Дэльта",
         "year_from": 1979,
         "year_to": 2014,
-        "class": "D",
+        "class": "C",
         "updated_at": "2025-07-26 16:51:00"
       },
       {
@@ -27730,7 +27738,7 @@
         "cyrillic_name": "фламиния",
         "year_from": 1952,
         "year_to": 1970,
-        "class": "S",
+        "class": "E",
         "updated_at": "2025-07-26 16:51:00"
       },
       {
@@ -27759,8 +27767,8 @@
         "name": "Gamma",
         "cyrillic_name": "Гамма",
         "year_from": 1976,
-        "year_to": 1984,
-        "class": "C",
+        "year_to": 2026,
+        "class": "D",
         "updated_at": "2025-07-26 16:51:00"
       },
       {
@@ -27870,7 +27878,7 @@
         "cyrillic_name": "Тема",
         "year_from": 1984,
         "year_to": 2014,
-        "class": "D",
+        "class": "E",
         "updated_at": "2025-07-26 16:51:00"
       },
       {
@@ -28209,7 +28217,7 @@
         "cyrillic_name": "С10",
         "year_from": 2023,
         "year_to": 2026,
-        "class": null,
+        "class": "D",
         "updated_at": "2025-07-26 16:51:00"
       },
       {
@@ -28387,7 +28395,7 @@
         "name": "GS F",
         "cyrillic_name": "Джи Эс Эф",
         "year_from": 2015,
-        "year_to": 2018,
+        "year_to": 2020,
         "class": "E",
         "updated_at": "2025-07-26 16:51:00"
       },
@@ -28507,7 +28515,7 @@
         "name": "RC",
         "cyrillic_name": "РС",
         "year_from": 2014,
-        "year_to": 2026,
+        "year_to": 2025,
         "class": "D",
         "updated_at": "2025-07-26 16:51:00"
       },
@@ -28517,7 +28525,7 @@
         "name": "RC F",
         "cyrillic_name": "РС Ф",
         "year_from": 2014,
-        "year_to": 2026,
+        "year_to": 2025,
         "class": "D",
         "updated_at": "2025-07-26 16:51:00"
       },
@@ -28548,7 +28556,7 @@
         "cyrillic_name": "сц",
         "year_from": 1991,
         "year_to": 2010,
-        "class": "E",
+        "class": "D",
         "updated_at": "2025-07-26 16:51:00"
       },
       {
@@ -28770,7 +28778,7 @@
         "cyrillic_name": "авиатор",
         "year_from": 2002,
         "year_to": 2026,
-        "class": "J",
+        "class": "E",
         "updated_at": "2025-07-26 16:51:00"
       },
       {
@@ -28800,7 +28808,7 @@
         "cyrillic_name": "континенталь",
         "year_from": 1939,
         "year_to": 2020,
-        "class": "F",
+        "class": "E",
         "updated_at": "2025-07-26 16:51:00"
       },
       {
@@ -29188,7 +29196,7 @@
         "name": "One",
         "cyrillic_name": "Ван",
         "year_from": 2019,
-        "year_to": 2023,
+        "year_to": 2022,
         "class": "E",
         "updated_at": "2025-07-26 16:51:00"
       }
@@ -30307,7 +30315,7 @@
         "cyrillic_name": "битурбо",
         "year_from": 1981,
         "year_to": 1994,
-        "class": "D",
+        "class": "S",
         "updated_at": "2025-07-26 16:51:00"
       },
       {
@@ -30337,7 +30345,7 @@
         "cyrillic_name": "Гибли",
         "year_from": 1992,
         "year_to": 2024,
-        "class": "D",
+        "class": "E",
         "updated_at": "2025-07-26 16:51:00"
       },
       {
@@ -30577,6 +30585,16 @@
         "updated_at": "2025-07-26 16:51:00"
       },
       {
+        "id": "MAXUS_DANA_V1",
+        "mark_id": "MAXUS",
+        "name": "Dana V1",
+        "cyrillic_name": "Дана В1",
+        "year_from": 2024,
+        "year_to": 2026,
+        "class": "M",
+        "updated_at": "2026-08-07 14:26:50"
+      },
+      {
         "id": "MAXUS_EUNIQ_5",
         "mark_id": "MAXUS",
         "name": "EUNIQ 5",
@@ -30624,16 +30642,6 @@
         "year_from": 2019,
         "year_to": 2026,
         "class": "M",
-        "updated_at": "2025-07-26 16:51:00"
-      },
-      {
-        "id": "MAXUS_G50_MAX",
-        "mark_id": "MAXUS",
-        "name": "G50 Max",
-        "cyrillic_name": "Джи50 Макс",
-        "year_from": 2025,
-        "year_to": 2026,
-        "class": null,
         "updated_at": "2025-07-26 16:51:00"
       },
       {
@@ -30713,7 +30721,7 @@
         "cyrillic_name": "Т70",
         "year_from": 2019,
         "year_to": 2023,
-        "class": null,
+        "class": "J",
         "updated_at": "2025-07-26 16:51:00"
       },
       {
@@ -30765,7 +30773,7 @@
         "name": "57",
         "cyrillic_name": "57",
         "year_from": 2002,
-        "year_to": 2012,
+        "year_to": 2013,
         "class": "F",
         "updated_at": "2025-07-26 16:51:00"
       },
@@ -30958,8 +30966,8 @@
         "name": "929",
         "cyrillic_name": "929",
         "year_from": 1972,
-        "year_to": 1992,
-        "class": "F",
+        "year_to": 1995,
+        "class": "E",
         "updated_at": "2025-07-26 16:51:00"
       },
       {
@@ -30968,7 +30976,7 @@
         "name": "Atenza",
         "cyrillic_name": "Атенза",
         "year_from": 2002,
-        "year_to": 2019,
+        "year_to": 2022,
         "class": "D",
         "updated_at": "2025-07-26 16:51:00"
       },
@@ -31418,7 +31426,7 @@
         "name": "Flair",
         "cyrillic_name": "флэир",
         "year_from": 2012,
-        "year_to": 2026,
+        "year_to": 2025,
         "class": "M",
         "updated_at": "2025-07-26 16:51:00"
       },
@@ -31659,7 +31667,7 @@
         "cyrillic_name": "RX-8",
         "year_from": 2003,
         "year_to": 2012,
-        "class": "S",
+        "class": "D",
         "updated_at": "2025-07-26 16:51:00"
       },
       {
@@ -31699,7 +31707,7 @@
         "cyrillic_name": "Сентия",
         "year_from": 1991,
         "year_to": 2000,
-        "class": "F",
+        "class": "E",
         "updated_at": "2025-07-26 16:51:00"
       },
       {
@@ -31920,7 +31928,7 @@
         "mark_id": "MCLAREN",
         "name": "GTS",
         "cyrillic_name": "ГТС",
-        "year_from": 2023,
+        "year_from": 2024,
         "year_to": 2026,
         "class": "S",
         "updated_at": "2025-07-26 16:51:00"
@@ -31931,7 +31939,7 @@
         "name": "P1",
         "cyrillic_name": "П1",
         "year_from": 2013,
-        "year_to": 2015,
+        "year_to": 2017,
         "class": "S",
         "updated_at": "2025-07-26 16:51:00"
       },
@@ -32208,7 +32216,7 @@
         "cyrillic_name": "ЦЛК-класс",
         "year_from": 1997,
         "year_to": 2010,
-        "class": "E",
+        "class": "S",
         "updated_at": "2025-07-26 16:51:00"
       },
       {
@@ -32218,7 +32226,7 @@
         "cyrillic_name": "ЦЛК-класс АМГ",
         "year_from": 1999,
         "year_to": 2010,
-        "class": "E",
+        "class": "S",
         "updated_at": "2025-07-26 16:51:00"
       },
       {
@@ -32878,7 +32886,7 @@
         "cyrillic_name": "вито",
         "year_from": 1996,
         "year_to": 2026,
-        "class": null,
+        "class": "M",
         "updated_at": "2025-07-26 16:51:00"
       },
       {
@@ -32997,7 +33005,7 @@
         "name": "W123",
         "cyrillic_name": "W123",
         "year_from": 1975,
-        "year_to": 1985,
+        "year_to": 1986,
         "class": "E",
         "updated_at": "2025-07-26 16:51:00"
       },
@@ -33261,7 +33269,7 @@
         "cyrillic_name": "Монтерей",
         "year_from": 1952,
         "year_to": 2007,
-        "class": "F",
+        "class": "M",
         "updated_at": "2025-07-26 16:51:00"
       },
       {
@@ -33291,7 +33299,7 @@
         "cyrillic_name": "Сабл",
         "year_from": 1986,
         "year_to": 2009,
-        "class": "F",
+        "class": "D",
         "updated_at": "2025-07-26 16:51:00"
       },
       {
@@ -33603,7 +33611,7 @@
         "cyrillic_name": "ХС",
         "year_from": 2018,
         "year_to": 2026,
-        "class": "D",
+        "class": "C",
         "updated_at": "2025-07-26 16:51:00"
       },
       {
@@ -33803,7 +33811,7 @@
         "cyrillic_name": "зс",
         "year_from": 2001,
         "year_to": 2026,
-        "class": "C",
+        "class": "B",
         "updated_at": "2025-07-26 16:51:00"
       },
       {
@@ -34081,7 +34089,7 @@
         "cyrillic_name": "Аиртрек",
         "year_from": 2001,
         "year_to": 2023,
-        "class": "D",
+        "class": "J",
         "updated_at": "2025-07-26 16:51:00"
       },
       {
@@ -34111,7 +34119,7 @@
         "cyrillic_name": "Аттраж",
         "year_from": 2014,
         "year_to": 2026,
-        "class": "B",
+        "class": "C",
         "updated_at": "2025-07-26 16:51:00"
       },
       {
@@ -34350,7 +34358,7 @@
         "name": "eK Space",
         "cyrillic_name": "еК Спейс",
         "year_from": 2014,
-        "year_to": 2026,
+        "year_to": 2025,
         "class": "A",
         "updated_at": "2025-07-26 16:51:00"
       },
@@ -34461,7 +34469,7 @@
         "cyrillic_name": "Грандис",
         "year_from": 2003,
         "year_to": 2026,
-        "class": "C",
+        "class": "M",
         "updated_at": "2025-07-26 16:51:00"
       },
       {
@@ -34521,7 +34529,7 @@
         "cyrillic_name": "л300",
         "year_from": 1979,
         "year_to": 1999,
-        "class": null,
+        "class": "M",
         "updated_at": "2025-07-26 16:51:00"
       },
       {
@@ -34531,7 +34539,7 @@
         "cyrillic_name": "л400",
         "year_from": 1995,
         "year_to": 2006,
-        "class": null,
+        "class": "M",
         "updated_at": "2025-07-26 16:51:00"
       },
       {
@@ -34761,7 +34769,7 @@
         "cyrillic_name": "РВР",
         "year_from": 1991,
         "year_to": 2024,
-        "class": "M",
+        "class": "C",
         "updated_at": "2025-07-26 16:51:00"
       },
       {
@@ -34821,7 +34829,7 @@
         "cyrillic_name": "Спайс Стар",
         "year_from": 1998,
         "year_to": 2026,
-        "class": "M",
+        "class": "B",
         "updated_at": "2025-07-26 16:51:00"
       },
       {
@@ -34850,7 +34858,7 @@
         "name": "Strada",
         "cyrillic_name": "Страда",
         "year_from": 1991,
-        "year_to": 2005,
+        "year_to": 2023,
         "class": "J",
         "updated_at": "2025-07-26 16:51:00"
       },
@@ -34861,7 +34869,7 @@
         "cyrillic_name": "Топпо",
         "year_from": 1990,
         "year_to": 2013,
-        "class": "M",
+        "class": "A",
         "updated_at": "2025-07-26 16:51:00"
       },
       {
@@ -35024,7 +35032,7 @@
         "cyrillic_name": "Ноуера",
         "year_from": 2003,
         "year_to": 2012,
-        "class": "E",
+        "class": "D",
         "updated_at": "2025-07-26 16:51:00"
       },
       {
@@ -35084,7 +35092,7 @@
         "cyrillic_name": "Вьювт",
         "year_from": 1993,
         "year_to": 2026,
-        "class": "B",
+        "class": "C",
         "updated_at": "2025-07-26 16:51:00"
       },
       {
@@ -35544,8 +35552,8 @@
         "mark_id": "MOSCVICH",
         "name": "5",
         "cyrillic_name": "5",
-        "year_from": 2023,
-        "year_to": 2026,
+        "year_from": 2024,
+        "year_to": 2024,
         "class": "C",
         "updated_at": "2025-07-26 16:51:01"
       },
@@ -35937,7 +35945,7 @@
         "name": "AD",
         "cyrillic_name": "AD",
         "year_from": 1982,
-        "year_to": 2026,
+        "year_to": 2025,
         "class": "C",
         "updated_at": "2025-07-26 16:51:00"
       },
@@ -35947,7 +35955,7 @@
         "name": "Almera",
         "cyrillic_name": "Альмера",
         "year_from": 1995,
-        "year_to": 2018,
+        "year_to": 2026,
         "class": "B",
         "updated_at": "2025-07-26 16:51:00"
       },
@@ -36118,7 +36126,7 @@
         "cyrillic_name": "Черри",
         "year_from": 1970,
         "year_to": 1987,
-        "class": "B",
+        "class": "C",
         "updated_at": "2025-07-26 16:51:00"
       },
       {
@@ -36296,7 +36304,7 @@
         "mark_id": "NISSAN",
         "name": "Gloria",
         "cyrillic_name": "Глория",
-        "year_from": 1962,
+        "year_from": 1959,
         "year_to": 2004,
         "class": "E",
         "updated_at": "2025-07-26 16:51:00"
@@ -36478,7 +36486,7 @@
         "cyrillic_name": "лиф",
         "year_from": 2010,
         "year_to": 2026,
-        "class": "C",
+        "class": "B",
         "updated_at": "2025-07-26 16:51:00"
       },
       {
@@ -36678,7 +36686,7 @@
         "cyrillic_name": "НВ300",
         "year_from": 2016,
         "year_to": 2021,
-        "class": null,
+        "class": "M",
         "updated_at": "2025-07-26 16:51:00"
       },
       {
@@ -36688,7 +36696,7 @@
         "cyrillic_name": "NV350 Караван",
         "year_from": 2012,
         "year_to": 2021,
-        "class": null,
+        "class": "M",
         "updated_at": "2025-07-26 16:51:00"
       },
       {
@@ -36818,7 +36826,7 @@
         "cyrillic_name": "примастар",
         "year_from": 2002,
         "year_to": 2026,
-        "class": null,
+        "class": "M",
         "updated_at": "2025-07-26 16:51:00"
       },
       {
@@ -36966,7 +36974,7 @@
         "mark_id": "NISSAN",
         "name": "Silvia",
         "cyrillic_name": "Сильвия",
-        "year_from": 1968,
+        "year_from": 1965,
         "year_to": 2002,
         "class": "S",
         "updated_at": "2025-07-26 16:51:00"
@@ -36998,7 +37006,7 @@
         "cyrillic_name": "Стайджиа",
         "year_from": 1996,
         "year_to": 2007,
-        "class": "D",
+        "class": "E",
         "updated_at": "2025-07-26 16:51:00"
       },
       {
@@ -37078,7 +37086,7 @@
         "cyrillic_name": "Террано",
         "year_from": 1985,
         "year_to": 2022,
-        "class": "J",
+        "class": "B",
         "updated_at": "2025-07-26 16:51:00"
       },
       {
@@ -37128,7 +37136,7 @@
         "cyrillic_name": "урван",
         "year_from": 1986,
         "year_to": 2012,
-        "class": null,
+        "class": "M",
         "updated_at": "2025-07-26 16:51:00"
       },
       {
@@ -37357,7 +37365,7 @@
         "cyrillic_name": "Катлас",
         "year_from": 1968,
         "year_to": 1999,
-        "class": "D",
+        "class": "S",
         "updated_at": "2025-07-26 16:51:00"
       },
       {
@@ -37407,7 +37415,7 @@
         "cyrillic_name": "88",
         "year_from": 1957,
         "year_to": 1999,
-        "class": "E",
+        "class": "D",
         "updated_at": "2025-07-26 16:51:00"
       },
       {
@@ -37467,7 +37475,7 @@
         "cyrillic_name": "Серия 70",
         "year_from": 1939,
         "year_to": 1950,
-        "class": null,
+        "class": "S",
         "updated_at": "2025-07-26 16:51:00"
       },
       {
@@ -37487,7 +37495,7 @@
         "cyrillic_name": "Старфайер",
         "year_from": 1961,
         "year_to": 1980,
-        "class": "C",
+        "class": "S",
         "updated_at": "2025-07-26 16:51:00"
       },
       {
@@ -37497,7 +37505,7 @@
         "cyrillic_name": "Торонадо",
         "year_from": 1966,
         "year_to": 1992,
-        "class": "S",
+        "class": "E",
         "updated_at": "2025-07-26 16:51:00"
       },
       {
@@ -37656,7 +37664,7 @@
         "cyrillic_name": "Агила",
         "year_from": 2000,
         "year_to": 2014,
-        "class": "M",
+        "class": "A",
         "updated_at": "2025-07-26 16:51:00"
       },
       {
@@ -37666,7 +37674,7 @@
         "cyrillic_name": "Ампера",
         "year_from": 2011,
         "year_to": 2021,
-        "class": "B",
+        "class": "C",
         "updated_at": "2025-07-26 16:51:00"
       },
       {
@@ -37705,7 +37713,7 @@
         "name": "Astra OPC",
         "cyrillic_name": "астра опс",
         "year_from": 1999,
-        "year_to": 2015,
+        "year_to": 2016,
         "class": "C",
         "updated_at": "2025-07-26 16:51:00"
       },
@@ -37756,7 +37764,7 @@
         "cyrillic_name": "Коммодор",
         "year_from": 1967,
         "year_to": 1982,
-        "class": "S",
+        "class": "D",
         "updated_at": "2025-07-26 16:51:00"
       },
       {
@@ -37796,7 +37804,7 @@
         "cyrillic_name": "Дипломат",
         "year_from": 1964,
         "year_to": 1978,
-        "class": "S",
+        "class": "E",
         "updated_at": "2025-07-26 16:51:00"
       },
       {
@@ -37806,7 +37814,7 @@
         "cyrillic_name": "Фронтера",
         "year_from": 1991,
         "year_to": 2026,
-        "class": "J",
+        "class": "D",
         "updated_at": "2025-07-26 16:51:00"
       },
       {
@@ -37866,7 +37874,7 @@
         "cyrillic_name": "Капитан",
         "year_from": 1938,
         "year_to": 1970,
-        "class": "E",
+        "class": "S",
         "updated_at": "2025-07-26 16:51:00"
       },
       {
@@ -37986,7 +37994,7 @@
         "cyrillic_name": "Рекорд",
         "year_from": 1963,
         "year_to": 1986,
-        "class": "D",
+        "class": "E",
         "updated_at": "2025-07-26 16:51:00"
       },
       {
@@ -38056,7 +38064,7 @@
         "cyrillic_name": "Тигра",
         "year_from": 1994,
         "year_to": 2009,
-        "class": "S",
+        "class": "B",
         "updated_at": "2025-07-26 16:51:00"
       },
       {
@@ -38477,7 +38485,7 @@
         "cyrillic_name": "Каррибиан",
         "year_from": 1953,
         "year_to": 1956,
-        "class": "F",
+        "class": "S",
         "updated_at": "2025-07-26 16:51:00"
       },
       {
@@ -38769,7 +38777,7 @@
         "cyrillic_name": "106",
         "year_from": 1991,
         "year_to": 2004,
-        "class": "A",
+        "class": "B",
         "updated_at": "2025-07-26 16:51:00"
       },
       {
@@ -38809,7 +38817,7 @@
         "cyrillic_name": "201",
         "year_from": 1929,
         "year_to": 1937,
-        "class": null,
+        "class": "S",
         "updated_at": "2025-07-26 16:51:00"
       },
       {
@@ -38888,7 +38896,7 @@
         "name": "207i (Iran Khodro)",
         "cyrillic_name": "207и (Иран Кходро)",
         "year_from": 2016,
-        "year_to": 2026,
+        "year_to": 2024,
         "class": "B",
         "updated_at": "2025-07-26 16:51:00"
       },
@@ -39099,7 +39107,7 @@
         "cyrillic_name": "5008",
         "year_from": 2009,
         "year_to": 2026,
-        "class": "D",
+        "class": "M",
         "updated_at": "2025-07-26 16:51:00"
       },
       {
@@ -39159,7 +39167,7 @@
         "cyrillic_name": "607",
         "year_from": 2000,
         "year_to": 2010,
-        "class": "E",
+        "class": "F",
         "updated_at": "2025-07-26 16:51:00"
       },
       {
@@ -39199,7 +39207,7 @@
         "cyrillic_name": "Эксперт",
         "year_from": 1995,
         "year_to": 2026,
-        "class": null,
+        "class": "M",
         "updated_at": "2025-07-26 16:51:00"
       },
       {
@@ -39218,7 +39226,7 @@
         "name": "Landtrek",
         "cyrillic_name": "Ландтрек",
         "year_from": 2020,
-        "year_to": 2026,
+        "year_to": 2024,
         "class": "J",
         "updated_at": "2025-07-26 16:51:00"
       },
@@ -39335,7 +39343,7 @@
         "cyrillic_name": "Портер",
         "year_from": 1992,
         "year_to": 2021,
-        "class": null,
+        "class": "M",
         "updated_at": "2025-07-26 16:51:00"
       }
     ]
@@ -39710,7 +39718,7 @@
         "cyrillic_name": "Бонневиль",
         "year_from": 1965,
         "year_to": 2005,
-        "class": "S",
+        "class": "E",
         "updated_at": "2025-07-26 16:51:00"
       },
       {
@@ -39720,7 +39728,7 @@
         "cyrillic_name": "Каталина",
         "year_from": 1959,
         "year_to": 1981,
-        "class": "F",
+        "class": "S",
         "updated_at": "2025-07-26 16:51:00"
       },
       {
@@ -39840,7 +39848,7 @@
         "cyrillic_name": "ЛеМан",
         "year_from": 1964,
         "year_to": 1993,
-        "class": "F",
+        "class": "C",
         "updated_at": "2025-07-26 16:51:00"
       },
       {
@@ -39870,7 +39878,7 @@
         "cyrillic_name": "Феникс",
         "year_from": 1977,
         "year_to": 1984,
-        "class": "C",
+        "class": "D",
         "updated_at": "2025-07-26 16:51:00"
       },
       {
@@ -39920,7 +39928,7 @@
         "cyrillic_name": "Темпест",
         "year_from": 1961,
         "year_to": 1991,
-        "class": "S",
+        "class": "C",
         "updated_at": "2025-07-26 16:51:00"
       },
       {
@@ -39960,7 +39968,7 @@
         "cyrillic_name": "Вентура",
         "year_from": 1960,
         "year_to": 1977,
-        "class": "F",
+        "class": "D",
         "updated_at": "2026-07-09 02:16:44"
       },
       {
@@ -40309,7 +40317,7 @@
         "cyrillic_name": "Дрифт",
         "year_from": 1950,
         "year_to": 2026,
-        "class": "C",
+        "class": "S",
         "updated_at": "2025-07-26 16:51:01"
       },
       {
@@ -40349,7 +40357,7 @@
         "cyrillic_name": "Оффроуд",
         "year_from": 1950,
         "year_to": 2026,
-        "class": "J",
+        "class": "S",
         "updated_at": "2025-07-26 16:51:01"
       },
       {
@@ -40379,7 +40387,7 @@
         "cyrillic_name": "Самоделки",
         "year_from": 1943,
         "year_to": 2026,
-        "class": "M",
+        "class": "S",
         "updated_at": "2025-07-26 16:51:01"
       },
       {
@@ -40482,7 +40490,7 @@
         "cyrillic_name": "персона",
         "year_from": 1993,
         "year_to": 2026,
-        "class": "S",
+        "class": "C",
         "updated_at": "2025-07-26 16:51:01"
       },
       {
@@ -40511,8 +40519,8 @@
         "name": "Saga",
         "cyrillic_name": "Сага",
         "year_from": 1985,
-        "year_to": 2025,
-        "class": "B",
+        "year_to": 2026,
+        "class": "C",
         "updated_at": "2025-07-26 16:51:01"
       },
       {
@@ -40522,7 +40530,7 @@
         "cyrillic_name": "сатрия",
         "year_from": 1996,
         "year_to": 2015,
-        "class": "C",
+        "class": "B",
         "updated_at": "2025-07-26 16:51:01"
       },
       {
@@ -40571,7 +40579,7 @@
         "name": "X50",
         "cyrillic_name": "Икс50",
         "year_from": 2020,
-        "year_to": 2026,
+        "year_to": 2025,
         "class": "B",
         "updated_at": "2025-07-26 16:51:01"
       },
@@ -40862,7 +40870,7 @@
         "cyrillic_name": "Промастер Сити",
         "year_from": 2014,
         "year_to": 2026,
-        "class": null,
+        "class": "M",
         "updated_at": "2025-07-26 16:51:01"
       },
       {
@@ -41217,7 +41225,7 @@
         "cyrillic_name": "9",
         "year_from": 1981,
         "year_to": 2000,
-        "class": "B",
+        "class": "C",
         "updated_at": "2025-07-26 16:51:01"
       },
       {
@@ -41226,7 +41234,7 @@
         "name": "Alaskan",
         "cyrillic_name": "Аласкан",
         "year_from": 2017,
-        "year_to": 2026,
+        "year_to": 2025,
         "class": "J",
         "updated_at": "2025-07-26 16:51:01"
       },
@@ -41247,7 +41255,7 @@
         "cyrillic_name": "Аустрал",
         "year_from": 2022,
         "year_to": 2026,
-        "class": "D",
+        "class": "C",
         "updated_at": "2025-07-26 16:51:01"
       },
       {
@@ -41395,7 +41403,7 @@
         "mark_id": "RENAULT",
         "name": "Express",
         "cyrillic_name": "Экспресс",
-        "year_from": 2021,
+        "year_from": 1986,
         "year_to": 2026,
         "class": "M",
         "updated_at": "2025-07-26 16:51:01"
@@ -41567,7 +41575,7 @@
         "cyrillic_name": "Логан",
         "year_from": 2004,
         "year_to": 2022,
-        "class": "C",
+        "class": "B",
         "updated_at": "2025-07-26 16:51:01"
       },
       {
@@ -41597,7 +41605,7 @@
         "cyrillic_name": "Меган Е Тех",
         "year_from": 2021,
         "year_to": 2026,
-        "class": "C",
+        "class": "B",
         "updated_at": "2025-07-26 16:51:01"
       },
       {
@@ -41747,7 +41755,7 @@
         "cyrillic_name": "трафик",
         "year_from": 1980,
         "year_to": 2026,
-        "class": null,
+        "class": "M",
         "updated_at": "2025-07-26 16:51:01"
       },
       {
@@ -41859,7 +41867,7 @@
         "name": "Beast",
         "cyrillic_name": "Бист",
         "year_from": 2015,
-        "year_to": 2026,
+        "year_to": 2024,
         "class": "S",
         "updated_at": "2025-07-26 16:51:01"
       },
@@ -42114,7 +42122,7 @@
         "name": "i6",
         "cyrillic_name": "ай6",
         "year_from": 2017,
-        "year_to": 2020,
+        "year_to": 2026,
         "class": "C",
         "updated_at": "2025-07-26 16:51:01"
       },
@@ -42194,7 +42202,7 @@
         "name": "RX5 Max",
         "cyrillic_name": "рикс5 макс",
         "year_from": 2019,
-        "year_to": 2026,
+        "year_to": 2023,
         "class": "D",
         "updated_at": "2025-07-26 16:51:01"
       },
@@ -42288,7 +42296,7 @@
         "cyrillic_name": "корниш",
         "year_from": 1971,
         "year_to": 2002,
-        "class": "F",
+        "class": "S",
         "updated_at": "2025-07-26 16:51:01"
       },
       {
@@ -43008,7 +43016,7 @@
     "year_from": 1998,
     "year_to": 2026,
     "popular": 0,
-    "country": "Южная Корея",
+    "country": "Республика Корея",
     "updated_at": "2025-07-26 22:33:37",
     "models": [
       {
@@ -43037,7 +43045,7 @@
         "name": "QM6",
         "cyrillic_name": "куэм6",
         "year_from": 2016,
-        "year_to": 2024,
+        "year_to": 2026,
         "class": "D",
         "updated_at": "2025-07-26 16:51:01"
       },
@@ -43058,7 +43066,7 @@
         "cyrillic_name": "см5",
         "year_from": 1998,
         "year_to": 2019,
-        "class": "D",
+        "class": "E",
         "updated_at": "2025-07-26 16:51:01"
       },
       {
@@ -43569,7 +43577,7 @@
         "cyrillic_name": "ИНКА",
         "year_from": 1995,
         "year_to": 2003,
-        "class": null,
+        "class": "M",
         "updated_at": "2025-07-26 16:51:01"
       },
       {
@@ -43649,7 +43657,7 @@
         "cyrillic_name": "Толедо",
         "year_from": 1991,
         "year_to": 2019,
-        "class": "C",
+        "class": "B",
         "updated_at": "2025-07-26 16:51:01"
       }
     ]
@@ -43814,6 +43822,29 @@
     ]
   },
   {
+    "id": "SHAY_MOTORS",
+    "name": "Shay Motors",
+    "cyrillic_name": "Шэй Mоторс",
+    "numeric_id": 21162357,
+    "year_from": 1979,
+    "year_to": 1982,
+    "popular": 0,
+    "country": "США",
+    "updated_at": "2026-08-07 14:26:51",
+    "models": [
+      {
+        "id": "SHAY_MOTORS_MODEL_A",
+        "mark_id": "SHAY_MOTORS",
+        "name": "Model A",
+        "cyrillic_name": "Модел А",
+        "year_from": 1979,
+        "year_to": 1982,
+        "class": "S",
+        "updated_at": "2026-08-07 14:26:51"
+      }
+    ]
+  },
+  {
     "id": "SHUANGHUAN",
     "name": "ShuangHuan",
     "cyrillic_name": "Шунган",
@@ -43916,18 +43947,18 @@
       {
         "id": "SKODA_100_SERIES",
         "mark_id": "SKODA",
-        "name": "100 Series",
-        "cyrillic_name": "100 серия",
+        "name": "100/110",
+        "cyrillic_name": "100/110",
         "year_from": 1969,
-        "year_to": 1991,
+        "year_to": 1980,
         "class": "C",
         "updated_at": "2025-07-26 16:51:01"
       },
       {
         "id": "SKODA_120",
         "mark_id": "SKODA",
-        "name": "105, 120",
-        "cyrillic_name": "105, 120",
+        "name": "105/120/125/130",
+        "cyrillic_name": "105/120/125/130",
         "year_from": 1976,
         "year_to": 1990,
         "class": "B",
@@ -44000,7 +44031,7 @@
         "cyrillic_name": "Эниак",
         "year_from": 2020,
         "year_to": 2026,
-        "class": "D",
+        "class": "C",
         "updated_at": "2025-07-26 16:51:01"
       },
       {
@@ -44010,7 +44041,7 @@
         "cyrillic_name": "Эниак Купе",
         "year_from": 2022,
         "year_to": 2026,
-        "class": "D",
+        "class": "C",
         "updated_at": "2025-07-26 16:51:01"
       },
       {
@@ -44020,7 +44051,7 @@
         "cyrillic_name": "Эниак Купе РС",
         "year_from": 2022,
         "year_to": 2026,
-        "class": "D",
+        "class": "C",
         "updated_at": "2025-07-26 16:51:01"
       },
       {
@@ -44030,7 +44061,7 @@
         "cyrillic_name": "Эниак РС",
         "year_from": 2022,
         "year_to": 2026,
-        "class": "D",
+        "class": "C",
         "updated_at": "2025-07-26 16:51:01"
       },
       {
@@ -44180,7 +44211,7 @@
         "cyrillic_name": "Октавия РС",
         "year_from": 2001,
         "year_to": 2026,
-        "class": "D",
+        "class": "C",
         "updated_at": "2025-07-26 16:51:01"
       },
       {
@@ -44339,7 +44370,7 @@
         "cyrillic_name": "Фофо",
         "year_from": 2004,
         "year_to": 2021,
-        "class": "B",
+        "class": "A",
         "updated_at": "2025-07-26 16:51:01"
       },
       {
@@ -44463,7 +44494,7 @@
     "cyrillic_name": "Солярис",
     "numeric_id": 14713265,
     "year_from": 2022,
-    "year_to": 2026,
+    "year_to": 2025,
     "popular": 0,
     "country": "Россия",
     "updated_at": "2025-07-26 22:33:37",
@@ -44474,7 +44505,7 @@
         "name": "HC",
         "cyrillic_name": "ХЦ",
         "year_from": 2022,
-        "year_to": 2026,
+        "year_to": 2025,
         "class": "B",
         "updated_at": "2025-07-26 16:51:01"
       },
@@ -44484,7 +44515,7 @@
         "name": "HS",
         "cyrillic_name": "ХС",
         "year_from": 2022,
-        "year_to": 2026,
+        "year_to": 2025,
         "class": "B",
         "updated_at": "2025-07-26 16:51:01"
       },
@@ -44494,7 +44525,7 @@
         "name": "KRS",
         "cyrillic_name": "КРС",
         "year_from": 2024,
-        "year_to": 2026,
+        "year_to": 2025,
         "class": "B",
         "updated_at": "2025-07-26 16:51:01"
       },
@@ -44504,7 +44535,7 @@
         "name": "KRX",
         "cyrillic_name": "КРИкс",
         "year_from": 2024,
-        "year_to": 2026,
+        "year_to": 2025,
         "class": "B",
         "updated_at": "2025-07-26 16:51:01"
       }
@@ -44775,8 +44806,8 @@
         "mark_id": "SPYKER",
         "name": "C8",
         "cyrillic_name": "с8",
-        "year_from": 2001,
-        "year_to": 2009,
+        "year_from": 2000,
+        "year_to": 2026,
         "class": "S",
         "updated_at": "2025-07-26 16:51:01"
       }
@@ -44790,7 +44821,7 @@
     "year_from": 1987,
     "year_to": 2023,
     "popular": 0,
-    "country": "Южная Корея",
+    "country": "Республика Корея",
     "updated_at": "2025-07-26 22:33:37",
     "models": [
       {
@@ -45135,7 +45166,7 @@
         "cyrillic_name": "Альциона",
         "year_from": 1985,
         "year_to": 1996,
-        "class": "D",
+        "class": "S",
         "updated_at": "2025-07-26 16:51:01"
       },
       {
@@ -45415,7 +45446,7 @@
         "cyrillic_name": "Плео",
         "year_from": 1998,
         "year_to": 2018,
-        "class": "M",
+        "class": "A",
         "updated_at": "2025-07-26 16:51:01"
       },
       {
@@ -45637,7 +45668,7 @@
         "name": "Alto Lapin",
         "cyrillic_name": "альто лапин",
         "year_from": 2002,
-        "year_to": 2026,
+        "year_to": 2025,
         "class": "A",
         "updated_at": "2025-07-26 16:51:01"
       },
@@ -45658,7 +45689,7 @@
         "cyrillic_name": "Балено",
         "year_from": 1995,
         "year_to": 2026,
-        "class": "C",
+        "class": "B",
         "updated_at": "2025-07-26 16:51:01"
       },
       {
@@ -45668,7 +45699,7 @@
         "cyrillic_name": "Бейдусинг",
         "year_from": 2004,
         "year_to": 2022,
-        "class": "B",
+        "class": "A",
         "updated_at": "2025-07-26 16:51:01"
       },
       {
@@ -45698,7 +45729,7 @@
         "cyrillic_name": "карри",
         "year_from": 1979,
         "year_to": 2005,
-        "class": null,
+        "class": "M",
         "updated_at": "2025-07-26 16:51:01"
       },
       {
@@ -45958,7 +45989,7 @@
         "cyrillic_name": "Мр Вагон",
         "year_from": 2001,
         "year_to": 2016,
-        "class": "M",
+        "class": "A",
         "updated_at": "2025-07-26 16:51:01"
       },
       {
@@ -45992,6 +46023,16 @@
         "updated_at": "2025-07-26 16:51:01"
       },
       {
+        "id": "SUZUKI_SC100",
+        "mark_id": "SUZUKI",
+        "name": "SC100",
+        "cyrillic_name": "СЦ100",
+        "year_from": 1978,
+        "year_to": 1982,
+        "class": "A",
+        "updated_at": "2026-08-02 09:52:14"
+      },
+      {
         "id": "SUZUKI_SIDEKICK",
         "mark_id": "SUZUKI",
         "name": "Sidekick",
@@ -46018,7 +46059,7 @@
         "cyrillic_name": "Спасиа",
         "year_from": 2013,
         "year_to": 2026,
-        "class": "A",
+        "class": "M",
         "updated_at": "2025-07-26 16:51:01"
       },
       {
@@ -46148,7 +46189,7 @@
         "cyrillic_name": "Иксби",
         "year_from": 2017,
         "year_to": 2026,
-        "class": "B",
+        "class": "A",
         "updated_at": "2025-07-26 16:51:01"
       },
       {
@@ -46156,9 +46197,9 @@
         "mark_id": "SUZUKI",
         "name": "XL7",
         "cyrillic_name": "XL7",
-        "year_from": 2006,
-        "year_to": 2009,
-        "class": "D",
+        "year_from": 1998,
+        "year_to": 2026,
+        "class": "E",
         "updated_at": "2025-07-26 16:51:01"
       },
       {
@@ -46553,7 +46594,7 @@
         "cyrillic_name": "Индиго",
         "year_from": 2002,
         "year_to": 2016,
-        "class": "B",
+        "class": "C",
         "updated_at": "2025-07-26 16:51:01"
       },
       {
@@ -46804,6 +46845,16 @@
         "year_to": 2026,
         "class": "D",
         "updated_at": "2025-07-29 21:52:32"
+      },
+      {
+        "id": "TENET_T9",
+        "mark_id": "TENET",
+        "name": "T9",
+        "cyrillic_name": "Т9",
+        "year_from": 2026,
+        "year_to": 2026,
+        "class": "D",
+        "updated_at": "2026-08-12 16:57:35"
       }
     ]
   },
@@ -47266,7 +47317,7 @@
         "cyrillic_name": "Айго Икс",
         "year_from": 2022,
         "year_to": 2026,
-        "class": "B",
+        "class": "A",
         "updated_at": "2025-07-26 16:51:01"
       },
       {
@@ -47285,7 +47336,7 @@
         "name": "Belta",
         "cyrillic_name": "Бельта",
         "year_from": 2005,
-        "year_to": 2026,
+        "year_to": 2025,
         "class": "B",
         "updated_at": "2025-07-26 16:51:01"
       },
@@ -47340,16 +47391,6 @@
         "updated_at": "2025-07-26 16:51:01"
       },
       {
-        "id": "TOYOTA_BZ3C",
-        "mark_id": "TOYOTA",
-        "name": "bZ3C",
-        "cyrillic_name": "БЗ3С",
-        "year_from": 2025,
-        "year_to": 2026,
-        "class": null,
-        "updated_at": "2025-07-26 16:51:01"
-      },
-      {
         "id": "TOYOTA_BZ3X",
         "mark_id": "TOYOTA",
         "name": "bZ3X",
@@ -47384,7 +47425,7 @@
         "mark_id": "TOYOTA",
         "name": "bZ7",
         "cyrillic_name": "БЗ7",
-        "year_from": 2025,
+        "year_from": 2026,
         "year_to": 2026,
         "class": "E",
         "updated_at": "2025-10-19 19:03:49"
@@ -47416,7 +47457,7 @@
         "cyrillic_name": "Камри",
         "year_from": 1980,
         "year_to": 2026,
-        "class": "D",
+        "class": "E",
         "updated_at": "2025-07-26 16:51:01"
       },
       {
@@ -47506,7 +47547,7 @@
         "cyrillic_name": "Чайзер",
         "year_from": 1977,
         "year_to": 2001,
-        "class": "E",
+        "class": "D",
         "updated_at": "2025-07-26 16:51:01"
       },
       {
@@ -47636,7 +47677,7 @@
         "cyrillic_name": "корона эксив",
         "year_from": 1989,
         "year_to": 1998,
-        "class": "D",
+        "class": "C",
         "updated_at": "2025-07-26 16:51:01"
       },
       {
@@ -47656,7 +47697,7 @@
         "cyrillic_name": "Крессида",
         "year_from": 1977,
         "year_to": 1996,
-        "class": "E",
+        "class": "D",
         "updated_at": "2025-07-26 16:51:01"
       },
       {
@@ -47666,7 +47707,7 @@
         "cyrillic_name": "Креста",
         "year_from": 1980,
         "year_to": 2001,
-        "class": "E",
+        "class": "D",
         "updated_at": "2025-07-26 16:51:01"
       },
       {
@@ -47786,7 +47827,7 @@
         "cyrillic_name": "этиос",
         "year_from": 2010,
         "year_to": 2021,
-        "class": "B",
+        "class": "A",
         "updated_at": "2025-07-26 16:51:01"
       },
       {
@@ -47906,7 +47947,7 @@
         "cyrillic_name": "Харриер",
         "year_from": 1997,
         "year_to": 2026,
-        "class": "E",
+        "class": "D",
         "updated_at": "2025-07-26 16:51:01"
       },
       {
@@ -47985,7 +48026,7 @@
         "name": "iQ",
         "cyrillic_name": "iQ",
         "year_from": 2008,
-        "year_to": 2011,
+        "year_to": 2015,
         "class": "A",
         "updated_at": "2025-07-26 16:51:01"
       },
@@ -48006,7 +48047,7 @@
         "cyrillic_name": "Ист",
         "year_from": 2001,
         "year_to": 2016,
-        "class": "B",
+        "class": "C",
         "updated_at": "2025-07-26 16:51:01"
       },
       {
@@ -48015,7 +48056,7 @@
         "name": "Izoa",
         "cyrillic_name": "Изоа",
         "year_from": 2018,
-        "year_to": 2026,
+        "year_to": 2025,
         "class": "B",
         "updated_at": "2025-07-26 16:51:01"
       },
@@ -48246,7 +48287,7 @@
         "cyrillic_name": "Пассо",
         "year_from": 2004,
         "year_to": 2023,
-        "class": "B",
+        "class": "A",
         "updated_at": "2025-07-26 16:51:01"
       },
       {
@@ -48315,7 +48356,7 @@
         "name": "Pixis Van",
         "cyrillic_name": "Пиксис Ван",
         "year_from": 2011,
-        "year_to": 2021,
+        "year_to": 2026,
         "class": "M",
         "updated_at": "2025-07-26 16:51:01"
       },
@@ -48346,7 +48387,7 @@
         "cyrillic_name": "Премио",
         "year_from": 2001,
         "year_to": 2021,
-        "class": "D",
+        "class": "C",
         "updated_at": "2025-07-26 16:51:01"
       },
       {
@@ -48496,7 +48537,7 @@
         "cyrillic_name": "Рав4",
         "year_from": 1994,
         "year_to": 2026,
-        "class": "C",
+        "class": "B",
         "updated_at": "2025-07-26 16:51:01"
       },
       {
@@ -48512,7 +48553,7 @@
       {
         "id": "TOYOTA_REGIUSACE",
         "mark_id": "TOYOTA",
-        "name": "RegiusAce",
+        "name": "Regius Ace",
         "cyrillic_name": "Региус Эйс",
         "year_from": 1999,
         "year_to": 2020,
@@ -48750,6 +48791,16 @@
         "updated_at": "2025-07-26 16:51:01"
       },
       {
+        "id": "TOYOTA_T100",
+        "mark_id": "TOYOTA",
+        "name": "T100",
+        "cyrillic_name": "Т100",
+        "year_from": 1992,
+        "year_to": 1998,
+        "class": "J",
+        "updated_at": "2026-08-07 14:26:51"
+      },
+      {
         "id": "TOYOTA_TACOMA",
         "mark_id": "TOYOTA",
         "name": "Tacoma",
@@ -48804,7 +48855,7 @@
         "mark_id": "TOYOTA",
         "name": "Tundra",
         "cyrillic_name": "Тундра",
-        "year_from": 2000,
+        "year_from": 1999,
         "year_to": 2026,
         "class": "J",
         "updated_at": "2025-07-26 16:51:01"
@@ -48906,7 +48957,7 @@
         "cyrillic_name": "Виос",
         "year_from": 2003,
         "year_to": 2026,
-        "class": "C",
+        "class": "B",
         "updated_at": "2025-07-26 16:51:01"
       },
       {
@@ -48916,7 +48967,7 @@
         "cyrillic_name": "Виста",
         "year_from": 1982,
         "year_to": 2003,
-        "class": "E",
+        "class": "D",
         "updated_at": "2025-07-26 16:51:01"
       },
       {
@@ -48976,7 +49027,7 @@
         "cyrillic_name": "Вилл",
         "year_from": 2000,
         "year_to": 2004,
-        "class": "C",
+        "class": "B",
         "updated_at": "2025-07-26 16:51:01"
       },
       {
@@ -49277,7 +49328,7 @@
         "name": "Emkoo",
         "cyrillic_name": "Эмку",
         "year_from": 2022,
-        "year_to": 2026,
+        "year_to": 2025,
         "class": "D",
         "updated_at": "2025-07-26 16:51:00"
       },
@@ -49378,7 +49429,7 @@
         "cyrillic_name": "ГС3",
         "year_from": 2017,
         "year_to": 2026,
-        "class": "C",
+        "class": "B",
         "updated_at": "2025-07-26 16:51:00"
       },
       {
@@ -49397,7 +49448,7 @@
         "name": "GS4",
         "cyrillic_name": "ГС4",
         "year_from": 2019,
-        "year_to": 2024,
+        "year_to": 2026,
         "class": "C",
         "updated_at": "2025-07-26 16:51:00"
       },
@@ -49428,7 +49479,7 @@
         "cyrillic_name": "ГС5",
         "year_from": 2011,
         "year_to": 2021,
-        "class": "C",
+        "class": "D",
         "updated_at": "2025-08-13 00:06:45"
       },
       {
@@ -49720,7 +49771,7 @@
       {
         "id": "UAZ_3162",
         "mark_id": "UAZ",
-        "name": "3162 Simbir",
+        "name": "3162 Симбир",
         "cyrillic_name": "3162 Симбир",
         "year_from": 1999,
         "year_to": 2005,
@@ -49750,7 +49801,7 @@
       {
         "id": "UAZ_HUNTER",
         "mark_id": "UAZ",
-        "name": "Hunter",
+        "name": "Хантер",
         "cyrillic_name": "Хантер",
         "year_from": 2003,
         "year_to": 2026,
@@ -49760,7 +49811,7 @@
       {
         "id": "UAZ_PATRIOT",
         "mark_id": "UAZ",
-        "name": "Patriot",
+        "name": "Патриот",
         "cyrillic_name": "Патриот",
         "year_from": 2005,
         "year_to": 2026,
@@ -49770,7 +49821,7 @@
       {
         "id": "UAZ_PICKUP",
         "mark_id": "UAZ",
-        "name": "Pickup",
+        "name": "Пикап",
         "cyrillic_name": "Пикап",
         "year_from": 2008,
         "year_to": 2026,
@@ -49827,7 +49878,7 @@
     "name": "UMO",
     "cyrillic_name": "УМО",
     "numeric_id": 20466532,
-    "year_from": 2025,
+    "year_from": 2026,
     "year_to": 2026,
     "popular": 0,
     "country": "Россия",
@@ -49838,7 +49889,7 @@
         "mark_id": "UMO",
         "name": "5",
         "cyrillic_name": "5",
-        "year_from": 2025,
+        "year_from": 2026,
         "year_to": 2026,
         "class": "C",
         "updated_at": "2026-02-12 00:53:02"
@@ -50023,7 +50074,7 @@
         "cyrillic_name": "омега",
         "year_from": 1994,
         "year_to": 2003,
-        "class": "E",
+        "class": "D",
         "updated_at": "2025-07-26 16:51:01"
       },
       {
@@ -50043,7 +50094,7 @@
         "cyrillic_name": "Тигра",
         "year_from": 1994,
         "year_to": 2009,
-        "class": "B",
+        "class": "S",
         "updated_at": "2025-07-26 16:51:01"
       },
       {
@@ -50063,7 +50114,7 @@
         "cyrillic_name": "Велокс",
         "year_from": 1948,
         "year_to": 1965,
-        "class": "D",
+        "class": "E",
         "updated_at": "2025-07-26 16:51:01"
       },
       {
@@ -50093,7 +50144,7 @@
         "cyrillic_name": "виктор",
         "year_from": 1963,
         "year_to": 1978,
-        "class": "D",
+        "class": "E",
         "updated_at": "2025-07-26 16:51:01"
       },
       {
@@ -50113,7 +50164,7 @@
         "cyrillic_name": "Виваро",
         "year_from": 2019,
         "year_to": 2026,
-        "class": null,
+        "class": "M",
         "updated_at": "2025-07-26 16:51:01"
       },
       {
@@ -50404,7 +50455,7 @@
         "mark_id": "VAZ",
         "name": "Aura",
         "cyrillic_name": "Аура",
-        "year_from": 2024,
+        "year_from": 2023,
         "year_to": 2026,
         "class": "D",
         "updated_at": "2025-07-26 16:51:00"
@@ -50718,7 +50769,7 @@
         "cyrillic_name": "Болден",
         "year_from": 2024,
         "year_to": 2026,
-        "class": null,
+        "class": "J",
         "updated_at": "2025-07-26 16:51:01"
       },
       {
@@ -51057,7 +51108,7 @@
         "cyrillic_name": "Фокс",
         "year_from": 1987,
         "year_to": 2011,
-        "class": "B",
+        "class": "A",
         "updated_at": "2025-07-26 16:51:01"
       },
       {
@@ -51067,7 +51118,7 @@
         "cyrillic_name": "гол",
         "year_from": 1980,
         "year_to": 2013,
-        "class": "B",
+        "class": "A",
         "updated_at": "2025-07-26 16:51:01"
       },
       {
@@ -51107,7 +51158,7 @@
         "cyrillic_name": "Гольф Плюс",
         "year_from": 2005,
         "year_to": 2014,
-        "class": "M",
+        "class": "C",
         "updated_at": "2025-07-26 16:51:01"
       },
       {
@@ -51191,13 +51242,23 @@
         "updated_at": "2025-07-26 16:51:01"
       },
       {
+        "id": "VOLKSWAGEN_IDAURA_T6",
+        "mark_id": "VOLKSWAGEN",
+        "name": "ID.Aura T6",
+        "cyrillic_name": "АйДи Аура Т6",
+        "year_from": 2026,
+        "year_to": 2026,
+        "class": "D",
+        "updated_at": "2026-08-07 14:26:51"
+      },
+      {
         "id": "VOLKSWAGEN_IDBUZZ",
         "mark_id": "VOLKSWAGEN",
         "name": "ID.Buzz",
         "cyrillic_name": "идбузз",
         "year_from": 2022,
         "year_to": 2026,
-        "class": null,
+        "class": "M",
         "updated_at": "2025-07-26 16:51:01"
       },
       {
@@ -51209,6 +51270,16 @@
         "year_to": 2026,
         "class": "B",
         "updated_at": "2026-07-29 13:22:10"
+      },
+      {
+        "id": "VOLKSWAGEN_IDERA_5S",
+        "mark_id": "VOLKSWAGEN",
+        "name": "ID.Era 5S",
+        "cyrillic_name": "АйДи Эра 5 Эс",
+        "year_from": 2026,
+        "year_to": 2026,
+        "class": "D",
+        "updated_at": "2026-08-12 16:57:35"
       },
       {
         "id": "VOLKSWAGEN_IDERA_8X",
@@ -51269,6 +51340,16 @@
         "year_to": 2026,
         "class": "E",
         "updated_at": "2025-11-21 14:45:55"
+      },
+      {
+        "id": "VOLKSWAGEN_IDUNYX_09",
+        "mark_id": "VOLKSWAGEN",
+        "name": "ID.Unyx 09",
+        "cyrillic_name": "айдиюнэкс 09",
+        "year_from": 2026,
+        "year_to": 2026,
+        "class": "E",
+        "updated_at": "2026-08-07 14:26:51"
       },
       {
         "id": "VOLKSWAGEN_ID_POLO",
@@ -51417,7 +51498,7 @@
         "cyrillic_name": "Пассат СС",
         "year_from": 2008,
         "year_to": 2026,
-        "class": "E",
+        "class": "D",
         "updated_at": "2025-07-26 16:51:01"
       },
       {
@@ -51505,7 +51586,7 @@
         "mark_id": "VOLKSWAGEN",
         "name": "Rabbit",
         "cyrillic_name": "Рэббит",
-        "year_from": 2009,
+        "year_from": 2006,
         "year_to": 2009,
         "class": "C",
         "updated_at": "2025-07-26 16:51:01"
@@ -51527,7 +51608,7 @@
         "cyrillic_name": "Сагитар",
         "year_from": 2019,
         "year_to": 2026,
-        "class": "D",
+        "class": "C",
         "updated_at": "2025-07-26 16:51:01"
       },
       {
@@ -51787,7 +51868,7 @@
         "cyrillic_name": "тайп 2",
         "year_from": 1950,
         "year_to": 1979,
-        "class": "J",
+        "class": "M",
         "updated_at": "2025-07-26 16:51:01"
       },
       {
@@ -52240,7 +52321,7 @@
         "cyrillic_name": "S40",
         "year_from": 1995,
         "year_to": 2012,
-        "class": "D",
+        "class": "C",
         "updated_at": "2025-07-26 16:51:01"
       },
       {
@@ -52249,7 +52330,7 @@
         "name": "S60",
         "cyrillic_name": "S60",
         "year_from": 2000,
-        "year_to": 2024,
+        "year_to": 2026,
         "class": "D",
         "updated_at": "2025-07-26 16:51:01"
       },
@@ -52268,7 +52349,7 @@
         "mark_id": "VOLVO",
         "name": "S70",
         "cyrillic_name": "S70",
-        "year_from": 1997,
+        "year_from": 1996,
         "year_to": 2000,
         "class": "E",
         "updated_at": "2025-07-26 16:51:01"
@@ -52320,7 +52401,7 @@
         "cyrillic_name": "V50",
         "year_from": 2004,
         "year_to": 2012,
-        "class": "C",
+        "class": "D",
         "updated_at": "2025-07-26 16:51:01"
       },
       {
@@ -52350,7 +52431,7 @@
         "cyrillic_name": "V70",
         "year_from": 1997,
         "year_to": 2016,
-        "class": "D",
+        "class": "E",
         "updated_at": "2025-07-26 16:51:01"
       },
       {
@@ -52838,6 +52919,16 @@
         "updated_at": "2025-07-26 16:51:01"
       },
       {
+        "id": "WEY_V8X",
+        "mark_id": "WEY",
+        "name": "V8X",
+        "cyrillic_name": "В8Икс",
+        "year_from": 2026,
+        "year_to": 2026,
+        "class": "E",
+        "updated_at": "2026-08-07 14:26:51"
+      },
+      {
         "id": "WEY_V9X",
         "mark_id": "WEY",
         "name": "V9X",
@@ -53092,7 +53183,7 @@
         "name": "Nano EV",
         "cyrillic_name": "Нано ЕВ",
         "year_from": 2021,
-        "year_to": 2026,
+        "year_to": 2025,
         "class": "A",
         "updated_at": "2025-11-03 09:59:55"
       },
@@ -53480,7 +53571,7 @@
         "name": "P5",
         "cyrillic_name": "П5",
         "year_from": 2021,
-        "year_to": 2024,
+        "year_to": 2026,
         "class": "D",
         "updated_at": "2025-07-26 16:51:01"
       },
@@ -54030,7 +54121,7 @@
         "name": "TSR-S",
         "cyrillic_name": "ТСР-С",
         "year_from": 2018,
-        "year_to": 2026,
+        "year_to": 2025,
         "class": "S",
         "updated_at": "2025-07-26 16:51:01"
       }
