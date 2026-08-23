@@ -6422,6 +6422,16 @@
         "updated_at": "2025-08-03 01:59:45"
       },
       {
+        "id": "BYD_FANGCHENGBAO_TITANIUM_9",
+        "mark_id": "BYD",
+        "name": "Fangchengbao Titanium 9",
+        "cyrillic_name": "ФенгЧенгбао Титаниум 9",
+        "year_from": 2026,
+        "year_to": 2026,
+        "class": "F",
+        "updated_at": "2026-08-16 09:07:25"
+      },
+      {
         "id": "BYD_FLYER",
         "mark_id": "BYD",
         "name": "Flyer",
@@ -8460,6 +8470,16 @@
         "year_to": 2025,
         "class": "D",
         "updated_at": "2025-07-26 16:51:00"
+      },
+      {
+        "id": "CHERY_FULWIN_T7",
+        "mark_id": "CHERY",
+        "name": "Fulwin T7",
+        "cyrillic_name": "Фулвин Т7",
+        "year_from": 2026,
+        "year_to": 2026,
+        "class": "C",
+        "updated_at": "2026-08-22 23:58:58"
       },
       {
         "id": "CHERY_FULWIN_T8",
@@ -24854,6 +24874,16 @@
         "updated_at": "2025-07-26 16:51:00"
       },
       {
+        "id": "JAC_QX",
+        "mark_id": "JAC",
+        "name": "QX",
+        "cyrillic_name": "КюИкс",
+        "year_from": 2024,
+        "year_to": 2026,
+        "class": "C",
+        "updated_at": "2026-08-22 23:58:59"
+      },
+      {
         "id": "JAC_REFINE",
         "mark_id": "JAC",
         "name": "M1 (Refine)",
@@ -24992,6 +25022,16 @@
         "year_to": 2021,
         "class": "B",
         "updated_at": "2025-07-26 16:51:00"
+      },
+      {
+        "id": "JAC_SEHOL_QX",
+        "mark_id": "JAC",
+        "name": "Sehol QX",
+        "cyrillic_name": "Сехол КуИкс",
+        "year_from": 2021,
+        "year_to": 2026,
+        "class": "C",
+        "updated_at": "2026-08-22 23:58:59"
       },
       {
         "id": "JAC_SEHOL_X6",
@@ -25620,6 +25660,16 @@
         "year_to": 2026,
         "class": "C",
         "updated_at": "2025-07-26 16:51:00"
+      },
+      {
+        "id": "JETOUR_F700",
+        "mark_id": "JETOUR",
+        "name": "F700",
+        "cyrillic_name": "Эф700",
+        "year_from": 2026,
+        "year_to": 2026,
+        "class": "J",
+        "updated_at": "2026-08-16 09:07:26"
       },
       {
         "id": "JETOUR_FREEDOM",
@@ -29798,6 +29848,16 @@
         "updated_at": "2025-07-26 16:51:00"
       },
       {
+        "id": "MAEXTRO_V",
+        "mark_id": "MAEXTRO",
+        "name": "V",
+        "cyrillic_name": "Ви",
+        "year_from": 2026,
+        "year_to": 2026,
+        "class": "M",
+        "updated_at": "2026-08-22 23:58:59"
+      },
+      {
         "id": "MAEXTRO_V680",
         "mark_id": "MAEXTRO",
         "name": "V680",
@@ -29806,16 +29866,6 @@
         "year_to": 2026,
         "class": "M",
         "updated_at": "2026-07-03 20:12:48"
-      },
-      {
-        "id": "MAEXTRO_V800",
-        "mark_id": "MAEXTRO",
-        "name": "V800",
-        "cyrillic_name": "В800",
-        "year_from": 2026,
-        "year_to": 2026,
-        "class": "M",
-        "updated_at": "2026-05-20 19:45:14"
       }
     ]
   },
@@ -36700,6 +36750,16 @@
         "updated_at": "2025-07-26 16:51:00"
       },
       {
+        "id": "NISSAN_NX7",
+        "mark_id": "NISSAN",
+        "name": "NX7",
+        "cyrillic_name": "НХ7",
+        "year_from": 2026,
+        "year_to": 2026,
+        "class": "D",
+        "updated_at": "2026-08-16 09:07:27"
+      },
+      {
         "id": "NISSAN_NX8",
         "mark_id": "NISSAN",
         "name": "NX8",
@@ -37128,6 +37188,16 @@
         "year_to": 2024,
         "class": "J",
         "updated_at": "2025-07-26 16:51:00"
+      },
+      {
+        "id": "NISSAN_TOWNSTAR",
+        "mark_id": "NISSAN",
+        "name": "Townstar",
+        "cyrillic_name": "Таунстар",
+        "year_from": 2022,
+        "year_to": 2026,
+        "class": "M",
+        "updated_at": "2026-08-22 23:59:00"
       },
       {
         "id": "NISSAN_URVAN",
@@ -49551,6 +49621,16 @@
         "year_to": 2026,
         "class": "E",
         "updated_at": "2025-09-19 00:13:24"
+      },
+      {
+        "id": "TRUMPCHI_YUE_7",
+        "mark_id": "TRUMPCHI",
+        "name": "Yue 7",
+        "cyrillic_name": "Юэ 7",
+        "year_from": 2026,
+        "year_to": 2026,
+        "class": "F",
+        "updated_at": "2026-08-16 09:07:27"
       }
     ]
   },
@@ -51280,6 +51360,16 @@
         "year_to": 2026,
         "class": "D",
         "updated_at": "2026-08-12 16:57:35"
+      },
+      {
+        "id": "VOLKSWAGEN_IDERA_5X",
+        "mark_id": "VOLKSWAGEN",
+        "name": "ID.Era 5X",
+        "cyrillic_name": "АйДи Эра 5Икс",
+        "year_from": 2026,
+        "year_to": 2026,
+        "class": "D",
+        "updated_at": "2026-08-16 09:07:27"
       },
       {
         "id": "VOLKSWAGEN_IDERA_8X",

@@ -566,6 +566,7 @@ BYD,BYD,БИД,0,Китай,2005,2026,BYD_FANGCHENGBAO_LEOPARD_5,FangChengBao Le
 BYD,BYD,БИД,0,Китай,2005,2026,BYD_FANGCHENGBAO_LEOPARD_8,FangChengBao Leopard 8,ФенгЧенгбао Леопард 8,J,2024,2026
 BYD,BYD,БИД,0,Китай,2005,2026,BYD_FANGCHENGBAO_TITANIUM_3,FangChengBao Titanium 3,ФенгЧенгбао Титаниум 3,D,2024,2026
 BYD,BYD,БИД,0,Китай,2005,2026,BYD_FANGCHENGBAO_TITANIUM_7,FangChengBao Titanium 7,ФенгЧенгбао Титаниум 7,E,2025,2026
+BYD,BYD,БИД,0,Китай,2005,2026,BYD_FANGCHENGBAO_TITANIUM_9,Fangchengbao Titanium 9,ФенгЧенгбао Титаниум 9,F,2026,2026
 BYD,BYD,БИД,0,Китай,2005,2026,BYD_FLYER,Flyer,Флаер,A,2005,2008
 BYD,BYD,БИД,0,Китай,2005,2026,BYD_FRIGATE_07,Frigate 07,Фригейт_07,D,2022,2025
 BYD,BYD,БИД,0,Китай,2005,2026,BYD_G3,G3,Г3,C,2009,2014
@@ -757,6 +758,7 @@ CHERY,Chery,Чери,1,Китай,1999,2026,CHERY_FULWIN_A9L,Fulwin A9L,Фулв
 CHERY,Chery,Чери,1,Китай,1999,2026,CHERY_FULWIN_T10,Fulwin T10,Фулвин Т10,E,2024,2026
 CHERY,Chery,Чери,1,Китай,1999,2026,CHERY_FULWIN_T11,Fulwin T11,Фулвин Т11,E,2025,2026
 CHERY,Chery,Чери,1,Китай,1999,2026,CHERY_FULWIN_T6,Fulwin T6,Фулвин Т6,D,2024,2025
+CHERY,Chery,Чери,1,Китай,1999,2026,CHERY_FULWIN_T7,Fulwin T7,Фулвин Т7,C,2026,2026
 CHERY,Chery,Чери,1,Китай,1999,2026,CHERY_FULWIN_T8,Fulwin T8,Фулвин Т8,D,2025,2026
 CHERY,Chery,Чери,1,Китай,1999,2026,CHERY_FULWIN_T9,Fulwin T9,Фулвин Т9,D,2024,2026
 CHERY,Chery,Чери,1,Китай,1999,2026,CHERY_FULWIN_T9L,Fulwin T9L,Фулвин Т9Л,D,2026,2026
@@ -2248,6 +2250,7 @@ JAC,JAC,Джак,0,Китай,2006,2026,JAC_JS6,JS6,ДжиЭс6,C,2022,2026
 JAC,JAC,Джак,0,Китай,2006,2026,JAC_JS9,JS9,ДжейЭс9,J,2025,2026
 JAC,JAC,Джак,0,Китай,2006,2026,JAC_M4,M4,Эм4,M,2016,2026
 JAC,JAC,Джак,0,Китай,2006,2026,JAC_M5,M5,м5,M,2011,2025
+JAC,JAC,Джак,0,Китай,2006,2026,JAC_QX,QX,КюИкс,C,2024,2026
 JAC,JAC,Джак,0,Китай,2006,2026,JAC_REFINE,M1 (Refine),M1 Рефайн,M,2006,2011
 JAC,JAC,Джак,0,Китай,2006,2026,JAC_REFINE_L6_MAX,Refine L6 Max,Рефин Л6 Макс,M,2020,2026
 JAC,JAC,Джак,0,Китай,2006,2026,JAC_REFINE_M3,Refine M3,Рефин М3,,2016,2026
@@ -2262,6 +2265,7 @@ JAC,JAC,Джак,0,Китай,2006,2026,JAC_S7,S7,С7,D,2020,2022
 JAC,JAC,Джак,0,Китай,2006,2026,JAC_SEHOL_A5_PLUS,Sehol A5 Plus,Сехол А5 Плюс,C,2021,2026
 JAC,JAC,Джак,0,Китай,2006,2026,JAC_SEHOL_AIPAO,Sehol Aipao,Сехол Айпао,C,2022,2026
 JAC,JAC,Джак,0,Китай,2006,2026,JAC_SEHOL_E20X,Sehol E20X,Сехол Е20Х,B,2018,2021
+JAC,JAC,Джак,0,Китай,2006,2026,JAC_SEHOL_QX,Sehol QX,Сехол КуИкс,C,2021,2026
 JAC,JAC,Джак,0,Китай,2006,2026,JAC_SEHOL_X6,Sehol X6,Сехол Икс6,C,2022,2023
 JAC,JAC,Джак,0,Китай,2006,2026,JAC_SEHOL_X8,Sehol X8,Сехол Икс8,C,2020,2023
 JAC,JAC,Джак,0,Китай,2006,2026,JAC_SEHOL_X8_PLUS,Sehol X8 Plus,Сехол Икс8 плюс,C,2022,2026
@@ -2317,6 +2321,7 @@ JELAND,Jeland,Джейланд,0,Россия,2026,2026,JELAND_J8,J8,Джей8,D
 JENSEN,Jensen,Дженсен,0,Великобритания,1966,2003,JENSEN_INTERCEPTOR,Interceptor,Интерцептор,S,1966,1976
 JENSEN,Jensen,Дженсен,0,Великобритания,1966,2003,JENSEN_S_V8,S-V8,с-в8,S,2001,2003
 JETOUR,JETOUR,Джетур,0,Китай,2018,2026,JETOUR_DASHING,DASHING,Дашинг,C,2022,2026
+JETOUR,JETOUR,Джетур,0,Китай,2018,2026,JETOUR_F700,F700,Эф700,J,2026,2026
 JETOUR,JETOUR,Джетур,0,Китай,2018,2026,JETOUR_FREEDOM,Freedom,Фридом,D,2025,2026
 JETOUR,JETOUR,Джетур,0,Китай,2018,2026,JETOUR_FREEDOM_7_PLUS,Freedom 7 Plus,Фри́дом 7 Плюс,D,2026,2026
 JETOUR,JETOUR,Джетур,0,Китай,2018,2026,JETOUR_G700,G700,Джи 700,J,2025,2026
@@ -2680,8 +2685,8 @@ LYNK_CO,Lynk & Co,Линк и ко,0,Китай,2017,2026,LYNK_CO_900,900,900,F,
 LYNK_CO,Lynk & Co,Линк и ко,0,Китай,2017,2026,LYNK_CO_Z10,Z10,З10,E,2024,2026
 LYNK_CO,Lynk & Co,Линк и ко,0,Китай,2017,2026,LYNK_CO_Z20,Z20,З20,C,2024,2026
 MAEXTRO,Maextro,Маэкстро,0,Китай,2024,2026,MAEXTRO_S800,S800,С800,F,2024,2026
+MAEXTRO,Maextro,Маэкстро,0,Китай,2024,2026,MAEXTRO_V,V,Ви,M,2026,2026
 MAEXTRO,Maextro,Маэкстро,0,Китай,2024,2026,MAEXTRO_V680,V680,В680,M,2026,2026
-MAEXTRO,Maextro,Маэкстро,0,Китай,2024,2026,MAEXTRO_V800,V800,В800,M,2026,2026
 MAHINDRA,Mahindra,Махиндра,0,Индия,1985,2026,MAHINDRA_ARMADA,Armada,Армада,J,1990,2005
 MAHINDRA,Mahindra,Махиндра,0,Индия,1985,2026,MAHINDRA_BOLERO,Bolero,Болеро,J,2001,2020
 MAHINDRA,Mahindra,Махиндра,0,Индия,1985,2026,MAHINDRA_CJ_3,CJ-3,Си-Джей 3,J,1988,1992
@@ -3326,6 +3331,7 @@ NISSAN,Nissan,Ниссан,1,Япония,1959,2026,NISSAN_NP300,NP300,NP 300,J,
 NISSAN,Nissan,Ниссан,1,Япония,1959,2026,NISSAN_NV200,NV200,нв200,M,2009,2026
 NISSAN,Nissan,Ниссан,1,Япония,1959,2026,NISSAN_NV300,NV300,НВ300,M,2016,2021
 NISSAN,Nissan,Ниссан,1,Япония,1959,2026,NISSAN_NV350_CARAVAN,NV350 Caravan,NV350 Караван,M,2012,2021
+NISSAN,Nissan,Ниссан,1,Япония,1959,2026,NISSAN_NX7,NX7,НХ7,D,2026,2026
 NISSAN,Nissan,Ниссан,1,Япония,1959,2026,NISSAN_NX8,NX8,нх8,D,2026,2026
 NISSAN,Nissan,Ниссан,1,Япония,1959,2026,NISSAN_NX_COUPE,NX Coupe,нх купе,C,1990,1994
 NISSAN,Nissan,Ниссан,1,Япония,1959,2026,NISSAN_OTTI,Otti,Отти,A,2005,2013
@@ -3369,6 +3375,7 @@ NISSAN,Nissan,Ниссан,1,Япония,1959,2026,NISSAN_TERRANO_REGULUS,Terra
 NISSAN,Nissan,Ниссан,1,Япония,1959,2026,NISSAN_TIIDA,Tiida,Тиида,C,2004,2026
 NISSAN,Nissan,Ниссан,1,Япония,1959,2026,NISSAN_TINO,Tino,Тино,M,1998,2003
 NISSAN,Nissan,Ниссан,1,Япония,1959,2026,NISSAN_TITAN,Titan,Титан,J,2003,2024
+NISSAN,Nissan,Ниссан,1,Япония,1959,2026,NISSAN_TOWNSTAR,Townstar,Таунстар,M,2022,2026
 NISSAN,Nissan,Ниссан,1,Япония,1959,2026,NISSAN_URVAN,Urvan,урван,M,1986,2012
 NISSAN,Nissan,Ниссан,1,Япония,1959,2026,NISSAN_VANETTE,Vanette,Ванэт,M,1978,2017
 NISSAN,Nissan,Ниссан,1,Япония,1959,2026,NISSAN_VERSA,Versa,верса,C,2006,2026
@@ -4467,6 +4474,7 @@ TRUMPCHI,GAC Trumpchi,Трампчи,0,Китай,2011,2026,TRUMPCHI_M6_PRO,M6 P
 TRUMPCHI,GAC Trumpchi,Трампчи,0,Китай,2011,2026,TRUMPCHI_M8,M8,М8,M,2019,2026
 TRUMPCHI,GAC Trumpchi,Трампчи,0,Китай,2011,2026,TRUMPCHI_S7,S7,С7,D,2025,2026
 TRUMPCHI,GAC Trumpchi,Трампчи,0,Китай,2011,2026,TRUMPCHI_S9,S9,С9,E,2025,2026
+TRUMPCHI,GAC Trumpchi,Трампчи,0,Китай,2011,2026,TRUMPCHI_YUE_7,Yue 7,Юэ 7,F,2026,2026
 TVR,TVR,ТВР,0,Великобритания,1976,2006,TVR_280,280,280,S,1980,1986
 TVR,TVR,ТВР,0,Великобритания,1976,2006,TVR_350,350,350,S,1983,1989
 TVR,TVR,ТВР,0,Великобритания,1976,2006,TVR_390,390,390,S,1984,1989
@@ -4623,6 +4631,7 @@ VOLKSWAGEN,Volkswagen,Фольксваген,1,Германия,1938,2026,VOLKSW
 VOLKSWAGEN,Volkswagen,Фольксваген,1,Германия,1938,2026,VOLKSWAGEN_IDBUZZ,ID.Buzz,идбузз,M,2022,2026
 VOLKSWAGEN,Volkswagen,Фольксваген,1,Германия,1938,2026,VOLKSWAGEN_IDCROSS,ID.Cross,АйДи Кросс,B,2026,2026
 VOLKSWAGEN,Volkswagen,Фольксваген,1,Германия,1938,2026,VOLKSWAGEN_IDERA_5S,ID.Era 5S,АйДи Эра 5 Эс,D,2026,2026
+VOLKSWAGEN,Volkswagen,Фольксваген,1,Германия,1938,2026,VOLKSWAGEN_IDERA_5X,ID.Era 5X,АйДи Эра 5Икс,D,2026,2026
 VOLKSWAGEN,Volkswagen,Фольксваген,1,Германия,1938,2026,VOLKSWAGEN_IDERA_8X,ID.Era 8X,АйДи Эра 8 Икс,,2026,2026
 VOLKSWAGEN,Volkswagen,Фольксваген,1,Германия,1938,2026,VOLKSWAGEN_IDERA_9X,ID.Era 9X,АйДи Эра 9Икс,E,2026,2026
 VOLKSWAGEN,Volkswagen,Фольксваген,1,Германия,1938,2026,VOLKSWAGEN_IDUNYX,ID.Unyx,айдиюнэкс,C,2024,2025
