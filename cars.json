@@ -17722,6 +17722,29 @@
     ]
   },
   {
+    "id": "FREELANDER",
+    "name": "Freelander",
+    "cyrillic_name": "Фриландер",
+    "numeric_id": 14584353,
+    "year_from": 2026,
+    "year_to": 2026,
+    "popular": 0,
+    "country": "Китай",
+    "updated_at": "2026-08-28 18:06:23",
+    "models": [
+      {
+        "id": "FREELANDER_8",
+        "mark_id": "FREELANDER",
+        "name": "8",
+        "cyrillic_name": "8",
+        "year_from": 2026,
+        "year_to": 2026,
+        "class": "E",
+        "updated_at": "2026-08-28 18:06:23"
+      }
+    ]
+  },
+  {
     "id": "FSO",
     "name": "FSO",
     "cyrillic_name": "ФСО",
@@ -19249,6 +19272,16 @@
         "year_to": 2026,
         "class": "E",
         "updated_at": "2025-07-26 16:51:00"
+      },
+      {
+        "id": "GENESIS_GV90",
+        "mark_id": "GENESIS",
+        "name": "GV90",
+        "cyrillic_name": "ГВ90",
+        "year_from": 2026,
+        "year_to": 2026,
+        "class": "F",
+        "updated_at": "2026-08-28 18:06:23"
       }
     ]
   },
