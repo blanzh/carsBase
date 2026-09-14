@@ -660,6 +660,16 @@
         "year_to": 2026,
         "class": "E",
         "updated_at": "2026-06-07 09:51:18"
+      },
+      {
+        "id": "AISTALAND_GX7",
+        "mark_id": "AISTALAND",
+        "name": "GX7",
+        "cyrillic_name": "ДжиИкс7",
+        "year_from": 2026,
+        "year_to": 2026,
+        "class": "F",
+        "updated_at": "2026-09-12 14:46:34"
       }
     ]
   },
@@ -2347,6 +2357,16 @@
         "year_to": 2007,
         "class": "B",
         "updated_at": "2025-07-26 16:51:00"
+      },
+      {
+        "id": "AUDI_A2_E_TRON",
+        "mark_id": "AUDI",
+        "name": "A2 e-tron",
+        "cyrillic_name": "А2 е-трон",
+        "year_from": 2026,
+        "year_to": 2026,
+        "class": "C",
+        "updated_at": "2026-09-12 14:46:34"
       },
       {
         "id": "AUDI_A3",
@@ -7941,6 +7961,16 @@
         "year_to": 2026,
         "class": "D",
         "updated_at": "2026-08-07 14:26:50"
+      },
+      {
+        "id": "CHANGAN_QIYUAN_LUMIN",
+        "mark_id": "CHANGAN",
+        "name": "Qiyuan Lumin",
+        "cyrillic_name": "Циюань Люмин",
+        "year_from": 2025,
+        "year_to": 2026,
+        "class": "A",
+        "updated_at": "2026-09-12 14:46:34"
       },
       {
         "id": "CHANGAN_RAETON",
@@ -14042,6 +14072,16 @@
         "updated_at": "2025-07-26 16:51:00"
       },
       {
+        "id": "DONGFENG_XINGHAI_T5",
+        "mark_id": "DONGFENG",
+        "name": "Xinghai T5",
+        "cyrillic_name": "Синхай Т5",
+        "year_from": 2026,
+        "year_to": 2026,
+        "class": "C",
+        "updated_at": "2026-09-12 14:46:34"
+      },
+      {
         "id": "DONGFENG_YIXUAN_GS",
         "mark_id": "DONGFENG",
         "name": "Aeolus Yixuan GS",
@@ -14580,6 +14620,29 @@
         "year_to": 2026,
         "class": "A",
         "updated_at": "2025-07-26 16:51:00"
+      }
+    ]
+  },
+  {
+    "id": "EPICLAND",
+    "name": "Epicland",
+    "cyrillic_name": "Эпикленд",
+    "numeric_id": 21181077,
+    "year_from": 2026,
+    "year_to": 2026,
+    "popular": 0,
+    "country": "Китай",
+    "updated_at": "2026-09-03 14:19:07",
+    "models": [
+      {
+        "id": "EPICLAND_X9",
+        "mark_id": "EPICLAND",
+        "name": "X9",
+        "cyrillic_name": "Икс 9",
+        "year_from": 2026,
+        "year_to": 2026,
+        "class": "F",
+        "updated_at": "2026-09-03 14:19:07"
       }
     ]
   },
@@ -18619,6 +18682,16 @@
         "year_to": 2026,
         "class": "D",
         "updated_at": "2025-09-17 17:17:17"
+      },
+      {
+        "id": "GEELY_FARIZON_V6E",
+        "mark_id": "GEELY",
+        "name": "Farizon V6E",
+        "cyrillic_name": "Фаризон В6Е",
+        "year_from": 2022,
+        "year_to": 2026,
+        "class": "M",
+        "updated_at": "2026-09-12 14:46:35"
       },
       {
         "id": "GEELY_GALAXY_A7",
@@ -23175,6 +23248,16 @@
         "updated_at": "2025-07-26 16:51:00"
       },
       {
+        "id": "HYUNDAI_IONIQ_V",
+        "mark_id": "HYUNDAI",
+        "name": "IONIQ V",
+        "cyrillic_name": "ИОНИК В",
+        "year_from": 2026,
+        "year_to": 2026,
+        "class": "D",
+        "updated_at": "2026-09-12 14:46:35"
+      },
+      {
         "id": "HYUNDAI_IX20",
         "mark_id": "HYUNDAI",
         "name": "ix20",
@@ -25825,6 +25908,16 @@
         "updated_at": "2025-07-26 16:51:00"
       },
       {
+        "id": "JETOUR_TOURER",
+        "mark_id": "JETOUR",
+        "name": "Tourer",
+        "cyrillic_name": "Турер",
+        "year_from": 2026,
+        "year_to": 2026,
+        "class": "C",
+        "updated_at": "2026-09-12 14:46:35"
+      },
+      {
         "id": "JETOUR_TRAVELLER",
         "mark_id": "JETOUR",
         "name": "Traveller",
@@ -28320,7 +28413,7 @@
         "cyrillic_name": "Си16",
         "year_from": 2024,
         "year_to": 2026,
-        "class": null,
+        "class": "F",
         "updated_at": "2025-07-26 16:51:00"
       },
       {
@@ -29826,6 +29919,16 @@
         "year_to": 2026,
         "class": "E",
         "updated_at": "2025-09-10 19:13:22"
+      },
+      {
+        "id": "LYNK_CO_20",
+        "mark_id": "LYNK_CO",
+        "name": "20",
+        "cyrillic_name": "20",
+        "year_from": 2026,
+        "year_to": 2026,
+        "class": "C",
+        "updated_at": "2026-09-12 14:46:35"
       },
       {
         "id": "LYNK_CO_900",
@@ -39985,6 +40088,16 @@
         "updated_at": "2025-07-26 16:51:00"
       },
       {
+        "id": "PONTIAC_QUALITY_115",
+        "mark_id": "PONTIAC",
+        "name": "Quality 115",
+        "cyrillic_name": "Квалити 115",
+        "year_from": 1939,
+        "year_to": 1939,
+        "class": null,
+        "updated_at": "2026-09-03 14:19:08"
+      },
+      {
         "id": "PONTIAC_SOLSTICE",
         "mark_id": "PONTIAC",
         "name": "Solstice",
@@ -47884,6 +47997,16 @@
         "updated_at": "2025-07-26 16:51:01"
       },
       {
+        "id": "TOYOTA_C_PLUS_POD",
+        "mark_id": "TOYOTA",
+        "name": "C+pod",
+        "cyrillic_name": "Си плюс Под",
+        "year_from": 2020,
+        "year_to": 2024,
+        "class": "A",
+        "updated_at": "2026-09-03 14:19:09"
+      },
+      {
         "id": "TOYOTA_DUET",
         "mark_id": "TOYOTA",
         "name": "Duet",
@@ -53289,6 +53412,16 @@
         "year_to": 2026,
         "class": "M",
         "updated_at": "2025-07-26 16:51:01"
+      },
+      {
+        "id": "WULING_JOURNEY",
+        "mark_id": "WULING",
+        "name": "Journey",
+        "cyrillic_name": "Джорней",
+        "year_from": 2021,
+        "year_to": 2026,
+        "class": "M",
+        "updated_at": "2026-09-12 14:46:36"
       },
       {
         "id": "WULING_MINI_EV",

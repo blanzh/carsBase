@@ -55,6 +55,7 @@ AION,Aion,Аион,0,Китай,2019,2026,AION_V_PLUS,V Plus,В Плюс,C,2021,
 AION,Aion,Аион,0,Китай,2019,2026,AION_Y,Y,Уай,B,2021,2022
 AION,Aion,Аион,0,Китай,2019,2026,AION_Y_PLUS,Y Plus,Уай Плюс,J,2022,2026
 AISTALAND,Aistaland,Аисталэнд,0,Китай,2026,2026,AISTALAND_GT7,GT7,ГТ7,E,2026,2026
+AISTALAND,Aistaland,Аисталэнд,0,Китай,2026,2026,AISTALAND_GX7,GX7,ДжиИкс7,F,2026,2026
 AITO,Aito,Аито,0,Китай,2022,2026,AITO_M5,M5,м5,D,2022,2026
 AITO,Aito,Аито,0,Китай,2022,2026,AITO_M6,M6,М6,E,2026,2026
 AITO,Aito,Аито,0,Китай,2022,2026,AITO_M7,M7,м7,D,2022,2026
@@ -199,6 +200,7 @@ AUDI,Audi,Ауди,1,Германия,1927,2026,AUDI_90,90,90,D,1984,1995
 AUDI,Audi,Ауди,1,Германия,1927,2026,AUDI_920,920,920,,1938,1940
 AUDI,Audi,Ауди,1,Германия,1927,2026,AUDI_A1,A1,А1,B,2010,2026
 AUDI,Audi,Ауди,1,Германия,1927,2026,AUDI_A2,A2,А2,B,2000,2007
+AUDI,Audi,Ауди,1,Германия,1927,2026,AUDI_A2_E_TRON,A2 e-tron,А2 е-трон,C,2026,2026
 AUDI,Audi,Ауди,1,Германия,1927,2026,AUDI_A3,A3,А3,C,1996,2026
 AUDI,Audi,Ауди,1,Германия,1927,2026,AUDI_A4,A4,А4,D,1994,2025
 AUDI,Audi,Ауди,1,Германия,1927,2026,AUDI_A4_ALLROAD,A4 allroad,А4 Олроуд,D,2009,2025
@@ -709,6 +711,7 @@ CHANGAN,Changan,Чанган,0,Китай,2006,2026,CHANGAN_Q05,Qiyuan Q05,Ци�
 CHANGAN,Changan,Чанган,0,Китай,2006,2026,CHANGAN_Q06,Qiyuan Q06,Циюань Ку06,D,2026,2026
 CHANGAN,Changan,Чанган,0,Китай,2006,2026,CHANGAN_Q07,Qiyuan Q07,Циюань Ку07,D,2025,2026
 CHANGAN,Changan,Чанган,0,Китай,2006,2026,CHANGAN_QIYUAN_A05L,Qiyuan A05L,Циюань А05Л,D,2026,2026
+CHANGAN,Changan,Чанган,0,Китай,2006,2026,CHANGAN_QIYUAN_LUMIN,Qiyuan Lumin,Циюань Люмин,A,2025,2026
 CHANGAN,Changan,Чанган,0,Китай,2006,2026,CHANGAN_RAETON,Raeton,Раетон,E,2013,2019
 CHANGAN,Changan,Чанган,0,Китай,2006,2026,CHANGAN_RAETON_CC,Raeton CC,Раетон СС,D,2017,2022
 CHANGAN,Changan,Чанган,0,Китай,2006,2026,CHANGAN_RAETON_PLUS,Raeton Plus,Раетон Плюс,D,2022,2026
@@ -1276,6 +1279,7 @@ DONGFENG,Dongfeng,ДонгФенг,0,Китай,2006,2026,DONGFENG_SHINE,Shine,�
 DONGFENG,Dongfeng,ДонгФенг,0,Китай,2006,2026,DONGFENG_SHINE_GS,Shine GS,Шайн ГС,C,2024,2026
 DONGFENG,Dongfeng,ДонгФенг,0,Китай,2006,2026,DONGFENG_SHINE_MAX,Shine Max,Шайн Макс,D,2023,2026
 DONGFENG,Dongfeng,ДонгФенг,0,Китай,2006,2026,DONGFENG_SKY_EV01,Sky EV01,Скай ЕВ01,D,2023,2026
+DONGFENG,Dongfeng,ДонгФенг,0,Китай,2006,2026,DONGFENG_XINGHAI_T5,Xinghai T5,Синхай Т5,C,2026,2026
 DONGFENG,Dongfeng,ДонгФенг,0,Китай,2006,2026,DONGFENG_YIXUAN_GS,Aeolus Yixuan GS,Исюань ГС,C,2020,2026
 DONGFENG,Dongfeng,ДонгФенг,0,Китай,2006,2026,DONGFENG_YOUNG_GUANG_XIAOXIN,Young Guang Xiaoxin,Йан Гуан Сяосинь,B,2021,2023
 DONGFENG,Dongfeng,ДонгФенг,0,Китай,2006,2026,DONGFENG_Z9,Z9,З9,J,2025,2026
@@ -1317,6 +1321,7 @@ EDSEL,Edsel,Эдсел,0,США,1958,1960,EDSEL_RANGER,Ranger,Рейнджер,E
 ENOVATE,Enovate (Enoreve),Эновате,0,Китай,2020,2023,ENOVATE_ME5,ME5,МЕ5,D,2021,2023
 ENOVATE,Enovate (Enoreve),Эновате,0,Китай,2020,2023,ENOVATE_ME7,ME7,ме7,D,2020,2023
 EONYX,Eonyx,Еоникс,0,Россия,2025,2026,EONYX_M2,City (M2),Сити (М2),A,2025,2026
+EPICLAND,Epicland,Эпикленд,0,Китай,2026,2026,EPICLAND_X9,X9,Икс 9,F,2026,2026
 ESTEO,Esteo,Эстео,0,Россия,2025,2026,ESTEO_EXLANTIX_ES,Exlantix ES,Экслантикс ЕС,E,2025,2026
 ESTEO,Esteo,Эстео,0,Россия,2025,2026,ESTEO_EXLANTIX_ET,Exlantix ET,Экслантикс ЕТ,E,2025,2026
 ESTEO,Esteo,Эстео,0,Россия,2025,2026,ESTEO_EXLANTIX_ET8,Exlantix ET8,Экслантикс ЕТ8,J,2026,2026
@@ -1691,6 +1696,7 @@ GEELY,Geely,Джили,1,Китай,1998,2026,GEELY_EMGRAND_X7,Emgrand X7,Эмг
 GEELY,Geely,Джили,1,Китай,1998,2026,GEELY_EX2,EX2,ЕИкс2,B,2025,2026
 GEELY,Geely,Джили,1,Китай,1998,2026,GEELY_EX5,EX5,ЕИкс5,D,2024,2026
 GEELY,Geely,Джили,1,Китай,1998,2026,GEELY_EX5_EM_I,EX5 Гибрид,ЕИкс5 Гибрид,D,2025,2026
+GEELY,Geely,Джили,1,Китай,1998,2026,GEELY_FARIZON_V6E,Farizon V6E,Фаризон В6Е,M,2022,2026
 GEELY,Geely,Джили,1,Китай,1998,2026,GEELY_GALAXY_A7,Galaxy A7,Гелекси А7,E,2025,2026
 GEELY,Geely,Джили,1,Китай,1998,2026,GEELY_GALAXY_CRUISER_700,Galaxy Cruiser 700,Гэлэкси Крузер 700,J,2026,2026
 GEELY,Geely,Джили,1,Китай,1998,2026,GEELY_GALAXY_E5,Galaxy E5,Гелекси Е5,D,2024,2026
@@ -2097,6 +2103,7 @@ HYUNDAI,Hyundai,Хендэ,1,Республика Корея,1975,2026,HYUNDAI_I
 HYUNDAI,Hyundai,Хендэ,1,Республика Корея,1975,2026,HYUNDAI_IONIQ_5_N,IONIQ 5 N,ИОНИК 5 Н,C,2023,2026
 HYUNDAI,Hyundai,Хендэ,1,Республика Корея,1975,2026,HYUNDAI_IONIQ_6,IONIQ 6,ИОНИК 6,D,2022,2026
 HYUNDAI,Hyundai,Хендэ,1,Республика Корея,1975,2026,HYUNDAI_IONIQ_9,IONIQ 9,ИОНИК 9,E,2025,2026
+HYUNDAI,Hyundai,Хендэ,1,Республика Корея,1975,2026,HYUNDAI_IONIQ_V,IONIQ V,ИОНИК В,D,2026,2026
 HYUNDAI,Hyundai,Хендэ,1,Республика Корея,1975,2026,HYUNDAI_IX20,ix20,ix20,B,2010,2019
 HYUNDAI,Hyundai,Хендэ,1,Республика Корея,1975,2026,HYUNDAI_IX25,ix25,АйИкс25,B,2014,2021
 HYUNDAI,Hyundai,Хендэ,1,Республика Корея,1975,2026,HYUNDAI_IX35,ix35,ix35,C,2010,2023
@@ -2336,6 +2343,7 @@ JETOUR,JETOUR,Джетур,0,Китай,2018,2026,JETOUR_SHANHAI_T1,Shanhai T1,�
 JETOUR,JETOUR,Джетур,0,Китай,2018,2026,JETOUR_SHANHAI_T2,Shanhai T2,Шанхай Т2,D,2024,2026
 JETOUR,JETOUR,Джетур,0,Китай,2018,2026,JETOUR_T1,T1,Т1,D,2025,2026
 JETOUR,JETOUR,Джетур,0,Китай,2018,2026,JETOUR_T2,T2,Т2,D,2023,2026
+JETOUR,JETOUR,Джетур,0,Китай,2018,2026,JETOUR_TOURER,Tourer,Турер,C,2026,2026
 JETOUR,JETOUR,Джетур,0,Китай,2018,2026,JETOUR_TRAVELLER,Traveller,Трэвэллер,D,2023,2026
 JETOUR,JETOUR,Джетур,0,Китай,2018,2026,JETOUR_X50,X50,Икс50,D,2024,2026
 JETOUR,JETOUR,Джетур,0,Китай,2018,2026,JETOUR_X70,X70,Икс70,C,2018,2026
@@ -2555,7 +2563,7 @@ LEAPMOTOR,Leapmotor,Липмотор,0,Китай,2019,2026,LEAPMOTOR_B10,B10,Б
 LEAPMOTOR,Leapmotor,Липмотор,0,Китай,2019,2026,LEAPMOTOR_C01,C01,Си01,E,2022,2026
 LEAPMOTOR,Leapmotor,Липмотор,0,Китай,2019,2026,LEAPMOTOR_C10,C10,С10,D,2023,2026
 LEAPMOTOR,Leapmotor,Липмотор,0,Китай,2019,2026,LEAPMOTOR_C11,C11,С11,D,2021,2026
-LEAPMOTOR,Leapmotor,Липмотор,0,Китай,2019,2026,LEAPMOTOR_C16,C16,Си16,,2024,2026
+LEAPMOTOR,Leapmotor,Липмотор,0,Китай,2019,2026,LEAPMOTOR_C16,C16,Си16,F,2024,2026
 LEAPMOTOR,Leapmotor,Липмотор,0,Китай,2019,2026,LEAPMOTOR_D19,D19,Д19,F,2026,2026
 LEAPMOTOR,Leapmotor,Липмотор,0,Китай,2019,2026,LEAPMOTOR_D99,D99,Д99,M,2026,2026
 LEAPMOTOR,Leapmotor,Липмотор,0,Китай,2019,2026,LEAPMOTOR_S01,S01,С01,S,2019,2021
@@ -2683,6 +2691,7 @@ LYNK_CO,Lynk & Co,Линк и ко,0,Китай,2017,2026,LYNK_CO_07,07,07,D,202
 LYNK_CO,Lynk & Co,Линк и ко,0,Китай,2017,2026,LYNK_CO_08,08,08,D,2023,2026
 LYNK_CO,Lynk & Co,Линк и ко,0,Китай,2017,2026,LYNK_CO_09,09,09,E,2021,2026
 LYNK_CO,Lynk & Co,Линк и ко,0,Китай,2017,2026,LYNK_CO_10,10,10,E,2025,2026
+LYNK_CO,Lynk & Co,Линк и ко,0,Китай,2017,2026,LYNK_CO_20,20,20,C,2026,2026
 LYNK_CO,Lynk & Co,Линк и ко,0,Китай,2017,2026,LYNK_CO_900,900,900,F,2025,2026
 LYNK_CO,Lynk & Co,Линк и ко,0,Китай,2017,2026,LYNK_CO_Z10,Z10,З10,E,2024,2026
 LYNK_CO,Lynk & Co,Линк и ко,0,Китай,2017,2026,LYNK_CO_Z20,Z20,З20,C,2024,2026
@@ -3622,6 +3631,7 @@ PONTIAC,Pontiac,Понтиак,0,США,1939,2010,PONTIAC_LEMANS,LeMans,ЛеМа
 PONTIAC,Pontiac,Понтиак,0,США,1939,2010,PONTIAC_MONTANA,Montana,Монтана,M,1997,2009
 PONTIAC,Pontiac,Понтиак,0,США,1939,2010,PONTIAC_PARISIENNE,Parisienne,паризьен,E,1971,1986
 PONTIAC,Pontiac,Понтиак,0,США,1939,2010,PONTIAC_PHOENIX,Phoenix,Феникс,D,1977,1984
+PONTIAC,Pontiac,Понтиак,0,США,1939,2010,PONTIAC_QUALITY_115,Quality 115,Квалити 115,,1939,1939
 PONTIAC,Pontiac,Понтиак,0,США,1939,2010,PONTIAC_SOLSTICE,Solstice,Солстайс,B,2005,2009
 PONTIAC,Pontiac,Понтиак,0,США,1939,2010,PONTIAC_SUNBIRD,Sunbird,Санбёрд,C,1975,1994
 PONTIAC,Pontiac,Понтиак,0,США,1939,2010,PONTIAC_SUNFIRE,Sunfire,Санфаер,C,1995,2005
@@ -4304,6 +4314,7 @@ TOYOTA,Toyota,Тойота,1,Япония,1960,2027,TOYOTA_CURREN,Curren,Кар�
 TOYOTA,Toyota,Тойота,1,Япония,1960,2027,TOYOTA_CYNOS,Cynos,Цинос,C,1991,1999
 TOYOTA,Toyota,Тойота,1,Япония,1960,2027,TOYOTA_C_HR,C-HR,C-HR,C,2016,2026
 TOYOTA,Toyota,Тойота,1,Япония,1960,2027,TOYOTA_C_HR_PLUS,C-HR+,Си Эйч Ар Плюс,C,2025,2026
+TOYOTA,Toyota,Тойота,1,Япония,1960,2027,TOYOTA_C_PLUS_POD,C+pod,Си плюс Под,A,2020,2024
 TOYOTA,Toyota,Тойота,1,Япония,1960,2027,TOYOTA_DUET,Duet,Дуэт,B,1998,2004
 TOYOTA,Toyota,Тойота,1,Япония,1960,2027,TOYOTA_ECHO,Echo,Эхо,B,1999,2005
 TOYOTA,Toyota,Тойота,1,Япония,1960,2027,TOYOTA_ESQUIRE,Esquire,эсквайр,M,2014,2021
@@ -4807,6 +4818,7 @@ WULING,Wuling,Вулинг,0,Китай,2012,2026,WULING_HONGGUANG_S,Hongguang S
 WULING,Wuling,Вулинг,0,Китай,2012,2026,WULING_HONGGUANG_V,Hongguang V,Хонгуанг В,C,2019,2026
 WULING,Wuling,Вулинг,0,Китай,2012,2026,WULING_HUAJING_S,Huajing S,Хуаджин С,F,2026,2026
 WULING,Wuling,Вулинг,0,Китай,2012,2026,WULING_JIACHEN,Jiachen,Цзячен,M,2022,2026
+WULING,Wuling,Вулинг,0,Китай,2012,2026,WULING_JOURNEY,Journey,Джорней,M,2021,2026
 WULING,Wuling,Вулинг,0,Китай,2012,2026,WULING_MINI_EV,Mini EV,Мини ЕВ,A,2020,2026
 WULING,Wuling,Вулинг,0,Китай,2012,2026,WULING_NANO_EV,Nano EV,Нано ЕВ,A,2021,2025
 WULING,Wuling,Вулинг,0,Китай,2012,2026,WULING_NEBULA,Nebula,Небула,C,2023,2026
