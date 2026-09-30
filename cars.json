@@ -559,6 +559,16 @@
         "updated_at": "2026-01-23 14:00:34"
       },
       {
+        "id": "AION_RAY_7",
+        "mark_id": "AION",
+        "name": "Ray 7",
+        "cyrillic_name": "Рэй 7",
+        "year_from": 2026,
+        "year_to": 2026,
+        "class": "D",
+        "updated_at": "2026-09-23 15:37:44"
+      },
+      {
         "id": "AION_RT",
         "mark_id": "AION",
         "name": "RT",
@@ -669,7 +679,7 @@
         "year_from": 2026,
         "year_to": 2026,
         "class": "F",
-        "updated_at": "2026-09-12 14:46:34"
+        "updated_at": "2026-09-14 20:22:19"
       }
     ]
   },
@@ -2366,7 +2376,7 @@
         "year_from": 2026,
         "year_to": 2026,
         "class": "C",
-        "updated_at": "2026-09-12 14:46:34"
+        "updated_at": "2026-09-14 20:22:19"
       },
       {
         "id": "AUDI_A3",
@@ -3415,6 +3425,16 @@
         "year_to": 2026,
         "class": "E",
         "updated_at": "2025-07-26 16:51:00"
+      },
+      {
+        "id": "AVATR_T09",
+        "mark_id": "AVATR",
+        "name": "T09",
+        "cyrillic_name": "Т09",
+        "year_from": 2026,
+        "year_to": 2026,
+        "class": "F",
+        "updated_at": "2026-09-23 15:37:44"
       }
     ]
   },
@@ -7970,7 +7990,7 @@
         "year_from": 2025,
         "year_to": 2026,
         "class": "A",
-        "updated_at": "2026-09-12 14:46:34"
+        "updated_at": "2026-09-14 20:22:19"
       },
       {
         "id": "CHANGAN_RAETON",
@@ -14079,7 +14099,7 @@
         "year_from": 2026,
         "year_to": 2026,
         "class": "C",
-        "updated_at": "2026-09-12 14:46:34"
+        "updated_at": "2026-09-14 20:22:20"
       },
       {
         "id": "DONGFENG_YIXUAN_GS",
@@ -18691,7 +18711,7 @@
         "year_from": 2022,
         "year_to": 2026,
         "class": "M",
-        "updated_at": "2026-09-12 14:46:35"
+        "updated_at": "2026-09-14 20:22:20"
       },
       {
         "id": "GEELY_GALAXY_A7",
@@ -22262,6 +22282,16 @@
         "updated_at": "2025-07-26 16:51:00"
       },
       {
+        "id": "HONGQI_TIANGONG_07",
+        "mark_id": "HONGQI",
+        "name": "Tiangong 07",
+        "cyrillic_name": "Тиангонг 07",
+        "year_from": 2026,
+        "year_to": 2026,
+        "class": "E",
+        "updated_at": "2026-09-23 15:37:45"
+      },
+      {
         "id": "HONGQI_TIANGONG_08",
         "mark_id": "HONGQI",
         "name": "Tiangong 08",
@@ -23255,7 +23285,7 @@
         "year_from": 2026,
         "year_to": 2026,
         "class": "D",
-        "updated_at": "2026-09-12 14:46:35"
+        "updated_at": "2026-09-14 20:22:20"
       },
       {
         "id": "HYUNDAI_IX20",
@@ -25130,6 +25160,16 @@
         "updated_at": "2025-07-26 16:51:00"
       },
       {
+        "id": "JAC_SEHOL_E10X",
+        "mark_id": "JAC",
+        "name": "Sehol E10X",
+        "cyrillic_name": "Сехол Е10Х",
+        "year_from": 2020,
+        "year_to": 2026,
+        "class": "B",
+        "updated_at": "2026-09-23 15:37:45"
+      },
+      {
         "id": "JAC_SEHOL_E20X",
         "mark_id": "JAC",
         "name": "Sehol E20X",
@@ -25915,7 +25955,7 @@
         "year_from": 2026,
         "year_to": 2026,
         "class": "C",
-        "updated_at": "2026-09-12 14:46:35"
+        "updated_at": "2026-09-14 20:22:20"
       },
       {
         "id": "JETOUR_TRAVELLER",
@@ -29928,7 +29968,7 @@
         "year_from": 2026,
         "year_to": 2026,
         "class": "C",
-        "updated_at": "2026-09-12 14:46:35"
+        "updated_at": "2026-09-14 20:22:20"
       },
       {
         "id": "LYNK_CO_900",
@@ -44821,6 +44861,29 @@
     ]
   },
   {
+    "id": "SONGSAN",
+    "name": "Songsan",
+    "cyrillic_name": "Сонгсан",
+    "numeric_id": 21186764,
+    "year_from": 2020,
+    "year_to": 2026,
+    "popular": 0,
+    "country": "Китай",
+    "updated_at": "2026-09-23 15:37:47",
+    "models": [
+      {
+        "id": "SONGSAN_SS_DOLPHIN",
+        "mark_id": "SONGSAN",
+        "name": "SS Dolphin",
+        "cyrillic_name": "СС Дельфин",
+        "year_from": 2020,
+        "year_to": 2026,
+        "class": "S",
+        "updated_at": "2026-09-23 15:37:47"
+      }
+    ]
+  },
+  {
     "id": "SOUEAST",
     "name": "Soueast",
     "cyrillic_name": "Соуист",
@@ -51019,6 +51082,16 @@
         "updated_at": "2025-07-26 16:51:01"
       },
       {
+        "id": "VGV_U70PLUS",
+        "mark_id": "VGV",
+        "name": "U70 Plus",
+        "cyrillic_name": "Ю70 Плюс",
+        "year_from": 2026,
+        "year_to": 2026,
+        "class": "C",
+        "updated_at": "2026-09-23 15:37:47"
+      },
+      {
         "id": "VGV_U70_PRO",
         "mark_id": "VGV",
         "name": "U70 Pro",
@@ -52817,6 +52890,16 @@
         "updated_at": "2025-07-26 16:51:01"
       },
       {
+        "id": "VOYAH_DREAM_9",
+        "mark_id": "VOYAH",
+        "name": "Dream 9",
+        "cyrillic_name": "Дрим 9",
+        "year_from": 2026,
+        "year_to": 2026,
+        "class": "M",
+        "updated_at": "2026-09-23 15:37:47"
+      },
+      {
         "id": "VOYAH_FREE",
         "mark_id": "VOYAH",
         "name": "Free",
@@ -53421,7 +53504,7 @@
         "year_from": 2021,
         "year_to": 2026,
         "class": "M",
-        "updated_at": "2026-09-12 14:46:36"
+        "updated_at": "2026-09-14 20:22:22"
       },
       {
         "id": "WULING_MINI_EV",
@@ -53790,6 +53873,16 @@
         "year_to": 2026,
         "class": "J",
         "updated_at": "2025-07-26 16:51:01"
+      },
+      {
+        "id": "XPENG_G9L",
+        "mark_id": "XPENG",
+        "name": "G9L",
+        "cyrillic_name": "Г9Л",
+        "year_from": 2026,
+        "year_to": 2026,
+        "class": "F",
+        "updated_at": "2026-09-23 15:37:47"
       },
       {
         "id": "XPENG_GX",
