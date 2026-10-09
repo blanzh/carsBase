@@ -371,6 +371,7 @@ BAW,BAW,БАВ,0,Китай,2020,2026,BAW_JIABAO,Jiabao,Джиабао,A,2023,20
 BAW,BAW,БАВ,0,Китай,2020,2026,BAW_M8,M8,М8,M,2025,2026
 BAW,BAW,БАВ,0,Китай,2020,2026,BAW_MPV,MPV,МПВ,M,2025,2026
 BAW,BAW,БАВ,0,Китай,2020,2026,BAW_YUANBAO,Pony (Yuanbao),Пони (Янбао),A,2022,2026
+BAW,BAW,БАВ,0,Китай,2020,2026,BAW_YUSHENG_007,Yusheng 007,Юшенг 007,J,2011,2017
 BELGEE,Belgee,Белджи,0,Беларусь,2023,2026,BELGEE_S50,S50,С50,B,2024,2026
 BELGEE,Belgee,Белджи,0,Беларусь,2023,2026,BELGEE_X50,X50,Икс 50,B,2023,2026
 BELGEE,Belgee,Белджи,0,Беларусь,2023,2026,BELGEE_X50PLUS,X50+,Икс 50 плюс,B,2026,2026
@@ -443,6 +444,7 @@ BMW,BMW,БМВ,1,Германия,1927,2026,BMW_IX,"iX, I (I20)",ИХ,E,2021,202
 BMW,BMW,БМВ,1,Германия,1927,2026,BMW_IX1,iX1,ИХ1,C,2022,2026
 BMW,BMW,БМВ,1,Германия,1927,2026,BMW_IX2,iX2,иХ2,C,2023,2026
 BMW,BMW,БМВ,1,Германия,1927,2026,BMW_IX3,"iX3, I (G08)",ИХ3,D,2020,2026
+BMW,BMW,БМВ,1,Германия,1927,2026,BMW_IX4,iX4,ИХ4,D,2026,2026
 BMW,BMW,БМВ,1,Германия,1927,2026,BMW_IX5,"iX5, G05",ИХ5,E,2022,2026
 BMW,BMW,БМВ,1,Германия,1927,2026,BMW_M2,"M2, F87",М2,C,2015,2026
 BMW,BMW,БМВ,1,Германия,1927,2026,BMW_M3,"M3, I (E30)",М3,D,1986,2026
@@ -1270,6 +1272,7 @@ DONGFENG,Dongfeng,ДонгФенг,0,Китай,2006,2026,DONGFENG_MAGE,Mage,М�
 DONGFENG,Dongfeng,ДонгФенг,0,Китай,2006,2026,DONGFENG_MENGSHI_800,Mengshi M-Hero 800,Менгши М-Хиро 800,J,2024,2026
 DONGFENG,Dongfeng,ДонгФенг,0,Китай,2006,2026,DONGFENG_MENGSHI_817,Mengshi M-Hero 817,Менгши М-Хиро 817,J,2025,2026
 DONGFENG,Dongfeng,ДонгФенг,0,Китай,2006,2026,DONGFENG_MENGSHI_917,Mengshi M-Hero 917,Менгши М-Хиро 917,J,2023,2026
+DONGFENG,Dongfeng,ДонгФенг,0,Китай,2006,2026,DONGFENG_MENGSHI_X700,Mengshi M-Hero X700,Менгши М-Хиро Икс700,J,2026,2026
 DONGFENG,Dongfeng,ДонгФенг,0,Китай,2006,2026,DONGFENG_MPV,MPV,мпв,M,2006,2009
 DONGFENG,Dongfeng,ДонгФенг,0,Китай,2006,2026,DONGFENG_NAMMI_01,Nammi 01,Намми 01,B,2024,2026
 DONGFENG,Dongfeng,ДонгФенг,0,Китай,2006,2026,DONGFENG_NAMMI_06,Nammi 06,Намми 06,B,2024,2026
@@ -2308,6 +2311,7 @@ JAGUAR,Jaguar,Ягуар,0,Великобритания,1948,2025,JAGUAR_I_PACE,
 JAGUAR,Jaguar,Ягуар,0,Великобритания,1948,2025,JAGUAR_MARK_2,"Mark 2, I",Марк 2,E,1959,1967
 JAGUAR,Jaguar,Ягуар,0,Великобритания,1948,2025,JAGUAR_MARK_IX,"Mark IX, I",Марк 9,F,1958,1961
 JAGUAR,Jaguar,Ягуар,0,Великобритания,1948,2025,JAGUAR_S_TYPE,"S-Type, I Рестайлинг",S-type,F,1963,2008
+JAGUAR,Jaguar,Ягуар,0,Великобритания,1948,2025,JAGUAR_TYPE_01,Type 01,Тайп 01,F,2026,2026
 JAGUAR,Jaguar,Ягуар,0,Великобритания,1948,2025,JAGUAR_XE,"XE, I",XE,D,2015,2024
 JAGUAR,Jaguar,Ягуар,0,Великобритания,1948,2025,JAGUAR_XF,"XF, II",XF,E,2007,2025
 JAGUAR,Jaguar,Ягуар,0,Великобритания,1948,2025,JAGUAR_XFR,"XFR, I Рестайлинг",XFR,E,2009,2015
@@ -2548,7 +2552,7 @@ LANCIA,Lancia,Лянча,0,Италия,1922,2026,LANCIA_THEMA,"Thema, II",Те�
 LANCIA,Lancia,Лянча,0,Италия,1922,2026,LANCIA_THESIS,Thesis,Тезис,E,2002,2009
 LANCIA,Lancia,Лянча,0,Италия,1922,2026,LANCIA_TREVI,Trevi,Треви,D,1980,1984
 LANCIA,Lancia,Лянча,0,Италия,1922,2026,LANCIA_VOYAGER,Voyager,вояджер,M,2011,2015
-LANCIA,Lancia,Лянча,0,Италия,1922,2026,LANCIA_Y10,Y10,Ю 10,A,1985,1995
+LANCIA,Lancia,Лянча,0,Италия,1922,2026,LANCIA_Y10,"Y10, i",Ю 10,A,1985,1995
 LANCIA,Lancia,Лянча,0,Италия,1922,2026,LANCIA_YPSILON,"Ypsilon, III (Type 846)",Ипсилон,B,1995,2026
 LANCIA,Lancia,Лянча,0,Италия,1922,2026,LANCIA_ZETA,Zeta,Зета,M,1995,2002
 LANDWIND,Landwind,Лендвинд,0,Китай,2005,2020,LANDWIND_CV9,Fashion (CV9),Фэшн,M,2006,2011
@@ -4085,6 +4089,7 @@ SSANG_YONG,SsangYong,Ссанъён,0,Республика Корея,1987,2023,
 START,Старт,Старт,0,Украина,1963,1968,START_1963_1968,1963-1968,1963-1968,M,1963,1968
 STELATO,Stelato,стелато,0,Китай,2024,2026,STELATO_G9,G9,Г9,F,2026,2026
 STELATO,Stelato,стелато,0,Китай,2024,2026,STELATO_S9,S9,с9,F,2024,2026
+STELATO,Stelato,стелато,0,Китай,2024,2026,STELATO_V8,V8,в8,M,2026,2026
 STEYR,Steyr,Штайр,0,Австрия,1941,1974,STEYR_1500,"1500, I",1500,J,1941,1944
 STEYR,Steyr,Штайр,0,Австрия,1941,1974,STEYR_HAFLINGER,Haflinger,Хафлингер,A,1959,1974
 STUDEBAKER,Studebaker,Студебейкер,0,США,1956,1958,STUDEBAKER_GOLDEN_HAWK,Golden Hawk,Голден Хоук,E,1956,1958

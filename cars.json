@@ -4236,6 +4236,16 @@
         "year_to": 2026,
         "class": "A",
         "updated_at": "2025-07-26 16:51:00"
+      },
+      {
+        "id": "BAW_YUSHENG_007",
+        "mark_id": "BAW",
+        "name": "Yusheng 007",
+        "cyrillic_name": "Юшенг 007",
+        "year_from": 2011,
+        "year_to": 2017,
+        "class": "J",
+        "updated_at": "2026-10-08 20:25:23"
       }
     ]
   },
@@ -5086,6 +5096,16 @@
         "year_to": 2026,
         "class": "D",
         "updated_at": "2025-07-26 16:51:00"
+      },
+      {
+        "id": "BMW_IX4",
+        "mark_id": "BMW",
+        "name": "iX4",
+        "cyrillic_name": "ИХ4",
+        "year_from": 2026,
+        "year_to": 2026,
+        "class": "D",
+        "updated_at": "2026-10-08 20:25:23"
       },
       {
         "id": "BMW_IX5",
@@ -13980,6 +14000,16 @@
         "year_to": 2026,
         "class": "J",
         "updated_at": "2025-07-26 16:51:00"
+      },
+      {
+        "id": "DONGFENG_MENGSHI_X700",
+        "mark_id": "DONGFENG",
+        "name": "Mengshi M-Hero X700",
+        "cyrillic_name": "Менгши М-Хиро Икс700",
+        "year_from": 2026,
+        "year_to": 2026,
+        "class": "J",
+        "updated_at": "2026-10-07 17:15:45"
       },
       {
         "id": "DONGFENG_MPV",
@@ -25506,6 +25536,16 @@
         "updated_at": "2025-07-26 16:51:00"
       },
       {
+        "id": "JAGUAR_TYPE_01",
+        "mark_id": "JAGUAR",
+        "name": "Type 01",
+        "cyrillic_name": "Тайп 01",
+        "year_from": 2026,
+        "year_to": 2026,
+        "class": "F",
+        "updated_at": "2026-10-08 20:25:24"
+      },
+      {
         "id": "JAGUAR_XE",
         "mark_id": "JAGUAR",
         "name": "XE, I",
@@ -28220,7 +28260,7 @@
       {
         "id": "LANCIA_Y10",
         "mark_id": "LANCIA",
-        "name": "Y10",
+        "name": "Y10, i",
         "cyrillic_name": "Ю 10",
         "year_from": 1985,
         "year_to": 1995,
@@ -45458,6 +45498,16 @@
         "year_to": 2026,
         "class": "F",
         "updated_at": "2025-07-26 16:51:01"
+      },
+      {
+        "id": "STELATO_V8",
+        "mark_id": "STELATO",
+        "name": "V8",
+        "cyrillic_name": "в8",
+        "year_from": 2026,
+        "year_to": 2026,
+        "class": "M",
+        "updated_at": "2026-10-08 20:25:26"
       }
     ]
   },
