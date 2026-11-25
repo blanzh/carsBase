@@ -6882,6 +6882,16 @@
         "updated_at": "2025-07-26 16:51:00"
       },
       {
+        "id": "BYD_YANGWANG_ALTIOR",
+        "mark_id": "BYD",
+        "name": "Yangwang Altior",
+        "cyrillic_name": "Янгвэнг Алтиор",
+        "year_from": 2026,
+        "year_to": 2026,
+        "class": "F",
+        "updated_at": "2026-11-23 13:55:59"
+      },
+      {
         "id": "BYD_YANGWANG_U7",
         "mark_id": "BYD",
         "name": "Yangwang U7",
@@ -18920,6 +18930,16 @@
         "updated_at": "2026-04-20 21:58:39"
       },
       {
+        "id": "GEELY_GALAXY_M8",
+        "mark_id": "GEELY",
+        "name": "Galaxy M8",
+        "cyrillic_name": "Гелекси М8",
+        "year_from": 2026,
+        "year_to": 2026,
+        "class": "F",
+        "updated_at": "2026-11-23 13:55:59"
+      },
+      {
         "id": "GEELY_GALAXY_M9",
         "mark_id": "GEELY",
         "name": "Galaxy M9",
@@ -26232,6 +26252,16 @@
         "year_to": 2026,
         "class": "D",
         "updated_at": "2025-10-11 22:22:47"
+      },
+      {
+        "id": "JETOUR_X70M",
+        "mark_id": "JETOUR",
+        "name": "X70M",
+        "cyrillic_name": "Х70М",
+        "year_from": 2026,
+        "year_to": 2026,
+        "class": "C",
+        "updated_at": "2026-11-23 13:55:59"
       },
       {
         "id": "JETOUR_X70_PLUS",
